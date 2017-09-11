@@ -5,14 +5,44 @@ date:   2017-09-09 20:56:29 -0400
 categories: jekyll update
 ---
 
-# Hello Blog!  Here is my first (test) post
+### Hello Blog!  Here is my first (test) post!  
 
-And here is little JS snippet:
+I am using this post to try out **different** _markdown_ ~~syntax~~ including
+- code snippets
+- links
+- and more!
 
+**JavaScript** snippet:
 {% highlight js %}
-//simple line to prove highlight
+//simple lines to prove highlight
 const message = 'Hello World';
 console.log(message);
+{% endhighlight %}
+
+**_HTML_** snippet:
+{% highlight html %}
+<html>
+  <head>
+    <title>HTML syntax</title>
+  </head>
+  <body>
+    <p class="text">Hello World</p>
+    <div id="box">Block</div>
+  </body>
+<html>
+{% endhighlight %}
+
+``CSS`` snippet:
+{% highlight css %}
+.text {
+  color: #003366;
+  font-size: 16px;
+}
+
+#box {
+  width: 100px;
+  height: 100px;
+}
 {% endhighlight %}
 
 Testing out URLs:
