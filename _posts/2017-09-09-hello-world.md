@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello Blog!"
 date:   2017-09-09 20:56:29 -0400
-categories: jekyll update
+categories: jekyll update javascript css html
 ---
 
 ### Hello Blog!  Here is my first (test) post!  
