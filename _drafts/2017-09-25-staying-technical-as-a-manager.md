@@ -20,6 +20,10 @@ Leaders are readers!  Have an hour long commute? Maybe spend a few minutes readi
 Some suggestions:
 - clean code
 - pragmatic programmer
+- gang of four
+- automate the boring stuff
+- The "You Don't Know JS" Series
+- Books by Zakas
 
 I will share more in an additional post.
 
@@ -34,18 +38,28 @@ Here are some great newsletters that I find invaluable
 - React Status
 
 ## Some great sites to check out:
-- http://firstround.com/review/
+- https://news.ycombinator.com
 - https://www.smashingmagazine.com
 - https://www.sitepoint.com
-- HN
-- EchoJS
-- more to come...
+- https://css-tricks.com
+- http://www.echojs.com
 
 ## Follow some great thinkers, doers, and creative types
+great list to start you off: https://www.thebalance.com/programmers-on-twitter-2072010
 - Paul Irish
 - Addy osmani
+- Vanessa Hurst
+
+## Check out some wonderful blogs
+- https://blog.codinghorror.com
+- https://toddmotto.com
+- http://blog.cleancoder.com
+- https://www.toptal.com/developers/blog
+- https://alistapart.com
+- https://martinfowler.com
 
 ## Attend Meetups
+OK, let's jump off the phone/tablet/PC and get some fresh air and fresh perspectives. N
 - React
 - Angular
 - Cloud
