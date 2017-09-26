@@ -58,6 +58,7 @@ great list to start you off: https://www.thebalance.com/programmers-on-twitter-2
 - https://alistapart.com
 - https://martinfowler.com
 - https://www.joelonsoftware.com 
+- https://davidwalsh.name/
 
 ## Attend Meetups
 OK, let's jump off the phone/tablet/PC and get some fresh air and fresh perspectives.
