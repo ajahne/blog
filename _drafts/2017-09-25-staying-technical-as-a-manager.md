@@ -7,7 +7,7 @@ date:   2017-09-25 22:16:29 -0400
 # Staying Technical as a Manager
 As an engineering manager, one of the most challenging tasks is to find balance being a great mentor, leader, and coach while staying on top of the constant changes in technology.  As an engineering leader we must be able to communicate with executives, meet with clients, set the technology roadmap and vision, motivate our teams, while also keep our skills sharp as an engineer.
 
-Whelp, noone said it was going to be easy!
+Whelp, no one said it was going to be easy!
 
 So, maybe you are a tech lead and are responsible for a project and working with peers to meet a collective goal. Maybe you are an engineering manager or director leading a team of senior engineerings and building out the product roadmap.  Or maybe you are the VP of engineering responsible for overseeing all technology teams plus working with peers in other departments.
 
@@ -47,7 +47,7 @@ Here are some great newsletters that I find invaluable
 ## Follow some great thinkers, doers, and creative types
 great list to start you off: https://www.thebalance.com/programmers-on-twitter-2072010
 - Paul Irish
-- Addy osmani
+- Addy Osmani
 - Vanessa Hurst
 
 ## Check out some wonderful blogs
@@ -59,7 +59,7 @@ great list to start you off: https://www.thebalance.com/programmers-on-twitter-2
 - https://martinfowler.com
 
 ## Attend Meetups
-OK, let's jump off the phone/tablet/PC and get some fresh air and fresh perspectives. N
+OK, let's jump off the phone/tablet/PC and get some fresh air and fresh perspectives.
 - React
 - Angular
 - Cloud
@@ -71,7 +71,7 @@ Fix a bug, edit a (small) feature, build to production. See what the dev environ
 Love AR? Do it!  Inspired by the latest SRE tech? Go work in it!  Follow you passions and dive into what inspires you.
 
 ## Write a blog :)
-I encourage you to push yourself. Want to get better at that cool tech you keep reading about? Code up a few "hello worlds" on github and write about it.  Tried out some great new tech at work?  Blog about it. There will be someone who will appreciate it and you will be giving back to the community that has given so much to us.
+I encourage you to push yourself. Want to get better at that cool tech you keep reading about? Code up a few "hello worlds" on GitHub and write about it.  Tried out some great new tools at work?  Blog about it. There will be someone who will appreciate it and to top it off, you will be giving back to the community that has given so much to us.
 
 # Conclusion
 Let me know if you have any further suggestions!
