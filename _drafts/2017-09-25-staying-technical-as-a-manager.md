@@ -46,10 +46,15 @@ Here are some great newsletters that I find invaluable
 - Addy osmani
 
 ## Attend Meetups
--
+- React
+- Angular
+- Cloud
 
 ## Stay in the code
 Fix a bug, edit a (small) feature, build to production. See what the dev environment is like. Make sure you can build the system that the team you lead is responsible for maintaining.
+
+## Code what you love
+Love AR? Do it!  Inspired by the latest SRE tech? Go work in it!  Follow you passions and dive into what inspires you.
 
 ## Write a blog :)
 I encourage you to push yourself. Want to get better at that cool tech you keep reading about? Code up a few "hello worlds" on github and write about it.  Tried out some great new tech at work?  Blog about it. There will be someone who will appreciate it and you will be giving back to the community that has given so much to us.
