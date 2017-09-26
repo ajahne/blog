@@ -17,24 +17,42 @@ Here are some ideas that I follow, which I hope you find helpful as well
 
 ## Read a great programming book
 Leaders are readers!  Have an hour long commute? Maybe spend a few minutes reading a book on programming, leadership, algorithms, new language features, or clean code.
+Some suggestions:
+- clean code
+- pragmatic programmer
+
+I will share more in an additional post.
 
 ## Sign up for a newsletter (or three)
 Here are some great newsletters that I find invaluable
+- WDRL
 - WebOps Weekly
 - JS Weekly
 - Node Weekly
 - Leadership Weekly
+- Frontend Focus
+- React Status
 
-## Check out sites that aggregate the news
+## Some great sites to check out:
+- http://firstround.com/review/
+- https://www.smashingmagazine.com
+- https://www.sitepoint.com
 - HN
 - EchoJS
 - more to come...
 
 ## Follow some great thinkers, doers, and creative types
+- Paul Irish
+- Addy osmani
 
 ## Attend Meetups
+-
 
 ## Stay in the code
 Fix a bug, edit a (small) feature, build to production. See what the dev environment is like. Make sure you can build the system that the team you lead is responsible for maintaining.
 
 ## Write a blog :)
+I encourage you to push yourself. Want to get better at that cool tech you keep reading about? Code up a few "hello worlds" on github and write about it.  Tried out some great new tech at work?  Blog about it. There will be someone who will appreciate it and you will be giving back to the community that has given so much to us.
+
+# Conclusion
+Let me know if you have any further suggestions!
