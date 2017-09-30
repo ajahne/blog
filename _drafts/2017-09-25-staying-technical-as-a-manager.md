@@ -37,7 +37,7 @@ Here are some great newsletters that I find invaluable
 - Frontend Focus
 - React Status
 
-## Some great sites to check out:
+## Check out some sites
 - https://news.ycombinator.com
 - https://www.smashingmagazine.com
 - https://www.sitepoint.com
@@ -50,7 +50,7 @@ great list to start you off: https://www.thebalance.com/programmers-on-twitter-2
 - Addy Osmani
 - Vanessa Hurst
 
-## Check out some wonderful blogs
+## Read some wonderful blogs
 - https://blog.codinghorror.com
 - https://toddmotto.com
 - http://blog.cleancoder.com
