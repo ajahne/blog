@@ -6,29 +6,44 @@ A sequence of statements that performs a specific task(s). A function is “subr
 -    Functions can (and do) have properties and methods
 
 - Functions create new scope
-- Function declarations vs Function expressions:
+
+## Function declarations vs Function expressions:
 - 	There are function expressions and function declarations. In short, starting with the keyword “function” deems a declaration, all other examples are function expressions.
-- 	Function declaration:
+Function declaration:
 ``` 
-function getName() {return “name”}
+function getName() {
+  return 'name';
+}
 ```
-- 	Function expression:
+Function expression:
 ``` 
-var getName = function() {return “name”};
+var getName = function () {
+  return 'name';
+};
+```
+```
+//ES6
+let getName = () => 'name';
 ```
 
-- Functions are hoisted.  
+## Functions are hoisted.  
 - Because of this, you can use a function before you have declared it.  However, do note that function expressions are not hoisted
 - Functions can take parameters
 Example: 
 ``` 
-function add (a,b) {/*todo*/}
+function add (a,b) {
+  return a+b;
+}
 ```
 
-### Functions can access their “arguments”, which is an array-like object that contains all of the arguments passed into the function
+### Functions can access their 'arguments'.
+
+'arguments'  is an array-like object that contains all of the arguments passed into the function
 Example: 
 ```
-function add (a,b) {console.log(arguments);}
+function add (a,b) {
+  console.log(arguments);
+}
 ```
 
 ### Functions can returns values
