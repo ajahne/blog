@@ -3,8 +3,7 @@ A sequence of statements that performs a specific task(s). A function is “subr
 
 ### Key Takeaways:
 - Functions are “first class” objects:
--    Functions can (and do) have properties and methods
-
+  - Functions can (and do) have properties and methods
 - Functions create new scope
 
 ### Function declarations vs Function expressions:
@@ -28,7 +27,7 @@ let getName = () => 'name';
 ```
 
 ### Functions are hoisted.  
-- Because of this, you can use a function before you have declared it.  However, do note that function expressions are not hoisted
+Because of this, you can use a function before you have declared it.  However, do note that function expressions are not hoisted
 
 ### Functions can take parameters  
 ``` 
@@ -44,7 +43,15 @@ function logArguments () {
   console.log(arguments);
 }
 
-loglogArguments(1,2,3) //1,2,3
+logArguments(1,2,3) //[1,2,3]
+```
+Log the first argument:
+```
+function logFirstArgument () {
+  console.log(arguments[0]);
+}
+
+logFirstArgument(1,2,3) //1
 ```
 
 ### Functions can returns values
