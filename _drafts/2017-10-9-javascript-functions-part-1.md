@@ -1,0 +1,39 @@
+## Definition: What is a function
+A sequence of statements that performs a specific task(s). A function is “subroutine” that can be called (invoked) by code external or internal to it.  
+
+## Key Takeaways:
+- Functions are “first class” objects:
+-    Functions can (and do) have properties and methods
+
+- Functions create new scope
+- Function declarations vs Function expressions:
+- 	There are function expressions and function declarations. In short, starting with the keyword “function” deems a declaration, all other examples are function expressions.
+- 	Function declaration:
+``` 
+function getName() {return “name”}
+```
+- 	Function expression:
+``` 
+var getName = function() {return “name”};
+```
+
+- Functions are hoisted.  
+- Because of this, you can use a function before you have declared it.  However, do note that function expressions are not hoisted
+- Functions can take parameters
+Example: 
+``` 
+function add (a,b) {/*todo*/}
+```
+
+### Functions can access their “arguments”, which is an array-like object that contains all of the arguments passed into the function
+Example: 
+```
+function add (a,b) {console.log(arguments);}
+```
+
+### Functions can returns values
+- Return values can be primitives, references, or other functions
+Example: 
+```
+function add (a,b) { return a + b;}
+```
