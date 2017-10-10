@@ -1,13 +1,13 @@
 ## Definition: What is a function
 A sequence of statements that performs a specific task(s). A function is “subroutine” that can be called (invoked) by code external or internal to it.  
 
-## Key Takeaways:
+### Key Takeaways:
 - Functions are “first class” objects:
 -    Functions can (and do) have properties and methods
 
 - Functions create new scope
 
-## Function declarations vs Function expressions:
+### Function declarations vs Function expressions:
 - 	There are function expressions and function declarations. In short, starting with the keyword “function” deems a declaration, all other examples are function expressions.
 Function declaration:
 ``` 
@@ -26,7 +26,7 @@ var getName = function () {
 let getName = () => 'name';
 ```
 
-## Functions are hoisted.  
+### Functions are hoisted.  
 - Because of this, you can use a function before you have declared it.  However, do note that function expressions are not hoisted
 - Functions can take parameters
 Example: 
