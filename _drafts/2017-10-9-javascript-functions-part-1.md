@@ -42,7 +42,7 @@ printFoo();       //baz
 console.log(foo); //bar
 ```
 
-### There are different ways to declare functions: declarations vs expressions.
+### Different ways to declare functions: declarations and expressions.
 So in our first example above - under declaring a function - we kinda/sorta didin't paint the entire picture.  There are different ways you can declare functions: function expressions and function declarations. In short, starting with the keyword “function” deems a declaration, all other examples are function expressions.  
 Function declaration:
 ``` 
