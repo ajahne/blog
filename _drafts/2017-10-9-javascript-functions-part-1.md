@@ -6,7 +6,7 @@ A function is a “subroutine” that can be invoked by code external or interna
 
 So in short, functions are reuable bits of code that you can call (invoke) at some point in your program to execute a specific task. 
 
-### Declaring a function
+### Declaring a function.
 A function declaration is also called a function statement. This declaration also, "defines" our function and is thus a function definition. Yup, three ways to say the same thing! 
 ```
 function myFirstFunction() {
@@ -14,7 +14,7 @@ function myFirstFunction() {
 }
 ```
 
-### Invoking (calling) a function
+### Invoking (calling) a function.
 Boom, simple, easy peasy...from our example above
 ```
 myFirstFunction();
