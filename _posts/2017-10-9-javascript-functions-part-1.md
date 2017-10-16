@@ -9,7 +9,7 @@ categories: jekyll javascript functions
 Functions are a fundamental element of JavaScript.  This will be a series of posts that will focus on core concepts. The examples will be provided in both ES5 and ES6. Arrow functions, generator functions, and ES6 specific syntax and features will be detailed in a separate post. This post outlines - at a high level - what a function is, its key features, and important takeaways. Let's dive in!
 
 ### **What is a function?**
-A function is a “subroutine” that can be invoked by code external or internal to it.  When a function is invoked internally (e.g. called within itself), it is called recursion. A function has a "function body", which is made up of one ore more statements.. Functions can have arguments (e.g. passed in a value) and also return a value.
+A function is a “subroutine” that can be invoked by code external or internal to it.  When a function is invoked internally (e.g. called within itself), it is called recursion. A function has a "function body", which is made up of one ore more statements. Functions can have arguments (e.g. a passed in value) and also return a value.
 
 So in short, functions are reusable bits of code that you can call (invoke) at some point in your program to execute a specific task.
 
@@ -27,7 +27,7 @@ Boom, simple, easy peasy...from our example above let's invoke!
 myFirstFunction();
 {% endhighlight %}
 
-Simply add "()" to the end of the function your declared and voila, invocation!
+Simply add "()" to the end of the function you declared and voila, invocation!
 
 ### **Functions are “first class” objects.**
 This is a critical principle, that you will probably hear often and may scrunch up your face the first time you come across it. What exactly does this mean? Frankly, it means that functions can (and do) have properties and methods - just like any other object. A few methods that functions have include _call_, _apply_, and _bind_.  Additionally functions can have properties as well. Each function in JavaScript is a Function object.
