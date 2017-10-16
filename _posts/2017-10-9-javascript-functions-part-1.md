@@ -17,7 +17,7 @@ So in short, functions are reusable bits of code that you can call (invoke) at s
 To create a function we "declare" it.  A function declaration is also called a function statement. This declaration also "defines" our function and is thus a function definition. Yup, three ways to say the same thing!
 {% highlight js %}
 function myFirstFunction() {
-  //space for world changing code!
+  //TODO: world changing code!
 }
 {% endhighlight %}
 
@@ -35,6 +35,7 @@ This is a critical principle, that you will probably hear often and may scrunch 
 function echo(message) {
   console.log(message);
 }
+
 console.log(echo.name); //echo
 {% endhighlight %}
 
@@ -46,6 +47,7 @@ function printFoo() {
   var foo = "baz";
   console.log(foo);
 }
+
 printFoo();       //baz
 console.log(foo); //bar
 {% endhighlight %}
@@ -92,8 +94,8 @@ Because of this, you can use a function before you have declared it.  However, d
 ### **Functions can take parameters.**  
 The parameters of a function are called arguments (see below for further details).
 {% highlight js %}
-function add (a,b) {
-  return a+b;
+function multiply (a, b) {
+  return a * b;
 }
 {% endhighlight %}
 
@@ -126,13 +128,13 @@ logFirstArgument(1,2,3) //3
 ### **Functions can returns values.**
 Return values can be primitives, references, or other functions
 {% highlight js %}
-function add (a,b) {
+function add (a, b) {
   return a + b;
 }
 {% endhighlight %}
 ES6
 {% highlight js %}
-let add = (a,b) => a+b;
+let add = (a, b) => a + b;
 {% endhighlight %}
 
 ### **Conclusion.**
