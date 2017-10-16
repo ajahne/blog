@@ -54,6 +54,7 @@ console.log(foo); //bar
 
 ### **Different ways to declare functions: declarations and expressions.**
 So in our first example above - under declaring a function - we kinda/sorta didn't paint the entire picture.  There are different ways you can declare functions: function expressions and function declarations. In short, starting with the keyword “function” deems a declaration, all other examples are function expressions.  
+
 Function declaration:
 {% highlight js %}
 function getName() {
@@ -67,20 +68,20 @@ var getName = function () {
 };
 {% endhighlight %}
 
-ES6 function expression (e.g. arrow function)
+ES6 function expression (e.g. arrow function):
 {% highlight js %}
 let getName = () => 'name';
 {% endhighlight %}
 
 Function expressions can be named or anonymous, function declarations are named by default.
 
-Anonymous function
+Anonymous function:
 {% highlight js %}
 var awesomeFunction = function() {
   //do something awesome
 }
 {% endhighlight %}
-Named function expression
+Named function expression:
 
 {% highlight js %}
 var myFunction = function myNamedFunction () {
@@ -94,8 +95,8 @@ Because of this, you can use a function before you have declared it.  However, d
 ### **Functions can take parameters.**  
 The parameters of a function are called arguments (see below for further details).
 {% highlight js %}
-function multiply (a, b) {
-  return a * b;
+function multiply (x, y) {
+  return x * y;
 }
 {% endhighlight %}
 
@@ -122,23 +123,23 @@ function logArgumentsLength () {
   console.log(arguments.length);
 }
 
-logFirstArgument(1,2,3) //3
+logArgumentsLength(1,2,3) //3
 {% endhighlight %}
 
 ### **Functions can returns values.**
-Return values can be primitives, references, or other functions
+Return values can be primitives, references, or other functions.
 {% highlight js %}
 function add (a, b) {
   return a + b;
 }
 {% endhighlight %}
-ES6
+ES6 example:
 {% highlight js %}
 let add = (a, b) => a + b;
 {% endhighlight %}
 
 ### **Conclusion.**
-We have learned the basics of functions, what they are, and how the operate at a high level. We have learned that they can take arguments and return values, while also creating new scope.  We have learned the difference between a function declaration and a function expression, plus we have seen different examples in both ES5 and ES6. Next up, we dive even deeper. Feel free to try out some of your own examples and definitely check out the resources below.
+We have learned the basics of functions, what they are, and how they operate at a high level. We have learned that they can take arguments and return values.  Additionally, functions create new scope.  We have learned the difference between a function declaration and a function expression, plus we have seen different examples in both ES5 and ES6. Next up, we dive even deeper. Feel free to try out some of your own examples and definitely check out the resources below.
 
 ### **Additional Resources**:
 - General function reference:
