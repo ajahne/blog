@@ -6,7 +6,7 @@ categories: jekyll javascript functions
 ---
 
 ### **Introduction**.
-Functions are a fundamental element of JavaScript.  This will be a series of posts that will focus on core concepts. The examples will be provided in both ES5 and ES6. Arrow functions, generator functions, and ES6 specific syntax and features will be detailed in a separate post. This post outlines - at a high level - what a function is, its key features, and important takeaways. Let's dive in!
+This set of blog posts will be a multi-part series focused on presenting core concepts of JavaScript functions. The examples will be provided in both ES5 and ES6. Arrow functions, generator functions, and ES6 specific syntax and features will be detailed in a separate post. This post outlines - at a high level - what a function is, its key features, and important takeaways. Let's dive in!
 
 ### **What is a function?**
 A function is a “subroutine” that can be invoked by code external or internal to it.  When a function is invoked internally (e.g. called within itself), it is called recursion. A function has a "function body", which is made up of one ore more statements. Functions can have arguments (e.g. a passed in value) and also return a value.
@@ -101,7 +101,7 @@ function multiply (x, y) {
 {% endhighlight %}
 
 ### **Functions can access their 'arguments'.**
-The 'arguments' is an array-like object that contains all of the arguments passed into the function.
+The 'arguments' property is an array-like object that contains all of the arguments passed into the function.
 {% highlight js %}
 function logArguments () {
   console.log(arguments);
