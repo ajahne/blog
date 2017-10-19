@@ -43,6 +43,11 @@ Here are some great newsletters that I find invaluable
 - https://www.sitepoint.com
 - https://css-tricks.com
 - http://www.echojs.com
+- https://jslive.com
+- https://dzone.com/devops-tutorials-tools-news
+- https://medium.mybridge.co/@Mybridge
+- https://ponyfoo.com/
+- https://www.reddit.com/r/devops/
 
 ## Follow some great thinkers, doers, and creatives
 great list to start you off: https://www.thebalance.com/programmers-on-twitter-2072010
@@ -64,7 +69,9 @@ great list to start you off: https://www.thebalance.com/programmers-on-twitter-2
 - https://twitter.com/shaft
 - https://twitter.com/ginatrapani
 - https://twitter.com/jennschiffer
+- https://twitter.com/philwalton
 - And some humor: https://twitter.com/iamdevloper
+- hacker: https://twitter.com/2600
 
 ## Read some wonderful blogs
 - https://blog.codinghorror.com
@@ -76,6 +83,9 @@ great list to start you off: https://www.thebalance.com/programmers-on-twitter-2
 - https://www.joelonsoftware.com 
 - https://davidwalsh.name/
 - https://medium.com/javascript-scene
+- https://www.sumologic.com/blog/
+- https://blog.gruntwork.io/
+- https://aws.amazon.com/blogs/security/
 
 ## Attend Meetups
 OK, let's jump off the phone/tablet/PC and get some fresh air and fresh perspectives.
