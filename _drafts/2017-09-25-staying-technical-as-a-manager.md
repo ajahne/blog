@@ -44,11 +44,27 @@ Here are some great newsletters that I find invaluable
 - https://css-tricks.com
 - http://www.echojs.com
 
-## Follow some great thinkers, doers, and creative types
+## Follow some great thinkers, doers, and creatives
 great list to start you off: https://www.thebalance.com/programmers-on-twitter-2072010
-- Paul Irish
-- Addy Osmani
-- Vanessa Hurst
+- [Paul Irish] (https://twitter.com/paul_irish)
+- [Addy Osmani] (https://twitter.com/addyosmani)
+- [Vanessa Hurst] (https://twitter.com/dbness)
+- [Charity Majors] (https://twitter.com/mipsytipsy)
+- [Chris Heilmann] (https://twitter.com/codepo8)
+- [Kelsey Hightower] (https://twitter.com/kelseyhightower)
+- [Dan Abramov] (https://twitter.com/dan_abramov)
+- [Eric Bidelman] (https://twitter.com/ebidel)
+- [Erica Joy] (https://twitter.com/EricaJoy)
+- https://twitter.com/MinaMarkham
+- https://twitter.com/jessfraz
+- https://twitter.com/triketora
+- https://twitter.com/6Gems
+- https://twitter.com/laurawp
+- https://twitter.com/chobberoni
+- https://twitter.com/shaft
+- https://twitter.com/ginatrapani
+- https://twitter.com/jennschiffer
+- And some humor: https://twitter.com/iamdevloper
 
 ## Read some wonderful blogs
 - https://blog.codinghorror.com
@@ -59,6 +75,7 @@ great list to start you off: https://www.thebalance.com/programmers-on-twitter-2
 - https://martinfowler.com
 - https://www.joelonsoftware.com 
 - https://davidwalsh.name/
+- https://medium.com/javascript-scene
 
 ## Attend Meetups
 OK, let's jump off the phone/tablet/PC and get some fresh air and fresh perspectives.
