@@ -87,6 +87,9 @@ great list to start you off: https://www.thebalance.com/programmers-on-twitter-2
 - https://blog.gruntwork.io/
 - https://aws.amazon.com/blogs/security/
 
+## Donwload a podcast 
+- TBD
+
 ## Attend Meetups
 OK, let's jump off the phone/tablet/PC and get some fresh air and fresh perspectives.
 - React
