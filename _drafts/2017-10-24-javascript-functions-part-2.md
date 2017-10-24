@@ -1,4 +1,13 @@
-### JavaScript Functions Part 2 - Call, Apply, Bind
+---
+layout: post
+title:  "JavaScript Functions - Part 2: Call, Apply, Bind"
+date:   2017-10-24 10:50:00 -0400
+categories: jekyll javascript functions
+---
+
+### Introduction
+TBD
+
 ### Definitions:
 - call – method of the Function object that calls a function with a specified this value and individual arguments
 - apply – method of the Function object that calls a function with a specified this value and an array of arguments
@@ -16,13 +25,13 @@ myFunction.apply(thisValue, [param1, param2, param3]);
 ```
 - Note: if the value of this is not defined, the global (window in the browser) object will be used
 - Allows you to reuse (borrow) functions – “you have some cool functionality, may I use it”?
-·         Example:
+Example:
 ```
 var upper = "HELLO WORLD";
 var lower = String.prototype.toLowerCase.call(upper);
 ```
 - Allows you to utilize inheritance in the form of “parent” function calls (similar to above point, but utilized frequently for “class” based design patterns in JavaScript) – “And I thought you said there weren’t any classes in JS…” (Note: there aren’t! J)
-[JSFiddle Example](https://jsfiddle.net/0z3pyy27/2/)
+- [JSFiddle Example](https://jsfiddle.net/0z3pyy27/2/)
 
 ### bind
 - Returns a new function with the value of this locked (bound) to a function – “this is handcuffed and locked down”
@@ -34,8 +43,8 @@ var boundFunction = myFunction.bind(thisValue);
 var boundFunctionWithParam = myFunction.bind(thisValue, param);
 ```
 
-·         More complex example in JSFiddle that illustrates helpful use cases of bind
-o   Be sure to read the comments as this example is showcasing a few different concepts
+More complex example in [JSFiddle](https://jsfiddle.net/f5vs5jug/11/) that illustrates helpful use cases of bind
+- Be sure to read the comments as this example is showcasing a few different concepts
  
 ### Why/when would you use these functions?
 - call/apply
