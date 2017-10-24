@@ -49,3 +49,11 @@ o   Be sure to read the comments as this example is showcasing a few different c
 - Great definitions with examples from Mozilla on call, apply, and bind
 - TL;DR overview of the three functions from codeplanet
 - An in depth walkthrough by JavascriptIsSexy on all three essential methods
+
+### Questions
+- What is an area in your own code where you could utilize call/apply? What about bind?
+- If this is set to null or undefined for call or apply, what this object does the function operate on?
+- What is the key difference between call and apply?
+
+### Conclusion
+TBD
