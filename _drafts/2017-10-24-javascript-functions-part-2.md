@@ -55,9 +55,9 @@ More complex example in [JSFiddle](https://jsfiddle.net/f5vs5jug/11/) that illus
   - want to “partially apply” functions (“partial function application” is beyond the current scope of our discussion, but feel free to read up on it!)
  
 ### Readings
-- Great definitions with examples from Mozilla on call, apply, and bind
-- TL;DR overview of the three functions from codeplanet
-- An in depth walkthrough by JavascriptIsSexy on all three essential methods
+- Great definitions with examples from Mozilla on [call](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call), [apply](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply), and [bind](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)
+- TL;DR overview of the three functions from [codeplanet](https://codeplanet.io/javascript-apply-vs-call-vs-bind)
+- An in depth walkthrough by [JavascriptIsSexy](http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/) on all three essential methods
 
 ### Questions
 - What is an area in your own code where you could utilize call/apply? What about bind?
