@@ -6,7 +6,7 @@ categories: jekyll javascript functions
 ---
 
 ### Introduction
-Functions are first class objects, which gives them full access to properties and member functions.  Three key members of the Function object are _call_, _apply_, and _bind_. The methods allow us to reuse functions, simplify the passing of arguments, and even lock in the value of _this_.  Let's dive in.  
+Functions are first class objects, which gives them full access to properties and member functions.  Three key members of the Function object are _call_, _apply_, and _bind_. These methods allow us to reuse functions, simplify the passing of arguments, and even lock in the value of _this_.  Let's dive in.  
 
 ### Definitions:
 - **call** – method of the Function object that calls a function with a specified _this_ value and individual arguments
@@ -32,7 +32,63 @@ let upper = "HELLO WORLD";
 let lower = String.prototype.toLowerCase.call(upper);
 ```
 - Allows you to utilize inheritance in the form of “parent” function calls (similar to above point, but utilized frequently for “class” based design patterns in JavaScript) – “And I thought you said there weren’t any classes in JS…” (Note: there aren’t! J)
-- [JSFiddle Example](https://jsfiddle.net/0z3pyy27/2/)
+```
+/**
+ * Example illustrating usage of call and apply to utilize "parent" function calls and implement
+ * inheritance-like features
+ */
+
+let iverson;
+let kobe;
+
+/**
+ * Print the value to the screen by writing the info to the innerHTML of our output div
+ * @param {string} value the info to write to the DOM (i.e. print to screen)
+ */
+function print(value) {
+    output.innerHTML += value;
+    output.innerHTML += '<br>';
+}
+
+/**
+ * Player function used to create a new player
+ * @param {String} name - name of the player
+ * @param {Number} number - the number on the player's jersey
+ */
+function Player(name, number) {
+    this.name = name;
+    this.number = number;
+}
+
+/**
+ * Player function used to create a new point guard
+ * @param {String} name - name of the player
+ * @param {Number} number - the number on the player's jersey
+ */
+function PointGuard(name, number) {
+    //note usage of call
+    Player.call(this, name, number);
+    this.position = 'PG';
+}
+
+/**
+ * Player function used to create a new shooting guard
+ * @param {String} name - name of the player
+ * @param {Number} number - the number on the player's jersey
+ */
+function ShootingGuard(name, number) {
+    //note usage of apply
+    Player.apply(this, arguments);
+    this.position = 'SG';
+}
+
+iverson = new PointGuard('Allen Iverson', 3);
+kobe = new ShootingGuard('Kobe Bryant', 24);
+
+console.log(iverson.name + ' ' + iverson.number + ' ' + iverson.position);  //Allen Iverson 3 PG
+console.log(kobe.name + ' ' + kobe.number + ' ' + kobe.position);           //Kobe Bryant 24 SG
+```
+- [Link to example as JSFiddle](https://jsfiddle.net/0z3pyy27/2/)
 
 ### bind
 - Returns a new function with the value of this locked (bound) to a function – “this is handcuffed and locked down”
