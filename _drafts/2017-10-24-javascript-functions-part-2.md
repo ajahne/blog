@@ -13,7 +13,6 @@ The following post will cover _call_ and _apply_. Let's dive in.
 ### Definitions:
 - **call** – method of the Function object that calls a function with a specified _this_ value and individual arguments
 - **apply** – method of the Function object that calls a function with a specified _this_ value and an array of arguments
-- **bind** – method of the Function object that creates a new function that when called has it’s _this_ value mapped to the given parameter and uses the set arguments
 
 ### call and apply
   - Execute the current function immediately and returns the result of the action
@@ -92,31 +91,17 @@ console.log(kobe.name + ' ' + kobe.number + ' ' + kobe.position);           //Ko
 ```
 - [Link to example as JSFiddle](https://jsfiddle.net/0z3pyy27/2/)
 
-### bind
-- Returns a new function with the value of this locked (bound) to a function – “this is handcuffed and locked down”
-Simple Example
-```
-let boundFunction = myFunction.bind(thisValue);
-```
-```
-let boundFunctionWithParam = myFunction.bind(thisValue, param);
-```
-
-More complex example in [JSFiddle](https://jsfiddle.net/f5vs5jug/11/) that illustrates helpful use cases of bind
-- Be sure to read the comments as this example is showcasing a few different concepts
 
 ### Why/when would you use these functions?
 - **call/apply**
   - you want to reuse a previously defined function, such as for inheritance
   - you want to borrow another function’s capabilities
+- **apply**
   - you want to pass in an array of parameters vs specifying each parameter individually (using apply)
-- **bind**
-  - you want to lock in the value of _this_, helpful for event handlers
-  - want to “partially apply” functions (“partial function application” is beyond the current scope of our discussion, but feel free to read up on it!)
 
 ### Readings
 - Great definitions with examples from Mozilla on [call](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call), [apply](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply), and [bind](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)
-- TL;DR overview of the three functions from [codeplanet](https://codeplanet.io/javascript-apply-vs-call-vs-bind)
+- TL;DR overview of call/apply/bind from [codeplanet](https://codeplanet.io/javascript-apply-vs-call-vs-bind)
 - An in depth walkthrough by [JavascriptIsSexy](http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/) on all three essential methods
 
 ### Questions
