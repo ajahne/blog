@@ -11,22 +11,58 @@ Functions are first class objects, which gives them full access to properties an
 The following post will cover _call_ and _apply_. Let's dive in.  
 
 ### Definitions:
-- **call** – method of the Function object that calls a function with a specified _this_ value and individual arguments
-- **apply** – method of the Function object that calls a function with a specified _this_ value and an array of arguments
+- **call** – method of the Function object that invokes a function with a specified _this_ value and individual arguments
+- **apply** – method of the Function object that invokes a function with a specified _this_ value and an array of arguments
 
 ### call and apply
   - Execute the current function immediately and returns the result of the action
   - Allows you to specify the value of this – “who is this?”
   - Note: if the value of _this_ is not defined, the global (window in the browser) object will be used
 
+So let's say I have an awesome function:
+```
+function awesomeFunction (awesomeValue) {
+  console.log('Everything this is %o', awesomeValue);
+}
+```
+We can invoke this function our standard way as outlined [here](https://ajahne.github.io/blog/jekyll/javascript/functions/2017/10/09/javascript-functions-part-1.html)
+
+```
+awesomeFunction('Awesome'); //Everything is awesome
+```
+
+We can also use call (or apply, but let's start with call) to invoke this function like so
+
+```
+aweseomeFunction.call(null, 'Awesome'); //Everything is awesome
+```
+
+or with apply
+
+```
+aweseomeFunction.apply(null, ['Awesome']); //Everything is awesome
+```
+
+Now let's break this down a little bit as there are a few things going on
+ 1) Why did we pass in null?
+ 2) The second paramter.
+
+Ok, so as we mentioned call and apply allow you to specify the value of _this_
+
+So the genereal form of each is:  
+**call**
+
 ```
 myFunction.call(thisValue, param1, param2);
 ```
 
+**apply**
 ```
 myFunction.apply(thisValue, [param1, param2, param3]);
 ```
-- Allows you to reuse (borrow) functions – “you have some cool functionality, may I use it”?
+
+**So what's the benefit?**
+- Well, these functions allow you to reuse (borrow) functions – “you have some cool functionality, may I use it”?
 Example:
 ```
 let upper = "HELLO WORLD";
