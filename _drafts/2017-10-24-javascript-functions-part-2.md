@@ -6,7 +6,9 @@ categories: jekyll javascript functions
 ---
 
 ### Introduction
-Functions are first class objects, which gives them full access to properties and member functions.  Three key members of the Function object are _call_, _apply_, and _bind_. These methods allow us to reuse functions, simplify the passing of arguments, and even lock in the value of _this_.  Let's dive in.  
+Functions are first class objects, which gives them full access to properties and member functions.  Three key members of the Function object are _call_, _apply_, and _bind_. These methods allow us to reuse functions, simplify the passing of arguments, and even lock in the value of _this_.  
+
+The following post will cover _call_ and _apply_. Let's dive in.  
 
 ### Definitions:
 - **call** – method of the Function object that calls a function with a specified _this_ value and individual arguments
