@@ -126,7 +126,7 @@ function logArgumentsLength () {
 logArgumentsLength(1,2,3) //3
 {% endhighlight %}
 
-### **Functions can returns values.**
+### **Functions can return values.**
 Return values can be primitives, references, or other functions.
 {% highlight js %}
 function add (a, b) {
