@@ -44,8 +44,36 @@ aweseomeFunction.apply(null, ['Awesome']); //Everything is awesome
 ```
 
 Now let's break this down a little bit as there are a few things going on
- 1) Why did we pass in null?
- 2) The second paramter.
+
+1) Why did we pass in _null_?  
+We passed in null as the first paramater to call is the _thisValue_. In our case, we are not referencing _this_ (it is not used at all in our function) so we can pass in null. We will explore using the _thisValue_ paramater in the later examples when chain constructors. 
+ 
+2) What's going on with the second parameter?  
+These are the parameters to our function. In the case of _awesomeFunction_ there is only one paramter, the value of aweome that we will log.  As _call_ takes individual and _apply_ takes an array, we pass the paramers in accordingly.
+
+**So what if we had a function that took multiple parameters, how might that look?**  
+Glad you asked, let's try that out.
+
+```
+function add(a, b) {
+  return a + b;
+}
+```
+
+Now let's invoke
+```
+add(5,10) //15;
+```
+
+How would this look with call?
+```
+add.call(null, 5, 10) //15;
+```
+
+And apply?
+```
+add.apply(null, [5,10]) //15;
+```
 
 Ok, so as we mentioned call and apply allow you to specify the value of _this_
 
@@ -53,7 +81,7 @@ So the genereal form of each is:
 **call**
 
 ```
-myFunction.call(thisValue, param1, param2);
+myFunction.call(thisValue, param1, param2, param3);
 ```
 
 **apply**
