@@ -6,9 +6,9 @@ categories: jekyll javascript functions
 ---
 
 ### Introduction
-Functions are first class objects, which gives them full access to properties and member functions.  Three key members of the Function object are _call_, _apply_, and _bind_. These methods allow us to reuse functions, simplify the passing of arguments, and even lock in the value of _this_.  
+Functions are [first class objects](https://stackoverflow.com/questions/705173/what-is-meant-by-first-class-object), which gives them full access to properties and methods.  Three key methods of the Function object are _call_, _apply_, and _bind_. These methods allow us to reuse functions, simplify the passing of arguments, and even lock in the value of _this_.  
 
-The following post will cover _call_ and _apply_. Let's dive in.  
+In the following post, we will cover _call_ and _apply_, while a follow up will talk about _bind_.  Often these three methods are combined in the same discussion, mainly due to each being a key method of the Function object, not neccessarily because they are linked.  Two of these, _call_ and _apply_ are similar, so let's dive in and get to some definitions, followed by code.  
 
 ### Definitions:
 - **call** – method of the Function object that invokes a function with a specified _this_ value and individual arguments
@@ -16,8 +16,8 @@ The following post will cover _call_ and _apply_. Let's dive in.
 
 ### call and apply
   - Execute the current function immediately and returns the result of the action
-  - Allows you to specify the value of this – “who is this?”
-  - Note: if the value of _this_ is not defined, the global (window in the browser) object will be used
+  - Allows you to specify the value of _this_
+    - Note: if the value of _this_ is not defined, the global (window in the browser) object will be used
 
 So let's say I have an awesome function:
 ```
@@ -31,13 +31,13 @@ We can invoke this function our standard way as outlined [here](https://ajahne.g
 awesomeFunction('Awesome'); //Everything is awesome
 ```
 
-We can also use call (or apply, but let's start with call) to invoke this function like so
+We can also use _call_ to invoke our function
 
 ```
 aweseomeFunction.call(null, 'Awesome'); //Everything is awesome
 ```
 
-or with apply
+or use _apply_
 
 ```
 aweseomeFunction.apply(null, ['Awesome']); //Everything is awesome
@@ -46,10 +46,10 @@ aweseomeFunction.apply(null, ['Awesome']); //Everything is awesome
 Now let's break this down a little bit as there are a few things going on
 
 1) Why did we pass in _null_?  
-We passed in null as the first paramater to call is the _thisValue_. In our case, we are not referencing _this_ (it is not used at all in our function) so we can pass in null. We will explore using the _thisValue_ paramater in the later examples when chain constructors. 
+We passed in _null_ as the first paramater to _call_ is the _thisValue_. In our case, we are not referencing _this_ (it is not used at all in our function) so we can pass in _null_. We will explore using the _thisValue_ paramater in the later examples when chain constructors below. 
  
 2) What's going on with the second parameter?  
-These are the parameters to our function. In the case of _awesomeFunction_ there is only one paramter, the value of aweome that we will log.  As _call_ takes individual and _apply_ takes an array, we pass the paramers in accordingly.
+These are the parameters to our function. In the case of _awesomeFunction_ there is only one paramter, the value of aweome that we will log.  As _call_ takes individual parameters and _apply_ takes an array, we pass the paramers in accordingly.
 
 **So what if we had a function that took multiple parameters, how might that look?**  
 Glad you asked, let's try that out.
@@ -60,22 +60,20 @@ function add(a, b) {
 }
 ```
 
-Now let's invoke
+Now let's invoke the standard way
 ```
 add(5,10) //15;
 ```
 
-How would this look with call?
+How would this look with _call_?
 ```
 add.call(null, 5, 10) //15;
 ```
 
-And apply?
+And _apply_?
 ```
 add.apply(null, [5,10]) //15;
 ```
-
-Ok, so as we mentioned call and apply allow you to specify the value of _this_
 
 So the genereal form of each is:  
 **call**
@@ -89,14 +87,19 @@ myFunction.call(thisValue, param1, param2, param3);
 myFunction.apply(thisValue, [param1, param2, param3]);
 ```
 
-**So what's the benefit?**
-- Well, these functions allow you to reuse (borrow) functions – “you have some cool functionality, may I use it”?
+**Great, but ummm, why would I ever want to do this? In the example you showed, isn't the standard way less involved, less characters to type, and doesn't require me to pass in some weird _null_ parameter.**
+Why yes, the example was a simple one to show the general form of each function, you know walk before we can run and all that. Now that we have the basic syntax, let's go further.  Newness coming right up...
+
+**Benefits of call and apply**
+These functions allow us to reuse (borrow) functions – “you have some cool functionality, may I use it”?
 Example:
 ```
 let upper = "HELLO WORLD";
 let lower = String.prototype.toLowerCase.call(upper);
 ```
-- Allows you to utilize inheritance in the form of “parent” function calls (similar to above point, but utilized frequently for “class” based design patterns in JavaScript) – “And I thought you said there weren’t any classes in JS…” (Note: there aren’t! J)
+
+**Ok, but what else can we do?**
+Additionally, These methods all us to utilize inheritance in the form of “parent” function calls (similar to above point, but utilized frequently for “class” based design patterns in JavaScript) 
 ```
 /**
  * Example illustrating usage of call and apply to utilize "parent" function calls and implement
@@ -156,6 +159,9 @@ console.log(kobe.name + ' ' + kobe.number + ' ' + kobe.position);           //Ko
 - [Link to example as JSFiddle](https://jsfiddle.net/0z3pyy27/2/)
 
 
+**What about other positions and players?**
+I leave that as an exercises for the reader/voice in my head to code up. 
+
 ### Why/when would you use these functions?
 - **call/apply**
   - you want to reuse a previously defined function, such as for inheritance
@@ -163,15 +169,11 @@ console.log(kobe.name + ' ' + kobe.number + ' ' + kobe.position);           //Ko
 - **apply**
   - you want to pass in an array of parameters vs specifying each parameter individually (using apply)
 
-### Readings
+### Additional Readings
 - Great definitions with examples from Mozilla on [call](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call), [apply](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply), and [bind](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)
 - TL;DR overview of call/apply/bind from [codeplanet](https://codeplanet.io/javascript-apply-vs-call-vs-bind)
 - An in depth walkthrough by [JavascriptIsSexy](http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/) on all three essential methods
 
-### Questions
-- What is an area in your own code where you could utilize call/apply? What about bind?
-- If this is set to null or undefined for call or apply, what this object does the function operate on?
-- What is the key difference between call and apply?
 
 ### Conclusion
-TBD
+
