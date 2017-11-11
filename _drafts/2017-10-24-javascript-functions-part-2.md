@@ -92,7 +92,6 @@ Why yes, the example was a simple one to show the general form of each function,
 
 **Benefits of call and apply**    
 These functions allow us to reuse (borrow) functions – “you have some cool functionality, may I use it”?
-Example:
 ```
 let upper = "HELLO WORLD";
 let lower = String.prototype.toLowerCase.call(upper);
@@ -182,10 +181,10 @@ kobe = new ShootingGuard('Kobe Bryant', 24);
 console.log(iverson.name + ' ' + iverson.number + ' ' + iverson.position);  //Allen Iverson 3 PG
 console.log(kobe.name + ' ' + kobe.number + ' ' + kobe.position);           //Kobe Bryant 24 SG
 ```
-- [Link to example as JSFiddle](https://jsfiddle.net/0z3pyy27/2/)
+[Link to example as JSFiddle](https://jsfiddle.net/0z3pyy27/2/)
 
 
-**What about other positions and players?**
+**What about other positions and players?**  
 I leave that as an exercises for the reader/voice in my head to code up. 
 
 ### Why/when would you use these functions?
