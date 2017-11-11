@@ -87,10 +87,10 @@ myFunction.call(thisValue, param1, param2, param3);
 myFunction.apply(thisValue, [param1, param2, param3]);
 ```
 
-**Great, but ummm, why would I ever want to do this? In the example you showed, isn't the standard way less involved, less characters to type, and doesn't require me to pass in some weird _null_ parameter.**
+**Great, but ummm, why would I ever want to do this? In the example you showed, isn't the standard way less involved, less characters to type, and doesn't require me to pass in some weird _null_ parameter.**  
 Why yes, the example was a simple one to show the general form of each function, you know walk before we can run and all that. Now that we have the basic syntax, let's go further.  Newness coming right up...
 
-**Benefits of call and apply**  
+**Benefits of call and apply**    
 These functions allow us to reuse (borrow) functions – “you have some cool functionality, may I use it”?
 Example:
 ```
@@ -98,7 +98,7 @@ let upper = "HELLO WORLD";
 let lower = String.prototype.toLowerCase.call(upper);
 ```
 
-**Simplifying function calls**  
+**Simplifying function calls**    
 Say I have an array of numbers and I want to find the highest number.  I might make a function similar to the one below 
 ```
 const numbers = [5,8,3,9,11,2];
@@ -114,9 +114,8 @@ function getMax() {
 }
 ```
 
-So how might we leverage our newfound tools to simplify this code? We can do some by utilizing _apply_.
+So how might we leverage our newfound tools to simplify this code? We can do so by utilizing _apply_.
 ```
-
 const numbers = [5,8,3,9,11,2];
 
 function getMax() {
@@ -125,7 +124,7 @@ function getMax() {
 ```
 
 
-**Ok, but what else can we do?**
+**Ok, but what else can we do?**  
 Additionally, These methods all us to utilize inheritance in the form of “parent” function calls (similar to above point, but utilized frequently for “class” based design patterns in JavaScript) 
 ```
 /**
