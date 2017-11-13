@@ -135,15 +135,6 @@ let iverson;
 let kobe;
 
 /**
- * Print the value to the screen by writing the info to the innerHTML of our output div
- * @param {string} value the info to write to the DOM (i.e. print to screen)
- */
-function print(value) {
-    output.innerHTML += value;
-    output.innerHTML += '<br>';
-}
-
-/**
  * Player function used to create a new player
  * @param {String} name - name of the player
  * @param {Number} number - the number on the player's jersey
