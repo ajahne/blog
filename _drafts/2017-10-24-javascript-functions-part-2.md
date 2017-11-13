@@ -8,7 +8,7 @@ categories: jekyll javascript functions
 ### Introduction
 Functions are [first class objects](https://stackoverflow.com/questions/705173/what-is-meant-by-first-class-object), which gives them full access to properties and methods.  Three key methods of the Function object are _call_, _apply_, and _bind_. These methods allow us to reuse functions, simplify the passing of arguments, and even lock in the value of _this_.  
 
-In the following post, we will cover _call_ and _apply_, while a follow up will talk about _bind_.  Often these three methods are combined in the same discussion, mainly due to each being a key method of the Function object, not neccessarily because they are linked.  Two of these, _call_ and _apply_ are similar, so let's dive in and get to some definitions, followed by code.  
+In the following post, we will cover _call_ and _apply_, while a follow up will talk about _bind_.  Often these three methods are combined in the same discussion, mainly due to each being a key method of the Function object, not neccessarily because they are linked.  Two of these, _call_ and _apply_ are similar, so let's dive in and get to some definitions and examples.  
 
 ### Definitions:
 - **call** – method of the Function object that invokes a function with a specified _this_ value and **individual arguments**
@@ -22,7 +22,7 @@ In the following post, we will cover _call_ and _apply_, while a follow up will 
 So let's say I have an awesome function:
 ```
 function awesomeFunction (awesomeValue) {
-  console.log('Everything this is %o', awesomeValue);
+  console.log('Everything is %o', awesomeValue);
 }
 ```
 We can invoke this function our standard way as outlined [here](https://ajahne.github.io/blog/jekyll/javascript/functions/2017/10/09/javascript-functions-part-1.html)
@@ -46,7 +46,7 @@ aweseomeFunction.apply(null, ['Awesome']); //Everything is awesome
 Now let's break this down a little bit as there are a few things going on
 
 **1) Why did we pass in _null_?**  
-We passed in _null_ as the first paramater to _call_ is the _thisValue_. In our case, we are not referencing _this_ (it is not used at all in our function) so we can pass in _null_. We will explore using the _thisValue_ paramater in the later examples when chain constructors below. 
+We passed in _null_ as the first paramater to _call_ is the _thisValue_. In our case, we are not referencing _this_ (it is not used at all in our function) so we can pass in _null_. We will explore using the _thisValue_ paramater in the later examples when we chain constructors below. 
  
 **2) What's going on with the second parameter?**  
 These are the parameters to our function. In the case of _awesomeFunction_ there is only one paramter, the value of aweome that we will log.  As _call_ takes individual parameters and _apply_ takes an array, we pass the paramers in accordingly.
