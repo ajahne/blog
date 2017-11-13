@@ -11,12 +11,12 @@ Functions are [first class objects](https://stackoverflow.com/questions/705173/w
 In the following post, we will cover _call_ and _apply_, while a follow up will talk about _bind_.  Often these three methods are combined in the same discussion, mainly due to each being a key method of the Function object, not neccessarily because they are linked.  Two of these, _call_ and _apply_ are similar, so let's dive in and get to some definitions, followed by code.  
 
 ### Definitions:
-- **call** – method of the Function object that invokes a function with a specified _this_ value and individual arguments
-- **apply** – method of the Function object that invokes a function with a specified _this_ value and an array of arguments
+- **call** – method of the Function object that invokes a function with a specified _this_ value and **individual arguments**
+- **apply** – method of the Function object that invokes a function with a specified _this_ value and **an array of arguments**
 
 ### call and apply
-  - Execute the current function immediately and returns the result of the action
-  - Allows you to specify the value of _this_
+  - Execute the current function immediately and return the result of the action
+  - Allow you to specify the value of _this_
     - Note: if the value of _this_ is not defined, the global (window in the browser) object will be used
 
 So let's say I have an awesome function:
@@ -45,10 +45,10 @@ aweseomeFunction.apply(null, ['Awesome']); //Everything is awesome
 
 Now let's break this down a little bit as there are a few things going on
 
-1) Why did we pass in _null_?  
+**1) Why did we pass in _null_?**  
 We passed in _null_ as the first paramater to _call_ is the _thisValue_. In our case, we are not referencing _this_ (it is not used at all in our function) so we can pass in _null_. We will explore using the _thisValue_ paramater in the later examples when chain constructors below. 
  
-2) What's going on with the second parameter?  
+**2) What's going on with the second parameter?**  
 These are the parameters to our function. In the case of _awesomeFunction_ there is only one paramter, the value of aweome that we will log.  As _call_ takes individual parameters and _apply_ takes an array, we pass the paramers in accordingly.
 
 **So what if we had a function that took multiple parameters, how might that look?**  
@@ -79,12 +79,12 @@ So the genereal form of each is:
 **call**
 
 ```
-myFunction.call(thisValue, param1, param2, param3);
+myFunction.call(thisValue, param1, param2, param3, ...... paramN);
 ```
 
 **apply**
 ```
-myFunction.apply(thisValue, [param1, param2, param3]);
+myFunction.apply(thisValue, [param1, param2, param3, ...... paramN]);
 ```
 
 **Great, but ummm, why would I ever want to do this? In the example you showed, isn't the standard way less involved, less characters to type, and doesn't require me to pass in some weird _null_ parameter.**  
@@ -124,7 +124,7 @@ function getMax() {
 
 
 **Ok, but what else can we do?**  
-Additionally, These methods all us to utilize inheritance in the form of “parent” function calls (similar to above point, but utilized frequently for “class” based design patterns in JavaScript) 
+Additionally, These methods allow us to utilize inheritance in the form of “parent” function calls (similar to above point, but utilized frequently for “class” based design patterns in JavaScript) 
 ```
 /**
  * Example illustrating usage of call and apply to utilize "parent" function calls and implement
@@ -183,13 +183,14 @@ I leave that as an exercises for the reader/voice in my head to code up.
   - you want to reuse a previously defined function, such as for inheritance
   - you want to borrow another function’s capabilities
 - **apply**
-  - you want to pass in an array of parameters vs specifying each parameter individually (using apply)
+  - you want to pass in an array of parameters vs specifying each parameter individually
+
+
+### Conclusion
+Phew, not so bad, right? Right! Throughtout this post we have defined call and apply, provided examples that show how to use each method, and outlined key benefits. By using call and apply we can resuse an object's methods, simplify function calls, and borrow constructors to create "class" based design. How might you be able to utilize call and apply in your programs?
 
 ### Additional Readings
 - Great definitions with examples from Mozilla on [call](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call), [apply](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply), and [bind](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)
 - TL;DR overview of call/apply/bind from [codeplanet](https://codeplanet.io/javascript-apply-vs-call-vs-bind)
 - An in depth walkthrough by [JavascriptIsSexy](http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/) on all three essential methods
-
-
-### Conclusion
 
