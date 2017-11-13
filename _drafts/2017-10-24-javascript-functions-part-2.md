@@ -187,7 +187,7 @@ I leave that as an exercises for the reader/voice in my head to code up.
 
 
 ### Conclusion
-Phew, not so bad, right? Right! Throughtout this post we have defined call and apply, provided examples that show how to use each method, and outlined key benefits. By using call and apply we can resuse an object's methods, simplify function calls, and borrow constructors to create "class" based design. How might you be able to utilize call and apply in your programs?
+Phew, not so bad, right? Right! In this post we have defined _call_ and _apply_, provided examples that show how to use each method, and outlined key benefits. By using _call_ and _apply_ we can resuse an object's methods, simplify function calls, and borrow constructors to create "class" based design. How might you be able to utilize call and apply in your programs?
 
 ### Additional Resources
 - Great definitions with examples from Mozilla on [call](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call), [apply](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply), and [bind](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)
