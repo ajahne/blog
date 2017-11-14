@@ -15,8 +15,8 @@ In the following post, we will cover _call_ and _apply_, while a follow up will 
 - **apply** – method of the Function object that invokes a function with a specified _this_ value and **an array of arguments**
 
 ### call and apply
-  - Execute the current function immediately and return the result of the action
-  - Allow you to specify the value of _this_
+  - Executes the current function immediately and returns the result of the action
+  - Allows you to specify the value of _this_
     - Note: if the value of _this_ is not defined, the global (window in the browser) object will be used
 
 So let's say I have an awesome function:
@@ -46,7 +46,7 @@ aweseomeFunction.apply(null, ['Awesome']); //Everything is awesome
 Now let's break this down a little bit as there are a few things going on
 
 **1) Why did we pass in _null_?**  
-We passed in _null_ as the first paramater to _call_ is the _thisValue_. In our case, we are not referencing _this_ (it is not used at all in our function) so we can pass in _null_. We will explore using the _thisValue_ paramater in the later examples when we chain constructors below.
+We passed in _null_ as the first paramater to _call_ and _apply_ is the _thisValue_. In our case, we are not referencing _this_ (it is not used at all in our function) so we can pass in _null_. We will explore using the _thisValue_ paramater in the later examples when we chain constructors below.
 
 **2) What's going on with the second parameter?**  
 These are the parameters to our function. In the case of _awesomeFunction_ there is only one paramter, the value of aweome that we will log.  As _call_ takes individual parameters and _apply_ takes an array, we pass the paramers in accordingly.
