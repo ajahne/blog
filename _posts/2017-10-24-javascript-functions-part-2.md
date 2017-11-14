@@ -124,7 +124,7 @@ function getMax() {
 
 
 **Ok, but what else can we do?**  
-Additionally, These methods allow us to utilize inheritance in the form of “parent” function calls (similar to above point, but utilized frequently for “class” based design patterns in JavaScript)
+Additionally, These methods allow us to utilize inheritance in the form of “parent” function calls (similar to the above point, but utilized frequently for “class” based design patterns in JavaScript)
 {% highlight js %}
 /**
  * Example illustrating usage of call and apply to utilize "parent"
@@ -140,8 +140,8 @@ let kobe;
  * @param {Number} number - the number on the player's jersey
  */
 function Player(name, number) {
-    this.name = name;
-    this.number = number;
+  this.name = name;
+  this.number = number;
 }
 
 /**
@@ -150,9 +150,9 @@ function Player(name, number) {
  * @param {Number} number - the number on the player's jersey
  */
 function PointGuard(name, number) {
-    //note usage of call
-    Player.call(this, name, number);
-    this.position = 'PG';
+  //note usage of call
+  Player.call(this, name, number);
+  this.position = 'PG';
 }
 
 /**
@@ -161,9 +161,9 @@ function PointGuard(name, number) {
  * @param {Number} number - the number on the player's jersey
  */
 function ShootingGuard(name, number) {
-    //note usage of apply
-    Player.apply(this, arguments);
-    this.position = 'SG';
+  //note usage of apply
+  Player.apply(this, arguments);
+  this.position = 'SG';
 }
 
 iverson = new PointGuard('Allen Iverson', 3);
