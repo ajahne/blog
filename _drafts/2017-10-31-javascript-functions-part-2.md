@@ -12,8 +12,9 @@ The following post will cover _bind_. Let's dive in.
 
 ### Definition:
 - **bind** – method of the Function object that creates a new function that when called has it’s _this_ value mapped to the given parameter and uses the set arguments
+
 ### bind
-- Returns a new function with the value of this locked (bound) to a function – “this is handcuffed and locked down”
+- Returns a new function with the value of _this_ locked (bound) to a function – “this is handcuffed and locked down”  
 Simple Example
 ```
 let boundFunction = myFunction.bind(thisValue);
@@ -22,13 +23,12 @@ let boundFunction = myFunction.bind(thisValue);
 let boundFunctionWithParam = myFunction.bind(thisValue, param);
 ```
 
-More complex example in [JSFiddle](https://jsfiddle.net/f5vs5jug/11/) that illustrates helpful use cases of bind
+More complex example in [JSFiddle](https://jsfiddle.net/f5vs5jug/11/) that illustrates helpful use cases of _bind_
 - Be sure to read the comments as this example is showcasing a few different concepts
 
 ```
 /**
- * JSFiddle example illustrating usage of bind with event handlers
- * Created Navigation "widget" as a very simplified version of TCS widgets. 
+ * Example illustrating usage of bind with event handlers
  */
 
 //div to print our output
@@ -37,73 +37,73 @@ var output = document.querySelectorAll('#output')[0];
 var nav;
 
 /**
- * HeaderNavigation component 
+ * HeaderNavigation component
  * @example
  * var myNav = new HeaderNavigation();
  */
 var HeaderNavigation = (function() {
-    'use strict';
+  'use strict';
 
-    /**
-     * Instantiate Navigation and then initialize
-     */
-    function Navigation() {
-        this.name = 'navigation';
-        this.init();
-    }
+  /**
+   * Instantiate Navigation and then initialize
+   */
+  function Navigation() {
+    this.name = 'navigation';
+    this.init();
+  }
 
-    /**
-     * Initialize our Nagivation object
-     * Grab the DOM elements that make up our nav: help, back, and next buttons
-     * Add event listenrs to each button
-     */
-    Navigation.prototype.init = function() {
-        this.element = document.querySelectorAll('.navigation')[0];
-        this.buttonHelp = this.element.querySelectorAll('.button-help')[0];
-        this.buttonBack = this.element.querySelectorAll('.button-back')[0];
-        this.buttonNext = this.element.querySelectorAll('.button-next')[0];
-  
-        //using this as an example to show binding on an anonymous function
-        this.buttonHelp.addEventListener('click', function() {
-            this.showHelp();            
-        }.bind(this));
+  /**
+   * Initialize our Nagivation object
+   * Grab the DOM elements that make up our nav: help, back, and next buttons
+   * Add event listenrs to each button
+   */
+  Navigation.prototype.init = function() {
+    this.element = document.querySelectorAll('.navigation')[0];
+    this.buttonHelp = this.element.querySelectorAll('.button-help')[0];
+    this.buttonBack = this.element.querySelectorAll('.button-back')[0];
+    this.buttonNext = this.element.querySelectorAll('.button-next')[0];
 
-        //do not bind the value of this to the back button
-        //notice that 'back button' is printed to the screen, but not "going to stage: ..."
-        //NOTE: By hitting "F12" to see the developer tools console, you will
-        //notice that there is an error "uncaught TypeError: this.goToStage is not a function"
-        //This occurs because the "this" in the case below refers to the back button
-        //not to our Navigation
-        this.buttonBack.addEventListener('click', this.click);
+    //using this as an example to show binding on an anonymous function
+    this.buttonHelp.addEventListener('click', function() {
+        this.showHelp();            
+    }.bind(this));
 
-        //bind the click function to our Navigation Object
-        //the this in .bind(this) refers to the Navigation Object
-        this.buttonNext.addEventListener('click', this.click.bind(this, 'Stage 1'));
-    };
+    //do not bind the value of this to the back button
+    //notice that 'back button' is printed to the screen, but not "going to stage: ..."
+    //NOTE: By hitting "F12" to see the developer tools console, you will
+    //notice that there is an error "uncaught TypeError: this.goToStage is not a function"
+    //This occurs because the "this" in the case below refers to the back button
+    //not to our Navigation
+    this.buttonBack.addEventListener('click', this.click);
 
-    /**
-     * Handle button click event
-     * print the name of "this" (for tracking/testing)
-     * go to the corresponding stage
-     */
-    Navigation.prototype.click = function() {
-        print('click: ' + this.name);
-        this.goToStage(arguments[0]);
-    };
+    //bind the click function to our Navigation Object
+    //the this in .bind(this) refers to the Navigation Object
+    this.buttonNext.addEventListener('click', this.click.bind(this, 'Stage 1'));
+  };
 
-    /**
-     * Print the stage we need to navigate to
-     * @param {string} stage the stage to nagivate to (current prints)
-     */
-    Navigation.prototype.goToStage = function(stage) {
-        print('going to stage: ' + stage);
-    };
-    
-    Navigation.prototype.showHelp = function() {
-    	alert('You are now being helped :)');
-    }
+  /**
+   * Handle button click event
+   * print the name of "this" (for tracking/testing)
+   * go to the corresponding stage
+   */
+  Navigation.prototype.click = function() {
+    print('click: ' + this.name);
+    this.goToStage(arguments[0]);
+  };
 
-    return Navigation;
+  /**
+   * Print the stage we need to navigate to
+   * @param {string} stage the stage to nagivate to (current prints)
+   */
+  Navigation.prototype.goToStage = function(stage) {
+    print('going to stage: ' + stage);
+  };
+
+  Navigation.prototype.showHelp = function() {
+  	alert('You are now being helped :)');
+  }
+
+  return Navigation;
 }());
 
 /**
@@ -111,8 +111,8 @@ var HeaderNavigation = (function() {
  * @param {string} value the info to write to the DOM (i.e. print to screen)
  */
 function print(value) {
-    output.innerHTML += value;
-    output.innerHTML += '<br>';
+  output.innerHTML += value;
+  output.innerHTML += '<br>';
 }
 
 nav = new HeaderNavigation();
@@ -122,15 +122,10 @@ nav = new HeaderNavigation();
   - you want to lock in the value of _this_, helpful for event handlers
   - want to “partially apply” functions (“partial function application” is beyond the current scope of our discussion, but feel free to read up on it!)
 
-### Readings
+### Conclusion
+TBD
+
+### Additional Resources
 - Great definitions with examples from Mozilla on[bind](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)
 - TL;DR overview of call/apply/bind three functions from [codeplanet](https://codeplanet.io/javascript-apply-vs-call-vs-bind)
 - An in depth walkthrough by [JavascriptIsSexy](http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/) on all three essential methods
-
-### Questions
-- What is an area in your own code where you could utilize call/apply? What about bind?
-- If this is set to null or undefined for call or apply, what this object does the function operate on?
-- What is the key difference between call and apply?
-
-### Conclusion
-TBD
