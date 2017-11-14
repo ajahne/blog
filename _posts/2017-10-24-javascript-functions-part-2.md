@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "JavaScript Functions - Part 2: Call, Apply, Bind"
+title:  "JavaScript Functions - Part 2: Call and Apply"
 date:   2017-10-24 10:50:00 -0400
 categories: jekyll javascript functions
 ---
@@ -20,86 +20,86 @@ In the following post, we will cover _call_ and _apply_, while a follow up will 
     - Note: if the value of _this_ is not defined, the global (window in the browser) object will be used
 
 So let's say I have an awesome function:
-```
+{% highlight js %}
 function awesomeFunction (awesomeValue) {
   console.log('Everything is %o', awesomeValue);
 }
-```
+{% endhighlight %}
 We can invoke this function our standard way as outlined [here](https://ajahne.github.io/blog/jekyll/javascript/functions/2017/10/09/javascript-functions-part-1.html)
 
-```
+{% highlight js %}
 awesomeFunction('Awesome'); //Everything is awesome
-```
+{% endhighlight %}
 
 We can also use _call_ to invoke our function
 
-```
+{% highlight js %}
 aweseomeFunction.call(null, 'Awesome'); //Everything is awesome
-```
+{% endhighlight %}
 
 or use _apply_
 
-```
+{% highlight js %}
 aweseomeFunction.apply(null, ['Awesome']); //Everything is awesome
-```
+{% endhighlight %}
 
 Now let's break this down a little bit as there are a few things going on
 
 **1) Why did we pass in _null_?**  
-We passed in _null_ as the first paramater to _call_ is the _thisValue_. In our case, we are not referencing _this_ (it is not used at all in our function) so we can pass in _null_. We will explore using the _thisValue_ paramater in the later examples when we chain constructors below. 
- 
+We passed in _null_ as the first paramater to _call_ is the _thisValue_. In our case, we are not referencing _this_ (it is not used at all in our function) so we can pass in _null_. We will explore using the _thisValue_ paramater in the later examples when we chain constructors below.
+
 **2) What's going on with the second parameter?**  
 These are the parameters to our function. In the case of _awesomeFunction_ there is only one paramter, the value of aweome that we will log.  As _call_ takes individual parameters and _apply_ takes an array, we pass the paramers in accordingly.
 
 **So what if we had a function that took multiple parameters, how might that look?**  
 Glad you asked, let's try that out.
 
-```
+{% highlight js %}
 function add(a, b) {
   return a + b;
 }
-```
+{% endhighlight %}
 
 Now let's invoke the standard way
-```
+{% highlight js %}
 add(5,10) //15;
-```
+{% endhighlight %}
 
 How would this look with _call_?
-```
+{% highlight js %}
 add.call(null, 5, 10) //15;
-```
+{% endhighlight %}
 
 And _apply_?
-```
+{% highlight js %}
 add.apply(null, [5,10]) //15;
-```
+{% endhighlight %}
 
 So the genereal form of each is:  
 **call**
 
-```
+{% highlight js %}
 myFunction.call(thisValue, param1, param2, param3, ...... paramN);
-```
+{% endhighlight %}
 
 **apply**
-```
+{% highlight js %}
 myFunction.apply(thisValue, [param1, param2, param3, ...... paramN]);
-```
+{% endhighlight %}
 
 **Great, but ummm, why would I ever want to do this? In the example you showed, isn't the standard way less involved, less characters to type, and doesn't require me to pass in some weird _null_ parameter.**  
 Why yes, the example was a simple one to show the general form of each function, you know walk before we can run and all that. Now that we have the basic syntax, let's go further.  Newness coming right up...
 
 **Benefits of call and apply**    
 These functions allow us to reuse (borrow) functions – “you have some cool functionality, may I use it”?
-```
+{% highlight js %}
 let upper = "HELLO WORLD";
 let lower = String.prototype.toLowerCase.call(upper);
-```
+{% endhighlight %}
 
 **Simplifying function calls**    
-Say I have an array of numbers and I want to find the highest number.  I might make a function similar to the one below 
-```
+Say I have an array of numbers and I want to find the highest number.  I might make a function similar to the one below
+{% highlight js %}
 const numbers = [5,8,3,9,11,2];
 
 function getMax() {
@@ -111,24 +111,24 @@ function getMax() {
   }
   return max;
 }
-```
+{% endhighlight %}
 
 So how might we leverage our newfound tools to simplify this code? We can do so by utilizing _apply_.
-```
+{% highlight js %}
 const numbers = [5,8,3,9,11,2];
 
 function getMax() {
   return Math.max.apply(null, numbers);
 }
-```
+{% endhighlight %}
 
 
 **Ok, but what else can we do?**  
-Additionally, These methods allow us to utilize inheritance in the form of “parent” function calls (similar to above point, but utilized frequently for “class” based design patterns in JavaScript) 
-```
+Additionally, These methods allow us to utilize inheritance in the form of “parent” function calls (similar to above point, but utilized frequently for “class” based design patterns in JavaScript)
+{% highlight js %}
 /**
- * Example illustrating usage of call and apply to utilize "parent" function calls and implement
- * inheritance-like features
+ * Example illustrating usage of call and apply to utilize "parent"
+ * function calls and implement inheritance-like features
  */
 
 let iverson;
@@ -171,12 +171,12 @@ kobe = new ShootingGuard('Kobe Bryant', 24);
 
 console.log(iverson.name + ' ' + iverson.number + ' ' + iverson.position);  //Allen Iverson 3 PG
 console.log(kobe.name + ' ' + kobe.number + ' ' + kobe.position);           //Kobe Bryant 24 SG
-```
+{% endhighlight %}
 [Link to example as JSFiddle](https://jsfiddle.net/0z3pyy27/2/)
 
 
 **What about other positions and players?**  
-I leave that as an exercises for the reader/voice in my head to code up. 
+I leave that as an exercises for the reader/voice in my head to code up.
 
 ### Why/when would you use these functions?
 - **call/apply**
@@ -193,4 +193,3 @@ Phew, not so bad, right? Right! In this post we have defined _call_ and _apply_,
 - Great definitions with examples from Mozilla on [call](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call), [apply](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply), and [bind](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)
 - TL;DR overview of call/apply/bind from [codeplanet](https://codeplanet.io/javascript-apply-vs-call-vs-bind)
 - An in depth walkthrough by [JavascriptIsSexy](http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/) on all three essential methods
-
