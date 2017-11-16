@@ -46,6 +46,6 @@ console.log(message);
 {% endhighlight %}
 
 Testing out URLs:
-For the default post, check out the [default Jekyll post]({{ site.baseurl }}{% post_url 2017-09-09-welcome-to-jekyll %}) as well as my [github page][github]!
+Check out the [post I wrote about JavaScript functions]({{ site.baseurl }}{% post_url 2017-10-9-javascript-functions-part-1 %}) as well as my [github page][github]!
 
 [github]: https://github.com/ajahne
