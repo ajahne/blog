@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "JavaScript Functions - Part 2b: Bind"
+title:  "JavaScript Functions - Part 3: Bind"
 date:   2017-10-31 10:50:00 -0400
 categories: jekyll javascript functions
 ---
 
 ### Introduction
-Functions are first class objects, which gives them full access to properties and member functions.  Three key members of the Function object are _call_, _apply_, and _bind_. These methods allow us to reuse functions, simplify the passing of arguments, and even lock in the value of _this_.  
+As we have learned, Functions are [first class objects](https://stackoverflow.com/questions/705173/what-is-meant-by-first-class-object), which gives them full access to properties and methods. Three key members of the Function object are [_call_, _apply_](https://ajahne.github.io/blog/jekyll/javascript/functions/2017/10/24/javascript-functions-part-2.html), and _bind_. These methods allow us to reuse functions, simplify the passing of arguments, and even lock in the value of _this_.  
 
 The following post will cover _bind_. Let's dive in.  
 
@@ -23,7 +23,7 @@ let boundFunction = myFunction.bind(thisValue);
 let boundFunctionWithParam = myFunction.bind(thisValue, param);
 ```
 
-More complex example in [JSFiddle](https://jsfiddle.net/f5vs5jug/11/) that illustrates helpful use cases of _bind_
+**Let's build out a more complex example to highlight the usage of bind**
 - Be sure to read the comments as this example is showcasing a few different concepts
 
 ```
@@ -31,17 +31,15 @@ More complex example in [JSFiddle](https://jsfiddle.net/f5vs5jug/11/) that illus
  * Example illustrating usage of bind with event handlers
  */
 
-//div to print our output
-var output = document.querySelectorAll('#output')[0];
 //instance of HeaderNavigation
-var nav;
+let nav;
 
 /**
  * HeaderNavigation component
  * @example
  * var myNav = new HeaderNavigation();
  */
-var HeaderNavigation = (function() {
+let HeaderNavigation = (function() {
   'use strict';
 
   /**
@@ -107,16 +105,17 @@ var HeaderNavigation = (function() {
 }());
 
 /**
- * Print the value to the screen by writing the info to the innerHTML of our output div
- * @param {string} value the info to write to the DOM (i.e. print to screen)
+ * Print the value to the screen
+ * @param {string} value the info to log 
  */
 function print(value) {
-  output.innerHTML += value;
-  output.innerHTML += '<br>';
+  console.log(value);
 }
 
 nav = new HeaderNavigation();
 ```
+Link to [JSFiddle](https://jsfiddle.net/f5vs5jug/11/).
+
 
 ### Why/when would you use this function?
   - you want to lock in the value of _this_, helpful for event handlers
