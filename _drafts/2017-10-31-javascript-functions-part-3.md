@@ -6,16 +6,13 @@ categories: jekyll javascript functions
 ---
 
 ### Introduction
-As we have learned, Functions are [first class objects](https://stackoverflow.com/questions/705173/what-is-meant-by-first-class-object), which gives them full access to properties and methods. Three key members of the Function object are [_call_, _apply_](https://ajahne.github.io/blog/jekyll/javascript/functions/2017/10/24/javascript-functions-part-2.html), and _bind_. These methods allow us to reuse functions, simplify the passing of arguments, and even lock in the value of _this_.  
-
-The following post will cover _bind_. Let's dive in.  
+As we have learned, Functions are [first class objects](https://stackoverflow.com/questions/705173/what-is-meant-by-first-class-object), which gives them full access to properties and methods. In part 2 of our disussion, we examined [_call_, _apply_](https://ajahne.github.io/blog/jekyll/javascript/functions/2017/10/24/javascript-functions-part-2.html).  The following post will cover _bind_. Let's dive in.  
 
 ### Definition:
-- **bind** – method of the Function object that creates a new function that when called has it’s _this_ value mapped to the given parameter and uses the set arguments
+**bind** – method of the Function object that creates a new function that when called has it’s _this_ value mapped to the given parameter and uses the set arguments
 
 ### bind
 - Returns a new function with the value of _this_ locked (bound) to a function – “this is handcuffed and locked down”  
-Simple Example
 ```
 let boundFunction = myFunction.bind(thisValue);
 ```
@@ -125,6 +122,6 @@ Link to [JSFiddle](https://jsfiddle.net/f5vs5jug/11/).
 TBD
 
 ### Additional Resources
-- Great definitions with examples from Mozilla on[bind](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)
+- Great definitions with examples from Mozilla on [bind](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)
 - TL;DR overview of call/apply/bind three functions from [codeplanet](https://codeplanet.io/javascript-apply-vs-call-vs-bind)
 - An in depth walkthrough by [JavascriptIsSexy](http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/) on all three essential methods
