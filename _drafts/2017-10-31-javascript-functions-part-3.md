@@ -6,13 +6,13 @@ categories: jekyll javascript functions
 ---
 
 ### Introduction
-As we have learned, Functions are [first class objects](https://stackoverflow.com/questions/705173/what-is-meant-by-first-class-object), which gives them full access to properties and methods. In part 2 of our disussion, we examined [_call_, _apply_](https://ajahne.github.io/blog/jekyll/javascript/functions/2017/10/24/javascript-functions-part-2.html).  The following post will cover _bind_. Let's dive in.  
+As we have learned in [part 1] (https://ajahne.github.io/blog/jekyll/javascript/functions/2017/10/09/javascript-functions-part-1.html) of our series, functions are [first class objects](https://stackoverflow.com/questions/705173/what-is-meant-by-first-class-object), which gives them full access to properties and methods. In [part 2](https://ajahne.github.io/blog/jekyll/javascript/functions/2017/10/24/javascript-functions-part-2.html) of our disussion, we examined [_call_ and _apply_](https://ajahne.github.io/blog/jekyll/javascript/functions/2017/10/24/javascript-functions-part-2.html).  In the following post will cover another core method of the Function object, _bind_. Let's dive in.  
 
 ### Definition:
 **bind** – method of the Function object that creates a new function that when called has it’s _this_ value mapped to the given parameter and uses the set arguments
 
 ### bind
-- Returns a new function with the value of _this_ locked (bound) to a function – “this is handcuffed and locked down”  
+Returns a new function with the value of _this_ locked (bound) to a function – “this is handcuffed and locked down”  
 ```
 let boundFunction = myFunction.bind(thisValue);
 ```
