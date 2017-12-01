@@ -12,15 +12,47 @@ As we have learned in [part 1](https://ajahne.github.io/blog/jekyll/javascript/f
 **bind** – method of the Function object that creates a new function that when called has it’s _this_ value mapped to the given parameter and uses the set arguments.
 
 bind returns a new function with the value of _this_ locked (bound) to a function – “this is handcuffed and locked down”  
+General form:
+```
+aFunction.bind(_thisValue_, arg1, arg2,..., argN); 
+```
+
+## Examples
 ```
 let boundFunction = myFunction.bind(thisValue);
 ```
+
 ```
 let boundFunctionWithParam = myFunction.bind(thisValue, param);
 ```
 
-**Let's build out a more complex example to highlight the usage of bind**
-- Be sure to read the comments as this example is showcasing a few different concepts
+
+### Example 1 - locking in the value of _this_
+```
+this.name = "Global";
+const component = {
+  name: "Component",
+  getName: function() {
+    return this.name;
+  }
+};
+
+const getName = component.getName;
+
+console.log(getName()); // "Global"
+
+const boundGetName = getName.bind(component);
+console.log(boundGetName()); //"Component"
+```
+
+So what happened in our previous example? Why was "Component" printed and not "Global"?  The reason is that we bound the _this_ value to our component object.  Eventhough the first call to getName() returns "Global", we subsequently locked the value of _this_ to the component in our bound function.
+
+### Example 2 - partial function application
+TODO
+
+### Example 3 - using _bind_ in event handling
+
+This is a out a more complex example to highlight the usage of bind.  **Please be sure to read the comments as this example is showcasing a few different concepts.**
 
 ```
 /**
