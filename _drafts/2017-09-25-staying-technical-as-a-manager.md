@@ -74,6 +74,7 @@ great list to start you off: https://www.thebalance.com/programmers-on-twitter-2
 - hacker: https://twitter.com/2600
 - https://twitter.com/DZone/status/932624962162216960
 - https://twitter.com/lemiorhan
+- https://twitter.com/donovanbrown
 
 ## Read some wonderful blogs
 - https://blog.codinghorror.com
