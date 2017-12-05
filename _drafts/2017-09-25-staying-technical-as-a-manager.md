@@ -48,6 +48,8 @@ Here are some great newsletters that I find invaluable
 - https://medium.mybridge.co/@Mybridge
 - https://ponyfoo.com/
 - https://www.reddit.com/r/devops/
+- https://medium.freecodecamp.org/
+- https://dev.to/
 
 ## Follow some great thinkers, doers, and creatives
 great list to start you off: https://www.thebalance.com/programmers-on-twitter-2072010
