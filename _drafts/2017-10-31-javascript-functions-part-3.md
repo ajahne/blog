@@ -17,7 +17,7 @@ General form:
 aFunction.bind(_thisValue_, arg1, arg2,..., argN); 
 ```
 
-## Examples
+### Examples
 ```
 let boundFunction = myFunction.bind(thisValue);
 ```
@@ -27,7 +27,7 @@ let boundFunctionWithParam = myFunction.bind(thisValue, param);
 ```
 
 
-### Example 1 - locking in the value of _this_
+#### Example 1 - locking in the value of _this_
 ```
 this.name = "Global";
 const component = {
@@ -47,7 +47,7 @@ console.log(boundGetName()); //"Component"
 
 So what happened in our previous example? Why was "Component" printed and not "Global"?  The reason is that we bound the _this_ value to our component object.  Eventhough the first call to getName() returns "Global", we subsequently locked the value of _this_ to the component in our bound function.
 
-### Example 2 - partial function application
+#### Example 2 - partial function application
 We can also utilize _bind_ to create a function with a predefined set of arguments. 
 ```
 function multiply(x,y) {
@@ -60,7 +60,7 @@ console.log(triple(10));  //30
 ```
 We have set the "x" value and pass in the value of "y" whenver we call our "triple" function.  Notice in this example how we passed in _null_ for the value of _this_ and also passed in the values last (this follows our function signature). 
 
-### Example 3 - using _bind_ in event handling
+#### Example 3 - using _bind_ in event handling
 
 This is a out a more complex example to highlight the usage of bind.  **Please be sure to read the comments as this example is showcasing a few different concepts.**
 
