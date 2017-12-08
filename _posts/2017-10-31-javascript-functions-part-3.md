@@ -13,22 +13,22 @@ As we have learned in [part 1](https://ajahne.github.io/blog/jekyll/javascript/f
 
 _bind_ returns a new function with the value of _this_ locked (bound) to a function – “this is handcuffed and locked down”  
 General form:
-```
+{% highlight js %}
 aFunction.bind(_thisValue_, arg1, arg2,..., argN); 
-```
+{% endhighlight %}
 
 ### Examples
-```
+{% highlight js %}
 let boundFunction = myFunction.bind(thisValue);
-```
+{% endhighlight %}
 
-```
+{% highlight js %}
 let boundFunctionWithParam = myFunction.bind(thisValue, param);
-```
+{% endhighlight %}
 
 
 #### Example 1 - locking in the value of _this_
-```
+{% highlight js %}
 this.name = "Global";
 const component = {
   name: "Component",
@@ -43,13 +43,13 @@ console.log(getName()); // "Global"
 
 const boundGetName = getName.bind(component);
 console.log(boundGetName()); //"Component"
-```
+{% endhighlight %}
 
 So what happened in our previous example? Why was "Component" printed and not "Global"?  The reason is that we bound the _this_ value to our component object.  Eventhough the first call to getName() returns "Global", we subsequently locked the value of _this_ to the component in our bound function.
 
 #### Example 2 - partial function application
 We can also utilize _bind_ to create a function with a predefined set of arguments. 
-```
+{% highlight js %}
 function multiply(x,y) {
   return x * y; 
 }
@@ -57,14 +57,14 @@ function multiply(x,y) {
 //Create a function that will triple any number
 const triple = multiply.bind(null,3);
 console.log(triple(10));  //30
-```
+{% endhighlight %}
 We have set the "x" value and pass in the value of "y" whenver we call our "triple" function.  Notice in this example how we passed in _null_ for the value of _this_ and also passed in the values last (this follows our function signature). 
 
 #### Example 3 - using _bind_ in event handling
 
 This is a out a more complex example to highlight the usage of bind.  **Please be sure to read the comments as this example is showcasing a few different concepts.**
 
-```
+{% highlight js %}
 /**
  * Example illustrating usage of bind with event handlers
  */
@@ -151,7 +151,7 @@ function print(value) {
 }
 
 nav = new HeaderNavigation();
-```
+{% endhighlight %}
 Link to [JSFiddle](https://jsfiddle.net/f5vs5jug/11/).
 
 
