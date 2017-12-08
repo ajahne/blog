@@ -48,7 +48,17 @@ console.log(boundGetName()); //"Component"
 So what happened in our previous example? Why was "Component" printed and not "Global"?  The reason is that we bound the _this_ value to our component object.  Eventhough the first call to getName() returns "Global", we subsequently locked the value of _this_ to the component in our bound function.
 
 ### Example 2 - partial function application
-TODO
+We can also utilize _bind_ to create a function with a predefined set of arguments. 
+```
+function multiply(x,y) {
+  return x * y; 
+}
+
+//Create a function that will triple any number
+const triple = multiply.bind(null,3);
+console.log(triple(10));  //30
+```
+We have set the "x" value and pass in the value of "y" whenver we call our "triple" function.  Notice in this example how we passed in _null_ for the value of _this_ and also passed in the values last (this follows our function signature). 
 
 ### Example 3 - using _bind_ in event handling
 
