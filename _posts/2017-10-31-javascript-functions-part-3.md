@@ -105,11 +105,13 @@ let HeaderNavigation = (function() {
     }.bind(this));
 
     //do not bind the value of this to the back button
-    //notice that 'back button' is printed to the screen, but not "going to stage: ..."
-    //NOTE: By hitting "F12" to see the developer tools console, you will
-    //notice that there is an error "uncaught TypeError: this.goToStage is not a function"
-    //This occurs because the "this" in the case below refers to the back button
-    //not to our Navigation
+    //notice that 'back button' is printed to the screen, but 
+    //not "going to stage: ..."
+    //NOTE: By hitting "F12" to see the developer tools console, 
+    //you will notice that there is an error 
+    //"uncaught TypeError: this.goToStage is not a function"
+    //This occurs because the "this" in the case below refers 
+    //to the back button not to our Navigation
     this.buttonBack.addEventListener('click', this.click);
 
     //bind the click function to our Navigation Object
