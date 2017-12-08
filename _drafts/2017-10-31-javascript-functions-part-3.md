@@ -11,7 +11,7 @@ As we have learned in [part 1](https://ajahne.github.io/blog/jekyll/javascript/f
 ### Definition:
 **bind** – method of the Function object that creates a new function that when called has it’s _this_ value mapped to the given parameter and uses the set arguments.
 
-bind returns a new function with the value of _this_ locked (bound) to a function – “this is handcuffed and locked down”  
+_bind_ returns a new function with the value of _this_ locked (bound) to a function – “this is handcuffed and locked down”  
 General form:
 ```
 aFunction.bind(_thisValue_, arg1, arg2,..., argN); 
