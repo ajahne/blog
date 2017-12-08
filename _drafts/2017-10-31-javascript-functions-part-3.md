@@ -156,8 +156,8 @@ Link to [JSFiddle](https://jsfiddle.net/f5vs5jug/11/).
 
 
 ### Why/when would you use this function?
-  - you want to lock in the value of _this_, helpful for event handlers
-  - want to “partially apply” functions (“partial function application” is beyond the current scope of our discussion, but feel free to read up on it!)
+  - you want to lock in the value of _this_, helpful for event handlers (see: example 1 and example 3)
+  - want to “partially apply” functions by locking in arguments (see: example 2)
 
 ### Conclusion
 TBD
