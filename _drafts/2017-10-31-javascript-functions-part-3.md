@@ -160,7 +160,7 @@ Link to [JSFiddle](https://jsfiddle.net/f5vs5jug/11/).
   - want to “partially apply” functions by locking in arguments (see: example 2)
 
 ### Conclusion
-TBD
+The Function object is a fundamental component of the JavaScript language and learning to leverage its _bind_ method can help us simplify code and promote reusability. Through examples, we have observesed how _bind_ can be used to lock in the value of _this_, which is helpful to borrow functions and to ensure we are targeting the correct object in our programs(e.g. in event handlers).  By leveraging _bind_ we can also create partially applied functions that allow us to reuse arguments and functionality. For further reading, check out the additional resources below and be sure to try out your own examples.
 
 ### Additional Resources
 - Great definitions with examples from Mozilla on [bind](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)
