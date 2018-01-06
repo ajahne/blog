@@ -55,8 +55,8 @@ Ok, how was that? Still with me? Let’s recap:
 Closure occurs every time a function is created and this function has access to the variables of its outer scope (be it global or a containing function).   Additionally, this function retains access to this outer scope and can continue to access this scope (variables, etc.).  Not so bad, right? OK?, OK. For additional examples and readings, check out the resources below.
 
 ### Additional Resources
-- A great introduction to closures from Mozilla that provides practical cases
+- A great [introduction to closures from Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures) that provides practical cases
 - A great stackoverflow answer with additional examples
-- JavaScript is sexy on understanding closures
+- [JavaScript is sexy](http://javascriptissexy.com/understand-javascript-closures-with-ease/) on understanding closures
 - Additional medium resource of closure in plain English
 - Mastering the JS interview by answering, What is closure? Note: examples are ES6
