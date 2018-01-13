@@ -8,10 +8,25 @@ categories: jekyll javascript functions closure
 ### Introduction
 We are back! The fun with functions tour continues.  Next stop…Closure!  
 
-Oftentimes we as developers hear the term “closure” and become filled with anxiety.  Closures are not something mythical or magical, not some mystical creature hiding in the wilderness.  Rather, they are a practical concept that we use every time we write a function. The concept of Closure is sometimes confusing, but becomes clearer when we work with examples and write code.  Closures are also the building block for key JavaScript patterns  such as modules.  
+Oftentimes we as developers hear the term “closure” and become filled with anxiety.  Closures are not something mythical or magical, not some mystical creature hiding in the wilderness.  Rather, they are a practical concept that we use every time we write a function. The concept of Closure is sometimes confusing, but becomes clearer when we work with examples and write code.  Closures are also the building block for key JavaScript patterns such as modules.  
+
+Let's dive in to our first closure:
+
+```
+let castMagicSpell = (magicSpell) => {
+  const magicWords = 'I am casting ' + magicSpell;
+  //the closure allows our doMagic function to access the magicWords variable
+  const doMagic = () => {
+    console.log(magicWords);
+  }
+  doMagic();
+}
+```
+
+Pretty straightforward, now let's go further.
 
 ### Definition
-The academic definition of closure can simply be “an inner function defined in an outer function” or “the creation of a function, creates a closure”.  While both of these statements are technically true, they do not get to the practical purposes and application of closures.  
+The "academic" definition of closure can simply be “an inner function defined in an outer function” or “the creation of a function, creates a closure”.  While both of these statements are technically true, they do not get to the practical purposes and application of closures.  
 
 **A technical definition**: A function that references the lexical scope.
 
@@ -31,10 +46,10 @@ The academic definition of closure can simply be “an inner function defined in
 - Closures can access their lexical scope (variables declared at author time), even when it is executed outside of its lexical scope (i.e. called at a later time)
 
 ### Why/when would we use closure?
-Closures can help us address the following:
+So all that is well and good, but what can we actually do?  Why do we even care?  Well, by using closures we can write code that address the following two concepts: privacy and state.
 
 **Privacy**  
-JavaScript does not have private methods.  However, the use of closures, can emulate this concepts. Privacy is a way of separating concerns, keeping non-essential methods from being accessed through your public API.
+JavaScript does not have private methods.  However, the use of closures, can emulate this concept. Privacy is a way of separating concerns, keeping non-essential methods from being accessed through our public API.
 
 ```
 const createDinnerMaker = () => {
@@ -72,7 +87,7 @@ myDinnerMaker.bakeFish();
 You can view the codepen version [here](https://codepen.io/ajahne/pen/BRgXyp).
 
 **State**
-We can also use closure to maintain the value(‘state’) of function arguments at a certain time. We do this through the technique of partial function application. This way we can apply only a subset (i.e. ‘partial’ set) of arguments to a function.
+We can also use closure to maintain the value (i.e. ‘state’) of function arguments at a certain time. We do this through the technique of partial function application. This way we can apply only a subset (i.e. ‘partial’ set) of arguments to a function.
 
 ```
 const number = '271-7713';
