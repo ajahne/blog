@@ -37,37 +37,35 @@ Closures can help us address the following:
 JavaScript does not have private methods.  However, the use of closures, can emulate this concepts. Privacy is a way of separating concerns, keeping non-essential methods from being accessed through your public API.
 
 ```
-var myDinnerMaker;
+const createDinnerMaker = () => {
+  let temperature = 0;
 
-function createDinnerMaker() {
-  var temperature = 0;
-
-  function setOvenTemperature(value) {
+  const setOvenTemperature = value => {
     temperature = value;
   }
 
-  function bake(food) {
+  const bake = food => {
     console.log('baking: ' + food);
   }
 
-  function bakeChicken() {
+  const bakeChicken = () => {
     setOvenTemperature(425);
     bake('chicken');
   }
 
-  function bakeFish() {
+  const bakeFish = () => {
     setOvenTemperature(350);
     bake('fish');
   }
 
   return {
-    bakeChicken: bakeChicken,
-    bakeFish: bakeFish
+    bakeChicken,
+    bakeFish
   }
 }
 
 //calling the function makeDinner returns an object, this return triggers the closure.
-myDinnerMaker = createDinnerMaker();
+cont myDinnerMaker = createDinnerMaker();
 myDinnerMaker.bakeChicken();
 myDinnerMaker.bakeFish();
 ```
@@ -77,18 +75,16 @@ You can view the codepen version [here](https://codepen.io/ajahne/pen/BRgXyp).
 We can also use closure to maintain the value(‘state’) of function arguments at a certain time. We do this through the technique of partial function application. This way we can apply only a subset (i.e. ‘partial’ set) of arguments to a function.
 
 ```
-var number = '271-7713';
-var addNewYorkAreaCode;
-var addSpringfieldAreaCode;
+const number = '271-7713';
 
-function addAreaCode(areaCode) {
-  return function(number) {
+const addAreaCode = areaCode => {
+  return (number) => {
     return areaCode + number;
   }
 }
 
-addNewYorkAreaCode = addAreaCode('212-');
-addSpringfieldAreaCode = addAreaCode('413-');
+const addNewYorkAreaCode = addAreaCode('212-');
+const addSpringfieldAreaCode = addAreaCode('413-');
 
 console.log('Your Springfield number is: ' + addSpringfieldAreaCode(number));
 console.log('Your New York number is: ' + addNewYorkAreaCode(number));
