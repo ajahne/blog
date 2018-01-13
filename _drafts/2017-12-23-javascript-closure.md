@@ -71,6 +71,7 @@ myDinnerMaker = createDinnerMaker();
 myDinnerMaker.bakeChicken();
 myDinnerMaker.bakeFish();
 ```
+You can view the codepen version [here](https://codepen.io/ajahne/pen/BRgXyp).
 
 **State**
 We can also use closure to maintain the value(‘state’) of function arguments at a certain time. We do this through the technique of partial function application. This way we can apply only a subset (i.e. ‘partial’ set) of arguments to a function.
@@ -92,14 +93,15 @@ addSpringfieldAreaCode = addAreaCode('413-');
 console.log('Your Springfield number is: ' + addSpringfieldAreaCode(number));
 console.log('Your New York number is: ' + addNewYorkAreaCode(number));
 ```
+You can view the codepen version [here](https://codepen.io/ajahne/pen/gWNVrw). 
 
 **Some more practical examples**:
 
 **Loops**
-- Sometimes creating a function in a loop (say creating a callback for a DOM event listener) may not work as expected given how the closure is created.  To better handle this scenario and ensure our handlers work as expected in our loops, we can utilize additional closures.
+- Sometimes creating a function in a loop (say creating a callback for a DOM event listener) may not work as expected given how the closure is created ([see codepen example](https://codepen.io/ajahne/pen/jmjgLx)).  To better handle this scenario and ensure our handlers work as expected in our loops, we can [utilize additional closures](https://codepen.io/ajahne/pen/LyKwOE).
 
 **SetTimeout**
-- Another time we may run into challenges with scope and require closures is with setTimeout.  To illustrate the different ways (through IFFE, through explicit function calls) that we can ensure we are accessing variables as expected, explore this setTimeout example.
+- Another time we may run into challenges with scope and require closures is with setTimeout.  To illustrate the different ways (through IFFE, through explicit function calls) that we can ensure we are accessing variables as expected, [explore this setTimeout example](https://codepen.io/ajahne/pen/qmzJgp).
 
 ### Conclusion
 Ok, how was that? Still with me? Let’s recap:  
