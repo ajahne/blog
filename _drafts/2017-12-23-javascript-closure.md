@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "JavaScript Closure"
-date:   2017-12-23 6:10:00 -0400
+title: "JavaScript Closure"
+date: 2017-12-23 6:10:00 -0400
 categories: jekyll javascript functions closure
 ---
 
@@ -33,14 +33,65 @@ The academic definition of closure can simply be “an inner function defined in
 ### Why/when would we use closure?
 Closures can help us address the following:
 
-**Privacy**
-- JavaScript does not have private methods.  However, the use of closures, can emulate this concepts. Privacy is a way of separating concerns, keeping non-essential methods from being accessed through your public API.
+**Privacy**  
+JavaScript does not have private methods.  However, the use of closures, can emulate this concepts. Privacy is a way of separating concerns, keeping non-essential methods from being accessed through your public API.
 
-- This codepen example showcases the utilization of closure to emulate private methods.
+```
+var myDinnerMaker;
+
+function createDinnerMaker() {
+  var temperature = 0;
+
+  function setOvenTemperature(value) {
+    temperature = value;
+  }
+
+  function bake(food) {
+    console.log('baking: ' + food);
+  }
+
+  function bakeChicken() {
+    setOvenTemperature(425);
+    bake('chicken');
+  }
+
+  function bakeFish() {
+    setOvenTemperature(350);
+    bake('fish');
+  }
+
+  return {
+    bakeChicken: bakeChicken,
+    bakeFish: bakeFish
+  }
+}
+
+//calling the function makeDinner returns an object, this return triggers the closure.
+myDinnerMaker = createDinnerMaker();
+myDinnerMaker.bakeChicken();
+myDinnerMaker.bakeFish();
+```
 
 **State**
-- We can also use closure to maintain the value(‘state’) of function arguments at a certain time. We do this through the technique of partial function application. This way we can apply only a subset (i.e. ‘partial’ set) of arguments to a function.
-- Check out this codepen example of partial function application, using closure to maintain state.
+We can also use closure to maintain the value(‘state’) of function arguments at a certain time. We do this through the technique of partial function application. This way we can apply only a subset (i.e. ‘partial’ set) of arguments to a function.
+
+```
+var number = '271-7713';
+var addNewYorkAreaCode;
+var addSpringfieldAreaCode;
+
+function addAreaCode(areaCode) {
+  return function(number) {
+    return areaCode + number;
+  }
+}
+
+addNewYorkAreaCode = addAreaCode('212-');
+addSpringfieldAreaCode = addAreaCode('413-');
+
+console.log('Your Springfield number is: ' + addSpringfieldAreaCode(number));
+console.log('Your New York number is: ' + addNewYorkAreaCode(number));
+```
 
 **Some more practical examples**:
 
