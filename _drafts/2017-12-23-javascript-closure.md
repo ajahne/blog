@@ -93,7 +93,7 @@ addSpringfieldAreaCode = addAreaCode('413-');
 console.log('Your Springfield number is: ' + addSpringfieldAreaCode(number));
 console.log('Your New York number is: ' + addNewYorkAreaCode(number));
 ```
-You can view the codepen version [here](https://codepen.io/ajahne/pen/gWNVrw). 
+You can view the codepen version [here](https://codepen.io/ajahne/pen/gWNVrw).
 
 **Some more practical examples**:
 
@@ -109,7 +109,7 @@ Closure occurs every time a function is created and this function has access to 
 
 ### Additional Resources
 - A great [introduction to closures from Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures) that provides practical cases
-- A great stackoverflow answer with additional examples
+- A great [stackoverflow answer](https://stackoverflow.com/questions/111102/how-do-javascript-closures-work) with additional examples
 - [JavaScript is sexy](http://javascriptissexy.com/understand-javascript-closures-with-ease/) on understanding closures
-- Additional medium resource of closure in plain English
-- Mastering the JS interview by answering, What is closure? Note: examples are ES6
+- Additional medium resource of [closures in plain English](https://medium.freecodecamp.org/whats-a-javascript-closure-in-plain-english-please-6a1fc1d2ff1c)
+- Mastering the JS interview by answering, [what is closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
