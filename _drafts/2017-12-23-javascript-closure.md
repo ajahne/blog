@@ -10,7 +10,7 @@ We are back! The fun with functions tour continues.  Next stop…Closure!
 
 Oftentimes we as developers hear the term “closure” and become filled with anxiety.  Closures are not something mythical or magical, not some mystical creature hiding in the wilderness.  Rather, they are a practical concept that we use every time we write a function. The concept of Closure is sometimes confusing, but becomes clearer when we work with examples and write code.
 
-Let's dive in to our first closure:
+Let's dive into our first closure:
 
 ```
 let castMagicSpell = (magicSpell) => {
