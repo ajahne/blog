@@ -12,7 +12,7 @@ Oftentimes we as developers hear the term “closure” and become filled with a
 
 Let's dive into our first closure:
 
-```
+{% highlight js %}
 let castMagicSpell = (magicSpell) => {
   const magicWords = 'I am casting ' + magicSpell;
   //the closure allows our doMagic function to access the magicWords variable
@@ -23,7 +23,7 @@ let castMagicSpell = (magicSpell) => {
 }
 
 castMagicSpell('abracadabra'); //I am casting abracadabra
-```
+{% endhighlight %}
 
 Pretty straightforward, now let's go further, starting with some definitions.
 
@@ -52,7 +52,7 @@ So all that is well and good, but what can we actually do?  Why do we even care?
 **Privacy**  
 JavaScript does not have private methods.  However, the use of closures, can emulate this concept. Privacy is a way of separating concerns, keeping non-essential methods from being accessed through our public API.
 
-```
+{% highlight js %}
 const createDinnerMaker = () => {
   let temperature = 0;
 
@@ -80,17 +80,18 @@ const createDinnerMaker = () => {
   }
 }
 
-//calling the function makeDinner returns an object, this return triggers the closure.
+//calling the function makeDinner returns an object
+//this return triggers the closure.
 cont myDinnerMaker = createDinnerMaker();
 myDinnerMaker.bakeChicken(); //baking chicken
 myDinnerMaker.bakeFish();    //baking fish
-```
+{% endhighlight %}
 You can view the codepen version [here](https://codepen.io/ajahne/pen/BRgXyp).
 
 **State**  
 We can also use closure to maintain the value (i.e. ‘state’) of function arguments at a certain time. We do this through the technique of partial function application. This way we can apply only a subset (i.e. ‘partial’ set) of arguments to a function.
 
-```
+{% highlight js %}
 const number = '271-7713';
 
 const addAreaCode = areaCode => {
@@ -104,7 +105,7 @@ const addSpringfieldAreaCode = addAreaCode('413-');
 
 console.log(addSpringfieldAreaCode(number)); //413-271-7713
 console.log(addNewYorkAreaCode(number));     //212-271-7713
-```
+{% endhighlight %}
 You can view the codepen version [here](https://codepen.io/ajahne/pen/gWNVrw).
 
 ### More examples
