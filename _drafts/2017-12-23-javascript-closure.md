@@ -22,7 +22,7 @@ let castMagicSpell = (magicSpell) => {
   doMagic();
 }
 
-castMagicSpell('abracadabra');
+castMagicSpell('abracadabra'); //I am casting abracadabra
 ```
 
 Pretty straightforward, now let's go further, starting with some definitions.
@@ -82,8 +82,8 @@ const createDinnerMaker = () => {
 
 //calling the function makeDinner returns an object, this return triggers the closure.
 cont myDinnerMaker = createDinnerMaker();
-myDinnerMaker.bakeChicken();
-myDinnerMaker.bakeFish();
+myDinnerMaker.bakeChicken(); //baking chicken
+myDinnerMaker.bakeFish();    //baking fish
 ```
 You can view the codepen version [here](https://codepen.io/ajahne/pen/BRgXyp).
 
@@ -102,12 +102,12 @@ const addAreaCode = areaCode => {
 const addNewYorkAreaCode = addAreaCode('212-');
 const addSpringfieldAreaCode = addAreaCode('413-');
 
-console.log('Your Springfield number is: ' + addSpringfieldAreaCode(number));
-console.log('Your New York number is: ' + addNewYorkAreaCode(number));
+console.log(addSpringfieldAreaCode(number)); //413-271-713
+console.log(addNewYorkAreaCode(number));     //212-271-713
 ```
 You can view the codepen version [here](https://codepen.io/ajahne/pen/gWNVrw).
 
-**More practical examples**:
+### More examples
 
 **Loops**  
 Sometimes creating a function in a loop (say creating a callback for a DOM event listener) may not work as expected given how the closure is created ([see codepen example](https://codepen.io/ajahne/pen/jmjgLx)).  To better handle this scenario and ensure our handlers work as expected in our loops, we can [utilize additional closures](https://codepen.io/ajahne/pen/LyKwOE).
