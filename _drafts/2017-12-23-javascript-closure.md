@@ -102,8 +102,8 @@ const addAreaCode = areaCode => {
 const addNewYorkAreaCode = addAreaCode('212-');
 const addSpringfieldAreaCode = addAreaCode('413-');
 
-console.log(addSpringfieldAreaCode(number)); //413-271-713
-console.log(addNewYorkAreaCode(number));     //212-271-713
+console.log(addSpringfieldAreaCode(number)); //413-271-7713
+console.log(addNewYorkAreaCode(number));     //212-271-7713
 ```
 You can view the codepen version [here](https://codepen.io/ajahne/pen/gWNVrw).
 
@@ -116,8 +116,7 @@ Sometimes creating a function in a loop (say creating a callback for a DOM event
 Another time we may run into challenges with scope and require closures is with setTimeout.  To illustrate the different ways (through IFFE, through explicit function calls) that we can ensure we are accessing variables as expected, [explore this setTimeout example](https://codepen.io/ajahne/pen/qmzJgp).
 
 ### Conclusion
-Ok, how was that? Still with me? Let’s recap:  
-Closure occurs every time a function is created and this function has access to the variables of its outer scope (be it global or a containing function).   Additionally, this function retains access to this outer scope and can continue to access this scope (variables, etc.).  Not so bad, right? OK?, OK. For additional examples and readings, check out the resources below.
+Ok, still with me? Let’s recap: Closure occurs every time a function is created and this function has access to the variables of its outer scope (be it global or a containing function).  Additionally, this function retains access to this outer scope and can continue to access this scope (variables, etc.).  Not so bad, right? Right. For additional examples and readings, check out the resources below.
 
 ### Additional Resources
 - A great [introduction to closures from Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures) that provides practical cases
