@@ -5,7 +5,7 @@ date:   2018-01-11 20:56:29 -0400
 categories: jekyll javascript scope
 ---
 
-### What is scope?
+### What is Scope?
 Scope defines where a variable or function is accessible. It is the current context of execution within the program. Scopes are hierarchical, where child scopes can access parent scopes, but not vice versa. Scopes can be defined globally or locally and there are three core "buckets" of scope: global, function, and block.  
 
 ### Global Scope  
@@ -31,7 +31,7 @@ greet(); //Hello
   - For example if you are using ```JQuery``` in your application renaming ```$``` would create issues
 - Reducing global scope can be achieved through modules and namespaces. In short, both of these reduce the pollution of global scope by placing variables and functions under one “umbrella” variable name or function. 
 
-### Function scope
+### Function Scope
 Functions can also define scope, new areas where code is "visible".
 
 {% highlight js %}
@@ -55,7 +55,7 @@ saySomething();         //'Saying something wonderful'
 console.log(something); //something
 {% endhighlight %}
 
-### Block scope
+### Block Scope
 Introduced in ES6, block scope is now available in JavaScript. Block scope is defined within a pair of curly brackets (e.g. ```{}```) and may be optionally labeled. Block scope can only be utilized with ```let``` and ```const``` as declaring variables in a block with ```var``` will not work as expected.
 
 {% highlight js %}
