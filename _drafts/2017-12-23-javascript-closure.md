@@ -8,7 +8,7 @@ categories: jekyll javascript functions closure
 ### Introduction
 We are back! The fun with functions tour continues.  Next stop…Closure!  
 
-Oftentimes we as developers hear the term “closure” and become filled with anxiety.  Closures are not something mythical or magical, not some mystical creature hiding in the wilderness.  Rather, they are a practical concept that we use every time we write a function. The concept of Closure is sometimes confusing, but becomes clearer when we work with examples and write code.  Closures are also the building block for key JavaScript patterns such as modules.  
+Oftentimes we as developers hear the term “closure” and become filled with anxiety.  Closures are not something mythical or magical, not some mystical creature hiding in the wilderness.  Rather, they are a practical concept that we use every time we write a function. The concept of Closure is sometimes confusing, but becomes clearer when we work with examples and write code.
 
 Let's dive in to our first closure:
 
@@ -21,17 +21,18 @@ let castMagicSpell = (magicSpell) => {
   }
   doMagic();
 }
+
+castMagicSpell('abracadabra');
 ```
 
-Pretty straightforward, now let's go further.
+Pretty straightforward, now let's go further, starting with some definitions.
 
 ### Definition
 The "academic" definition of closure can simply be “an inner function defined in an outer function” or “the creation of a function, creates a closure”.  While both of these statements are technically true, they do not get to the practical purposes and application of closures.  
 
 **A technical definition**: A function that references the lexical scope.
 
-**A practical definition**:  An inner function defined in an outer function that retains access to the outer function’s scope (e.g. variables) after the outer function has returned.
- - Technically, the outer function does not have to return
+**A practical definition**: An inner function defined in an outer function that retains access to the outer function’s scope (e.g. variables) after the outer function has returned. _Technically, the outer function does not have to return_.
 
 ### Key takeaways
 - Every JavaScript function forms a closure
@@ -46,7 +47,7 @@ The "academic" definition of closure can simply be “an inner function defined 
 - Closures can access their lexical scope (variables declared at author time), even when it is executed outside of its lexical scope (i.e. called at a later time)
 
 ### Why/when would we use closure?
-So all that is well and good, but what can we actually do?  Why do we even care?  Well, by using closures we can write code that address the following two concepts: privacy and state.
+So all that is well and good, but what can we actually do?  Why do we even care?  Well, by using closures we can write code that addresses the following two concepts: privacy and state.
 
 **Privacy**  
 JavaScript does not have private methods.  However, the use of closures, can emulate this concept. Privacy is a way of separating concerns, keeping non-essential methods from being accessed through our public API.
@@ -86,7 +87,7 @@ myDinnerMaker.bakeFish();
 ```
 You can view the codepen version [here](https://codepen.io/ajahne/pen/BRgXyp).
 
-**State**
+**State**  
 We can also use closure to maintain the value (i.e. ‘state’) of function arguments at a certain time. We do this through the technique of partial function application. This way we can apply only a subset (i.e. ‘partial’ set) of arguments to a function.
 
 ```
@@ -106,13 +107,13 @@ console.log('Your New York number is: ' + addNewYorkAreaCode(number));
 ```
 You can view the codepen version [here](https://codepen.io/ajahne/pen/gWNVrw).
 
-**Some more practical examples**:
+**More practical examples**:
 
-**Loops**
-- Sometimes creating a function in a loop (say creating a callback for a DOM event listener) may not work as expected given how the closure is created ([see codepen example](https://codepen.io/ajahne/pen/jmjgLx)).  To better handle this scenario and ensure our handlers work as expected in our loops, we can [utilize additional closures](https://codepen.io/ajahne/pen/LyKwOE).
+**Loops**  
+Sometimes creating a function in a loop (say creating a callback for a DOM event listener) may not work as expected given how the closure is created ([see codepen example](https://codepen.io/ajahne/pen/jmjgLx)).  To better handle this scenario and ensure our handlers work as expected in our loops, we can [utilize additional closures](https://codepen.io/ajahne/pen/LyKwOE).
 
-**SetTimeout**
-- Another time we may run into challenges with scope and require closures is with setTimeout.  To illustrate the different ways (through IFFE, through explicit function calls) that we can ensure we are accessing variables as expected, [explore this setTimeout example](https://codepen.io/ajahne/pen/qmzJgp).
+**SetTimeout**  
+Another time we may run into challenges with scope and require closures is with setTimeout.  To illustrate the different ways (through IFFE, through explicit function calls) that we can ensure we are accessing variables as expected, [explore this setTimeout example](https://codepen.io/ajahne/pen/qmzJgp).
 
 ### Conclusion
 Ok, how was that? Still with me? Let’s recap:  
