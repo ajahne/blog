@@ -36,6 +36,15 @@ _index.html_
 </html>
 {% endhighlight %}
 
+Out folder structure will be
+```
+src
+  |_ index.html
+  |_ main.js
+  |_ module.js
+```
+where `module.js` may be `add.js`, `mathUtils.js`, etc., based on the example.
+
 ### Export
 Want to maximize code reuse? JavaScript modules helps us achieve this goal.  The `export` statement allows us to write modules that can export objects, functions, or primitive values, which can then be utilized by other programs using the `import` statement.
 
@@ -47,7 +56,7 @@ let add = (a,b) => a + b;
 {% endhighlight %}
 
 #### **Default export**
-The default export will be exported by, yep you guessed it default.  This means that it will be the base import by another piece of code.  Let's see how that works.
+The default export will be exported by, yep you guessed it, default.  This means that it will be the base import by another piece of code.  Let's see how that works.
 
 _add.js_
 {% highlight js %}
@@ -58,14 +67,14 @@ export default add;
 
 _main.js_
 {% highlight js %}
-import add from 'add.js';
+import add from './add.js';
 console.log(add(5,4));  //9
 {% endhighlight %}
 
 As the ```add``` function is the default export, even if we change the name of the identifier when importing, it will still map to the ```add``` function.
 {% highlight js %}
 //changing the identifier to show how it does not matter
-import foo from 'add.js';
+import foo from './add.js';
 console.log(foo(5,4));  //9
 {% endhighlight %}
 
@@ -77,7 +86,7 @@ export default function(a,b) {
 {% endhighlight %}
 We can still use it in our code the same way as before
 {% highlight js %}
-import add from 'add.js';
+import add from './add.js';
 console.log(add(5,4));  //9
 {% endhighlight %}
 
@@ -92,7 +101,7 @@ export {multiply};
 
 _main.js_
 {% highlight js %}
-import {multiply} from 'multiply.js';
+import {multiply} from './multiply.js';
 console.log(multiply(10,10));  //100
 {% endhighlight %}
 
@@ -106,7 +115,7 @@ export {multiply};
 
 _main.js_
 {% highlight js %}
-import foo from 'multiply.js';
+import foo from './multiply.js';
 console.log(foo(10,10));  // SyntaxError: Importing binding name 'default' cannot be resolved by star export entries.
 {% endhighlight %}
 
@@ -125,7 +134,7 @@ export {add, multiply};
 
 _main.js_
 {% highlight js %}
-import {add, multiply} from 'multiply.js';
+import {add, multiply} from './multiply.js';
 console.log(add(5,4));  //9
 console.log(multiply(10,10));  //100
 {% endhighlight %}
@@ -195,7 +204,7 @@ log('Hello Module'); //Hello Module
 **A note on default import**  
 Default exports do not require brackets (i.e. `{}`) when importing.
 {% highlight js %}
-import add from 'add.js';
+import add from './add.js';
 console.log(add(5,4));  //9
 {% endhighlight %}
 
