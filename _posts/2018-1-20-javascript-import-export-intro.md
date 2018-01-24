@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introduction to Javascript modules: import and export"
-date:   2018-01-20 22:10:29 -0400
+date:   2018-01-22 23:41:29 -0400
 categories: jekyll javascript import export
 ---
 
