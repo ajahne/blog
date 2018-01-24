@@ -56,7 +56,7 @@ let add = (a,b) => a + b;
 {% endhighlight %}
 
 #### **Default export**
-The default export will be exported by, yep you guessed it, default.  This means that it will be the base import by another piece of code.  Let's see how that works.
+The default export will be exported by, yep you guessed it, default.  This means that it will be the base import used by another piece of code.  Let's see how that works.
 
 _add.js_
 {% highlight js %}
@@ -119,7 +119,9 @@ import foo from './multiply.js';
 console.log(foo(10,10));  // SyntaxError: Importing binding name 'default' cannot be resolved by star export entries.
 {% endhighlight %}
 
-With named exports, we can import multiple items as once  
+Doing this will cause an error.
+
+**With named exports, we can import multiple items as once**  
 
 _mathUtils.js_
 {% highlight js %}
@@ -134,7 +136,7 @@ export {add, multiply};
 
 _main.js_
 {% highlight js %}
-import {add, multiply} from './multiply.js';
+import {add, multiply} from './mathUtils.js';
 console.log(add(5,4));  //9
 console.log(multiply(10,10));  //100
 {% endhighlight %}
