@@ -2,7 +2,7 @@
 layout: post
 title:  "Introduction to Javascript modules: import and export"
 date:   2018-01-22 23:41:29 -0400
-categories: jekyll javascript import export
+categories: jekyll javascript modules import export
 ---
 
 ### Introduction
@@ -71,7 +71,7 @@ import add from './add.js';
 console.log(add(5,4));  //9
 {% endhighlight %}
 
-As the ```add``` function is the default export, even if we change the name of the identifier when importing, it will still map to the ```add``` function.
+As the `add` function is the default export, even if we change the name of the identifier when importing, it will still map to the `add` function.
 {% highlight js %}
 //changing the identifier to show how it does not matter
 import foo from './add.js';
