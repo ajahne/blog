@@ -4,7 +4,7 @@ title:  "JavaScript Functions - Part 2: Call and Apply"
 date:   2017-10-24 10:50:00 -0400
 categories: jekyll javascript functions
 ---
-Functions are [first class objects](https://stackoverflow.com/questions/705173/what-is-meant-by-first-class-object), which gives them full access to properties and methods.  Three key methods of the Function object are _call_, _apply_, and _bind_. These methods allow us to reuse functions, simplify the passing of arguments, and even lock in the value of _this_.  
+Functions are [first class objects](https://stackoverflow.com/questions/705173/what-is-meant-by-first-class-object), which gives them full access to properties and methods.  Three key methods of the Function object are _call_, _apply_, and [_bind_]({{ site.baseurl }}{% post_url 2017-10-31-javascript-functions-part-3 %}). These methods allow us to reuse functions, simplify the passing of arguments, and even lock in the value of _this_.  
 
 In the following post, we will cover _call_ and _apply_, while a follow up will talk about _bind_.  Often these three methods are combined in the same discussion, mainly due to each being a key method of the Function object, not necessarily because they are linked.  Two of these, _call_ and _apply_ are similar, so let's dive in and get to some definitions and examples.  
 
