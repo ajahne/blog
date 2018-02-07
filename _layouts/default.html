@@ -18,9 +18,10 @@
 
     {% include browser-upgrade.html %}
 
-
     {% if page.url != "/" %}
+      {% unless page.url contains 'page' %}
         {% include masthead.html %}
+      {% endunless %}
     {% endif %}
 
     <div class="initial-content">
