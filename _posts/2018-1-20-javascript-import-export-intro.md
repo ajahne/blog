@@ -44,7 +44,7 @@ src
 where `module.js` may be `add.js`, `mathUtils.js`, etc., based on the example.
 
 ### Export
-Want to maximize code reuse? JavaScript modules helps us achieve this goal.  The `export` statement allows us to write modules that can export objects, functions, or primitive values, which can then be utilized by other programs using the `import` statement.
+Want to maximize code reuse? JavaScript modules help us achieve this goal.  The `export` statement allows us to write modules that can export objects, functions, or primitive values, which can then be utilized by other programs using the `import` statement.
 
 There are two ways to export: default and named. Let's write a quick utility and then show how to utilize default and named exports.
 
