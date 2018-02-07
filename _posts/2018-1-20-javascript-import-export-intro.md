@@ -34,7 +34,7 @@ _index.html_
 </html>
 {% endhighlight %}
 
-Out folder structure will be
+Our folder structure will be
 ```
 src
   |_ index.html
