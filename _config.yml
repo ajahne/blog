@@ -16,17 +16,24 @@
 title: Hello Ajahne
 # email: your-email@example.com
 description: > # this means to ignore newlines until "baseurl:"
-  An awesome description for my blog is currently being coded up by a powerful
-  all-knowing programmer as we speak. Until that time...here is a smiley face :).
+  const blog = ['languages', 'learning', 'leadership', 'life'];
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://ajahne.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ajahne
+author:
+  name             : "ajahne"
+  github           : "ajahne"
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes"
+
 plugins:
   - jekyll-feed
+
+
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
