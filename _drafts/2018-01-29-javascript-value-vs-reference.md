@@ -20,6 +20,7 @@ A reference points to a location in memory that contains a value.
 - Boolean
 - Null
 - Undefined
+- Symbol
 
 ### Reference Values
 - Object
