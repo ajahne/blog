@@ -4,8 +4,6 @@ title:  "JavaScript Functions - Part 3: Bind"
 date:   2017-10-31 10:50:00 -0400
 categories: jekyll javascript functions
 ---
-
-### Introduction
 As we have learned in [part 1](https://ajahne.github.io/blog/jekyll/javascript/functions/2017/10/09/javascript-functions-part-1.html) of our series, functions are [first class objects](https://stackoverflow.com/questions/705173/what-is-meant-by-first-class-object), which gives them full access to properties and methods. In [part 2](https://ajahne.github.io/blog/jekyll/javascript/functions/2017/10/24/javascript-functions-part-2.html), we examined [_call_ and _apply_](https://ajahne.github.io/blog/jekyll/javascript/functions/2017/10/24/javascript-functions-part-2.html).  In the following post will cover another core method of the Function object, _bind_. Let's dive in.  
 
 ### Definition:
