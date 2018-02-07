@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Value vs Reference"
 date:   2018-01-29 22:13:29 -0400
 categories: jekyll javascript value reference

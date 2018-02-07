@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "JavaScript Functions - Part 2: Call and Apply"
 date:   2017-10-24 10:50:00 -0400
 categories: jekyll javascript functions

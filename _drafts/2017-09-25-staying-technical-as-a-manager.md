@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Staying Technical As a Manager!"
 date:   2017-09-25 22:16:29 -0400
 ---
@@ -7,7 +7,7 @@ date:   2017-09-25 22:16:29 -0400
 # Staying Technical as a Manager
 As an engineering manager, one of the biggest challenges is to find the balance between being a great mentor, leader, and coach while staying on top of the constant changes in technology.  As an engineering leader we must be able to communicate with executives, meet with clients, set the technology roadmap and vision, motivate our teams, while in parallel keep our technical skills sharp.
 
-So, maybe you are a tech lead responsible for a project and working with peers to meet a collective goal. Maybe you are an engineering manager or director leading a team of senior engineers and building out critical features on the product roadmap.  Or maybe you are the VP of engineering responsible for overseeing all technology teams plus collaborating with peers across departments. Maybe you are mentoring your company's first intern and have to manage your time between onboarding and developing. 
+So, maybe you are a tech lead responsible for a project and working with peers to meet a collective goal. Maybe you are an engineering manager or director leading a team of senior engineers and building out critical features on the product roadmap.  Or maybe you are the VP of engineering responsible for overseeing all technology teams plus collaborating with peers across departments. Maybe you are mentoring your company's first intern and have to manage your time between onboarding and developing.
 
 As an engineering manager, you are expected to conduct 1-1 meetings, write brilliant emails that summarize a whirlwind of topics into concise bullets, work with executives, manage vendors, and so much more. You love every minute (hopefully). And yet...how do you find time to stay on top of technology trends?
 
@@ -25,7 +25,7 @@ Some suggestions:
 - The "You Don't Know JS" Series
 - Books by Zakas
 
-This is just start, this section (and many of the others) could be there own post! 
+This is just start, this section (and many of the others) could be there own post!
 
 ## Sign up for a newsletter (or three)
 Here are some great newsletters that I find invaluable
@@ -77,7 +77,7 @@ great list to start you off: https://www.thebalance.com/programmers-on-twitter-2
 - https://twitter.com/DZone/status/932624962162216960
 - https://twitter.com/lemiorhan
 - https://twitter.com/donovanbrown
-- https://twitter.com/JavaScriptKicks 
+- https://twitter.com/JavaScriptKicks
 
 ## Read some wonderful blogs
 - https://blog.codinghorror.com
@@ -86,14 +86,14 @@ great list to start you off: https://www.thebalance.com/programmers-on-twitter-2
 - https://www.toptal.com/developers/blog
 - https://alistapart.com
 - https://martinfowler.com
-- https://www.joelonsoftware.com 
+- https://www.joelonsoftware.com
 - https://davidwalsh.name/
 - https://medium.com/javascript-scene
 - https://www.sumologic.com/blog/
 - https://blog.gruntwork.io/
 - https://aws.amazon.com/blogs/security/
 
-## Donwload a podcast 
+## Donwload a podcast
 - TBD
 
 ## Attend Meetups

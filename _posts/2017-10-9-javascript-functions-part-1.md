@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "JavaScript Functions - Part 1"
 date:   2017-10-09 20:56:29 -0400
 categories: jekyll javascript functions

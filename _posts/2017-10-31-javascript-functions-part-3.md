@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "JavaScript Functions - Part 3: Bind"
 date:   2017-10-31 10:50:00 -0400
 categories: jekyll javascript functions
@@ -14,7 +14,7 @@ As we have learned in [part 1](https://ajahne.github.io/blog/jekyll/javascript/f
 _bind_ returns a new function with the value of _this_ locked (bound) to a function  
 General form:
 {% highlight js %}
-aFunction.bind(_thisValue_, arg1, arg2,..., argN); 
+aFunction.bind(_thisValue_, arg1, arg2,..., argN);
 {% endhighlight %}
 
 ### Examples
@@ -48,17 +48,17 @@ console.log(boundGetName()); //"Component"
 So what happened in our previous example? Why was "Component" printed and not "Global"?  The reason is that we bound the _this_ value to our component object.  Even though the first call to getName() returns "Global", we subsequently locked the value of _this_ to the component in our bound function.
 
 #### Example 2 - partial function application
-We can also utilize _bind_ to create a function with a predefined set of arguments. 
+We can also utilize _bind_ to create a function with a predefined set of arguments.
 {% highlight js %}
 function multiply(x,y) {
-  return x * y; 
+  return x * y;
 }
 
 //Create a function that will triple any number
 const triple = multiply.bind(null,3);
 console.log(triple(10));  //30
 {% endhighlight %}
-We have set the "x" value and pass in the value of "y" whenever we call our "triple" function.  Notice in this example how we passed in _null_ for the value of _this_ and also passed in the values last (this follows our function signature). 
+We have set the "x" value and pass in the value of "y" whenever we call our "triple" function.  Notice in this example how we passed in _null_ for the value of _this_ and also passed in the values last (this follows our function signature).
 
 #### Example 3 - using _bind_ in event handling
 
@@ -105,12 +105,12 @@ let HeaderNavigation = (function() {
     }.bind(this));
 
     //do not bind the value of this to the back button
-    //notice that 'back button' is printed to the screen, but 
+    //notice that 'back button' is printed to the screen, but
     //not "going to stage: ..."
-    //NOTE: By hitting "F12" to see the developer tools console, 
-    //you will notice that there is an error 
+    //NOTE: By hitting "F12" to see the developer tools console,
+    //you will notice that there is an error
     //"uncaught TypeError: this.goToStage is not a function"
-    //This occurs because the "this" in the case below refers 
+    //This occurs because the "this" in the case below refers
     //to the back button not to our Navigation
     this.buttonBack.addEventListener('click', this.click);
 
@@ -146,7 +146,7 @@ let HeaderNavigation = (function() {
 
 /**
  * Print the value to the screen
- * @param {string} value the info to log 
+ * @param {string} value the info to log
  */
 function print(value) {
   console.log(value);

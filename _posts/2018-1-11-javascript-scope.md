@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "JavaScript Scope"
 date:   2018-01-11 20:56:29 -0400
 categories: jekyll javascript scope
