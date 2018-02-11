@@ -2,7 +2,7 @@
 layout: single
 title:  "Introduction to Javascript modules: import and export"
 date:   2018-01-22 23:41:29 -0400
-categories: jekyll javascript modules import export
+categories: javascript
 ---
 JavaScript modules are now supported in most modern browsers. Let's start using them!
 

@@ -2,7 +2,7 @@
 layout: single
 title:  "JavaScript Functions - Part 1"
 date:   2017-10-09 20:56:29 -0400
-categories: jekyll javascript functions
+categories: javascript
 ---
 Functions are a fundamental element of JavaScript. This will be a multi-part series of posts focused on core concepts, with examples provided in both ES5 and ES6. This post outlines - at a high level - what a function is, its key features, and important takeaways. Let’s dive in!
 
