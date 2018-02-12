@@ -7,7 +7,7 @@ categories: javascript
 This article will explore variables and types, both primitive and complex, with the goal of solidifying our understanding of JavaScript values and references.
 
 ## Variables and Types
-Javascript is loosely typed, which means that variables can store values
+JavaScript is loosely typed, which means that variables can store values
 of any type. Any variable can be assigned and reassigned values of all types.
 
 {% highlight js %}
@@ -31,7 +31,7 @@ typeof 5;     //'Number'
 
 The value `5` has an intrinsic (i.e. innate) type of `'Number'` and the value of `'5'` has an intrinsic type of `'String'`.  This cannot be changed. **_The assignment of the variable can be changed, but the value itself cannot_**.
 
-**Note**: 'typeof' returns the type of the underlying value, which the variable is assigned to. See [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof) for further details.
+**Note**: `typeof` returns the type of the underlying value, which the variable is assigned to. See [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof) for further details.
 
 So now that we have a better sense of variables and values, what are the different value types we can have?
 
@@ -50,7 +50,7 @@ So now that we have a better sense of variables and values, what are the differe
 What about `Arrays` and `Functions`? Well, those are both just Objects too!
 
 ## What is the difference between a value and a reference?
-OK, now get to the core of it. As we have seen, there are two categories of types: primitives and complex (i.e. Object).
+OK, now we get to the core of it. As we have seen, there are two categories of types: primitives and complex (i.e. Object).
 
 We cannot change the value of a primitive, but we can change the value of a reference.
 
@@ -93,7 +93,7 @@ let a = 10;
 let increment = num => {
   num++;
   return num;
-}
+};
 let b = increment(a);
 console.log(a); //10;
 console.log(b); //11;
@@ -110,7 +110,7 @@ let a = {
 let increment = o => {
   o.value++;
   return o;
-}
+};
 let b = increment(a);
 console.log(a.value); //11;
 console.log(b.value); //11;
@@ -147,7 +147,7 @@ let shallowCopy = o => {
     }
   }
   return temp;
-}
+};
 let b = shallowCopy(a);
 b.value = "25";
 console.log(a.value); //10;
@@ -156,11 +156,11 @@ console.log(b.value); //25;
 
 ## Conclusion
 - JavasScript has seven data types: 6 primitive types and 1 complex type
-  - `Arrays` and `Functions` of type `Object`, and therefore are treated as references
+  - `Arrays` and `Functions` are of type `Object`, and therefore are treated as references
 - Values have types, variables do not
 - When accessing a primitive type, we work directly with the value
 - When accessing an object (i.e. complex type), we work on a reference to the value
-- When passing values into functions, Objects are being passed by reference, while primitives are passed in by copying the value.
+- When passing values into functions, Objects are passed by reference, while primitives are passed in by copying the value.
 
 ## **Additional Resources**:
 - [JavaScript data types and data structures by Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
