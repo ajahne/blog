@@ -1,10 +1,10 @@
 ---
 layout: single
 title:  "Value vs Reference"
-date:   2018-01-29 22:13:29 -0400
+date:   2018-02-11 7:51:29 -0400
 categories: javascript
 ---
-This article will explore variables and types, both primitive and complex, with the goal of solidifying our understanding of values and references.
+This article will explore variables and types, both primitive and complex, with the goal of solidifying our understanding of JavaScript values and references.
 
 ## Variables and Types
 Javascript is loosely typed, which means that variables can store values
