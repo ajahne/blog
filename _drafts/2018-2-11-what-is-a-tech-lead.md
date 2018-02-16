@@ -1,30 +1,30 @@
 ---
 layout: single
 title:  "What is a Tech Lead?"
-date:   2018-02-11 21:09:29 -0400
+date:   2018-02-16 1:05:29 -0400
 categories: leadership
 ---
->"A Tech Lead is a senior engineer responsible for leading a team of software developers to achieve a collective goal."
+>A Tech Lead is a senior engineer responsible for leading a team of software developers to achieve a collective goal.
 
 Given my experience in the progression from engineer, to Tech Lead, to manager, to VP of Technology & Engineering, I wanted to share my thoughts on what it means to be a a Tech Lead. [Much](http://blog.myplanet.com/tech-leads-what-are-they-good-for) digital ink has been [written](https://blog.fogcreek.com/becoming-a-tech-lead-interview-with-pat-kua/) on this [topic](https://www.excella.com/insights/dear-agile-the-role-of-a-tech-lead) and there are doubtless only slightly less Tech Lead definitions as there are technology companies and teams. However, two definitions resonated with me and helped enrich my perspectives on Tech Leads.
 
 In her seminal book [_The Manager's Path_](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897), Camille Fournier states:
->"The Tech Lead role is not a point on the ladder, but a set of responsibilities that any engineer may take on once they reach the senior level"
+>The Tech Lead role is not a point on the ladder, but a set of responsibilities that any engineer may take on once they reach the senior level.
 
 This is an important point as it outlines how someone may assume the role of a Tech Lead for a particular project or business objective, but after a period of time, return to their "regular role", with someone else assuming the set of Tech Lead responsibilities. Further, this enables different engineers to assume the role at different times with the added benefit of letting people try out a leadership position, in order to see how they like it and perform in the role.
 
 She continues:
 
->"A Tech Lead is learning how to be a strong technical project manager, and as such, they are scaling themselves by delegating work effectively without micromanaging."
+>A Tech Lead is learning how to be a strong technical project manager, and as such, they are scaling themselves by delegating work effectively without micromanaging.
 
 For many Tech Leads new to the role, this is a different mindset and a new challenge.  Oftentimes as engineers we are accustomed to performing all tasks ourselves(_I can write all that code, just give me 8 hours and some headphones_).  However, as we gain seniority and responsibility, one of the keys ways to truly scale ourselves - and the business - is to learn how to delegate tasks and trust in our teammates to perform (and excel)!
 
 Additionally, in his [_Definition of a Tech Lead_](https://www.thekua.com/atwork/2014/11/the-definition-of-a-tech-lead/), Patrick Kua succinctly defines a Tech Lead as:
->"A Tech Lead is a developer who is responsible for leading a development team."
+>A Tech Lead is a developer who is responsible for leading a development team.
 
 Who must code for an
 
->"ideal minimum time of about 30%."
+>ideal minimum time of about 30%.
 
 Building on this definition, I would add from personal experience that I encourage my Tech Leads to **code at least 40-50% of the time!** The reason is manyfold:
 1. Coding allows the Tech Lead to build trust and empathy with developers while also keeping a pulse of the technical beat of the system
