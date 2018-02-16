@@ -64,7 +64,7 @@ While it is expected that the Tech Lead has strong technical skills, it would be
 ## Musings and assorted questions
 
 ### Is a Tech Lead a manager?
-A Tech Lead can be a manager, but is not required. If the Tech Lead is a manager, they are expected to conduct 1-1s, provide career development support, and adhere to the management responsibilities of the given organization.  
+A Tech Lead can be a manager, but it is not required. If the Tech Lead is a manager, they are expected to conduct 1-1s, provide career development support, and adhere to the management responsibilities of the given organization.  
 
 ### Is a Tech Lead on the path to management?
 While being a Tech Lead does not make one a manager, obtaining leadership experience is a prerequisite on the management career ladder.
@@ -73,7 +73,7 @@ While being a Tech Lead does not make one a manager, obtaining leadership experi
 This depends on the organization, but in my experience, no. I prefer to give senior developers the opportunity to try their hand out at a leadership role and see how they like it and how they perform. If its a fit, great, if not, no worries. They key for any organization is having a solid career path that equally maps out the management **and** individual contributor path.
 
 ### A note on teams.
-The role of a Tech Lead varies from organization to organization and even from team to team.  Some teams with more experienced members may need less guidance in certain areas and may even share responsibilities across the team. For example, one individual may be responsible for communicating to management, while another takes the lead on updating the project plan, while a third plays the role of a mediator. Ultimately we want to ensure high-performant teams that efficiently deliver and solve business problems in a scalable manner.  
+The role of a Tech Lead varies from organization to organization and even from team to team.  Some teams with more experienced members may need less guidance in certain areas and may even share responsibilities across the team. For example, one individual may be responsible for communicating to management, while another takes the lead on updating the project plan, while a third plays the role of a mediator. Ultimately, we want to ensure high-performant teams that efficiently deliver and solve business problems in a scalable manner.  
 
 ## Conclusion
 A Tech Lead is a leadership role that can be assumed by any senior member of the engineering team.  This role requires a unique mix of technical skills and communicative abilities combined with an openness to grow and learn.  A leader who guides an engineering team towards a shared vision while writing code, delegating, and commuting effectively, is on the path to being a successful Tech Lead!
