@@ -77,3 +77,9 @@ The role of a Tech Lead varies from organization to organization and even from t
 
 ## Conclusion
 A Tech Lead is a leadership role that can be assumed by any senior member of the engineering team.  This role requires a unique mix of technical skills and communicative abilities combined with an openness to grow and learn.  A leader who guides an engineering team towards a shared vision while writing code, delegating, and commuting effectively, is on the path to being a successful Tech Lead!
+
+## Additional Resources
+- [5 Tips for being an effective Tech Lead](https://www.thoughtworks.com/insights/blog/5-tips-being-effective-tech-lead)
+- [4 Things I wish I knew When I Became a Tech Lead](https://product.hubspot.com/blog/four-things-i-wish-i-knew-when-i-became-a-tech-lead)
+- HN discussion on [How to Be a Good Technical Lead](https://news.ycombinator.com/item?id=10395046)
+- Lead Programmer on [Wikipedia](https://en.wikipedia.org/wiki/Lead_programmer)
