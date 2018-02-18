@@ -57,7 +57,7 @@ While it is expected that the Tech Lead has strong technical skills, it would be
 - Perform code reviews
 - Code!
 
-### If the Tech Lead manages or mentors developers, she may also be expected to:
+### If the Tech Lead manages or mentors developers, they may also be expected to:
 - Conduct 1-1 meetings with members of the team
 - Work with direct reports/mentees to provide career development feedback
 
@@ -69,8 +69,8 @@ A Tech Lead can be a manager, but it is not required. If the Tech Lead is a mana
 ### Is a Tech Lead on the path to management?
 While being a Tech Lead does not make one a manager, obtaining leadership experience is a prerequisite on the management career ladder.
 
-### What if the Tech Lead does not like the role, is she now stuck in it?
-This depends on the organization, but in my experience, no. I prefer to give senior developers the opportunity to try their hand out at a leadership role and see how they like it and how they perform. If its a fit, great, if not, no worries. They key for any organization is having a solid career path that equally maps out the management **and** individual contributor path.
+### What if the Tech Lead does not like the role, are they now stuck in it?
+This depends on the organization, but in my experience, no. I prefer to give senior developers the opportunity to try their hand out at a leadership role and see how they like it and how they perform. If its a fit, great, if not, no worries. The key for any organization is having a solid career path that equally maps out the management **and** individual contributor path.
 
 ### A note on teams.
 The role of a Tech Lead varies from organization to organization and even from team to team.  Some teams with more experienced members may need less guidance in certain areas and may even share responsibilities across the team. For example, one individual may be responsible for communicating to management, while another takes the lead on updating the project plan, while a third plays the role of a mediator. Ultimately, we want to ensure high-performant teams that efficiently deliver and solve business problems in a scalable manner.  
