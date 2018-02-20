@@ -7,26 +7,26 @@ categories: javascript
 This article will explore variables and types, both primitive and complex, with the goal of solidifying our understanding of JavaScript values and references.
 
 ## Variables and Types
-JavaScript is loosely typed, which means that variables can store values
-of any type. Any variable can be assigned and reassigned values of all types.
+JavaScript is loosely typed, which means that variables can store values of any type.
 
 {% highlight js %}
-let a = '5';        //a is a String
-let a = 5;          //a is a Number
-let a = {prop:5};   //a is an Object
-let a = false;      //a is a Boolean
+let a;
+a = '5';        //a is a String
+a = 5;          //a is a Number
+a = {prop:5};   //a is an Object
+a = false;      //a is a Boolean
 {% endhighlight %}
 
 ### What is the difference between a variable and a value?
 A variable is a container for a value. Further, **_values have types, variables do not_**.
 {% highlight js %}
 let a = '5';
-typeof 'a';   //'String'
-typeof '5';   //'String'
+typeof 'a';   //'string'
+typeof '5';   //'string'
 
-let a = 5;
-typeof a;     //'Number'
-typeof 5;     //'Number'
+a = 5;
+typeof a;     //'number'
+typeof 5;     //'number'
 {% endhighlight %}
 
 The value `5` has an intrinsic (i.e. innate) type of `'Number'` and the value of `'5'` has an intrinsic type of `'String'`.  This cannot be changed. **_The assignment of the variable can be changed, but the value itself cannot_**.
@@ -73,6 +73,7 @@ console.log(b);  //bar
 let a = {
   name: 'foo'
 };
+
 let b = a;
 console.log(a.name);  //foo
 console.log(b.name);  //foo
@@ -94,6 +95,7 @@ let increment = num => {
   num++;
   return num;
 };
+
 let b = increment(a);
 console.log(a); //10;
 console.log(b); //11;
@@ -111,6 +113,7 @@ let increment = o => {
   o.value++;
   return o;
 };
+
 let b = increment(a);
 console.log(a.value); //11;
 console.log(b.value); //11;
@@ -126,6 +129,7 @@ let simpleCopy = o => {
   let temp = o;
   return temp;
 };
+
 let b = simpleCopy(a);
 b.value = "25";
 console.log(a.value); //25;
@@ -148,6 +152,7 @@ let shallowCopy = o => {
   }
   return temp;
 };
+
 let b = shallowCopy(a);
 b.value = "25";
 console.log(a.value); //10;
