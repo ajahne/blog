@@ -3,7 +3,7 @@ layout: single
 title:  "JavaScript Hoisting"
 date:   2018-2-19 21:45:29 -0400
 ---
-Hoisting is the process of lifting and declaring a variable defined with `var` to the top of the function (or global scope if declared outside of a function). Additionally, function declarations are hoisted to the top of the current scope as well.
+Hoisting is the process of lifting and declaring a variable defined with `var` to the top of its scope, be it functional scope (if defined in function) or global scope (if declared outside of a function). Additionally, function declarations are hoisted to the top of the current scope as well.
 
 Let's dive into some code.
 
@@ -57,10 +57,14 @@ var add = function(a,b) {
 ### Function hoisting overrides variable hoisting
 
 ## ES6 Block scope and hoisting
-The good news is that block scope helps us avoid pitfalls introduced through with hoisting
+The good news is that block scope helps us avoid pitfalls introduced through with hoisting.  
 Let's bring back our previous example
 
 ## Conclusion
 Identifiers (i.e. variables) declared with the `var` key word are created as if they are defined at the top of the scope (be it function or global).  This process is called "hoisting" and applies to variables defined with `var` and function declarations.
 
 ## Additional Resources
+- Hoisting definition by [Mozilla](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
+- `var` definition from [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)
+- [JavaScriptIsSexy](http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/) on variable hoisting
+- Getting [back to basics on JavaScript Hoisting](https://www.sitepoint.com/back-to-basics-javascript-hoisting/) with Sitepoint
