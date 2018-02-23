@@ -138,7 +138,7 @@ const a = 5;
 In this case, the errors are a good thing!  We do not want to inadvertently access a variable before we have declared and initialized it.  This will help us create cleaner and more maintainable programs as the JavaScript engine will execute the code in the order that we wrote it (i.e. author time).
 
 ## Conclusion
-Identifiers (i.e. variables) declared with the `var` key word are created as if they are defined at the top of the scope (be it function or global).  This process is called "hoisting" and applies to variables defined with `var` and function declarations.
+Identifiers (i.e. variables) declared with the `var` keyword are created as if they are defined at the top of the scope (be it function or global).  This process is called "hoisting" and applies to variables defined with `var` and function declarations.
 
 While block scope with `const` and `let` allows us to avoid the pitfalls of hoisting when writing modern JavaScript, it is still important to understand this concept as you may work in a mixed code base (e.g. ES5 and ES6), are writing ES5 and below based on your requirements, or are simply curious of all JavaScript's quirks and are targeting a 100% completion rate.
 
