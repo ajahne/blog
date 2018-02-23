@@ -9,7 +9,7 @@ categories: javascript
 Let's dive into some code.
 
 ## Hoisting Variables
-So now that we have our definition, what do mean by "lifted and declared"?
+So now that we have our definition, what do we mean by "lifted and declared"?
 {% highlight js %}
 console.log(a);   //null
 var a = 5;
@@ -72,7 +72,7 @@ function add(a,b) {
 }
 {% endhighlight %}
 
-Function expressions are not hoisted
+Function expressions are not hoisted.
 {% highlight js %}
 console.log(add(1,2));   //TypeError: add is not a function. (In 'add(1,2)', 'add' is undefined)
 
@@ -81,7 +81,7 @@ var add = function(a,b) {
 }
 {% endhighlight %}
 
-Function hoisting overrides variable hoisting
+Function hoisting overrides variable hoisting.
 {% highlight js %}
 console.log(typeof foo);  //function
 var foo;
@@ -123,7 +123,7 @@ Confusing, no? Shouldn't what we write at author time (i.e. the lexical scope) b
 ## ES6 Block Scope and Hoisting
 The good news is that block scope helps us avoid pitfalls introduced with hoisting. Let's bring back our previous example using `let` and `const` instead of `var`.
 
-Using `let` in this manner will trigger an error.
+Using `let` in this manner will trigger a `ReferenceError`.
 {% highlight js %}
 console.log(a);   //ReferenceError: can't access lexical declaration 'a' before initialization
 let a = 5;
@@ -135,12 +135,12 @@ console.log(a);   //ReferenceError: can't access lexical declaration 'a' before 
 const a = 5;
 {% endhighlight %}
 
-In this case, the errors are a good thing!  We do not want to inadvertently access a variable before we have declared and initialized it.  This will help us create cleaner and more maintainable programs as the JavaScript engine will execute the code in the order that we wrote it (i.e. author time).
+In this case, the errors are a good thing!  We do not want to inadvertently access a variable before we have declared and initialized it.  This will help us create cleaner and more maintainable programs as the JavaScript engine will execute the code in the order that we write it (i.e. author time).
 
 ## Conclusion
 Identifiers (i.e. variables) declared with the `var` keyword are created as if they are defined at the top of the scope (be it function or global).  This process is called "hoisting" and applies to variables defined with `var` and function declarations.
 
-While block scope with `const` and `let` allows us to avoid the pitfalls of hoisting when writing modern JavaScript, it is still important to understand this concept as you may work in a mixed code base (e.g. ES5 and ES6), are writing ES5 and below based on your requirements, or are simply curious of all JavaScript's quirks and are targeting a 100% completion rate.
+While block scope with `const` and `let` allows us to avoid the pitfalls of hoisting when writing modern JavaScript, it is still important to understand this concept as you may work in a mixed code base (e.g. ES5 and ES6), are writing ES5 and below based on your requirements, or are simply curious of the many JavaScript quirks and are targeting a 100% completion rate.
 
 Check out the further reading below and happy coding!
 
