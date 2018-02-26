@@ -11,21 +11,21 @@ Let's dive into some code.
 ## Hoisting Variables
 So now that we have our definition, what do we mean by "lifted and declared"?
 {% highlight js %}
-console.log(a);   //null
+console.log(a);   //undefined
 var a = 5;
 {% endhighlight %}
 
 The above is actually executed as the following:
 {% highlight js %}
 var a;
-console.log(a);   //null
+console.log(a);   //undefined
 a = 5;
 {% endhighlight %}
 
 We can see the difference between declaring a variable (that is hoisted) and not declaring a variable at all.
 {% highlight js %}
-console.log(a);   //null
-console.log(b);   //ReferenceError: Can't find variable: b
+console.log(a);   //undefined
+console.log(b);   //ReferenceError: b is not defined
 var a = 5;
 {% endhighlight %}
 
@@ -37,10 +37,10 @@ function getX() {
     // x exists with a value of 5
     return x;
   } else {
-    // x exists with a value of null
+    // x exists with a value of undefined
     return null;
   }
-  // x exists with a value of null
+  // x exists with a value of undefined
 }
 {% endhighlight %}
 
@@ -53,10 +53,10 @@ function getX() {
     // x exists with a value of 5
     return x;
   } else {
-    // x exists with a value of null
+    // x exists with a value of undefined
     return null;
   }
-  // x exists with a value of null
+  // x exists with a value of undefined
 }
 {% endhighlight %}
 
@@ -74,7 +74,7 @@ function add(a,b) {
 
 Function expressions are not hoisted.
 {% highlight js %}
-console.log(add(1,2));   //TypeError: add is not a function. (In 'add(1,2)', 'add' is undefined)
+console.log(add(1,2));   //TypeError: add is not a function
 
 var add = function(a,b) {
   return a+b;
