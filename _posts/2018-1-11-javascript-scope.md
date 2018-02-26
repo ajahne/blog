@@ -40,7 +40,7 @@ let saySomething = () => {
   console.log(something);
 }
 saySomething();         //Saying something wonderful
-console.log(something); //ReferenceError: Can't find variable: something
+console.log(something); //ReferenceError: something is not defined
 {% endhighlight %}
 
 Here we see that our function ```saySomething``` has defined its own variable ```something```. This variable cannot be "seen" globally and therefore cannot be used outside of the ```saySomething``` function.  
