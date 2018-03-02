@@ -59,7 +59,7 @@ Can you care about the technical (and personal!) growth of others the same way o
 
 Do you care about the overall team and what you collectively deliver over what you individually achieve?
 
-Are you OK with ambiguity? Of not being able to judge your personal success by lines of code, but rather by the blossoming of your mentees? The growth of you direct reports? The products shipped by your team? The promotion of someone you manage? Of leading with passion and enthusiasm?
+Are you OK with ambiguity? Of not being able to judge your personal success by lines of code, but rather by the blossoming of your mentees? The growth of your direct reports? The products shipped by your team? The promotion of someone you manage? Of leading with passion and enthusiasm?
 
 Do you give a damn? Do you care?  I mean really truly and utterly care?
 
