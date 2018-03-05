@@ -11,7 +11,7 @@ Oftentimes we as developers hear the term “closure” and become filled with a
 Let's dive into our first closure:
 
 {% highlight js %}
-let castMagicSpell = (magicSpell) => {
+const castMagicSpell = (magicSpell) => {
   const magicWords = 'I am casting ' + magicSpell;
   //the closure allows our doMagic function to access the magicWords variable
   const doMagic = () => {
@@ -80,7 +80,7 @@ const createDinnerMaker = () => {
 
 //calling the function makeDinner returns an object
 //this return triggers the closure.
-cont myDinnerMaker = createDinnerMaker();
+const myDinnerMaker = createDinnerMaker();
 myDinnerMaker.bakeChicken(); //baking chicken
 myDinnerMaker.bakeFish();    //baking fish
 {% endhighlight %}
