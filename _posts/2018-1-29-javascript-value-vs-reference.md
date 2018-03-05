@@ -131,7 +131,7 @@ let simpleCopy = o => {
 };
 
 let b = simpleCopy(a);
-b.value = "25";
+b.value = 25;
 console.log(a.value); //25;
 console.log(b.value); //25;
 {% endhighlight %}
@@ -154,7 +154,7 @@ let shallowCopy = o => {
 };
 
 let b = shallowCopy(a);
-b.value = "25";
+b.value = 25;
 console.log(a.value); //10;
 console.log(b.value); //25;
 {% endhighlight %}
