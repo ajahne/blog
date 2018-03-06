@@ -21,7 +21,7 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://ajahne.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ajahne
 author:
-  name             : "ajahne"
+  name             : "Ajahne Santa Anna"
   github           : "ajahne"
 
 # Build settings
@@ -30,6 +30,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 
 paginate: 5 # amount of posts to show
