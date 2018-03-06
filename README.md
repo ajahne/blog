@@ -1,7 +1,11 @@
 # blog
-Technology Blog
+Ajahne's Technology Blog
 
-### Topics include, but not limited to:
+##
+["Hello Ajahne"](https://ajahne.github.io/blog/).  
+Link to the blog:https://ajahne.github.io/blog/
+
+## Topics include, but not limited to:
 - Frontend: JS, HTML, CSS, frameworks, libraries
 - Backend: Node, Python, PHP, MYSQL, PostgreSQL
 - Infrastructure: provisioning, configuration management, orchestration, docker, CI
