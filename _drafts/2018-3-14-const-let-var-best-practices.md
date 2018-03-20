@@ -3,6 +3,8 @@ layout: single
 title:  "CONST, LET, and VAR Best Practices"
 date:   2018-3-14 10:10:29 -0400
 categories: javascript
+header:
+  image: /assets/images/const-let-var.jpg
 ---
 So when should you use `const`, `let` or `var`?
 
@@ -11,18 +13,43 @@ So when should you use `const`, `let` or `var`?
 - Use `let` only if you need to reassign a variable  
 - Never use `var`
 
-## Overview
-A variable should represent one thing
+Note: our tl;dr is also a table of contents!  So click to jump to a section or just scroll your way through.  Your choice and I support both options!
+
+## Before we get started
+This is not an introduction to `const`, `let`, and `var`.  This article assumes you are familiar with these different types of variable declarations.  If you need an intro, here are a couple great resources.
+- [const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const) and [let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let) from Mozilla
+- link 2
+- link 3
+
+Ready?  Let's go!
 
 
-## When should I use `const`?
+- A variable should represent one thing
+
+
+## Use `const` by default
 > `const` is not a value that doesn't change, but rather it is an identifier that does not get reassigned.
-
-Use const by default.
 
 A `const` cannot be reassigned, but values are still mutable when dealing with [complex types (e.g. Objects)]({{ site.baseurl }}{% post_url 2018-1-29-javascript-value-vs-reference %})
 
 `const` is not a value that doesn't change, but rather it is an identifier that does not get reassigned.
+{% highlight js %}
+//working with primitives
+const WAIT_TIME = 5;
+
+const WAIT_TIME = 10;
+{% endhighlight %}
+
+Working with complex types
+{% highlight js %}
+//working with primitives
+const superHero = {name:'Black Panther', secretIdentity:'T'};
+
+//while we cannot reasign the binding, we can change the value
+
+const WAIT_TIME = 10;
+{% endhighlight %}
+
 
 True immutability can be obtained through using const with primitive types.
 
@@ -30,14 +57,14 @@ Change `const` to `let` once you see the value contained by the variable needs t
 
 Why? This will help you clearly denote which variables should change and which should not.  This helps general readability as other developers will have a clearer sense of what variables change throughout program execution and which do not.
 
-By following these practices we can easily get a sense of what values should change and which should not.
+By following these practices we can easily single to ourselves and others reading our code what values should change and which should not.
 {% highlight js %}
 const WAIT_TIME = 5;
 const widget = new Widget();
 let count = 0;
 {% endhighlight %}
 
-The added benefit of using `const` is that we will recieve an error if we try to reassign our identifier
+The added benefit of using `const` is that we will receive an error if we try to reassign our identifier
 {% highlight js %}
 const WAIT_TIME = 5;
 
@@ -61,6 +88,18 @@ better for loops with `let`
 for (let i =0; )
 {% endhighlight %}
 
+## Never use `var`
+
+*wait, really? Never as in never?*
+Exactly, nope never, not ever.
+
+*Ok, there has to be some cases where using var is OK*
+Nah. We do not want to pollute the global scope. When creating variables using `var`, not only do we have to deal with hoisting, but we also inadvertently add properties to the global object. In this case of the browser, this is `window`, check it out.
+
+{% highlight js %}
+
+{% endhighlight %}
+
 ## When should I use `var`?
 Never use var.  
 
@@ -73,19 +112,6 @@ Benefits of using `const` and `let`
 - Block scope
 - No hoisting
 
-## Variable Naming conventions
-In general, variables are nouns and noun phrases
-For example
-See Google for more examples
-
-When using const, follow these practices
-For immutable values and values that you explicitly do not want to change use constant case
-
-Show examples of const case with var as well.
-
-Point to links that show constant case is a general programming convention understood across different programming languages
-
-For mutable values (e.g. objects) use camel case
 
 ## Additional resources
 - Eric Elliot: https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
