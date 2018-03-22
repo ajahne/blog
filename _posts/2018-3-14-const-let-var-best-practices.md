@@ -69,7 +69,7 @@ Let's create better for loops with `let`
 const messages = ['Hello World', 'Wakanda Forever', 'Good morning'];
 for (let i = 0; i < messages.length; i++) {
   console.log(messages[i]);
-);
+};
 {% endhighlight %}
 
 ## Do not use `var`
