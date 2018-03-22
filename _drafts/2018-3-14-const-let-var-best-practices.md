@@ -108,14 +108,14 @@ Yep, that one has caught many a developer.
 If you have to use `var`, be sure to declare your variables at the top of your scope chain. But really, it's time to pour one out for `var`.  Start targeting modern browsers and/or incorporating [babel](https://babeljs.io) into your workflow :).
 
 ## Conclusion
-By following these best practices for using `const`, `let`, and `var`, we can easily signal to ourselves and others the intent of our variables within the code (i.e. should the variable change or not).
+By following these best practices for using `const`, `let`, and `var`, we can easily signal to ourselves and others the intent of our variables within the code.
 {% highlight js %}
 const WAIT_TIME = 5;
 const widget = new Widget();
 let count = 0;
 {% endhighlight %}
 
-Additionally, with these best practices, we create a consistent ruleset for our variables, avoid legacy declaration 'gotchas', and - ultimately - produce cleaner code.
+Additionally, by utilizing these best practices, we create a consistent ruleset for our variables, avoid legacy declaration 'gotchas', and - ultimately - produce cleaner code.
 
 Be sure to check out the additional resources below and happy coding!
 
