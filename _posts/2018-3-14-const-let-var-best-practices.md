@@ -4,7 +4,7 @@ title:  "CONST, LET, and VAR Best Practices"
 date:   2018-3-22 2:35:29 -0400
 categories: javascript
 header:
-  image: /assets/images/const-let-var-apples.jpg
+  image: /assets/images/const-let-var-apples2.jpg
 ---
 When should you use `const`, `let`, or `var`?
 
