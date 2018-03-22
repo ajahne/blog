@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "CONST, LET, and VAR Best Practices"
-date:   2018-3-14 10:10:29 -0400
+date:   2018-3-22 2:35:29 -0400
 categories: javascript
 header:
   image: /assets/images/const-let-var-apples.jpg
