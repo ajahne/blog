@@ -9,11 +9,11 @@ header:
 When should you use `const`, `let`, or `var`?
 
 ## TL;DR
-- Use `const` by default  
-- Use `let` only if you need to reassign a variable  
-- Do not use `var`
+- [Use `const` by default](#use-const-by-default)  
+- [Use `let` only if you need to reassign a variable](#use-let-only-if-you-need-to-reassign-a-variable)  
+- [Do not use `var`](#do-not-use-var)
 
-Note: our tl;dr is also a table of contents!  So click to jump to a section or just scroll your way through.  Your choice and I support both options!
+**Note**: the tl;dr is also a table of contents!  So click to jump to a section or just scroll your way through.  It's your choice and I support both options!
 
 ## Before we get started
 This article assumes you are familiar with the different types of variable declarations in ES6+ (e.g. `const`, `let`, and our old friend `var`).  If you need an introduction, here are a few great resources.
