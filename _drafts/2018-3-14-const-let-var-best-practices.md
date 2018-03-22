@@ -114,7 +114,7 @@ Benefits of using `const` and `let`
 ## Conclusion
 
 ## Additional resources
-- Eric Elliot: https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
-- Zakas: ES6
-- The Dr guy
+- [Nicholas Zakas](https://leanpub.com/understandinges6/read#leanpub-auto-emerging-best-practices-for-block-bindings) on emerging best practices for `const` and `let`
+- [Eric Elliot](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75) on `var`, `let`, and `const`
+- From `var` to `const` in [exploringjs](http://exploringjs.com/es6/ch_core-features.html#sec_from-var-to-const)
 - `var`, `let`, `const` overview on [Ponyfoo](https://ponyfoo.com/articles/var-let-const)
