@@ -23,16 +23,14 @@ This article assumes you are familiar with the different types of variable decla
 
 Ready?  Let's go!
 
-
 ## Goals of these best practices
-- Simplify where and when to use the different variable declaration types
+- Define a standard variable declaration ruleset
 - Make our code consistent and easier to read
 - Signal code intent (i.e. is this variable meant to change or not)
-- Avoid unintended issues (e.g. hoisting, global scope pollution)
-
+- Avoid unintended issues (e.g. [hoisting]({{ site.baseurl }}{% post_url 2018-2-19-javascript-hoisting %}), global object pollution)
 
 ## Use `const` by default
-A variable should represent one thing. Declaring our variables with `const` helps us achieve this goal as we cannot set a new value for our identifier once it has been initialized. We also leave a message (i.e. signal) in our code to our future selves and future developers that this variable should not be reassigned.
+A variable should represent one thing. Declaring our variables with `const` helps us achieve this goal as we cannot change the assignment of our identifier once it has been initialized. We also leave a message (i.e. signal) in our code to our future selves and future developers that this variable should not be reassigned.
 
 > `const` is not a value that doesn't change, but rather it is an identifier that does not get reassigned.
 
@@ -41,11 +39,11 @@ const WAIT_TIME = 5;
 WAIT_TIME = 10; //TypeError: Attempted to assign to readonly property.
 {% endhighlight %}
 
-Note, that while variables declared with `const` cannot be reassigned, the values are still mutable when dealing with [complex types (e.g. Objects)]({{ site.baseurl }}{% post_url 2018-1-29-javascript-value-vs-reference %})
+Note, that while variables declared with `const` cannot be reassigned, the values are still mutable when dealing with [complex types (i.e. Objects)]({{ site.baseurl }}{% post_url 2018-1-29-javascript-value-vs-reference %})
 
 {% highlight js %}
 const coolestHero = {
-  name: 'Iron Man',
+  name: 'Iron Man'
 };
 
 //while we cannot reassign the binding, we can change the value
@@ -63,15 +61,15 @@ Some examples:
 - `for` loops (e.g. i, j, etc.)
 - Counters (e.g. for keeping track of the current number of DOM children)
 - Mathematical formulas
-- Form data (i.e. text input value while user is typing)
+- Form data (i.e. text input value while the user is typing)
 - Toggling a boolean flag
 
 Let's create better for loops with `let`
 {% highlight js %}
 const messages = ['Hello World', 'Wakanda Forever', 'Good morning'];
-for (let i = 0; i < messages.length; i++ {
+for (let i = 0; i < messages.length; i++) {
   console.log(messages[i]);
-});
+);
 {% endhighlight %}
 
 ## Do not use `var`
@@ -84,7 +82,7 @@ What's up?
 Nope.
 
 **_Why not?_**  
-Well, for starters using `var` has side effects and pollutes the global scope. When creating variables using `var`, not only do we have to deal with [hoisting]({{ site.baseurl }}{% post_url 2018-2-19-javascript-hoisting %}), but we also inadvertently add properties to the global object. Check it out.
+Well for one, using `var` has side effects and pollutes the global scope. When creating variables using `var`, not only do we have to deal with [hoisting]({{ site.baseurl }}{% post_url 2018-2-19-javascript-hoisting %}), but we also inadvertently add properties to the global object. Check it out.
 
 {% highlight js %}
 var title = 'Awesome Web Page';
@@ -92,7 +90,7 @@ var title = 'Awesome Web Page';
 console.log(window.title);  //Awesome Web Page
 {% endhighlight %}
 
-**_Well, I just won't use `var` in the global scope_**  
+**_Well, I just won't use `var` in the global scope and I'll be fine._**  
 Not so fast, `var` does not support [block scope]({{ site.baseurl }}{% post_url 2018-1-11-javascript-scope %}).  
 {% highlight js %}
 var x = 10;
@@ -103,23 +101,23 @@ if (true) {
 console.log(x);   //5
 {% endhighlight %}
 
-**_Hmmm, OK._**  
-Yeah, that one has caught many a developer.  
+**_Well then._**  
+Yep, that one has caught many a developer.  
 
 **_So what if I am writing legacy JavaScript or am working in a mixed code base?_**  
 If you have to use `var`, be sure to declare your variables at the top of your scope chain. But really, it's time to pour one out for `var`.  Start targeting modern browsers and/or incorporating [babel](https://babeljs.io) into your workflow :).
 
 ## Conclusion
-By following these practices we can easily single to ourselves and others reading our code what variables should change and which should not.
+By following these best practices for using `const`, `let`, and `var`, we can easily signal to ourselves and others the intent of our variables within the code (i.e. should the variable change or not).
 {% highlight js %}
 const WAIT_TIME = 5;
 const widget = new Widget();
 let count = 0;
 {% endhighlight %}
 
-Benefits of using `const` and `let`
-- Block scope
-- No hoisting
+Additionally, with these best practices, we create a consistent ruleset for our variables, avoid legacy declaration 'gotchas', and - ultimately - produce cleaner code.
+
+Be sure to check out the additional resources below and happy coding!
 
 ## Additional resources
 - [Nicholas Zakas](https://leanpub.com/understandinges6/read#leanpub-auto-emerging-best-practices-for-block-bindings) on emerging best practices for `const` and `let`
