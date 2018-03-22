@@ -105,7 +105,7 @@ console.log(x);   //5
 Yep, that one has caught many a developer.  
 
 **_So what if I am writing legacy JavaScript or am working in a mixed code base?_**  
-If you have to use `var`, be sure to declare your variables at the top of your scope chain. But really, it's time to pour one out for `var`.  Start targeting modern browsers and/or incorporating [babel](https://babeljs.io) into your workflow :).
+If you must use `var`, be sure to declare your variables at the top of your scope chain. But really, it's time to pour one out for `var`.  Start targeting modern browsers and/or incorporating [babel](https://babeljs.io) into your workflow :).
 
 ## Conclusion
 By following these best practices for using `const`, `let`, and `var`, we can easily signal to ourselves and others the intent of our variables within the code.
