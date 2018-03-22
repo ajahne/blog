@@ -11,7 +11,7 @@ So when should you use `const`, `let` or `var`?
 ## TL;DR
 - Use `const` by default  
 - Use `let` only if you need to reassign a variable  
-- Never use `var`
+- Do not use `var`
 
 Note: our tl;dr is also a table of contents!  So click to jump to a section or just scroll your way through.  Your choice and I support both options!
 
