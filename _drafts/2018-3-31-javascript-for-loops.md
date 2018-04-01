@@ -6,6 +6,9 @@ categories: javascript
 header:
   image: /assets/images/up-arrows.jpg
 ---
+So I don't know about you, but I am tired of writing the same `for` loops over and over. ES6 introduces `for of` and we can level up our loops. So let's upgrade from `for` to `forEach` to the new hotness that is `for of`.  Let's loop!
+
+
 ## for
 The O.G. The original.  The one, the only, the `for` loop. Each time I have to write `i=0; i<somethingLong`, I think, isn't there a better way of doing this?  Well yes, but first, let's show out with some examples.
 
