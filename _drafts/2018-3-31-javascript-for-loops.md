@@ -43,16 +43,18 @@ Introduced with ES5 is the `forEach` method of the Array object. This gives us c
 {% highlight js %}
 const list = [1, 2, 3, 4, 5, 6, 7];
 
+//for reference, our basic for loop
 for (let i = 0; i < list.length; i++) {
-  console.log(`${list[i]}`);
+  console.log(list[i]);
 }
 
+//implementing with forEach
 list.forEach((element) => {
-  console.log(`${element}`);
+  console.log(element);
 });
 {% endhighlight %}
 
-### Need the index and the array itself? Its got you covered
+### Need the index and the array itself? `forEach` has got you covered.
 {% highlight js %}
 const list = ['a', 'b', 'c'];
 list.forEach((element, index, array) => {
