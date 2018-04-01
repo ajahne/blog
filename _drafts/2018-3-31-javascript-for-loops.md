@@ -6,7 +6,7 @@ categories: javascript
 header:
   image: /assets/images/up-arrows.jpg
 ---
-So I don't know about you, but I am tired of writing the same `for` loops over and over. ES6 introduces `for of` and its time for us to level up our loops. The goal of this post is to get us using the new `for of` statement and improve our coding skills. So let's upgrade from `for` to `forEach` to the new hotness that is `for of`. Let's loop!
+So I don't know about you, but I am tired of writing the same `for` loops over and over. ES6 introduces `for...of` and its time for us to level up our loops. The goal of this post is to get us using the new `for...of` statement and improve our coding skills. So let's upgrade from `for` to `forEach` to the new hotness that is `for...of`. Let's loop!
 
 ## for
 The O.G. The original.  The one, the only, the `for` loop. Each time I have to write `i=0; i<somethingLong`, I think, isn't there a better way of doing this?  Well yes, but first, let's show out with some examples.
@@ -61,19 +61,19 @@ list.forEach((element, index, array) => {
 });
 {% endhighlight %}
 
-One of the downsides of the `forEach` method, is that is does not support `break` and `continue`.  So what if you need to `break` and/or `continue`? `for of` is the statement for you!
+One of the downsides of the `forEach` method, is that is does not support `break` and `continue`.  So what if you need to `break` and/or `continue`? `for...of` is the statement for you!
 
-## `for of`
-The `for of` provides us with the conciseness of `forEach` with the feature richness (e.g. `break` and `continue`) for the original `for` statement.
+## `for...of`
+The `for...of` provides us with the conciseness of `forEach` with the feature richness (e.g. `break` and `continue`) for the original `for` statement.
 {% highlight js %}
-//for of iterates through the values in the array
+//for...of iterates through the values in the array
 for (let i of list) {
   console.log(i);
 }
 {% endhighlight %}
 
-### `for of` vs `for in`
-`for in` iterates over property names, so 'name' is looped over, while `for of` iterates through the values in the array.
+### `for...of` vs `for...in`
+`for...in` iterates over property names, while `for...of` iterates through the values in the array.
 {% highlight js %}
 const list = [1, 2, 3];
 list.name = 'My Awesome List';
@@ -89,7 +89,7 @@ for (let i of list) {
 }
 {% endhighlight %}
 
-### Getting `key` and `value` with `for of`
+### Getting `key` and `value` with `for...of`
 Using destructuring to get key/value pairs
 {% highlight js %}
 for (let [key,value] of list.entries()) {
@@ -98,7 +98,7 @@ for (let [key,value] of list.entries()) {
 {% endhighlight %}
 
 ## Putting it all together
-So let's go `for` ==> `forEach` ==> `for of`
+So let's go `for` ==> `forEach` ==> `for...of`
 
 ## Conclusion
 
