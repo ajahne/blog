@@ -8,6 +8,11 @@ header:
 ---
 So I don't know about you, but I am tired of writing the same `for` loops over and over. ES6 introduces `for...of` and its time for us to level up our loops. The goal of this post is to get us using the new `for...of` statement and improve our coding skills. So let's upgrade from `for` to `forEach` to the new hotness that is `for...of`. Let's loop!
 
+### Before we get started
+This article assumes you are familiar with `for` statements and loops in general. MDN provides great overviews [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/statements/for) and [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration#for_statement).
+
+Let's loop!
+
 ## for
 The O.G. The original.  The one, the only, the `for` loop. Each time I have to write `i=0; i<somethingLong`, I think, isn't there a better way of doing this?  Well yes, but first, let's show out with some examples.
 
@@ -48,7 +53,7 @@ for (let i = 0; i < list.length; i++) {
   console.log(list[i]);
 }
 
-//implementing with forEach
+//implementing the above with forEach
 list.forEach((element) => {
   console.log(element);
 });
@@ -63,12 +68,11 @@ list.forEach((element, index, array) => {
 });
 {% endhighlight %}
 
-One of the downsides of the `forEach` method, is that is does not support `break` and `continue`.  So what if you need to `break` and/or `continue`? `for...of` is the statement for you!
+One of the downsides of the `forEach` method, is that is does not support `break` and `continue`.  So what if you need to `break` out and/or `continue` to the next step? `for...of` is the statement for you!
 
 ## `for...of`
-The `for...of` provides us with the conciseness of `forEach` with the feature richness (e.g. `break` and `continue`) for the original `for` statement.
+The `for...of` provides us with the conciseness of `forEach` with the feature richness (e.g. `break` and `continue`) of the `for` statement.
 {% highlight js %}
-//for...of iterates through the values in the array
 for (let i of list) {
   console.log(i);
 }
