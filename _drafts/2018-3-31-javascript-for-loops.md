@@ -15,7 +15,6 @@ The O.G. The original.  The one, the only, the `for` loop. Each time I have to w
 const list = [1, 2, 3, 4, 5, 6, 7];
 list.name = 'My Awesome List';
 
-console.log('for');
 for (let i = 0; i < list.length; i++) {
   console.log(`list[${i}]: ${list[i]}`);
 }
@@ -23,13 +22,7 @@ for (let i = 0; i < list.length; i++) {
 
 ### `for` loops with `break` and `continue`
 {% highlight js %}
-//can perform the same, but cannot use break and continue
-console.log('\nforEach');
-list.forEach((element, index, array)=>{
-  console.log(`list[${index}]: ${element}`);
-});
 
-console.log('\nfor with a break');
 for (let i = 0; i < list.length; i++) {
   //skip the 2nd index
   if (i == 2) {
@@ -40,15 +33,20 @@ for (let i = 0; i < list.length; i++) {
   if (i == 5) {
     break;
   }
+
   console.log(`list[${i}]: ${list[i]}`);
 }
 {% endhighlight %}
 
 ## `forEach`
-Introduced with ES5 is the `forEach` method of the Array object. This gives us conciseness, allow us to write less verbose loops
+Introduced with ES5 is the `forEach` method of the Array object. This gives us conciseness, allowing us to write less verbose loops.
 {% highlight js %}
-//can perform the same, but cannot use break and continue
-console.log('\nforEach');
+const list = [1, 2, 3, 4, 5, 6, 7];
+
+for (let i = 0; i < list.length; i++) {
+  console.log(`${list[i]}`);
+}
+
 list.forEach((element) => {
   console.log(`${element}`);
 });
@@ -56,18 +54,19 @@ list.forEach((element) => {
 
 ### Need the index and the array itself? Its got you covered
 {% highlight js %}
-//can perform the same, but cannot use break and continue
-console.log('\nforEach');
+const list = ['a', 'b', 'c'];
 list.forEach((element, index, array) => {
   console.log(`list[${index}]: ${element}`);
+  console.log(`${array[index] === element}`);
 });
 {% endhighlight %}
+
+One of the downsides of the `forEach` method, is that is does not support `break` and `continue`.  So what if you need to `break` and/or `continue`? `for of` is the statement for you!
 
 ## `for of`
 The `for of` provides us with the conciseness of `forEach` with the feature richness (e.g. `break` and `continue`) for the original `for` statement.
 {% highlight js %}
 //for of iterates through the values in the array
-console.log('\nfor of');
 for (let i of list) {
   console.log(i);
 }
@@ -76,31 +75,30 @@ for (let i of list) {
 ### `for of` vs `for in`
 `for in` iterates over property names, so 'name' is looped over, while `for of` iterates through the values in the array.
 {% highlight js %}
-const list = [1, 2, 3, 4, 5, 6, 7];
+const list = [1, 2, 3];
 list.name = 'My Awesome List';
 
 //iterates over property names, so 'name' is looped over
 //e.g. the keys of your object
-console.log('\nfor in');
 for (let i in list) {
-  console.log(`list[${i}]: ${list[i]}`);
+  console.log(i);
 }
 
-console.log('\nfor of');
 for (let i of list) {
   console.log(i);
-    // console.log(`list[${i}]: ${list[i]}`);
 }
 {% endhighlight %}
 
 ### Getting `key` and `value` with `for of`
 Using destructuring to get key/value pairs
 {% highlight js %}
-console.log('\nfor of');
 for (let [key,value] of list.entries()) {
   console.log(`${key} ${value}`);
 }
 {% endhighlight %}
+
+## Putting it all together
+So let's go `for` ==> `forEach` ==> `for of`
 
 ## Conclusion
 
