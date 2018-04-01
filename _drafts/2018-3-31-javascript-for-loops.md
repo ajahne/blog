@@ -6,7 +6,7 @@ categories: javascript
 header:
   image: /assets/images/up-arrows.jpg
 ---
-So I don't know about you, but I am tired of writing the same `for` loops over and over. ES6 introduces `for...of` and its time for us to level up our loops. The goal of this post is to get us using the new `for...of` statement and improve our coding skills. So let's upgrade from `for` to `forEach` to the new hotness that is `for...of`. Let's loop!
+So I don't know about you, but I am tired of writing the same `for` loops over and over. ES6 introduces `for...of` and its time for us to level up our loops. The goal of this post is to get us using the new `for...of` statement and improve our coding skills. So let's upgrade from `for` to `forEach` to the new hotness that is `for...of`.
 
 ### Before we get started
 This article assumes you are familiar with `for` statements and loops in general. MDN provides great overviews [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/statements/for) and [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration#for_statement).
@@ -14,7 +14,7 @@ This article assumes you are familiar with `for` statements and loops in general
 Let's loop!
 
 ## for
-The O.G. The original.  The one, the only, the `for` loop. Each time I have to write `i=0; i<somethingLong`, I think, isn't there a better way of doing this?  Well yes, but first, let's show out with some examples.
+The O.G. The original.  The one, the only, the `for` loop. Each time I have to write `i=0; i<somethingLong; i++`, I think, isn't there a better way of doing this?  Well yes, but first, let's show out with some examples.
 
 {% highlight js %}
 const list = [1, 2, 3, 4, 5, 6, 7];
@@ -44,7 +44,7 @@ for (let i = 0; i < list.length; i++) {
 {% endhighlight %}
 
 ## `forEach`
-Introduced with ES5 is the `forEach` method of the Array object. This gives us conciseness, allowing us to write less verbose loops.
+Introduced with ES5 is the `forEach` method of the Array object. This provides conciseness, allowing us to write less verbose statements.
 {% highlight js %}
 const list = [1, 2, 3, 4, 5, 6, 7];
 
@@ -59,7 +59,7 @@ list.forEach((element) => {
 });
 {% endhighlight %}
 
-### Need the index and the array itself? `forEach` has got you covered.
+Need the index and the array itself? `forEach` has got you covered.
 {% highlight js %}
 const list = ['a', 'b', 'c'];
 list.forEach((element, index, array) => {
@@ -84,12 +84,13 @@ for (let i of list) {
 const list = [1, 2, 3];
 list.name = 'My Awesome List';
 
-//iterates over property names, so 'name' is looped over
+//for in iterates over property names, so 'name' is looped over
 //e.g. the keys of your object
 for (let i in list) {
   console.log(i);
 }
 
+//for of iterates through the values in the array
 for (let i of list) {
   console.log(i);
 }
