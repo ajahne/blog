@@ -6,8 +6,7 @@ categories: javascript
 header:
   image: /assets/images/up-arrows.jpg
 ---
-So I don't know about you, but I am tired of writing the same `for` loops over and over. ES6 introduces `for of` and we can level up our loops. So let's upgrade from `for` to `forEach` to the new hotness that is `for of`.  Let's loop!
-
+So I don't know about you, but I am tired of writing the same `for` loops over and over. ES6 introduces `for of` and its time for us to level up our loops. The goal of this post is to get us using the new `for of` statement and improve our coding skills. So let's upgrade from `for` to `forEach` to the new hotness that is `for of`. Let's loop!
 
 ## for
 The O.G. The original.  The one, the only, the `for` loop. Each time I have to write `i=0; i<somethingLong`, I think, isn't there a better way of doing this?  Well yes, but first, let's show out with some examples.
@@ -22,7 +21,7 @@ for (let i = 0; i < list.length; i++) {
 }
 {% endhighlight %}
 
-### for loops with break and continue
+### `for` loops with `break` and `continue`
 {% highlight js %}
 //can perform the same, but cannot use break and continue
 console.log('\nforEach');
@@ -45,8 +44,8 @@ for (let i = 0; i < list.length; i++) {
 }
 {% endhighlight %}
 
-## forEach
-Introduced with ES5 is the `forEach` method of the Array object. This gives us conciseness and
+## `forEach`
+Introduced with ES5 is the `forEach` method of the Array object. This gives us conciseness, allow us to write less verbose loops
 {% highlight js %}
 //can perform the same, but cannot use break and continue
 console.log('\nforEach');
@@ -55,7 +54,7 @@ list.forEach((element) => {
 });
 {% endhighlight %}
 
-### need the index and the array itself? Its got you covered
+### Need the index and the array itself? Its got you covered
 {% highlight js %}
 //can perform the same, but cannot use break and continue
 console.log('\nforEach');
@@ -64,9 +63,22 @@ list.forEach((element, index, array) => {
 });
 {% endhighlight %}
 
-## for of
-### for of vs for in
+## `for of`
+The `for of` provides us with the conciseness of `forEach` with the feature richness (e.g. `break` and `continue`) for the original `for` statement.
 {% highlight js %}
+//for of iterates through the values in the array
+console.log('\nfor of');
+for (let i of list) {
+  console.log(i);
+}
+{% endhighlight %}
+
+### `for of` vs `for in`
+`for in` iterates over property names, so 'name' is looped over, while `for of` iterates through the values in the array.
+{% highlight js %}
+const list = [1, 2, 3, 4, 5, 6, 7];
+list.name = 'My Awesome List';
+
 //iterates over property names, so 'name' is looped over
 //e.g. the keys of your object
 console.log('\nfor in');
@@ -74,7 +86,6 @@ for (let i in list) {
   console.log(`list[${i}]: ${list[i]}`);
 }
 
-//for of iterates through the values in the array
 console.log('\nfor of');
 for (let i of list) {
   console.log(i);
@@ -82,7 +93,19 @@ for (let i of list) {
 }
 {% endhighlight %}
 
+### Getting `key` and `value` with `for of`
+Using destructuring to get key/value pairs
+{% highlight js %}
+console.log('\nfor of');
+for (let [key,value] of list.entries()) {
+  console.log(`${key} ${value}`);
+}
+{% endhighlight %}
+
 ## Conclusion
 
 ## Additional Resources
-http://exploringjs.com/es6/ch_core-features.html#sec_for-foreach-forof
+- [Loops and Iteration on Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
+- [for, foreach, and for on exploringjs](http://exploringjs.com/es6/ch_core-features.html#sec_for-foreach-forof)
+- [Array.prototype.forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+- [for...of](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
