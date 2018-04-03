@@ -13,55 +13,51 @@ This article assumes you are familiar with `for` statements and loops in general
 
 Let's loop!
 
-## for
-The O.G. The original.  The one, the only, the `for` loop. Each time I have to write `i=0; i<somethingLong; i++`, I think, isn't there a better way of doing this?  Well yes, but first, let's show out with some examples.
+## `for`
+The O.G. The foundation.  The one, the only, the `for` loop. Each time I have to write `i=0; i<somethingLong; i++`, I think, isn't there a better way of doing this?  Well yes, but first, let's show out with some examples.
 
 {% highlight js %}
-const list = [1, 2, 3, 4, 5, 6, 7];
-list.name = 'My Awesome List';
+const list = [1, 2, 3, 4, 5];
 
 for (let i = 0; i < list.length; i++) {
-  console.log(`list[${i}]: ${list[i]}`);
+  console.log(list[i]);       //1, 2, 3, 4, 5
 }
 {% endhighlight %}
 
 ### `for` loops with `break` and `continue`
+We can also skip to next iteration of the loop with `continue` or terminate the current loop itself with `break`.
 {% highlight js %}
+const letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g'];
 
-for (let i = 0; i < list.length; i++) {
+for (let i = 0; i < letters.length; i++) {
   //skip the 2nd index
-  if (i == 2) {
+  if (i === 2) {
     continue;
   }
 
   //do not execute after the 5th element
-  if (i == 5) {
+  if (i === 5) {
     break;
   }
 
-  console.log(`list[${i}]: ${list[i]}`);
+  console.log(letters[i]);       //a, b, d, e
 }
 {% endhighlight %}
 
 ## `forEach`
 Introduced with ES5 is the `forEach` method of the Array object. This provides conciseness, allowing us to write less verbose statements.
 {% highlight js %}
-const list = [1, 2, 3, 4, 5, 6, 7];
+const list = [1, 2, 3, 4, 5];
 
-//for reference, our basic for loop
-for (let i = 0; i < list.length; i++) {
-  console.log(list[i]);
-}
-
-//implementing the above with forEach
 list.forEach((element) => {
-  console.log(element);
+  console.log(element);     //1, 2, 3, 4, 5
 });
 {% endhighlight %}
 
 Need the index and the array itself? `forEach` has got you covered.
 {% highlight js %}
 const list = ['a', 'b', 'c'];
+
 list.forEach((element, index, array) => {
   console.log(`list[${index}]: ${element}`);
   console.log(`${array[index] === element}`);
@@ -73,8 +69,9 @@ One of the downsides of the `forEach` method, is that is does not support `break
 ## `for...of`
 The `for...of` provides us with the conciseness of `forEach` with the feature richness (e.g. `break` and `continue`) of the `for` statement.
 {% highlight js %}
+const list = [1, 2, 3, 4, 5];
 for (let i of list) {
-  console.log(i);
+  console.log(i);     //1, 2, 3, 4, 5
 }
 {% endhighlight %}
 
@@ -84,33 +81,73 @@ for (let i of list) {
 const list = [1, 2, 3];
 list.name = 'My Awesome List';
 
-//for in iterates over property names, so 'name' is looped over
-//e.g. the keys of your object
+//for...in iterates over property names, so 'name' is looped over
 for (let i in list) {
-  console.log(i);
+  console.log(i);       //0, 1, 2, name
 }
 
-//for of iterates through the values in the array
+//for...of iterates through the values in the array
 for (let i of list) {
-  console.log(i);
+  console.log(i);       //1, 2, 3
 }
 {% endhighlight %}
 
 ### Getting `key` and `value` with `for...of`
-Using destructuring to get key/value pairs
+Use destructuring to get key/value pairs
 {% highlight js %}
+const list = [1, 2, 3];
+
 for (let [key,value] of list.entries()) {
-  console.log(`${key} ${value}`);
+  console.log(`${key} ${value}`);     //0 a; 1 b; 2 c
+}
+{% endhighlight %}
+
+### Using `for...of` with `break` and `continue` (based on our previous `for` loop example):
+{% highlight js %}
+const list = [1, 2, 3, 4, 5];
+
+for (let i of list) {
+  //skip the 2nd index
+  if (i === 2) {
+    continue;
+  }
+
+  //do not execute after the 5th element
+  if (i === 5) {
+    break;
+  }
+
+  console.log(i);       //0, 1, 3, 4
 }
 {% endhighlight %}
 
 ## Putting it all together
 So let's go `for` ==> `forEach` ==> `for...of`
+{% highlight js %}
+const arr = ['x', 'y', 'z'];
+
+//for
+for (let i = 0; i < arr.length; i++) {
+  let element = arr[i];
+  console.log(element);     //'x', 'y', 'z'
+}
+
+//forEach
+arr.forEach((element) => {
+  console.log(element);     //'x', 'y', 'z'
+});
+
+//for...of
+for (let element of arr) {
+  console.log(element);     //'x', 'y', 'z'
+}
+{% endhighlight %}
 
 ## Conclusion
 
 ## Additional Resources
-- [Loops and Iteration on Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
-- [for, foreach, and for on exploringjs](http://exploringjs.com/es6/ch_core-features.html#sec_for-foreach-forof)
-- [Array.prototype.forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
-- [for...of](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
+- Loops and Iteration from [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
+- `for`, `forEach`, and `for...of` by [exploringjs](http://exploringjs.com/es6/ch_core-features.html#sec_for-foreach-forof)
+- `Array.prototype.forEach` from [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+- `for...of` from [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
+- `for...of` vs `for...in` on [stackoverflow](https://stackoverflow.com/questions/29285897/what-is-the-difference-between-for-in-and-for-of-in-javascript)
