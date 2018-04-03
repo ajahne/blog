@@ -6,7 +6,9 @@ categories: javascript
 header:
   image: /assets/images/up-arrows.jpg
 ---
-So I don't know about you, but I am tired of writing the same `for` loops over and over. ES6 introduces `for...of` and its time for us to level up our loops. The goal of this post is to get us using the new `for...of` statement and improve our coding skills. So let's upgrade from `for` to `forEach` to the new hotness that is `for...of`.
+So I don't know about you, but I am tired of writing the same ol' `for` loops over and over again. Each time I have to write `i=0; i<somethingLong; i++`, I think to myself (or mumble to my monitor), isn't there a better way of doing this?  Well yes there is!  ES6 introduces `for...of` and its time for us to level up our loops.
+
+The goal of this post is to improve our knowledge base while encouraging us to utilize the new `for...of` statement as we continue advancing our programming skills. So let's upgrade from `for` to `forEach` to the new hotness that is `for...of`.
 
 ### Before we get started
 This article assumes you are familiar with `for` statements and loops in general. MDN provides great overviews [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/statements/for) and [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration#for_statement).
@@ -14,7 +16,7 @@ This article assumes you are familiar with `for` statements and loops in general
 Let's loop!
 
 ## `for`
-The O.G. The foundation.  The one, the only, the `for` loop. Each time I have to write `i=0; i<somethingLong; i++`, I think, isn't there a better way of doing this?  Well yes, but first, let's show out with some examples.
+The O.G. The foundation.  The one, the only, the `for` loop.
 
 {% highlight js %}
 const list = [1, 2, 3, 4, 5];
@@ -25,12 +27,12 @@ for (let i = 0; i < list.length; i++) {
 {% endhighlight %}
 
 ### `for` loops with `break` and `continue`
-We can also skip to next iteration of the loop with `continue` or terminate the current loop itself with `break`.
+Using `continue`, we can skip to next iteration of the loop or terminate the current loop with `break`.
 {% highlight js %}
 const letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g'];
 
 for (let i = 0; i < letters.length; i++) {
-  //skip the 2nd index
+  //skip the 3rd element
   if (i === 2) {
     continue;
   }
@@ -45,7 +47,7 @@ for (let i = 0; i < letters.length; i++) {
 {% endhighlight %}
 
 ## `forEach`
-Introduced with ES5 is the `forEach` method of the Array object. This provides conciseness, allowing us to write less verbose statements.
+Introduced with ES5 is the `forEach` method of the Array object. This method provides coding conciseness, allowing us to write less verbose statements.
 {% highlight js %}
 const list = [1, 2, 3, 4, 5];
 
@@ -59,19 +61,20 @@ Need the index and the array itself? `forEach` has got you covered.
 const list = ['a', 'b', 'c'];
 
 list.forEach((element, index, array) => {
-  console.log(`list[${index}]: ${element}`);
-  console.log(`${array[index] === element}`);
+  console.log(`list[${index}]: ${element}`);    //list[0]: a, list[0]: b, list[0]: c
+  console.log(`${array[index] === element}`);   //true, true, true
 });
 {% endhighlight %}
 
-One of the downsides of the `forEach` method, is that is does not support `break` and `continue`.  So what if you need to `break` out and/or `continue` to the next step? `for...of` is the statement for you!
+One of the downsides of the `forEach` method, is that it does not support `break` and `continue`.  So what if you need to `break` out and/or `continue` to the next step? `for...of` is the statement for you!
 
 ## `for...of`
-The `for...of` provides us with the conciseness of `forEach` with the feature richness (e.g. `break` and `continue`) of the `for` statement.
+The `for...of` statement provides us with the conciseness of `forEach` with the feature richness (e.g. `break` and `continue`) of the `for` statement.
 {% highlight js %}
 const list = [1, 2, 3, 4, 5];
-for (let i of list) {
-  console.log(i);     //1, 2, 3, 4, 5
+
+for (let value of list) {
+  console.log(value);     //1, 2, 3, 4, 5
 }
 {% endhighlight %}
 
@@ -95,34 +98,34 @@ for (let i of list) {
 ### Getting `key` and `value` with `for...of`
 Use destructuring to get key/value pairs
 {% highlight js %}
-const list = [1, 2, 3];
+const list = ['a', 'b', 'c'];
 
-for (let [key,value] of list.entries()) {
-  console.log(`${key} ${value}`);     //0 a; 1 b; 2 c
+for (let [key, value] of list.entries()) {
+  console.log(`${key} ${value}`);     //0 a, 1 b, 2 c
 }
 {% endhighlight %}
 
-### Using `for...of` with `break` and `continue` (based on our previous `for` loop example):
+### Using `for...of` with `break` and `continue`
 {% highlight js %}
-const list = [1, 2, 3, 4, 5];
+const letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g'];
 
-for (let i of list) {
-  //skip the 2nd index
-  if (i === 2) {
+for (let [index, value] of letters.entries()) {
+  //skip the 3rd element
+  if (index === 2) {
     continue;
   }
 
   //do not execute after the 5th element
-  if (i === 5) {
+  if (index === 5) {
     break;
   }
 
-  console.log(i);       //0, 1, 3, 4
+  console.log(value);       //a, b, d, e
 }
 {% endhighlight %}
 
 ## Putting it all together
-So let's go `for` ==> `forEach` ==> `for...of`
+So let's take one example and go from `for` to `forEach` to `for...of`
 {% highlight js %}
 const arr = ['x', 'y', 'z'];
 
