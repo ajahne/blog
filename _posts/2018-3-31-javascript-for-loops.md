@@ -6,7 +6,7 @@ categories: javascript
 header:
   image: /assets/images/up-arrows.jpg
 ---
-So I don't know about you, but I am tired of writing the same ol' `for` loops over and over again. Each time I have to write `i=0; i<somethingLong; i++`, I think to myself (or mumble to my monitor), isn't there a better way of doing this?  Well yes there is!  ES6 introduces `for...of` and its time for us to level up our loops.
+So I don't know about you, but I am tired of writing the same ol' `for` loops over and over again. Each time I have to write `i=0; i<somethingLong; i++`, I think to myself (or mumble to my monitor), isn't there a better way of doing this?  Well yes there is!  ES6 introduces `for...of` and it's time for us to level up our loops.
 
 The goal of this post is to improve our knowledge base while encouraging us to utilize the new `for...of` statement as we continue advancing our programming skills. So let's upgrade from `for` to `forEach` to the new hotness that is `for...of`.
 
@@ -66,7 +66,7 @@ list.forEach((element, index, array) => {
 });
 {% endhighlight %}
 
-One of the downsides of the `forEach` method, is that it does not support `break` and `continue`.  So what if you need to `break` out and/or `continue` to the next step? `for...of` is the statement for you!
+One of the downsides of the `forEach` method, is that it does not support `break` and `continue`.  So what if you need to `break` out of the loop or `continue` to the next step? `for...of` is the statement for you!
 
 ## `for...of`
 The `for...of` statement provides us with the conciseness of `forEach` with the feature richness (e.g. `break` and `continue`) of the `for` statement.
@@ -148,7 +148,7 @@ for (let element of arr) {
 }
 {% endhighlight %}
 
-So now that we have leveled up our loops, we are ready to [for]th and program even more awesomeness!  Check out the resources below and happy coding!
+So now that we have leveled up our loops, we are ready to go [for]th and program even more awesomeness!  Check out the resources below and happy coding!
 
 ## Additional Resources
 - Loops and Iteration from [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
