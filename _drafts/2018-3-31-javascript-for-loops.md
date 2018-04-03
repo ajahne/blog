@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Leveling up our `for` loops"
-date:   2018-3-31 10:00:29 -0400
+date:   2018-4-3 0:08:29 -0400
 categories: javascript
 header:
   image: /assets/images/up-arrows.jpg
@@ -124,8 +124,10 @@ for (let [index, value] of letters.entries()) {
 }
 {% endhighlight %}
 
-## Putting it all together
-So let's take one example and go from `for` to `forEach` to `for...of`
+## Conclusion
+By using `for...of` we can obtain the feature richness of the classic `for` loop, with the conciseness of the Array's `forEach` method.
+
+Putting it all together, we can see the evolution from `for` to `forEach` to `for...of`.
 {% highlight js %}
 const arr = ['x', 'y', 'z'];
 
@@ -146,7 +148,7 @@ for (let element of arr) {
 }
 {% endhighlight %}
 
-## Conclusion
+So now that we have leveled up our loops, we are ready to [for]th and program even more awesomeness!  Check out the resources below and happy coding!
 
 ## Additional Resources
 - Loops and Iteration from [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
