@@ -8,7 +8,7 @@ header:
 ---
 So I don't know about you, but I am tired of writing the same ol' `for` loops over and over again. Each time I have to write `i=0; i<somethingLong; i++`, I think to myself (or mumble to my monitor), isn't there a better way of doing this?  Well yes there is!  ES6 introduces `for...of` and it's time for us to level up our loops.
 
-The goal of this post is to improve our knowledge base while encouraging us to utilize the new `for...of` statement as we continue advancing our programming skills. So let's upgrade from `for` to `forEach` to the new hotness that is `for...of`.
+The goal of this post is to improve our knowledge base while encouraging us to utilize the new `for...of` statement as we (continue to) advance our programming skills. So let's upgrade from `for` to `forEach` to the new hotness that is `for...of`.
 
 ### Before we get started
 This article assumes you are familiar with `for` statements and loops in general. MDN provides great overviews [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/statements/for) and [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration#for_statement).
@@ -61,7 +61,7 @@ Need the index and the array itself? `forEach` has got you covered.
 const list = ['a', 'b', 'c'];
 
 list.forEach((element, index, array) => {
-  console.log(`list[${index}]: ${element}`);    //list[0]: a, list[0]: b, list[0]: c
+  console.log(`list[${index}]: ${element}`);    //list[0]: a, list[1]: b, list[2]: c
   console.log(`${array[index] === element}`);   //true, true, true
 });
 {% endhighlight %}
