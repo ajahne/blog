@@ -4,7 +4,7 @@ title:  "JavaScript Scope"
 date:   2018-01-11 20:56:29 -0400
 categories: javascript
 header:
-  image: /assets/images/facade.jpg
+  image: /assets/images/facade2.jpg
 ---
 
 ### What is Scope?
