@@ -4,16 +4,16 @@
   - topic was "growth"
   - went around and wrote down individual growth and team growth goals
 - Share notes
-  - how to replace yourself/create autonomus teams
+  - how to replace yourself/create autonomous teams
   - diversity, specifically around hiring
   
   
-## Self-sufficent teams/replacing yourself
+## Self-sufficient teams/replacing yourself
 - talk about vision quarterly
 - tell team members they have ownership (make it explicit)
-- hire people who are self starters
+- hire people who are self-starters
 - spread the knowledge
-- educate people on the codebase by having them eidts parts of the code they are not familiar with
+- educate people on the codebase by having them edit parts of the code they are not familiar with
   -  "monitor me while I fix it"
   - conduct "lunch and learns" or "coffee and code"
 - have someone try out your role, step away
@@ -22,9 +22,9 @@
  
 ## Diversity in hiring
 - at its core, it is about the culture you create
-- what benefits does your company offer (e.g. gender confirmation surgery, sponosoring hackathons, maternity/paternity leave)
+- what benefits does your company offer (e.g. gender confirmation surgery, sponsoring hackathons, maternity/paternity leave)
 - start mentorship programs
-- reach out to commuity groups (e.g. coalition for queens)
+- reach out to community groups (e.g. coalition for queens)
 - widen the funnel
  - for example: instead of only hiring developers from 4 years programs, check out developers from code academy as well
 - expand your network
