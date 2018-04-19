@@ -22,11 +22,13 @@
  
 ## Diversity in hiring
 - at its core, it is about the culture you create
+- remove names from resumes
 - what benefits does your company offer (e.g. gender confirmation surgery, sponsoring hackathons, maternity/paternity leave)
 - start mentorship programs
 - reach out to community groups (e.g. coalition for queens)
 - widen the funnel
  - for example: instead of only hiring developers from 4 years programs, check out developers from code academy as well
+- leverage your network
 - expand your network
 - go to career fairs
 - open up new types of roles (for example, if you only have senior engineers, maybe open up a new junior position)
