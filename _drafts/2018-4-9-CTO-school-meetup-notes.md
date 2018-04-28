@@ -1,3 +1,10 @@
+---
+layout: single
+title:  "CTO School Meetup Notes: 4/10/18"
+date:   2018-4-10 0:08:29 -0400
+categories: leadership
+---
+
 ## Outline
 - Quick (1-2 sentence) overview of the meetup
 - Talk about the format of the meeting
@@ -6,8 +13,8 @@
 - Share notes
   - how to replace yourself/create autonomous teams
   - diversity, specifically around hiring
-  
-  
+
+
 ## Self-sufficient teams/replacing yourself
 - talk about vision quarterly
 - tell team members they have ownership (make it explicit)
@@ -18,8 +25,8 @@
   - conduct "lunch and learns" or "coffee and code"
 - have someone try out your role, step away
   -  for example, if you are the scrum master, have someone else try it for a sprint or two
-    
- 
+
+
 ## Diversity in hiring
 - at its core, it is about the culture you create
 - remove names from resumes
