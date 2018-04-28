@@ -3,6 +3,8 @@ layout: single
 title:  "CTO School Meetup Notes: 4/10/18"
 date:   2018-4-10 0:08:29 -0400
 categories: leadership
+header:
+  image: /assets/images/growth.jpg
 ---
 
 ## Outline
