@@ -42,7 +42,7 @@ Here are my notes from the two sessions I participated in.
 
 ### Self-sufficient teams/replacing yourself
 - talk about the vision quarterly
-  - helps to ensure that the team is clear on organizational goals; will ensure that the team is better equipped to make decisions that align with the company's vision.
+  - helps to ensure the team is clear on organizational goals; will ensure the team is better equipped to make decisions that align with the company's vision.
 - tell team members they have ownership (make it explicit)
   - e.g. ownership of the code base, of important decisions (within the scope of their role), of technology
   - provide support to bounce ideas and brainstorm solutions
