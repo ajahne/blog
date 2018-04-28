@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  'CTO School Meetup: 4/10/18 - Growth'
+title:  'CTO School Meetup: Growth Plans'
 date:   2018-4-10 0:08:29 -0400
 categories: leadership
 header:
@@ -20,28 +20,29 @@ I wrote down the following.
 **Personal Growth Goals**
 - listen more
 - help my team grow/become leaders
-- become better at DevOps (and the related technology)
+- become better at DevOps (and the related technologies)
 
 **Team Growth Goals:**
 - create self sufficient teams/teams that do not need me
 - grow the team (both in size and responsibility)
 
-After a few minutes, we went around as a group and shared one personal growth goal, followed by one team goal.  The moderator wrote down each team goal on the board. From there, we were each given three votes to determine which topic(s) we were most interested in discussing in smaller sub-groups.  Six topics received the highest votes and these topics were split into two "sessions" of 20 minutes each, with one group per topic.  
+After a few minutes, we went around as a group and shared one personal growth goal, followed by one team goal.  The moderator wrote down each team goal on a whiteboard. From there, we were each given three votes to determine which topic(s) we were most interested in discussing in smaller sub-groups.  Six topics received the highest votes and these topics were split into two "sessions" of 20 minutes each, with one group per topic.  
 
-We split into groups and shared our experiences, knowledge, questions, and perspectives. The two groups I joined were on the topics of "self-sufficient teams (i.e. replacing yourself)" and "diversity in hiring".  
+We split into groups and shared our experiences, knowledge, questions, and perspectives. The two groups I joined were on the topics of **self-sufficient teams (i.e. replacing yourself)** and **diversity in hiring**.  
 
-The former was focused on helping to create teams that do not rely solely on one person, one voice, and/or one leader to ensure that goals are met and the vision is reached. Some related questions: what happens when you go on vacation? If you are out for two weeks, does the team implode? Would people know what to work on and what the goals are if you are out of the office/not around?
+The former was focused on helping to create teams that do not rely solely on one person, one voice, and/or one leader to ensure that goals are met and the vision is reached. Some related questions include, what happens when you go on vacation? If you are out for two weeks, does the team implode? Would people know what to work on and what the goals are if you are out of the office/not around?
 
-The latter topic focused on hiring with diversity as a core requirement.  How do you hire a diverse team? How do you make this a critical part of the process and organization?
+The latter topic focused on hiring with diversity as a core requirement.  How do you hire (and build) a diverse team? How do you make this a critical part of the process and organization? How do you find diverse candidates?
 
 After each session, we gathered back into the larger group and shared our notes.
 
-Here are my notes from my two sessions in their raw form.  
+Here are my notes from the two sessions I participated in.  
 
 ## Meeting Notes
 
 ### Self-sufficient teams/replacing yourself
 - talk about the vision quarterly
+  - helps to ensure that the team is clear on organizational goals; will ensure that the team is better equipped to make decisions that align with the company's vision.
 - tell team members they have ownership (make it explicit)
   - e.g. ownership of the code base, of important decisions (within the scope of their role), of technology
   - provide support to bounce ideas and brainstorm solutions
@@ -49,16 +50,20 @@ Here are my notes from my two sessions in their raw form.
 - spread the knowledge
   - create sufficient documentation
 - educate people on the codebase by having them edit parts of the code they are not familiar with
-  -  "monitor me while I fix it"
-  - conduct "lunch and learns" or "coffee and code"
+  -  "monitor me while I fix it" - if you are the expert (or the only one familiar with a particular area), have someone sit with you while you debug
+  - conduct "lunch and learns" or "coffee and code" ("debug and dine" - collaborate over food)
 - have someone try out your role, step away
   -  for example: if you are the scrum master, have someone else try it for a sprint or two
-- conduct code reviews (share the responsibility, should not fall on one person)
+- conduct code reviews (share the responsibility, code reviews should not fall on one person)
 
 
 ### Diversity in hiring
 - at its core, it is about the culture you create
-- what benefits does your company offer (e.g. gender confirmation surgery, sponsoring hackathons, maternity/paternity leave)
+- the company must support diversity and make it a core tenant and priority
+  - speak about it openly, discuss it as a leadership team and with employees
+- what benefits does your company offer
+  - e.g. gender confirmation surgery, sponsoring hackathons, maternity/paternity leave
+  - prospective employees see where your values are and what you care about
 - remove names from resumes
 - start mentorship programs
 - reach out to community groups (e.g. coalition for queens)
