@@ -1,9 +1,20 @@
 ## Outline
 - Books
+ - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
+ - https://www.amazon.com/Leading-Software-Development-Team-successfully/dp/0201675269
+ - https://www.amazon.com/Advantage-Organizational-Health-Everything-Business/dp/1491510803
 - Blogs
+  - firstround review
 - Newsletters
+  - Software Lead Weekly
 - Network
 - Meetups
+- Career coaching
+  - http://www.lifelabslearning.com
+  - https://www.meetup.com/ctoschool/pages/21143424/Executive_Coaches_Recommended_by_Members/
 - Listening (Podcasts)
+  - Leadership in tech https://www.techonramp.com/leadership-in-tech/
+  - https://www.inc.com/marla-tabaka/5-podcasts-that-will-give-you-a-leadership-edge.html
+  - https://www.inc.com/lolly-daskal/12-podcasts-that-will-make-you-into-better-leaders.html
 - Watching (videos)
 - Doing
