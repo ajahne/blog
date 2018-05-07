@@ -4,7 +4,7 @@ title:  "What is a Tech Lead?"
 date:   2018-02-16 1:05:29 -0400
 categories: leadership
 header:
-  image: /assets/images/techlead-header.jpg
+  image: /assets/images/techlead-header2.jpg
 ---
 >A Tech Lead is a senior engineer responsible for leading a team of software developers to achieve a collective goal.
 
