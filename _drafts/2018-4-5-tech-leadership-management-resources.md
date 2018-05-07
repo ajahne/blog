@@ -5,6 +5,9 @@
  - https://www.amazon.com/Advantage-Organizational-Health-Everything-Business/dp/1491510803
 - Blogs
   - firstround review
+  - https://larahogan.me/blog/
+  - https://blog.coleadership.com/author/jean/
+  - http://www.elidedbranches.com
 - Newsletters
   - Software Lead Weekly
 - Network
@@ -18,3 +21,5 @@
   - https://www.inc.com/lolly-daskal/12-podcasts-that-will-make-you-into-better-leaders.html
 - Watching (videos)
 - Doing
+- Other
+  - http://randsinrepose.com/welcome-to-rands-leadership-slack/
