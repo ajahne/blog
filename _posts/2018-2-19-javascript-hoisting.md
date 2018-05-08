@@ -3,8 +3,6 @@ layout: single
 title:  "Hoisting in JavaScript"
 date:   2018-2-23 0:49:29 -0400
 categories: javascript
-header:
-  image: /assets/images/hoisting.jpg
 ---
 >Hoisting is the process of lifting and declaring a variable defined with `var` to the top of its scope, be it functional scope (if defined in function) or global scope (if declared outside of a function). Additionally, function declarations are hoisted to the top of the current scope as well.
 
