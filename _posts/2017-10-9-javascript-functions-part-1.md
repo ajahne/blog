@@ -30,7 +30,7 @@ myFirstFunction();
 Simply add "()" to the end of the function you declared and voila, invocation!
 
 ### **Functions are “first class” objects.**
-This is a critical principle, that you will probably hear often and may scrunch up your face the first time you come across it. What exactly does this mean? Frankly, it means that functions can (and do) have properties and methods - just like any other object. A few methods that functions have include _call_, _apply_, and _bind_.  Additionally functions can have properties as well. Each function in JavaScript is a Function object.
+This is a critical principle, that you will probably hear often and may scrunch up your face the first time you come across it. What exactly does this mean? Frankly, it means that functions can (and do) have properties and methods - just like any other object. A few methods that functions have include [_call_, _apply_]({{ site.baseurl }}{% post_url 2017-10-24-javascript-functions-part-2 %}), and [_bind_]({{ site.baseurl }}{% post_url 2017-10-31-javascript-functions-part-3 %}).  Additionally functions can have properties as well. Each function in JavaScript is a Function object.
 {% highlight js %}
 function echo(message) {
   console.log(message);
