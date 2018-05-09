@@ -1,28 +1,36 @@
+---
+layout: single
+title:  'setTimeout(callback, 0) !== 0ms'
+date:   2018-5-8 0:06:00 -0400
+categories: leadership
+header:
+  image: /assets/images/timers.jpg
+---
 Outline
-- setTimeout(cb, 0) !== 0ms 
-- currently working on a program the randomizes the time it takes to complete.  It simulates a user's playthough by randomizing when certain actions (e.g. button click, data submission) occur. 
-- Note: for the purpose of this discussion "instantaneous" or "instant" means code that can run immediately (e.g. was not placed on a queue by setTimeout or setInterval) 
+- setTimeout(cb, 0) !== 0ms
+- currently working on a program the randomizes the time it takes to complete.  It simulates a user's play-through by randomizing when certain actions (e.g. button click, data submission) occur.
+- Note: for the purpose of this discussion "instantaneous" or "instant" means code that can run immediately (e.g. was not placed on a queue by setTimeout or setInterval)
 - setTimeout and setInterval have a minimum delay
   - 4ms in browsers
   - 1ms in node
 - Implications
-  - setting delay of 0ms with not happen instantaneous 
+  - setting delay of 0ms with not happen instantaneous
 - Nice to have
   - charts
-  
+
 ## Examples to create
 
-### Specifications 
+### Specifications
 - System: Dell Latitude E5570. 16MB RAM, Processor: i7 2.60GHz. Windows 10
 - Chrome - Version 66.0.3359.139
 - Firefox - Version 60.0
 - Node.js - Version 6.12.3
 
 ### Browser
-All tests are performaned on chrome.
+All tests are performed on chrome.
 How are the tests performed:
 - open Chrome
-- open developer tools 
+- open developer tools
 - open file
 - see results
 
@@ -102,7 +110,6 @@ Loop with setTimeout
 - run 5:
 
 ## Additional Resources
-- MDN [setTimeout](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout) 
-- Node.js [setInterval](https://nodejs.org/api/timers.html#timers_setinterval_callback_delay_args) 
-and [setTimeout](https://nodejs.org/api/timers.html#timers_settimeout_callback_delay_args) 
-  
+- MDN [setTimeout](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout)
+- Node.js [setInterval](https://nodejs.org/api/timers.html#timers_setinterval_callback_delay_args)
+and [setTimeout](https://nodejs.org/api/timers.html#timers_settimeout_callback_delay_args)
