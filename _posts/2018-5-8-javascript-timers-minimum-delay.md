@@ -103,43 +103,65 @@ for (let i = 0; i < arr.length; i++) {
 console.timeEnd();
 {% endhighlight %}
 
+`loop-settimeout.js`
+{% highlight js %}
+const numElements = 10000;
+let count = 0;
+let intervalID;
+
+const createObject = element => {
+    if (count !== numElements-1) {
+        element = new Object();
+        count++;
+    }
+    else {
+        clearInterval(intervalID);
+        console.timeEnd();
+    }
+
+};
+
+console.time();
+const arr = new Array(numElements);
+intervalID = setInterval(createObject, 0, arr[count]);
+{% endhighlight %}
+
 The code can be found [here](https://github.com/ajahne/js-examples/tree/master/timers/settimeout).
 
 ## Test Results
 ### Chrome
 _Note: Chrome provides more significant digits than Firefox and thus the times are rounded to the nearest whole number to provide equivalent levels of precision._
 
-|Run      |loop.js      |loop-settimeout.js|
-|---------|-------------|------------------|
-|1        |2ms          |66ms
-|2        |4ms          |74ms
-|3        |7ms          |62ms
-|4        |3ms          |65ms
-|5        |4ms          |68ms
+|Run      |loop.js      |loop-settimeout.js|loop-setinterval.js
+|---------|-------------|------------------|------------------|
+|1        |2ms          |66ms              |40289ms
+|2        |4ms          |74ms              |40131ms
+|3        |7ms          |62ms              |40210ms
+|4        |3ms          |65ms              |40117ms
+|5        |4ms          |68ms              |40169ms
 
 ### Firefox  
 
-|Run      |loop.js      |loop-settimeout.js|
-|---------|-------------|------------------|
-|1        |4ms          |26ms
-|2        |4ms          |21ms
-|3        |5ms          |21ms
-|4        |2ms          |23ms
-|5        |3ms          |22ms
+|Run      |loop.js      |loop-settimeout.js|loop-setinterval.js
+|---------|-------------|------------------|------------------|
+|1        |4ms          |26ms              |44678ms
+|2        |4ms          |21ms              |45246ms
+|3        |5ms          |21ms              |43100ms
+|4        |2ms          |23ms              |44167ms
+|5        |3ms          |22ms              |44413ms
 
 ### Node  
 
-|Run      |loop.js      |loop-settimeout.js|
-|---------|-------------|------------------|
-|1        |0.592ms      |18.832ms
-|2        |0.574ms      |17.423ms
-|3        |0.586ms      |16.748ms
-|4        |0.702ms      |18.811ms
-|5        |0.583ms      |16.926ms
+|Run      |loop.js      |loop-settimeout.js|loop-setinterval.js
+|---------|-------------|------------------|------------------|
+|1        |0.592ms      |18.832ms          |27777.110ms
+|2        |0.574ms      |17.423ms          |27618.277ms          
+|3        |0.586ms      |16.748ms          |25347.014ms
+|4        |0.702ms      |18.811ms          |27398.416ms
+|5        |0.583ms      |16.926ms          |25325.018ms
 
 ## Conclusion
-By comparing `for` loops that do and do not utilize timers, our test results confirm that `setTimeout` and `setInterval` indeed have a minimum delay.
-**Knowing this, if you want a piece of code to execute instantly, do not use timers.**
+By comparing `for` loops that do and do not utilize timers, our test results confirm that `setTimeout` and `setInterval` indeed have a minimum delay. All these glorious numbers are essentially telling us: **if you want a piece of code to execute immediately, do not use timers.**. 
 {% highlight js %}
 //To ensure code runs immediately
 //do this
@@ -148,6 +170,8 @@ runAweseomeCode();
 //Not this
 setTimeout(runAweseomeCode, 0);
 {% endhighlight %}
+
+For further reading, check out the additional resources below and happy coding! 
 
 ## Additional Resources
 - MDN [setTimeout](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout)
