@@ -118,7 +118,6 @@ const createObject = element => {
         clearInterval(intervalID);
         console.timeEnd();
     }
-
 };
 
 console.time();
