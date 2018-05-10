@@ -63,7 +63,7 @@ Now that we have a little background, let's dive into tests we conducted to illu
 ### How the tests were performed:  
 **In the browser:**  
 run the following steps 5 times for each file
-- load [loop.html](https://github.com/ajahne/js-examples/blob/master/timers/settimeout/loop.html) or [loop-settimeout.html](https://github.com/ajahne/js-examples/blob/master/timers/settimeout/loop-settimeout.html) in the browser
+- load [loop.html](https://github.com/ajahne/js-examples/blob/master/timers/settimeout/loop.html), [loop-settimeout.html](https://github.com/ajahne/js-examples/blob/master/timers/settimeout/loop-settimeout.html), or [loop-setinterval.html](https://github.com/ajahne/js-examples/blob/master/timers/settimeout/loop-setinterval.html) in the browser
 - open up developer tools
 - view results
 - clear cache
@@ -76,6 +76,9 @@ node loop.js
 ```
 ```
 node loop-settimeout.js
+```
+```
+node loop-setinterval.js
 ```
 
 ## Test Code
