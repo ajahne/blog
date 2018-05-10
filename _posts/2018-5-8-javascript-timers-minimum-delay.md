@@ -1,7 +1,7 @@
 ---
 layout: single
-title:  'setTimeout(function, 0) !== 0ms'
-date:   2018-5-9 11:15:00 -0400
+title:  'setTimeout(fn, 0) !== 0ms'
+date:   2018-5-10 01:49:00 -0400
 categories: javascript
 header:
   image: /assets/images/timers.jpg
@@ -17,7 +17,7 @@ The implication being that setting a delay of 0ms will not happen instantaneousl
 _Note: for the purpose of this discussion "instantaneous" or "instant" means code that can run immediately (e.g. code that was not placed on a queue by setTimeout or setInterval)_
 
 ## Background aka how did this come up?
-At my company, one of our current strategic initiatives is to enhance the scalability of our infrastructure.  To that end, members of the DevOps team are conducting performance tests on our servers to better understand the maximum user load we can support while maintaining our KPIs. To facilitate this testing, the team is building a tool that simulates a user's play-through and randomizes when certain actions (e.g. button clicks, data submissions) occur. Once completed, this tool will be "spawned" across multiple server instances to hammer our infrastructure :).
+At my company, one of our current strategic initiatives is to enhance the scalability of our infrastructure.  To that end, members of the DevOps team are conducting performance tests on our servers to better understand the maximum user load we can support while maintaining our KPIs. To facilitate this testing, the team is building a tool that simulates a play-through on our web application and randomizes when certain actions (e.g. button clicks, data submissions) occur. Once completed, this tool will be "spawned" across multiple server instances to hammer our infrastructure :).
 
 A requirement of this tool is to both run "instantly" (to maximize hits per minute) and "randomly" (within specified ranges of time) to simulate user interaction.
 
