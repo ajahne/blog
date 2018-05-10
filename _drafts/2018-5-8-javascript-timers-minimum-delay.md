@@ -6,9 +6,7 @@ categories: javascript
 header:
   image: /assets/images/timers.jpg
 ---
-When working with timers, setting a delay of 0, does not equate to 0ms or "instant" execution.  Each JavaScript environment, be it the browser or Node.js, throttles `setTimeout` and `setInterval`.   
-
-This throttle means that `setTimeout` and `setInterval` have a minimum delay.  
+When working with timers, setting a delay of 0, does not equate to 0ms or "instant" execution.  Each JavaScript environment, be it the browser or Node.js, throttles `setTimeout` and `setInterval`. This throttle means that `setTimeout` and `setInterval` have a minimum delay.  
 
 **The minimum delay is:**
 - 4ms in browsers ([per MDN](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout#Notes))
@@ -21,7 +19,7 @@ _Note: for the purpose of this discussion "instantaneous" or "instant" means cod
 ## Background aka how did this come up?
 At my company, one of our current strategic initiatives is to enhance the scalability of our infrastructure.  To that end, members of the DevOps team are conducting performance tests on our servers to better understand the maximum user load we can support while maintaining our KPIs. To facilitate this testing, the team is building a tool that simulates a user's play-through and randomizes when certain actions (e.g. button clicks, data submissions) occur. Once completed, this tool will be "spawned" across multiple server instances to hammer our infrastructure :).
 
-A requirement of this tool is to both run "instantly" (to maximize hits per minute) and "randomly" (within certain ranges) to simulate user interaction.
+A requirement of this tool is to both run "instantly" (to maximize hits per minute) and "randomly" (within specified ranges of time) to simulate user interaction.
 
 While testing, we observed that when setting a timeout of 0, the overall play-through was taking longer than expected.  After further research, we discovered that yes, a delay of 0, does not equal 0ms and is definitely not "instant".  
 
