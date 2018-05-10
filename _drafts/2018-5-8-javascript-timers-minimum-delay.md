@@ -1,13 +1,13 @@
 ---
 layout: single
-title:  'setTimeout(callback, 0) !== 0ms'
+title:  'setTimeout(function, 0) !== 0ms'
 date:   2018-5-8 0:06:00 -0400
 categories: javascript
 header:
   image: /assets/images/timers.jpg
 ---
 Outline
-- setTimeout(cb, 0) !== 0ms
+- setTimeout(function, 0) !== 0ms
 - Note: for the purpose of this discussion "instantaneous" or "instant" means code that can run immediately (e.g. was not placed on a queue by setTimeout or setInterval)
 
 tl;dr
@@ -18,13 +18,13 @@ tl;dr
   - setting delay of 0ms with not happen instantaneously
 
 If you want a piece of code to execute instantly:
-```
-//do this 
+{% highlight js %}
+//do this
 runAweseomeCode();
 
-Not this
+//Not this
 setTimeout(runAweseomeCode, 0);
-```
+{% endhighlight %}
 
 ## Introduction
 - currently working on a program the randomizes the time it takes to complete.  It simulates a user's play-through by randomizing when certain actions (e.g. button click, data submission) occur.
@@ -45,23 +45,23 @@ How are the tests performed:
 
 ## Test Code
 
-loop.js
-```
+`loop.js`
+{% highlight js %}
 console.time();
 const arr = new Array(10000);
 for (let i = 0; i < arr.length; i++) {
   arr[i] = new Object();
 }
 console.timeEnd();
-```
+{% endhighlight %}
 
-loop-settimeout.js
-```
+`loop-settimeout.js`
+{% highlight js %}
 const runTimer = ()=> {
   const createObject = element => {
     element = new Object();
   };
-  
+
   console.time();
   const arr = new Array(10000);
   for (let i = 0; i < arr.length; i++) {
@@ -71,8 +71,7 @@ const runTimer = ()=> {
 }
 runInstant();
 runTimer();
-
-```
+{% endhighlight %}
 
 The latest code can be found [here](https://github.com/ajahne/js-examples/tree/master/timers/settimeout).
 
