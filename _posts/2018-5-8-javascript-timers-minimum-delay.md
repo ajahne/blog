@@ -110,14 +110,14 @@ let count = 0;
 let intervalID;
 
 const createObject = element => {
-    if (count !== numElements-1) {
-        element = new Object();
-        count++;
-    }
-    else {
-        clearInterval(intervalID);
-        console.timeEnd();
-    }
+  if (count !== numElements-1) {
+    element = new Object();
+    count++;
+  }
+  else {
+    clearInterval(intervalID);
+    console.timeEnd();
+  }
 };
 
 console.time();
