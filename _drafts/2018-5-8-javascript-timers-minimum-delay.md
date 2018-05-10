@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  'setTimeout(function, 0) !== 0ms'
-date:   2018-5-8 0:06:00 -0400
+date:   2018-5-9 11:15:00 -0400
 categories: javascript
 header:
   image: /assets/images/timers.jpg
