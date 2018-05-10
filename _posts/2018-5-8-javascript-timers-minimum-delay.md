@@ -115,10 +115,10 @@ By comparing `for` loops that do and do not utilize timers, our test results con
 **Knowing this, if you want a piece of code to execute instantly, do not use timers:**
 {% highlight js %}
 //do this
-runAweseomeCode();
+runAwesomeCode();
 
 //Not this
-setTimeout(runAweseomeCode, 0);
+setTimeout(runAwesomeCode, 0);
 {% endhighlight %}
 
 Check out the additional documentation below and happy coding!
