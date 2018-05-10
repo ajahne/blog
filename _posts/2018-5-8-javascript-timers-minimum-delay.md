@@ -6,15 +6,42 @@ categories: javascript
 header:
   image: /assets/images/timers.jpg
 ---
-When working with timers, setting a delay of 0, does not equate to 0ms or "instant" execution.  Each JavaScript environment, be it the browser or Node.js, throttles `setTimeout` and `setInterval`. This throttle means that `setTimeout` and `setInterval` have a minimum delay.  
+When working with timers, setting a delay of 0, does not equate to 0ms or "instant" execution. This longer than expected delay may occur because the OS/browser/system is busy with other tasks or because the timer has been throttled.
+
+_Note: for the purpose of this discussion "instantaneous" or "instant" means code that can run immediately (e.g. code that was not placed on a queue by setTimeout or setInterval)_
+
+### Timeout Throttling
+Each JavaScript environment, be it the browser or Node.js, throttles `setTimeout` and `setInterval`. This throttle means that `setTimeout` and `setInterval` have a minimum delay that is greater than 0ms.  
 
 **The minimum delay is:**
 - 4ms in browsers ([per MDN](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout#Notes))
+  - This throttle occurs when successive calls are triggered due to callback nesting or after a certain number of successive intervals
 - 1ms in Node.js ([per Node docs](https://nodejs.org/api/timers.html#timers_settimeout_callback_delay_args))
 
-The implication being that setting a delay of 0ms will not happen instantaneously. Instead, it is the equivalent of setting a delay of 4ms in browsers and 1ms in Node.js.
+The implication being that setting a delay of 0ms will not happen instantaneously.
 
-_Note: for the purpose of this discussion "instantaneous" or "instant" means code that can run immediately (e.g. code that was not placed on a queue by setTimeout or setInterval)_
+### Late timeouts
+From MDN
+> The timeout can also fire later when the page (or the OS/browser itself) is busy with other tasks.  One important case to note is that the function or code snippet cannot be executed until the thread that called `setTimeout()`` has terminated. 
+
+For example:
+
+{% highlight js %}
+function runAwesomeCode() {
+    console.log('Everything is awesome');
+}
+setTimeout(runAwesomeCode, 0);
+console.log('Awesomeness completed');
+{% endhighlight %}
+
+Results in
+
+{% highlight js %}
+Awesomeness completed
+Everything is awesome
+{% endhighlight %}
+
+Not quite what we expected, is it?  This is because even though we set a delay of 0, the code within a timer is placed on a queue and scheduled to run at the next opportunity, not immediately. Code that is currently executing  must complete before functions on the queue are run.
 
 ## Background aka how did this come up?
 At my company, one of our current strategic initiatives is to enhance the scalability of our infrastructure.  To that end, members of the DevOps team are conducting performance tests on our servers to better understand the maximum user load we can support while maintaining our KPIs. To facilitate this testing, the team is building a tool that simulates a play-through on our web application and randomizes when certain actions (e.g. button clicks, data submissions) occur. Once completed, this tool will be "spawned" across multiple server instances to hammer our infrastructure :).
@@ -76,7 +103,7 @@ for (let i = 0; i < arr.length; i++) {
 console.timeEnd();
 {% endhighlight %}
 
-The latest code can be found [here](https://github.com/ajahne/js-examples/tree/master/timers/settimeout).
+The code can be found [here](https://github.com/ajahne/js-examples/tree/master/timers/settimeout).
 
 ## Test Results
 ### Chrome
@@ -112,13 +139,14 @@ _Note: Chrome provides more significant digits than Firefox and thus the times a
 
 ## Conclusion
 By comparing `for` loops that do and do not utilize timers, our test results confirm that `setTimeout` and `setInterval` indeed have a minimum delay.
-**Knowing this, if you want a piece of code to execute instantly, do not use timers:**
+**Knowing this, if you want a piece of code to execute instantly, do not use timers.**
 {% highlight js %}
+//To ensure code runs immediately
 //do this
-runAwesomeCode();
+runAweseomeCode();
 
 //Not this
-setTimeout(runAwesomeCode, 0);
+setTimeout(runAweseomeCode, 0);
 {% endhighlight %}
 
 Check out the additional documentation below and happy coding!
