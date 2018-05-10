@@ -22,7 +22,7 @@ The implication being that setting a delay of 0ms will not happen instantaneousl
 
 ### Late timeouts
 From MDN
-> The timeout can also fire later when the page (or the OS/browser itself) is busy with other tasks.  One important case to note is that the function or code snippet cannot be executed until the thread that called `setTimeout()`` has terminated. 
+> The timeout can also fire later when the page (or the OS/browser itself) is busy with other tasks.  One important case to note is that the function or code snippet cannot be executed until the thread that called `setTimeout()` has terminated. 
 
 For example:
 
@@ -148,8 +148,6 @@ runAweseomeCode();
 //Not this
 setTimeout(runAweseomeCode, 0);
 {% endhighlight %}
-
-Check out the additional documentation below and happy coding!
 
 ## Additional Resources
 - MDN [setTimeout](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout)
