@@ -43,7 +43,7 @@ Everything is awesome
 
 Not quite what we expected, is it?  This is because even though we set a delay of 0, the code within a timer is placed on a queue and scheduled to run at the next opportunity, not immediately. Code that is currently executing  must complete before functions on the queue are run.
 
-## Background aka how did this come up?
+## Background aka "how this arose during development"
 At my company, one of our current strategic initiatives is to enhance the scalability of our infrastructure.  To that end, members of the DevOps team are conducting performance tests on our servers to better understand the maximum user load we can support while maintaining our KPIs. To facilitate this testing, the team is building a tool that simulates a play-through on our web application and randomizes when certain actions (e.g. button clicks, data submissions) occur. Once completed, this tool will be "spawned" across multiple server instances to hammer our infrastructure :).
 
 A requirement of this tool is to both run "instantly" (to maximize hits per minute) and "randomly" (within specified ranges of time) to simulate user interaction.
