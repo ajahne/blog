@@ -163,7 +163,9 @@ _Note: Chrome provides more significant digits than Firefox and thus the times a
 |5        |0.583ms      |16.926ms          |25325.018ms
 
 ## Conclusion
-By comparing `for` loops that do and do not utilize timers, our test results confirm that `setTimeout` and `setInterval` indeed have a minimum delay. All these glorious numbers are essentially telling us: **if you want a piece of code to execute immediately, do not use timers.**. 
+By comparing loops that do and do not utilize timers, our test results confirm that `setTimeout` and `setInterval` indeed have a delay that is longer than expected when the delay is set to 0. The `setInterval` results from the browser tests roughly equal 4ms (i.e. the throttle) multiplied by 10,000 (i.e. the length of the loop). In both Node.js and browser tests, `setTimeout` performs significantly better than `setInterval`.   
+
+All these glorious numbers are essentially telling us: **if you want a piece of code to execute immediately, do not use timers.**
 {% highlight js %}
 //To ensure code runs immediately
 //do this
