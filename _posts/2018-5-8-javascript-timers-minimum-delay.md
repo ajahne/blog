@@ -169,10 +169,10 @@ All these glorious numbers are essentially telling us: **if you want a piece of 
 {% highlight js %}
 //To ensure code runs immediately
 //do this
-runAweseomeCode();
+runAwesomeCode();
 
 //Not this
-setTimeout(runAweseomeCode, 0);
+setTimeout(runAwesomeCode, 0);
 {% endhighlight %}
 
 For further reading, check out the additional resources below and happy coding! 
