@@ -3,6 +3,8 @@ layout: single
 title: "JavaScript Closure"
 date: 2017-12-23 6:10:00 -0400
 categories: javascript
+header:
+  image: /assets/images/functions-part4-closure.jpg
 ---
 We are back! The fun with functions tour continues.  Next stop…Closure!  
 
