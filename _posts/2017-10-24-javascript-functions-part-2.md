@@ -166,8 +166,10 @@ function ShootingGuard(name, number) {
 const iverson = new PointGuard('Allen Iverson', 3);
 const kobe = new ShootingGuard('Kobe Bryant', 24);
 
-console.log(iverson.name + ' ' + iverson.number + ' ' + iverson.position);  //Allen Iverson 3 PG
-console.log(kobe.name + ' ' + kobe.number + ' ' + kobe.position);           //Kobe Bryant 24 SG
+console.log(`${iverson.name} ${iverson.number} ${iverson.position}`);  
+//Allen Iverson 3 PG
+console.log(`${kobe.name} ${kobe.number} ${kobe.position}`);           
+//Kobe Bryant 24 SG
 {% endhighlight %}
 [Link to repl example](https://repl.it/repls/VigorousHandyNetworking)
 
