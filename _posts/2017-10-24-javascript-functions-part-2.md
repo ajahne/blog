@@ -49,7 +49,7 @@ Now let's break this down a little bit as there are a few things going on
 We passed in _null_ as the first parameter to _call_ and _apply_ is the _thisValue_. In our case, we are not referencing _this_ (it is not used at all in our function) so we can pass in _null_. We will explore using the _thisValue_ parameter in the later examples when we chain constructors below.
 
 **2) What's going on with the second parameter?**  
-These are the parameters to our function. In the case of _awesomeFunction_ there is only one parameter, the value of awesome that we will log.  As _call_ takes individual parameters and _apply_ takes an array, we pass the parameters in accordingly.
+These are the parameters to our function. In the case of _awesomeFunction_ there is only one parameter, the `awesomeValue` that we will log.  As _call_ takes individual parameters and _apply_ takes an array, we pass the parameters in accordingly.
 
 **So what if we had a function that took multiple parameters, how might that look?**  
 Glad you asked, let's try that out.
