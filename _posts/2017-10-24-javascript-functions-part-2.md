@@ -93,8 +93,8 @@ Why yes, the example was a simple one to show the general form of each function,
 **Benefits of call and apply**    
 These functions allow us to reuse (borrow) functions – “you have some cool functionality, may I use it”?
 {% highlight js %}
-let upper = "HELLO WORLD";
-let lower = String.prototype.toLowerCase.call(upper);
+const upper = "HELLO WORLD";
+const lower = String.prototype.toLowerCase.call(upper);
 {% endhighlight %}
 
 **Simplifying function calls**    
@@ -131,9 +131,6 @@ Additionally, These methods allow us to utilize inheritance in the form of “pa
  * function calls and implement inheritance-like features
  */
 
-let iverson;
-let kobe;
-
 /**
  * Player function used to create a new player
  * @param {String} name - name of the player
@@ -166,8 +163,8 @@ function ShootingGuard(name, number) {
   this.position = 'SG';
 }
 
-iverson = new PointGuard('Allen Iverson', 3);
-kobe = new ShootingGuard('Kobe Bryant', 24);
+const iverson = new PointGuard('Allen Iverson', 3);
+const kobe = new ShootingGuard('Kobe Bryant', 24);
 
 console.log(iverson.name + ' ' + iverson.number + ' ' + iverson.position);  //Allen Iverson 3 PG
 console.log(kobe.name + ' ' + kobe.number + ' ' + kobe.position);           //Kobe Bryant 24 SG
