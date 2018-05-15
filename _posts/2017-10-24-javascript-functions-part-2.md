@@ -182,11 +182,10 @@ I leave that as an exercises for the reader/voice in my head to code up.
 - **apply**
   - you want to pass in an array of parameters vs specifying each parameter individually
 
-
 ### Conclusion
-Phew, not so bad, right? Right! In this post we have defined _call_ and _apply_, provided examples that show how to use each method, and outlined key benefits. By using _call_ and _apply_ we can reuse an object's methods, simplify function calls, and borrow constructors to create "class" based design. How might you be able to utilize call and apply in your programs?
+Phew, not so bad, right? Right! In this post we have defined _call_ and _apply_, provided examples that show how to use each method, and outlined key benefits. By using _call_ and _apply_ we can reuse an object's methods, simplify function calls, and borrow constructors to create "class" based design. How might you be able to utilize _call_ and _apply_ in your programs?
 
 ### Additional Resources
-- Great definitions with examples from Mozilla on [call](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call), [apply](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply), and [bind](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)
+- Great definitions with examples from Mozilla on [call](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call) and [apply](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)
 - TL;DR overview of call/apply/bind from [codeplanet](https://codeplanet.io/javascript-apply-vs-call-vs-bind)
-- An in depth walkthrough by [JavascriptIsSexy](http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/) on all three essential methods
+- An in depth walkthrough by [JavascriptIsSexy](http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/) on all _call_, _apply_, and _bind_
