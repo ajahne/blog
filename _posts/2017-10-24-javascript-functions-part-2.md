@@ -79,12 +79,12 @@ So the genereal form of each is:
 **call**
 
 {% highlight js %}
-myFunction.call(thisValue, param1, param2, param3, ...... paramN);
+myFunction.call(thisValue, param1, param2, param3, ... paramN);
 {% endhighlight %}
 
 **apply**
 {% highlight js %}
-myFunction.apply(thisValue, [param1, param2, param3, ...... paramN]);
+myFunction.apply(thisValue, [param1, param2, param3, ... paramN]);
 {% endhighlight %}
 
 **Great, but ummm, why would I ever want to do this? In the example you showed, isn't the standard way less involved, less characters to type, and doesn't require me to pass in some weird _null_ parameter.**  
