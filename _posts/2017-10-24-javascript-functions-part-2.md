@@ -34,13 +34,13 @@ awesomeFunction('Awesome'); //Everything is awesome
 We can also use _call_ to invoke our function
 
 {% highlight js %}
-aweseomeFunction.call(null, 'Awesome'); //Everything is awesome
+awesomeFunction.call(null, 'Awesome'); //Everything is awesome
 {% endhighlight %}
 
 or use _apply_
 
 {% highlight js %}
-aweseomeFunction.apply(null, ['Awesome']); //Everything is awesome
+awesomeFunction.apply(null, ['Awesome']); //Everything is awesome
 {% endhighlight %}
 
 Now let's break this down a little bit as there are a few things going on
