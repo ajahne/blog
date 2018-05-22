@@ -167,5 +167,6 @@ The Function object is a fundamental component of the JavaScript language and le
 
 ## Additional Resources
 - Great definitions with examples from [Mozilla on bind](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)
+- [JavaScript info on bind](https://javascript.info/bind)
 - TL;DR overview of call/apply/bind functions from [codeplanet](https://codeplanet.io/javascript-apply-vs-call-vs-bind)
 - An in depth walkthrough by [JavascriptIsSexy](http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/) on all three essential methods
