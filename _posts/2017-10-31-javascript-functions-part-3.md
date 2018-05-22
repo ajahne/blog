@@ -144,7 +144,7 @@ const HeaderNavigation = (function() {
   };
 
   Navigation.prototype.showHelp = function() {
-  	alert(`You are now being helped by the ${this.name} :)`);
+    alert(`You are now being helped by the ${this.name} :)`);
   }
 
   return Navigation;
