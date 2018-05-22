@@ -64,24 +64,29 @@ We have set the "x" value and pass in the value of "y" whenever we call our "tri
 
 This is a more complex example to highlight the usage of _bind_.  **Please be sure to read the comments as this example is showcasing a few different concepts.**
 
+{% highlight html %}
+<div class="navigation">
+  <button class="button-help" name="help button">Help</button>
+  <button class="button-back" name="back button">Back</button>
+  <button class="button-next" name="next button">Next</button>
+</div>
+{% endhighlight %}
+
 {% highlight js %}
 /**
  * Example illustrating usage of bind with event handlers
  */
 
-//instance of HeaderNavigation
-let nav;
-
 /**
  * HeaderNavigation component
  * @example
- * var myNav = new HeaderNavigation();
+ * const nav = new HeaderNavigation();
  */
-let HeaderNavigation = (function() {
+const HeaderNavigation = (function() {
   'use strict';
 
   /**
-   * Instantiate Navigation and then initialize
+   * Constructor
    */
   function Navigation() {
     this.name = 'navigation';
@@ -104,12 +109,12 @@ let HeaderNavigation = (function() {
         this.showHelp();            
     }.bind(this));
 
-    //do not bind the value of this to the back button
-    //notice that 'back button' is printed to the screen, but
+    //do not bind the value of "this" to the back button
+    //notice that "back button" is printed to the screen, but
     //not "going to stage: ..."
     //NOTE: By hitting "F12" to see the developer tools console,
     //you will notice that there is an error
-    //"uncaught TypeError: this.goToStage is not a function"
+    //"TypeError: this.goToStage is not a function"
     //This occurs because the "this" in the case below refers
     //to the back button not to our Navigation
     this.buttonBack.addEventListener('click', this.click);
@@ -125,20 +130,20 @@ let HeaderNavigation = (function() {
    * go to the corresponding stage
    */
   Navigation.prototype.click = function() {
-    print('click: ' + this.name);
+    console.log(`click: 'this' is the ${this.name}`);
     this.goToStage(arguments[0]);
   };
 
   /**
    * Print the stage we need to navigate to
-   * @param {string} stage the stage to navigate to (current prints)
+   * @param {string} stage the stage to navigate to
    */
   Navigation.prototype.goToStage = function(stage) {
-    print('going to stage: ' + stage);
+    console.log(`going to stage: ${stage}`);
   };
 
   Navigation.prototype.showHelp = function() {
-  	alert('You are now being helped :)');
+  	alert(`You are now being helped by the ${this.name} :)`);
   }
 
   return Navigation;
@@ -150,6 +155,10 @@ let HeaderNavigation = (function() {
  */
 function print(value) {
   console.log(value);
+}
+
+//Instantiate an instance of HeaderNavigation
+const nav = new HeaderNavigation();
 }
 
 nav = new HeaderNavigation();
