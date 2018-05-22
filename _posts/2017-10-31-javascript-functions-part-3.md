@@ -94,9 +94,9 @@ const HeaderNavigation = (function() {
   }
 
   /**
-   * Initialize our Nagivation object
-   * Grab the DOM elements that make up our nav: help, back, and next buttons
-   * Add event listenrs to each button
+   * Initialize our Navigation object
+   * Get DOM elements for our nav: help, back, and next buttons
+   * Add event listeners to each button
    */
   Navigation.prototype.init = function() {
     const nav = document.querySelectorAll('.navigation')[0];
@@ -104,7 +104,7 @@ const HeaderNavigation = (function() {
     const buttonBack = nav.querySelectorAll('.button-back')[0];
     const buttonNext = nav.querySelectorAll('.button-next')[0];
 
-    //using this as an example to show binding on an anonymous function
+    //example of binding an anonymous function
     buttonHelp.addEventListener('click', function() {
         this.showHelp();            
     }.bind(this));
@@ -120,8 +120,9 @@ const HeaderNavigation = (function() {
     buttonBack.addEventListener('click', this.click);
 
     //bind the click function to our Navigation Object
-    //the this in .bind(this) refers to the Navigation Object
-    buttonNext.addEventListener('click', this.click.bind(this, 'Stage 1'));
+    //the "this" in .bind(this) refers to the Navigation Object
+    buttonNext.addEventListener('click', 
+                                this.click.bind(this, 'Stage 1'));
   };
 
   /**
