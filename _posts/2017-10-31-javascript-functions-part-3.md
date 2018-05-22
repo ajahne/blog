@@ -149,19 +149,8 @@ const HeaderNavigation = (function() {
   return Navigation;
 }());
 
-/**
- * Print the value to the screen
- * @param {string} value the info to log
- */
-function print(value) {
-  console.log(value);
-}
-
 //Instantiate an instance of HeaderNavigation
 const nav = new HeaderNavigation();
-}
-
-nav = new HeaderNavigation();
 {% endhighlight %}
 Link to [JSFiddle](https://jsfiddle.net/f5vs5jug/11/).
 
