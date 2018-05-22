@@ -6,14 +6,14 @@ categories: javascript
 header:
   image: /assets/images/functions-part3-bind.jpg
 ---
-As we have learned in [part 1](https://ajahne.github.io/blog/jekyll/javascript/functions/2017/10/09/javascript-functions-part-1.html) of our series, functions are [first class objects](https://stackoverflow.com/questions/705173/what-is-meant-by-first-class-object), which gives them full access to properties and methods. In [part 2](https://ajahne.github.io/blog/jekyll/javascript/functions/2017/10/24/javascript-functions-part-2.html), we examined [_call_ and _apply_](https://ajahne.github.io/blog/jekyll/javascript/functions/2017/10/24/javascript-functions-part-2.html).  In the following post we will cover another core method of the Function object, _bind_. Let's dive in.  
+As we have learned in [part 1](https://ajahne.github.io/blog/javascript/2017/10/10/javascript-functions-part-1.html) of our series, functions are [first class objects](https://stackoverflow.com/questions/705173/what-is-meant-by-first-class-object), which gives them full access to properties and methods. In [part 2](https://ajahne.github.io/blog/javascript/2017/10/24/javascript-functions-part-2.html), we examined [_call_ and _apply_](https://ajahne.github.io/blog/jekyll/javascript/functions/2017/10/24/javascript-functions-part-2.html).  In the following post we will cover another core method of the Function object, _bind_. Let's dive in.  
 
 ### Definition
 **bind** – method of the Function object that creates a new function that when called has it’s _this_ value mapped to the given parameter and uses the set arguments.
 
 _bind_ returns a new function with the value of _this_ locked (bound) to a function  
 
-### Syntax:
+### Syntax
 {% highlight js %}
 aFunction.bind(thisValue, arg1, arg2,..., argN);
 {% endhighlight %}
@@ -30,7 +30,7 @@ const boundFunctionWithParam = myFunction.bind(thisValue, param);
 
 ### Why/when would you use this function?
   - you want to lock in the value of _this_, helpful for event handlers (see: example 1 and example 3)
-  - want to “partially apply” functions by locking in arguments (see: example 2)
+  - you want to “partially apply” functions by locking in arguments (see: example 2)
 
 ## Examples
 
