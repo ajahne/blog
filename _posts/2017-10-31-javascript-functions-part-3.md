@@ -8,16 +8,24 @@ header:
 ---
 As we have learned in [part 1](https://ajahne.github.io/blog/jekyll/javascript/functions/2017/10/09/javascript-functions-part-1.html) of our series, functions are [first class objects](https://stackoverflow.com/questions/705173/what-is-meant-by-first-class-object), which gives them full access to properties and methods. In [part 2](https://ajahne.github.io/blog/jekyll/javascript/functions/2017/10/24/javascript-functions-part-2.html), we examined [_call_ and _apply_](https://ajahne.github.io/blog/jekyll/javascript/functions/2017/10/24/javascript-functions-part-2.html).  In the following post we will cover another core method of the Function object, _bind_. Let's dive in.  
 
-## Overview
-
 ### Definition
 **bind** – method of the Function object that creates a new function that when called has it’s _this_ value mapped to the given parameter and uses the set arguments.
 
 _bind_ returns a new function with the value of _this_ locked (bound) to a function  
 
-### General form:
+### Syntax:
 {% highlight js %}
 aFunction.bind(thisValue, arg1, arg2,..., argN);
+{% endhighlight %}
+
+#### bound function 
+{% highlight js %}
+const boundFunction = myFunction.bind(thisValue);
+{% endhighlight %}
+
+#### bound function with a parameter
+{% highlight js %}
+const boundFunctionWithParam = myFunction.bind(thisValue, param);
 {% endhighlight %}
 
 ### Why/when would you use this function?
@@ -25,14 +33,6 @@ aFunction.bind(thisValue, arg1, arg2,..., argN);
   - want to “partially apply” functions by locking in arguments (see: example 2)
 
 ## Examples
-{% highlight js %}
-const boundFunction = myFunction.bind(thisValue);
-{% endhighlight %}
-
-{% highlight js %}
-const boundFunctionWithParam = myFunction.bind(thisValue, param);
-{% endhighlight %}
-
 
 ### Example 1 - locking in the value of _this_
 {% highlight js %}
@@ -160,7 +160,7 @@ const HeaderNavigation = (function() {
 //Instantiate an instance of HeaderNavigation
 const nav = new HeaderNavigation();
 {% endhighlight %}
-Link to [JSFiddle](https://jsfiddle.net/f5vs5jug/11/).
+Try out the example on [CodePen](https://codepen.io/ajahne/pen/WJmPOr?editors=0011) 
 
 ## Conclusion
 The Function object is a fundamental component of the JavaScript language and learning to leverage its _bind_ method can help us simplify code and promote reusability. Through examples, we have observed how _bind_ can be used to lock in the value of _this_, which is helpful to borrow functions and to ensure we are targeting the correct object in our programs (e.g. in event handlers).  By leveraging _bind_ we can also create partially applied functions that allow us to reuse arguments and functionality. For further reading, check out the additional resources below and be sure to try out your own examples.
