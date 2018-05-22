@@ -99,13 +99,13 @@ const HeaderNavigation = (function() {
    * Add event listenrs to each button
    */
   Navigation.prototype.init = function() {
-    this.element = document.querySelectorAll('.navigation')[0];
-    this.buttonHelp = this.element.querySelectorAll('.button-help')[0];
-    this.buttonBack = this.element.querySelectorAll('.button-back')[0];
-    this.buttonNext = this.element.querySelectorAll('.button-next')[0];
+    const nav = document.querySelectorAll('.navigation')[0];
+    const buttonHelp = nav.querySelectorAll('.button-help')[0];
+    const buttonBack = nav.querySelectorAll('.button-back')[0];
+    const buttonNext = nav.querySelectorAll('.button-next')[0];
 
     //using this as an example to show binding on an anonymous function
-    this.buttonHelp.addEventListener('click', function() {
+    buttonHelp.addEventListener('click', function() {
         this.showHelp();            
     }.bind(this));
 
@@ -117,11 +117,11 @@ const HeaderNavigation = (function() {
     //"TypeError: this.goToStage is not a function"
     //This occurs because the "this" in the case below refers
     //to the back button not to our Navigation
-    this.buttonBack.addEventListener('click', this.click);
+    buttonBack.addEventListener('click', this.click);
 
     //bind the click function to our Navigation Object
     //the this in .bind(this) refers to the Navigation Object
-    this.buttonNext.addEventListener('click', this.click.bind(this, 'Stage 1'));
+    buttonNext.addEventListener('click', this.click.bind(this, 'Stage 1'));
   };
 
   /**
