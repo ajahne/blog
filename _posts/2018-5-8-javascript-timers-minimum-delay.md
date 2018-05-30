@@ -106,7 +106,7 @@ for (let i = 0; i < arr.length; i++) {
 console.timeEnd();
 {% endhighlight %}
 
-`loop-settimeout.js`
+`loop-setinterval.js`
 {% highlight js %}
 const numElements = 10000;
 let count = 0;
