@@ -1,96 +1,110 @@
 ---
 layout: single
 title:  'Changing my calendar for better 1-1s'
-date:   2018-5-17 20:22:29 -0400
+date:   2018-6-3 21:22:29 -0400
 categories: leadership
 tags: one on one, 1-1, meetings, leadership, management, time management
 header:
   image: /assets/images/day-planner.jpg
 ---
-Time management is hard. Its a skill that we will utilize in every phase of our career.  As I progressed in my career from developer, to tech lead, to VP time management has become that much more critical at each step. I wish I could tell you that it gets easier over time.  Nope, sorry.  What I can say is that experience will help you understand areas of how you manage your time that you may want to reflect on.  
+One of my biggest learnings related to time management, is to take time (ha) to review how I am spending my time. I did this recently to improve how I was organizing my calendar, specifically as it related to my weekly 1-1 meetings with my direct reports.
 
-One of my biggest learnings as it relates to my own time management, is to take time (ha) to reflect on how I am spending my time.  I typically try something out for specified period, be it 1 week, a quarter, or 6 months, then take a step back and reflect on what worked and what didn't. If there is one thing that has helped me improve my time management, is taking the opportunity to self reflect and and  measure my own performance.  
+Let's begin at the beginning.
 
-I did this recently to improve how I was organizing my calendar as it related to my 1-1 sessions
+**TL;DR**
+- As your responsibilities change, your calendar will need to change with it.
+- Take the opportunity to self reflect and measure your own performance. Don't be afraid to be critical of yourself.
+- Your management techniques will have to grow as your responsibilities grow.  For example, what works when you are managing a team of 2-3, will not work when you manage a team of 10.  
+- Do not overbook yourself, it is OK to say "no".
+- Avoid back to back 1-1 meetings.
+- Focus on your people.
 
-## My previous setup
-I booked my first 1-1 on a Friday at 11:30am. I chose Friday because as the last day of the week, it felt like the perfect point to recap.  To catchup. To discuss the previous week and look forward to the next.  
+## Beginning at the beginning
+When I first began having weekly meetings, I booked my first 1-1 on a Friday at 11:30am. I chose Friday because as the last day of the week, it felt like the perfect point to recap. To catchup. To discuss the previous week and look forward to the next. I chose 11:30am as most engineers (myself included) are not morning people.   
 
 As the prototype proved successful, I setup my second 1-1 on Friday as well. Then my third.
 
-As I began to manage more and more people, I began to carve out more time on Fridays and conduct my meetings then.  As this was the early years of my 1-1s, the agendas ranged from deep dives into code, to discussions on performance, to frustrations, wins, exercise, movies, and the latest Final Fantasy game.
+As I began to manage more and more people, I continued to carve out more time on Fridays to conduct my meetings.  As this was the early years of my 1-1s, the agendas primarily focused on task prioritization.
 
-For a period of 3-4 years, I followed a similar schedule. I split up my week with "meeting" days and "development" days.  Monday, Wednesday, and Friday were meeting days, Tuesday and Thursday (the even days) were development days (i.e. when I got "even" with code).  During this time I was directly responsible for a team between 3-7, with about 5 weekly 1-1 meetings with individual contributors.
+So ok, that's Friday, but how did the rest of my week look? My weeks were typically split between "meeting" days and "development" days.  Monday, Wednesday, and Friday were meeting days, Tuesday and Thursday (the even days) were development days (i.e. when I got "even" with code :P). At my company, Mondays are meeting days (staff meetings, standups, management touch bases, planning, etc.) and Wednesdays evolved into a meeting day due to standing client calls. That left Tuesday, Thursday, and Friday "open".  
 
-At a high level my days looked like this:
-- Monday: Staff meeting, frontend team meeting, backend meeting, Stand ups, weekly planning
-- Tuesday: Code Review, Development
-- Wednesday: Task follow ups, Weekly lunch w/COO, Strategic vision/long term Planning
-- Thursday: Code Review, R&D, Documentation
-- Friday: Weekly 1-1s, Team lunch (monthly), additional meetings
+My schedule originally evolved from the need to have dedicated development days as the organization was focused on building a new version of our Platform, of which I was the tech lead.  
 
-During this time, I would say my weeks were (roughly):
-- 40% meetings (stand-ups, 1-1s, clients, managerial, etc)
-- 40% programming + R&D (including code reviewing)
-- 20% strategic planning
+### Looking back, I would say my weeks were (roughly):
+- 50% programming + R&D
+- 40% meetings (stand-ups, 1-1s, clients, management, etc)
+- 10% strategic planning
 
-This schedule worked for a while and had many benefits
+### This schedule worked for a while and had many benefits:
 - I knew going into each day what the general focus was
-- Team members had a clear sense of what my meetings days were and we scheduled accordingly
-- It gave me full days to dive right into code (hold this thought)
+- Team members had a clear sense of what my meeting and development days were
+- It gave me full days to dive right into code
 
-However, as the team grew and my responsibilities expanded, this setup did not scale
+However, as the team grew and my responsibilities expanded, this setup did not scale.
 
 > As your responsibilities change, your calendar will need to change with it.  It will have to grow and evolve to fit your new role.  This will happen multiple times throughout your career and you have to be open to it.  What worked to get your here, will not work to get you there.
 
-## How this setup did not scale
-So what happens if when there are client calls on Tuesday? What happens when Monday is a holiday? What if there is an issue from a release on Wednesday that we need to discuss on Thursday? I cannot push this to Friday, its urgent, we need to discuss. What if code review is needed on Wednesday, someone is absent and needs to reschedule a meeting.  What if the R&D needs more than just one day (it will!).
+## This is working...wait, is this working?
+Over time, this setup began to show a few cracks and eventually crumbled.
 
-Worst of all - from my standpoint - was that I was started to get burned out.  My Fridays began to be overwhelming.  Some Fridays would have as many as 8 to 10 meetings, with the majority of these being 1-1s. As my team grew I was trying to squeeze more and more 1-1s on Friday.  In the beginnings, Fridays work for 1-1 meetings as a nice "catch up" from the week.  But as I evolved as a manager and learned and grew, I quickly realized that 1-1s need to be more than just "task catchups".  
+*How so?*
 
-My Fridays would sometimes have five 1-1 meetings setup back to back, with no breaks in between.  Sometimes the meetings would run over and then I would need to push back meetings and it would cascade.  I can only imagine how frustrating this might have been for my direct reports. Additionally, as vacations and PTOs frequently fall on Fridays, these days would have to be rescheduled throughout the week.
+Well, what happens ~~if~~ when there are client calls on a Tuesday? What happens ~~if~~ when Monday is a holiday? What if there is an issue from a release on Wednesday that we need to discuss on Thursday? *I cannot push this to Friday, its urgent, we need to discuss.* So no coding on Thursday, and I can't push to Fridays. What if code review is needed on Wednesday or if someone is absent and needs to reschedule a meeting.  What if the development needs more than just one day to complete *(it will)*.
 
-There would be Fridays when I was exhausted by 2pm, mental energy spent. Yet, there would be more meetings. I started to find myself less able to give my all in meetings. More irritable, less focused. I was doing myself and the team a disservice
+Worst of all, was that I was started to get burned out.  My Fridays began to overwhelm me.  Some Fridays would have as many as 8 to 10 meetings, with the majority of these being 1-1s. As my team grew I was trying to squeeze more and more 1-1s on Friday.   
 
-When most of my responsibility revolved around managing two to three developers, programming and developing systems (through hands on programming).
+> The worst thing to do in a 1-1 meeting is to not be 100% present.
 
-As your responsibilities change, your calendar will need to change with it.  It will have to grow and evolve to fit your new role.  This will happen multiple times throughout your career and you have to be open to it.  What worked to get your here, will not work to get you there. I was witnessing this first hand and make to switch it up.
+My Fridays would sometimes have five 1-1s back to back, with no breaks in between.  Sometimes the meetings would run over and then I would need to push back meetings and it would cascade, pushing back other meetings throughout the day.  I can only imagine how frustrating this might have been for my direct reports. Additionally, as vacations and PTOs frequently fall on Fridays, 1-1s would have to be rescheduled throughout the week.
 
-## Time for a change
-The importance of taking a moment to reflect cannot be overstated. Self-reflection has benefited me many times over my career and this instance was no difference.  After a few weeks of being exhausted on Friday, I knew I had to make a change.  I stepped away from my laptop, turned off my phone and went analog.  Pulled out pen and paper and wrote down what I was doing well and what I was not.
+There would be Fridays when I was exhausted by 2pm, mentally spent. Yet, there would be more meetings. I started to find myself less able to give my all in meetings. More irritable, less focused. I was doing myself and the team a disservice.
+Fridays started to frequently look like this:  
 
-I was critical of myself.     
+![Here comes Friday]({{site.baseurl}}/assets/images/calendar-packed.jpg){:height="25%" width="25%"}
 
-I realized that programming no longer was the most important part of my role. I could no longer reolved my schedule around "getting even with code".  Once again I had to let go, evolve and focus on what is most important.  The people.  
+When most of my responsibility revolved around managing two to three developers and hands on programming, software was prioritized. **As more of my day to day development was delegated and I started overseeing a larger team, my focus shifted to the people and how to put them in the best positions to succeed**.
 
-The worst thing to do in a 1-1 meeting is to not be present.  Sure, physically you may be there, but if you are not there mentally its bad for both parties.  The person you are meeting with can tell you aren't really there.  What if they had something really important to bring up? What if they were feeling that this position wasn't for them, wanted to talk about it, and on that day you were just not "there".  And I know, we are all human.  Managers, leaders, we get worn down too, we have bad days.   However, if I have a bad day it can cascade and ripple down into my direct reports.  We've all had those times.
+As your responsibilities change, your calendar will need to change with it.  It will have to grow and evolve to fit your new role.  This will happen multiple times throughout your career and you have to be open to it.  What worked to get your here, will not work to get you there. I was witnessing this firsthand and needed to make a change.
 
-Well, I had to minimize these.  I had to reduce this.  So what did I do.
+## Time to change it up
+What worked when I managed two to three people, did not work for five. Five did not work for 15. Managing a team of individual contributors is different from managing a team of both individual contributors and managers. The junior developers had now grown to senior developers and tech leads.  I started managing managers and overseeing all of technology, not just one aspect of it.
 
-I completely changed my schedule (gasp).
+I realized that programming no longer was the most important part of my role. In fact, the more I focused on code, the more it hurt the team.  I could no longer revolve my schedule around "getting even with code".  Once again I had to let go, evolve further and focus on what is most important.  The people.  
 
-I knew Mondays and Fridays were becoming overwhelming.  Previously I revolved my schedule around when I could program and fit everything else around it.  Now? I prioritized my people, rescheduling 1-1s, and revolving everything else around these meetings.
+The worst thing to do in a 1-1 meeting is to not be 100% present.  Sure, physically you may be there, but if you are not there mentally its bad for everyone  The person you are meeting with can tell you aren't really present.  What if they have something really important to bring up? What if they were feeling that this position wasn't for them, wanted to talk about it, and on that day you were just not "there".  
 
-### This process had a few steps:
-- Internal reflection followed by scribbling out a future calendar
-- Speaking candidly with my direct reports. I told them how I was shifting my schedule to better focus on being "present" in these meetings
-  - This is a huge point, honesty goes a long way.  I feel it helped strengthen bonds as it allowed some of my humanity to come across. I am not a robot, not perfect.  It also showed how it is ok to admit shortcomings, change, and commit to doing better.  
+And I know, we are all human.  Managers, leaders, we get worn down too, we have bad days.   However, if I have a bad day it can cascade and ripple down into my direct reports.
+
+Well, I had to minimize this impact.  I had to reduce (if not fully remove) these days.  So what did I do.
+
+I completely changed my schedule *(gasp)*.
+
+### This process of change had a few steps:
+- Internal reflection followed by ripping up my calendar and sketching out a new one
+- Speaking candidly with my team. In each 1-1, I opened up.  I told them how I was shifting my schedule to better focus on being "present" in these meetings.
+  - This is a huge point, honesty goes a long way.  I feel it helped strengthen bonds as it allowed my humanity to come across. I am not a robot, not perfect.  It also showed how it is ok to admit shortcomings, change, and commit to doing better.  
 - I asked them what times worked and did not work for them and scheduled meetings accordingly
 - I opened up my calendar and began having 1-1 meetings throughout the week (yep, including Tuesdays and Thursdays).
 
-## My current setup
+## The Modern Age
 As my responsibilities grew and I oversaw more departments and teams, more time was needed for both 1-1 meetings and planning.  
 
-During this time, I would say my weeks were:
-- 50% meetings (1-1s, clients, managerial, stand-ups, conferences, etc)
-- 30% strategic planning (employee career growth, tech vision, company growth etc.)
+### During this time, I would say my weeks were (roughly):
+- 50% meetings (1-1s, clients, vendors, HR/admin, stand-ups, conferences, etc)
+- 30% strategic planning (employee career growth, technology vision, company growth, etc.)
 - 20% R&D (including code review)
 
-### The benefits of this new schedule
-- Less back to back 1-1 meetings
+### The benefits of this new schedule:
+- Less back to back 1-1 meetings (down from 5 to 1)
 - More time for 1-1 meetings (some meetings needed more time/consistently went over the time, so I scheduled accordingly)
-- Reduce feelings of burnout
+- Reduced feelings of burnout
 - More productive 1-1 meetings
+- More balanced schedule
+
+### So what does the new calendar look like?  
+*(Note: only 1-1 meetings shown)*
+
+![1-1 calendar]({{site.baseurl}}/assets/images/calendar-spread.jpg){:height="100%" width="100%"}
 
 ## Key learnings and personal insight
 - Do not overbook yourself.  You are human and need mental breaks too.
@@ -103,3 +117,6 @@ During this time, I would say my weeks were:
   - do not schedule too many 1-1 meetings in a day (my current rule is no more than three in one day)
 
 ## Conclusion
+Time management is hard. It is a skill that's required in every phase of your career.  I have witnessed firsthand that time management has become more and more critical at each step in the ladder as I've progressed from developer, to tech lead, to director, to VP. I wish I could tell you that it gets easier over time.  Well, the good news?  As you gain experience you will be quicker to find areas of your time (day/week/etc.) that you can improve upon, which will help you become more effective in your role as a leader.
+
+Keep learning, keep growing, and keep going.  You got this!
