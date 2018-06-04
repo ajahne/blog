@@ -28,7 +28,7 @@ As I began to manage more and more people, I continued to carve out more time on
 
 So ok, that's Friday, but how did the rest of my week look? My weeks were typically split between "meeting" days and "development" days.  Monday, Wednesday, and Friday were meeting days, Tuesday and Thursday (the even days) were development days (i.e. when I got "even" with code :P). At my company, Mondays are meeting days (staff meetings, standups, etc.) and Wednesdays evolved into a meeting day due to standing client calls. That left Tuesday, Thursday, and Friday "open".  
 
-My schedule originally evolved from the need to have dedicated development days as the organization focused on building a new version of our Platform, of which I was the tech lead.  
+My schedule originally evolved from the need to have dedicated development days as the organization focused on building a new version of our Platform, of which I was the [tech lead]({{ site.baseurl }}{% post_url 2018-2-11-what-is-a-tech-lead %}).  
 
 ### Looking back, I would say my weeks were (roughly):
 - 50% programming + R&D
@@ -73,7 +73,7 @@ As your responsibilities change, your calendar will need to change with it.  It 
 ## Time to change it up
 What worked when I managed two to three people, did not work for five. Five did not work for 15. Managing a team of individual contributors is different from managing a team of both individual contributors and managers. The junior developers had now grown to senior developers and tech leads.  I started managing managers and overseeing all of technology, not just one aspect of it.
 
-I realized that programming no longer was the most important part of my role. In fact, the more I focused on code, the more it hurt the team.  I could no longer revolve my schedule around "getting even with code".  Once again I had to let go, evolve further and focus on what is most important.  The people.  
+I realized that programming no longer was the most important part of my role. In fact, the more I focused on code, the more it hurt the team.  I could no longer revolve my schedule around "getting even with code".  Once again I had to [let go]({{ site.baseurl }}{% post_url 2018-3-1-letting-go %}), evolve further and focus on what is most important.  The people.  
 
 The worst thing to do in a 1-1 meeting is to not be 100% present.  Sure, physically you may be there, but if you are not there mentally its bad for everyone.  The person you are meeting with can tell you aren't really present.  What if they have something really important to bring up? What if they were feeling that this position wasn't for them, wanted to talk about it, and on that day you were just not "there".  
 
