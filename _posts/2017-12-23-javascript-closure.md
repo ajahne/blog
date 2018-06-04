@@ -86,7 +86,7 @@ const myDinnerMaker = createDinnerMaker();
 myDinnerMaker.bakeChicken(); //baking chicken
 myDinnerMaker.bakeFish();    //baking fish
 {% endhighlight %}
-You can view the codepen version [here](https://codepen.io/ajahne/pen/BRgXyp).
+You can view the codepen version [here](https://codepen.io/ajahne/pen/BRgXyp?editors=0012).
 
 **State**  
 We can also use closure to maintain the value (i.e. ‘state’) of function arguments at a certain time. We do this through the technique of partial function application. This way we can apply only a subset (i.e. ‘partial’ set) of arguments to a function.
@@ -106,7 +106,7 @@ const addSpringfieldAreaCode = addAreaCode('413-');
 console.log(addSpringfieldAreaCode(number)); //413-271-7713
 console.log(addNewYorkAreaCode(number));     //212-271-7713
 {% endhighlight %}
-You can view the codepen version [here](https://codepen.io/ajahne/pen/gWNVrw).
+You can view the codepen version [here](https://codepen.io/ajahne/pen/gWNVrw?editors=0012).
 
 ### More examples
 
