@@ -1,13 +1,13 @@
 ---
 layout: single
 title:  'Changing my calendar for better 1-1s'
-date:   2018-6-3 21:22:29 -0400
+date:   2018-5-30 22:22:29 -0400
 categories: leadership
 tags: one on one, 1-1, meetings, leadership, management, time management
 header:
   image: /assets/images/day-planner.jpg
 ---
-One of my biggest learnings related to time management, is to take time (ha) to review how I am spending my time. I did this recently to improve how I was organizing my calendar, specifically as it related to my weekly 1-1 meetings with my direct reports.
+One of my biggest learnings related to time management, is to take time to review how I am spending my time. I did this recently to improve how I was organizing my calendar, specifically as it related to my weekly 1-1 meetings with my direct reports.
 
 Let's begin at the beginning.
 
@@ -26,9 +26,9 @@ As the prototype proved successful, I setup my second 1-1 on Friday as well. The
 
 As I began to manage more and more people, I continued to carve out more time on Fridays to conduct my meetings.  As this was the early years of my 1-1s, the agendas primarily focused on task prioritization.
 
-So ok, that's Friday, but how did the rest of my week look? My weeks were typically split between "meeting" days and "development" days.  Monday, Wednesday, and Friday were meeting days, Tuesday and Thursday (the even days) were development days (i.e. when I got "even" with code :P). At my company, Mondays are meeting days (staff meetings, standups, management touch bases, planning, etc.) and Wednesdays evolved into a meeting day due to standing client calls. That left Tuesday, Thursday, and Friday "open".  
+So ok, that's Friday, but how did the rest of my week look? My weeks were typically split between "meeting" days and "development" days.  Monday, Wednesday, and Friday were meeting days, Tuesday and Thursday (the even days) were development days (i.e. when I got "even" with code :P). At my company, Mondays are meeting days (staff meetings, standups, etc.) and Wednesdays evolved into a meeting day due to standing client calls. That left Tuesday, Thursday, and Friday "open".  
 
-My schedule originally evolved from the need to have dedicated development days as the organization was focused on building a new version of our Platform, of which I was the tech lead.  
+My schedule originally evolved from the need to have dedicated development days as the organization focused on building a new version of our Platform, of which I was the tech lead.  
 
 ### Looking back, I would say my weeks were (roughly):
 - 50% programming + R&D
@@ -57,8 +57,12 @@ Worst of all, was that I was started to get burned out.  My Fridays began to ove
 
 My Fridays would sometimes have five 1-1s back to back, with no breaks in between.  Sometimes the meetings would run over and then I would need to push back meetings and it would cascade, pushing back other meetings throughout the day.  I can only imagine how frustrating this might have been for my direct reports. Additionally, as vacations and PTOs frequently fall on Fridays, 1-1s would have to be rescheduled throughout the week.
 
-There would be Fridays when I was exhausted by 2pm, mentally spent. Yet, there would be more meetings. I started to find myself less able to give my all in meetings. More irritable, less focused. I was doing myself and the team a disservice.
-Fridays started to frequently look like this:  
+A Friday might look like this:
+
+![semi-packed]({{site.baseurl}}/assets/images/calendar-semi-packed.jpg){:height="25%" width="25%"}
+
+
+And sometimes looked like this:  
 
 ![Here comes Friday]({{site.baseurl}}/assets/images/calendar-packed.jpg){:height="25%" width="25%"}
 
@@ -100,6 +104,7 @@ As my responsibilities grew and I oversaw more departments and teams, more time 
 - Reduced feelings of burnout
 - More productive 1-1 meetings
 - More balanced schedule
+- More time spent on vision and strategic planning to help move the company forward.
 
 ### So what does the new calendar look like?  
 *(Note: only 1-1 meetings shown)*
@@ -117,6 +122,6 @@ As my responsibilities grew and I oversaw more departments and teams, more time 
   - do not schedule too many 1-1 meetings in a day (my current rule is no more than three in one day)
 
 ## Conclusion
-Time management is hard. It is a skill that's required in every phase of your career.  I have witnessed firsthand that time management has become more and more critical at each step in the ladder as I've progressed from developer, to tech lead, to director, to VP. I wish I could tell you that it gets easier over time.  Well, the good news?  As you gain experience you will be quicker to find areas of your time (day/week/etc.) that you can improve upon, which will help you become more effective in your role as a leader.
+Time management is hard. It is a skill that's required in every phase of your career.  I have witnessed firsthand that time management has become more and more critical at each step in the ladder as I've progressed from developer, to tech lead, to director, to VP. I wish I could tell you that it gets easier over time.  But, here's the good news.  As you gain experience you will more readily find areas of your time (day/week/etc.) that you can better manage and organize, which will help you become more effective in your role as a leader.
 
 Keep learning, keep growing, and keep going.  You got this!
