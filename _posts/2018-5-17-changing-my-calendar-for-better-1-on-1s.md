@@ -75,7 +75,7 @@ What worked when I managed two to three people, did not work for five. Five did 
 
 I realized that programming no longer was the most important part of my role. In fact, the more I focused on code, the more it hurt the team.  I could no longer revolve my schedule around "getting even with code".  Once again I had to let go, evolve further and focus on what is most important.  The people.  
 
-The worst thing to do in a 1-1 meeting is to not be 100% present.  Sure, physically you may be there, but if you are not there mentally its bad for everyone  The person you are meeting with can tell you aren't really present.  What if they have something really important to bring up? What if they were feeling that this position wasn't for them, wanted to talk about it, and on that day you were just not "there".  
+The worst thing to do in a 1-1 meeting is to not be 100% present.  Sure, physically you may be there, but if you are not there mentally its bad for everyone.  The person you are meeting with can tell you aren't really present.  What if they have something really important to bring up? What if they were feeling that this position wasn't for them, wanted to talk about it, and on that day you were just not "there".  
 
 And I know, we are all human.  Managers, leaders, we get worn down too, we have bad days.   However, if I have a bad day it can cascade and ripple down into my direct reports.
 
@@ -122,6 +122,4 @@ As my responsibilities grew and I oversaw more departments and teams, more time 
   - do not schedule too many 1-1 meetings in a day (my current rule is no more than three in one day)
 
 ## Conclusion
-Time management is hard. It is a skill that's required in every phase of your career.  I have witnessed firsthand that time management has become more and more critical at each step in the ladder as I've progressed from developer, to tech lead, to director, to VP. I wish I could tell you that it gets easier over time.  But, here's the good news.  As you gain experience you will more readily find areas of your time (day/week/etc.) that you can better manage and organize, which will help you become more effective in your role as a leader.
-
-Keep learning, keep growing, and keep going.  You got this!
+Time management is hard. It is a skill that's required in every phase of your career.  I have witnessed firsthand that time management has become more and more critical at each step in the ladder as I've progressed from developer, to tech lead, to director, to VP. I wish I could tell you that it gets easier over time.  But, here's the good news.  As you gain experience you will more readily find areas of your time (day/week/etc.) that you can better manage and organize, which will ultimately help you become more effective in your role as a leader.
