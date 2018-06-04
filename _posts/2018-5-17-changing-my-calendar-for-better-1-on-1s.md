@@ -59,12 +59,12 @@ My Fridays would sometimes have five 1-1s back to back, with no breaks in betwee
 
 A Friday might look like this:
 
-![semi-packed]({{site.baseurl}}/assets/images/calendar-semi-packed.jpg){:height="25%" width="25%"}
+![semi-packed]({{site.baseurl}}/assets/images/calendar-semi-packed.jpg){:height="30%" width="30%"}
 
 
 And sometimes looked like this:  
 
-![Here comes Friday]({{site.baseurl}}/assets/images/calendar-packed.jpg){:height="25%" width="25%"}
+![Here comes Friday]({{site.baseurl}}/assets/images/calendar-packed.jpg){:height="30%" width="30%"}
 
 When most of my responsibility revolved around managing two to three developers and hands on programming, software was prioritized. **As more of my day to day development was delegated and I started overseeing a larger team, my focus shifted to the people and how to put them in the best positions to succeed**.
 
