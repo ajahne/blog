@@ -78,6 +78,7 @@ great list to start you off: https://www.thebalance.com/programmers-on-twitter-2
 - https://twitter.com/lemiorhan
 - https://twitter.com/donovanbrown
 - https://twitter.com/JavaScriptKicks
+- https://twitter.com/sindresorhus
 
 ## Read some wonderful blogs
 - https://blog.codinghorror.com
