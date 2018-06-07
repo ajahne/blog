@@ -14,8 +14,9 @@ Let's dive into our first closure:
 
 {% highlight js %}
 const castMagicSpell = (magicSpell) => {
-  const magicWords = 'I am casting ' + magicSpell;
-  //the closure allows our doMagic function to access the magicWords variable
+  const magicWords = `I am casting ${magicSpell}`;
+  //the closure allows our doMagic function 
+  //to access the magicWords variable
   const doMagic = () => {
     console.log(magicWords);
   }
