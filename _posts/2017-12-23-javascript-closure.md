@@ -56,25 +56,25 @@ JavaScript does not have private methods.  However, the use of closures, can emu
 {% highlight js %}
 const createDinnerMaker = () => {
   let temperature = 0;
-
-  const setOvenTemperature = value => {
-    temperature = value;
-  }
-
+  
   const bake = food => {
     console.log('baking: ' + food);
   }
-
+  
   const bakeChicken = () => {
     setOvenTemperature(425);
     bake('chicken');
   }
-
+  
   const bakeFish = () => {
     setOvenTemperature(350);
     bake('fish');
   }
-
+  
+  const setOvenTemperature = value => {
+    temperature = value;
+  }  
+  
   return {
     bakeChicken,
     bakeFish
