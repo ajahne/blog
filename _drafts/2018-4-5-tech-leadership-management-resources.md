@@ -22,6 +22,7 @@ date:   2018-4-55 22:16:29 -0400
   - https://larahogan.me/blog/
   - https://blog.coleadership.com/author/jean/
   - http://www.elidedbranches.com
+  - https://www.managersclub.com/
 - Newsletters
   - Software Lead Weekly
 - Network
