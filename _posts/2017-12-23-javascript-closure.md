@@ -115,7 +115,7 @@ You can view the codepen version [here](https://codepen.io/ajahne/pen/gWNVrw?edi
 Sometimes creating a function in a loop (say creating a callback for a DOM event listener) may not work as expected given how the closure is created ([see codepen example](https://codepen.io/ajahne/pen/jmjgLx?editors=1011)).  To better handle this scenario and ensure our handlers work as expected in our loops, we can [utilize additional closures](https://codepen.io/ajahne/pen/LyKwOE?editors=1011).
 
 **SetTimeout**  
-Another time we may run into challenges with scope and require closures is with setTimeout.  To illustrate the different ways (through IFFE, through explicit function calls) that we can ensure we are accessing variables as expected, [explore this setTimeout example](https://codepen.io/ajahne/pen/qmzJgp).
+Another time we may run into challenges with scope and require closures is with `setTimeout`.  To illustrate the different ways (through IFFE, through explicit function calls) that we can ensure we are accessing variables as expected, [explore this setTimeout example](https://codepen.io/ajahne/pen/qmzJgp).
 
 ### Conclusion
 Ok, still with me? Let’s recap: Closure occurs every time a function is created and this function has access to the variables of its outer scope (be it global or a containing function).  Additionally, this function retains access to this outer scope and can continue to access this scope (variables, etc.).  Not so bad, right? Right. For additional examples and readings, check out the resources below.
