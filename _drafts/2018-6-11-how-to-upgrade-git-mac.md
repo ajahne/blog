@@ -1,9 +1,9 @@
 ---
 layout: single
-title:  'How to upgrade Git on your Mac (OSX)'
+title:  'How to upgrade Git on Mac (OSX)'
 date:   2018-6-11 11:32:29 -0400
 categories: tools
-tags: nodejs, homebrew, brew, mac, macOS
+tags: git, homebrew, brew, mac, macOS
 header:
   image: /assets/images/how-to-upgrade-git-mac.jpg
 ---
@@ -23,7 +23,7 @@ If you are unfamiliar with Homebrew, it is a package manager for Mac that allows
 
 ## Step by Step Guide
 
-### Install homebrew
+### Install Homebrew
 _if already installed, skip to the git installation_
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -81,4 +81,5 @@ We are all set! Homebrew is installed, Git is installed, and we have changed our
 - [Homebrew](https://brew.sh)
 - [Homebrew Documentation](https://docs.brew.sh)
 - [How to use the Homebrew installed Git](https://apple.stackexchange.com/questions/93002/how-to-use-the-homebrew-installed-git-on-mac)
+- Updating paths for Git on [StackOverflow](https://stackoverflow.com/questions/1835837/git-command-not-found-on-os-x-10-5)
 - [Step-by-Step on How to Update Git on Mac](https://www.michaelcrump.net/step-by-step-how-to-update-git/)
