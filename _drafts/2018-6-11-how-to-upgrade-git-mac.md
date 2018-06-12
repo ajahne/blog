@@ -24,55 +24,56 @@ If you are unfamiliar with Homebrew, it is a package manager for Mac that allows
 ## Step by Step Guide
 
 ### Install Homebrew
-_if already installed, skip to the git installation_
-```
+_if Homebrew is already installed, you can skip to the Git section_
+{% highlight shell %}
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-```
+{% endhighlight %}
+
 For installation details, including system requirements check out the documentation [here](https://docs.brew.sh/Installation)
 
 ### Update Homebrew to ensure you are on the latest version
-```
+{% highlight shell %}
 brew update
-```
+{% endhighlight %}
 
 ### Run brew doctor to ensure everything is good to go
-```
+{% highlight shell %}
 brew doctor
-```
+{% endhighlight %}
 
 If all is well, the output should say `Your system is ready to brew.`
 
 Now let's get to Git.
 
 ### Check your current version of git
-```
+{% highlight shell %}
 git --version
-```
+{% endhighlight %}
 
 If the version of git says something like `git version 2.15.1 (Apple Git-101)` then you are running the Apple version of Git, not the official distribution.
 
 No worries, Homebrew has got us covered.
 
 ### Install git via Homebrew
-```
+{% highlight shell %}
 brew install git
-```
+{% endhighlight %}
 
 ### Change your local path to the Homebrew version
-```
+{% highlight shell %}
 export PATH=/usr/local/bin:$PATH
-```
+{% endhighlight %}
 
 ### Check the git version
-```
+{% highlight shell %}
 git --version
-```
+{% endhighlight %}
 You should now see the current version of git, such as `git version 2.17.1`.
 
 ### To upgrade in the future, simply run
-```
+{% highlight shell %}
 brew upgrade git
-```
+{% endhighlight %}
 
 ## Conclusion
 We are all set! Homebrew is installed, Git is installed, and we have changed our path to point to the current version.  For further details on Homebrew and some additional resources, check out the links below.
