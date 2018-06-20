@@ -1,3 +1,11 @@
+---
+layout: single
+title:  'Five One on One Don'ts'
+date:   2018-6-20 04:26:29 -0400
+categories: leadership
+tags: one on one, 1-1, meetings, leadership, management
+---
+
 List:
 - do not let them turn into neverending therapy sessions
 - do not just focus on tasks
