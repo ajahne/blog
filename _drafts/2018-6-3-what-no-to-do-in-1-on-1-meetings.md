@@ -22,6 +22,17 @@ tags: one on one, 1-1, meetings, leadership, management
 - do not cancel and avoid rescheduling
 - do not book them back to back
 - do not think having 1-1s is a panacea 
+- do not do all of the talking
+- do not avoid the hard conversations
+
+## Five Dos:
+- do have them
+- do switch them up
+- do focus on the moment and be present
+- do reflect on them
+- do take notes
+- do ask for feedback
+- do come prepared
 
 ## Other:
 - do not undervalue them
