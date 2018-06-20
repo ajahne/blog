@@ -16,16 +16,16 @@ tags: one on one, 1-1, meetings, leadership, management
 - conclusion
 - additional references
 
-## Five Don'ts:
+## Don'ts:
 - do not just focus on tasks
-- do not let them turn into neverending therapy sessions
+- do not let them turn into never-ending therapy sessions
 - do not cancel and avoid rescheduling
 - do not book them back to back
 - do not think having 1-1s is a panacea 
 - do not do all of the talking
 - do not avoid the hard conversations
 
-## Five Dos:
+## Dos:
 - do have them
 - do switch them up
 - do focus on the moment and be present
