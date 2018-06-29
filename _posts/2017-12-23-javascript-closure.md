@@ -84,8 +84,8 @@ const createDinnerMaker = () => {
 //calling the function makeDinner returns an object
 //this return triggers the closure.
 const myDinnerMaker = createDinnerMaker();
-myDinnerMaker.bakeChicken(); //baking chicken
-myDinnerMaker.bakeFish();    //baking fish
+myDinnerMaker.bakeChicken(); //baking: chicken
+myDinnerMaker.bakeFish();    //baking: fish
 {% endhighlight %}
 You can view the codepen version [here](https://codepen.io/ajahne/pen/BRgXyp?editors=0012).
 
