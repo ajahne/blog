@@ -48,7 +48,7 @@ Chapter 5
 - Good company: work is important to the company and the person.
 - If you do nothing else, build a good company
 - Train your people (need to train my managers)
-- Functional training (e.g engineers) and manager training
+- Functional training (e.g. engineers) and manager training
 - TODO: find training courses
 - Hiring executives be sure you know what you want. Hire what your company needs, not just someone who looks the part or is straight out of central casting
 - Sometimes you need to take on the role yourself to clearly define what you need in the role
@@ -92,7 +92,7 @@ Chapter 6
 Chapter 7
 - focus on what you need to get right, not on what you did wrong or might do wrong
 - Not about what you feel, about what you do
-- Cus dmato quote
+- Great Cus D'Amato quote to start the chapter
 - Making the right choice requires intelligence and courage
 - Learning might also be called the courage development process
 - Hard to replace CEOs
