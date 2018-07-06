@@ -1,4 +1,4 @@
-[Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-readers-are-leaders-but-all-leaders-are-readers) and I push myself to read as often as I can.  Recently I read the "The Hard Thing About Hard Things" and took notes throughout.  Below are my notes, gut reactions, personal perspectives, and raw thoughts as I read.
+[Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-readers-are-leaders-but-all-leaders-are-readers) and with that in mind, I push myself to read as often as I can.  Recently I read the "The Hard Thing About Hard Things" and took notes throughout.  Below are my notes, gut reactions, personal perspectives, and raw thoughts as I read.
 
 ## Table of Contents:
 - [Chapter 1: From communist to venture capitalist](#chapter-1-from-communist-to-venture-capitalist)
