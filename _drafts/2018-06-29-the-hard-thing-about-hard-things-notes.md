@@ -7,7 +7,7 @@
 - [Chapter 4: When things fall apart](#chapter-4-when-things-fall-apart)
 - [Chapter 5: Take care of the people, the products, and the profits - in that order](#chapter-5-take-care-of-the-people-the-products-and-the-profits-in-that-order)
 - [Chapter 6: Concerning the going concern](#chapter-6-concerning-the-going-concern)
-- [Chapter 7: How to lead even when you don't know where you are going](#chapter-7-how-to-lead-even-when-you-don't-know-where-you-are-going)
+- [Chapter 7: How to lead even when you don't know where you are going](#chapter-7-how-to-lead-even-when-you-dont-know-where-you-are-going)
 - [Chapter 8: First rule of entrepreneurship: there are no rules](#chapter-8-first-rule-of-entrepreneurship-there-are-no-rules)
 - [Chapter 9: The end of the beginning](#chapter-9-the-end-of-the-beginning)
 
