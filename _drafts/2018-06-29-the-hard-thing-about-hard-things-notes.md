@@ -1,11 +1,25 @@
-Chapter 1:
-- seems like everything came to easy, it works out in the end
-- Most stories are: things were bad, we struggled, all is well now. Everything turns out great
-- All the “hard things” are left out
-- How was it to have a family and work at a startup? What were the hours like? How did you balance tech and management? (Maybe too early an it will come, but everything was just miraculous how it ended and he wants you to know that!)
+[Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-readers-are-leaders-but-all-leaders-are-readers) and I push myself to read as often as I can.  Recently I read the "The Hard Thing About Hard Things" and took notes throughout.  Below are my notes, gut reactions, personal perspectives, and raw thoughts as I read.
 
-Chapter 2
-- much better than chapter 1, more concrete examples, more “hard things”
+## Table of Contents:
+- [Chapter 1: From Communist to Venture Capitalist ](#chapter-1:-From-Communist-to-Venture-Capitalist)
+- Chapter 2: "I will survive"
+- [Chapter 3: This time with feeling](#Chapter-3-This-time-with-feeling)
+- Chapter 4: When things fall apart
+- Chapter 5: Take care of the people, the products, and the profits - in that order
+- Chapter 6: Concerning the going concern
+- Chapter 7: How to lead even when you don't know where you are going
+- Chapter 8: First rule of entrepreneurship: there are no rules
+- Chapter 9: The end of the beginning
+
+## Chapter 1: From Communist to Venture Capitalist 
+- Seems like everything came to easy, it works out in the end
+- Most stories are: things were bad, we struggled, all is well now. Everything turns out great
+- So far, all the “hard things” are left out
+- How was it to have a family and work at a startup? What were the hours like? How did you balance tech and management? (Maybe too early an it will come, but everything was just miraculous how it ended and he wants you to know that!)
+- Hopefully things pick up as the book progresses 
+
+## Chapter 2: "I will survive"
+- Much better than chapter 1, more concrete examples, more “hard things”
 - If you have to eat shit, don’t nibble: when they had to announce their revenue forecast was off, they could go a little under then lose trust if had to reduce again, or go low and do it once. They went low, did it once. They were gonna take shit anyway
 - He had an amazing network. Flew to Cali to meet head of CAA, great people on his team. Learnings: meet people and build a strong team
 - Wife got sick, but supported him still. Learning: family is important, you need to prioritize them. Family is more important than the business (not what his actions say, but my thoughts)
@@ -16,14 +30,14 @@ Chapter 2
 - At times only executives can see the whole picture, which is why they make decisions
 - He split of cloud business to software business
 
-Chapter 3
+## Chapter 3: This time with feeling
 - They sold the company for 1.6 billion
 - Take time to ask “what am I not doing”, ask the team “what are we not doing”
 - Have talks with yourself: debate yourself
 - The ultimate question: should you sell? Have to ask the team. Do they wanna sell or move on to the next challenge to make the company better
 - Chose a share price he wanted and pushed for it
 
-Chapter 4
+## Chapter 4: When things fall apart
 - as a startup CEO, always believe there is an answer. You cannot give up. Find a solution
 - Calculus over statistics
 - Focus and make the best move, even when there are no good moves.
@@ -36,7 +50,7 @@ Chapter 4
 - Lead bullets: make better product. Sometimes there are no silver bullets, you have to confront the monster face on
 - Nobody cares: just win excuses do not matter, don’t focus on what you didn’t do, focus on what you might (will) do
 
-Chapter 5
+## Chapter 5: Take care of the people, the products, and the profits - in that order
 - hire based on strength
 - Difference between wartime hires and peacetime hires. Sometimes you need people with drive and passion and strengths you need that may not be a cultural fit
 - People, products, then profits
@@ -62,7 +76,7 @@ Chapter 5
 - Cut a long term project if it’s not in the long term plans or if you’re keeping it around for morale purposes
 - HR is important
 
-Chapter 6
+## Chapter 6: Concerning the going concern
 - sometimes a company doesn’t need a solution, they need clarity (refers to profanity in the workplace, but can apply more broadly)
 - Companies change over time. What works for 10 will not work for 1,000. Admit things must be different at scale, embrace change
 - Hire people with the right kind of ambition
@@ -89,7 +103,7 @@ Chapter 6
 - Do not scale to early, do not unfairly judge or assume someone’s ability to scale. No one comes out of the womb able to manage 1000 people. 
 - Always Be Evaluating
 
-Chapter 7
+## Chapter 7: How to lead even when you don't know where you are going
 - focus on what you need to get right, not on what you did wrong or might do wrong
 - Not about what you feel, about what you do
 - Great Cus D'Amato quote to start the chapter
@@ -107,7 +121,7 @@ Chapter 7
 - Keys to feedback: be authentic, come from the right place, don’t get personal, don’t clown people in front of their peers, feedback is not one size fits all, be direct, but not mean
 - The strategy is the story
 
-Chapter 8
+## Chapter 8: First rule of entrepreneurship: there are no rules
 - first rule, there are no rules
 - Never give up
 - Let people be creative
@@ -115,7 +129,7 @@ Chapter 8
 - Creativity vs accountability? Hold people accountable, but also take into consideration: how senior is the person, how hard is the problem, was the original risk the right one to take
 - Not easy to decide whether to sell the company or not
 
-Chapter 9
+## Chapter 9: The end of the beginning 
 - unrelenting confidence
 - Hard things are hard because there are no easy answers or recipes (page 274)
 - Life is a struggle, embrace the struggle
