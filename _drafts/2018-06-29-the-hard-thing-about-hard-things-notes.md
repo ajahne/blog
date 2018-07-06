@@ -24,7 +24,7 @@ tags: books, leadership, management
 - Most stories are: things were bad, we struggled, all is well now. Everything turns out great
 - So far, all the “hard things” are left out
 - How was it to have a family and work at a startup? What were the hours like? How did you balance tech and management? (Maybe too early an it will come, but everything was just miraculous how it ended and he wants you to know that!)
-- Hopefully things pick up as the book progresses 
+- Hopefully things pick up as the book progresses (edit after completion: yes it does! Excellent book, highly recommended)
 
 ## Chapter 2: "I will survive"
 - Much better than chapter 1, more concrete examples, more “hard things”
