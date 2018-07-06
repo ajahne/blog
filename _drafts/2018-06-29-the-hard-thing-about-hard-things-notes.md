@@ -38,7 +38,7 @@
 - Chose a share price he wanted and pushed for it
 
 ## Chapter 4: When things fall apart
-- as a startup CEO, always believe there is an answer. You cannot give up. Find a solution
+- As a startup CEO, always believe there is an answer. You cannot give up. Find a solution
 - Calculus over statistics
 - Focus and make the best move, even when there are no good moves.
 - It’s hard
@@ -51,7 +51,7 @@
 - Nobody cares: just win excuses do not matter, don’t focus on what you didn’t do, focus on what you might (will) do
 
 ## Chapter 5: Take care of the people, the products, and the profits - in that order
-- hire based on strength
+- Hire based on strength
 - Difference between wartime hires and peacetime hires. Sometimes you need people with drive and passion and strengths you need that may not be a cultural fit
 - People, products, then profits
 - Make the company a “good place to work”.
@@ -77,7 +77,7 @@
 - HR is important
 
 ## Chapter 6: Concerning the going concern
-- sometimes a company doesn’t need a solution, they need clarity (refers to profanity in the workplace, but can apply more broadly)
+- Sometimes a company doesn’t need a solution, they need clarity (refers to profanity in the workplace, but can apply more broadly)
 - Companies change over time. What works for 10 will not work for 1,000. Admit things must be different at scale, embrace change
 - Hire people with the right kind of ambition
 - Be careful what you say as an executive, sometimes even what you don’t say will lead people to think you agree
@@ -104,7 +104,7 @@
 - Always Be Evaluating
 
 ## Chapter 7: How to lead even when you don't know where you are going
-- focus on what you need to get right, not on what you did wrong or might do wrong
+- Focus on what you need to get right, not on what you did wrong or might do wrong
 - Not about what you feel, about what you do
 - Great Cus D'Amato quote to start the chapter
 - Making the right choice requires intelligence and courage
@@ -122,7 +122,7 @@
 - The strategy is the story
 
 ## Chapter 8: First rule of entrepreneurship: there are no rules
-- first rule, there are no rules
+- First rule, there are no rules
 - Never give up
 - Let people be creative
 - Assume they are trustworthy and working hard until proven otherwise
@@ -130,7 +130,7 @@
 - Not easy to decide whether to sell the company or not
 
 ## Chapter 9: The end of the beginning 
-- unrelenting confidence
+- Unrelenting confidence
 - Hard things are hard because there are no easy answers or recipes (page 274)
 - Life is a struggle, embrace the struggle
 - Embrace your background, your weirdness, your uniqueness
