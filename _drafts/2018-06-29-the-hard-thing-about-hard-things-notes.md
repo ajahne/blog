@@ -1,7 +1,7 @@
 [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-readers-are-leaders-but-all-leaders-are-readers) and I push myself to read as often as I can.  Recently I read the "The Hard Thing About Hard Things" and took notes throughout.  Below are my notes, gut reactions, personal perspectives, and raw thoughts as I read.
 
 ## Table of Contents:
-- [Chapter 1: From Communist to Venture Capitalist ](#chapter-1:-From-Communist-to-Venture-Capitalist)
+- [Chapter 1: From Communist to Venture Capitalist ](#chapter-1--From-Communist-to-Venture-Capitalist)
 - Chapter 2: "I will survive"
 - [Chapter 3: This time with feeling](#Chapter-3-This-time-with-feeling)
 - Chapter 4: When things fall apart
@@ -11,7 +11,7 @@
 - Chapter 8: First rule of entrepreneurship: there are no rules
 - Chapter 9: The end of the beginning
 
-## Chapter 1: From Communist to Venture Capitalist 
+## Chapter 1 - From Communist to Venture Capitalist 
 - Seems like everything came to easy, it works out in the end
 - Most stories are: things were bad, we struggled, all is well now. Everything turns out great
 - So far, all the “hard things” are left out
@@ -30,7 +30,7 @@
 - At times only executives can see the whole picture, which is why they make decisions
 - He split of cloud business to software business
 
-## Chapter 3: This time with feeling
+## Chapter 3 This time with feeling
 - They sold the company for 1.6 billion
 - Take time to ask “what am I not doing”, ask the team “what are we not doing”
 - Have talks with yourself: debate yourself
