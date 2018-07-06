@@ -36,13 +36,13 @@ tags: books, leadership, management
 - He doesn’t sleep much (2 hours on three weeks during IPO push)
 - He asks great questions and is a problem solver
 - At times only executives can see the whole picture, which is why they make decisions
-- He split of cloud business to software business
+- He split off cloud business to software business
 
 ## Chapter 3: This time with feeling
-- They sold the company for 1.6 billion
+- They sold the company for 1.6 billion (wow!)
 - Take time to ask “what am I not doing”, ask the team “what are we not doing”
 - Have talks with yourself: debate yourself
-- The ultimate question: should you sell? Have to ask the team. Do they wanna sell or move on to the next challenge to make the company better
+- The ultimate question: should you sell? Have to ask the team. Do they want to sell or move on to the next challenge to make the company better?
 - Chose a share price he wanted and pushed for it
 
 ## Chapter 4: When things fall apart
@@ -60,7 +60,7 @@ tags: books, leadership, management
 
 ## Chapter 5: Take care of the people, the products, and the profits - in that order
 - Hire based on strength
-- Difference between wartime hires and peacetime hires. Sometimes you need people with drive and passion and strengths you need that may not be a cultural fit
+- Difference between wartime hires and peacetime hires. Sometimes you need people with the drive/passion/strengths you need, but they may not be a cultural fit
 - People, products, then profits
 - Make the company a “good place to work”.
 - Train your people
@@ -96,7 +96,7 @@ tags: books, leadership, management
 - Hire people with the right kind of ambition, we vs me, see how people describe past accomplishments in previous companies, if just them responsible for success, then they are not telling the truth, team is always involved.
 - Define a formal process for promotions
 - Choose titles wisely
-- Sometimes your smartest people can be your worst employees (heretic, flaky, not reliable, condescending, feel everyone is stupid
+- Sometimes your smartest people can be your worst employees (heretic, flaky, not reliable, condescending, feel everyone is stupid)
 - You can only hold the bus for one person (at most)
 - Have a high standard in hiring and on boarding. People need to fit the culture you created. Senior people come with their own set of important challenges
 - Executive performance: results against objectives, management, innovation, working with peers
@@ -109,6 +109,7 @@ tags: books, leadership, management
 - Figure out if you are getting what you want out if each step
 - Engineer accountability into the system: who is responsible for what at each step
 - Do not scale to early, do not unfairly judge or assume someone’s ability to scale. No one comes out of the womb able to manage 1000 people. 
+- (Not to self: Reflect on your people, if the person were interviewed for the job today, would they get it?) 
 - Always Be Evaluating
 
 ## Chapter 7: How to lead even when you don't know where you are going
@@ -118,7 +119,7 @@ tags: books, leadership, management
 - Making the right choice requires intelligence and courage
 - Learning might also be called the courage development process
 - Hard to replace CEOs
-- Ones and twos. Ones about vision, twos about tactics. Ideas vs process, idea vs implementation. Ones have great ideas but may not create process. Twos can excel at process, but less strong on vision
+- Ones and twos. Ones about vision, twos about tactics. Ideas vs process, idea vs implementation. Ones have great ideas but may not create process. Twos can excel at process, but less strong on vision (Am I a one or a two?)
 - Follow the leader: articulating the vision, alignment of interests, ability to achieve the vision
 - Are great leaders born or made? Made.
 - Each attribute can be improved over time, some more than others.
