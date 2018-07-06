@@ -1,15 +1,15 @@
 [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-readers-are-leaders-but-all-leaders-are-readers) and I push myself to read as often as I can.  Recently I read the "The Hard Thing About Hard Things" and took notes throughout.  Below are my notes, gut reactions, personal perspectives, and raw thoughts as I read.
 
 ## Table of Contents:
-- [Chapter 1: From communist to venture capitalist](#chapter-1-From-Communist-to-Venture-Capitalist)
-- [Chapter 2: "I will survive"](#chapter-2-I-will-survive)
-- [Chapter 3: This time with feeling](#Chapter-3-This-time-with-feeling)
-- [Chapter 4: When things fall apart](#Chapter-4-When-things-fall-apart)
-- [Chapter 5: Take care of the people, the products, and the profits - in that order](#Chapter-5-Take-care-of-the-people-the-products-and-the-profits-in-that-order)
-- [Chapter 6: Concerning the going concern](#Chapter-6-Concerning-the-going-concern)
-- [Chapter 7: How to lead even when you don't know where you are going](#Chapter-7-How-to-lead-even-when-you-don't-know-where-you-are-going)
-- [Chapter 8: First rule of entrepreneurship: there are no rules](#Chapter-8-First-rule-of-entrepreneurship-there-are-no-rules)
-- [Chapter 9: The end of the beginning](#Chapter-9-The-end-of-the-beginning)
+- [Chapter 1: From communist to venture capitalist](#chapter-1-from-communist-to-venture-capitalist)
+- [Chapter 2: "I will survive"](#chapter-2-i-will-survive)
+- [Chapter 3: This time with feeling](#chapter-3-this-time-with-feeling)
+- [Chapter 4: When things fall apart](#chapter-4-when-things-fall-apart)
+- [Chapter 5: Take care of the people, the products, and the profits - in that order](#chapter-5-take-care-of-the-people-the-products-and-the-profits-in-that-order)
+- [Chapter 6: Concerning the going concern](#chapter-6-concerning-the-going-concern)
+- [Chapter 7: How to lead even when you don't know where you are going](#chapter-7-how-to-lead-even-when-you-don't-know-where-you-are-going)
+- [Chapter 8: First rule of entrepreneurship: there are no rules](#chapter-8-first-rule-of-entrepreneurship-there-are-no-rules)
+- [Chapter 9: The end of the beginning](#chapter-9-the-end-of-the-beginning)
 
 ## Chapter 1: From Communist to Venture Capitalist {#custom-id}
 - Seems like everything came to easy, it works out in the end
