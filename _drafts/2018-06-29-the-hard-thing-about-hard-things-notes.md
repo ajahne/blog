@@ -30,7 +30,7 @@
 - At times only executives can see the whole picture, which is why they make decisions
 - He split of cloud business to software business
 
-## Chapter 3 This time with feeling
+## Chapter 3: This time with feeling
 - They sold the company for 1.6 billion
 - Take time to ask “what am I not doing”, ask the team “what are we not doing”
 - Have talks with yourself: debate yourself
