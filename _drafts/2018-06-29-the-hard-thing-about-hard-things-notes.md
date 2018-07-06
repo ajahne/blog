@@ -1,9 +1,9 @@
 [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-readers-are-leaders-but-all-leaders-are-readers) and I push myself to read as often as I can.  Recently I read the "The Hard Thing About Hard Things" and took notes throughout.  Below are my notes, gut reactions, personal perspectives, and raw thoughts as I read.
 
 ## Table of Contents:
-- [Chapter 1: From Communist to Venture Capitalist ](#chapter-1--From-Communist-to-Venture-Capitalist)
+- [Chapter 1: From Communist to Venture Capitalist ](#chapter-1--from-communist-to-venture-capitalist)
 - Chapter 2: "I will survive"
-- [Chapter 3: This time with feeling](#Chapter-3-This-time-with-feeling)
+- [Chapter 3: This time with feeling](#chapter-3-this-time-with-feeling)
 - Chapter 4: When things fall apart
 - Chapter 5: Take care of the people, the products, and the profits - in that order
 - Chapter 6: Concerning the going concern
