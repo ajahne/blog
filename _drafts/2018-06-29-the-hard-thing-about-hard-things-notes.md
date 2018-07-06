@@ -6,7 +6,7 @@ categories: leadership, books
 tags: books, leadership, management
 ---
 
-[Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-readers-are-leaders-but-all-leaders-are-readers) and with that in mind, I push myself to read as often as I can.  Recently I read the "The Hard Thing About Hard Things" and took notes throughout.  Below are my notes, gut reactions, and raw thoughts as I read each chapter.
+[Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-readers-are-leaders-but-all-leaders-are-readers) and with that in mind, I push myself to read as often as I can.  Recently I read the ["The Hard Thing About Hard Things"](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) and took notes throughout.  Below are my notes, gut reactions, and raw thoughts as I read each chapter.
 
 ## Table of Contents:
 - [Chapter 1: From communist to venture capitalist](#chapter-1-from-communist-to-venture-capitalist)
