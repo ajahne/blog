@@ -1,4 +1,12 @@
-[Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-readers-are-leaders-but-all-leaders-are-readers) and with that in mind, I push myself to read as often as I can.  Recently I read the "The Hard Thing About Hard Things" and took notes throughout.  Below are my notes, gut reactions, personal perspectives, and raw thoughts as I read.
+---
+layout: single
+title:  'The Hard Thing About Hard Things - Chapter Notes'
+date:   2018-6-29 11:32:29 -0400
+categories: leadership, books
+tags: books, leadership, management
+---
+
+[Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-readers-are-leaders-but-all-leaders-are-readers) and with that in mind, I push myself to read as often as I can.  Recently I read the "The Hard Thing About Hard Things" and took notes throughout.  Below are my notes, gut reactions, and raw thoughts as I read each chapter.
 
 ## Table of Contents:
 - [Chapter 1: From communist to venture capitalist](#chapter-1-from-communist-to-venture-capitalist)
