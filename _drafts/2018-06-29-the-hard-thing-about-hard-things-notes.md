@@ -11,7 +11,7 @@
 - [Chapter 8: First rule of entrepreneurship: there are no rules](#chapter-8-first-rule-of-entrepreneurship-there-are-no-rules)
 - [Chapter 9: The end of the beginning](#chapter-9-the-end-of-the-beginning)
 
-## Chapter 1: From Communist to Venture Capitalist {#custom-id}
+## Chapter 1: From Communist to Venture Capitalist
 - Seems like everything came to easy, it works out in the end
 - Most stories are: things were bad, we struggled, all is well now. Everything turns out great
 - So far, all the “hard things” are left out
