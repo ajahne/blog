@@ -2,18 +2,20 @@
 layout: single
 title:  'The Hard Thing About Hard Things - Chapter Notes'
 date:   2018-6-29 11:32:29 -0400
-categories: leadership, books
+categories: leadership books
 tags: books, leadership, management
+header:
+  image: /assets/images/the-hard-thing-about-hard-things-chapter-notes.jpg
 ---
 
-[Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-readers-are-leaders-but-all-leaders-are-readers) and with that in mind, I push myself to read as often as I can.  Recently I read the ["The Hard Thing About Hard Things"](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) and took notes throughout.  Below are my notes, gut reactions, and raw thoughts as I read each chapter.
+[Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-readers-are-leaders-but-all-leaders-are-readers) and with that in mind, I push myself to read as often as I can.  Recently I read the ["The Hard Thing About Hard Things"](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) and took notes throughout.  Below are my notes, gut reactions, and raw thoughts from each chapter.
 
 ## Table of Contents:
 - [Chapter 1: From communist to venture capitalist](#chapter-1-from-communist-to-venture-capitalist)
 - [Chapter 2: "I will survive"](#chapter-2-i-will-survive)
 - [Chapter 3: This time with feeling](#chapter-3-this-time-with-feeling)
 - [Chapter 4: When things fall apart](#chapter-4-when-things-fall-apart)
-- [Chapter 5: Take care of the people, the products, and the profits - in that order](#chapter-5-take-care-of-the-people-the-products-and-the-profits-in-that-order)
+- [Chapter 5: Take care of the people, the products, and the profits - in that order](#chapter-5-take-care-of-the-people-the-products-and-the-profits---in-that-order)
 - [Chapter 6: Concerning the going concern](#chapter-6-concerning-the-going-concern)
 - [Chapter 7: How to lead even when you don't know where you are going](#chapter-7-how-to-lead-even-when-you-dont-know-where-you-are-going)
 - [Chapter 8: First rule of entrepreneurship: there are no rules](#chapter-8-first-rule-of-entrepreneurship-there-are-no-rules)
@@ -24,14 +26,14 @@ tags: books, leadership, management
 - Most stories are: things were bad, we struggled, all is well now. Everything turns out great
 - So far, all the “hard things” are left out
 - How was it to have a family and work at a startup? What were the hours like? How did you balance tech and management? (Maybe too early an it will come, but everything was just miraculous how it ended and he wants you to know that!)
-- Hopefully things pick up as the book progresses (edit after completion: yes it does! Excellent book, highly recommended)
+- Hopefully things pick up as the book progresses (_edit after completion: yes it does! Excellent book, highly recommended_)
 
 ## Chapter 2: "I will survive"
 - Much better than chapter 1, more concrete examples, more “hard things”
 - If you have to eat shit, don’t nibble: when they had to announce their revenue forecast was off, they could go a little under then lose trust if had to reduce again, or go low and do it once. They went low, did it once. They were gonna take shit anyway
 - He had an amazing network. Flew to Cali to meet head of CAA, great people on his team. Learnings: meet people and build a strong team
 - Wife got sick, but supported him still. Learning: family is important, you need to prioritize them. Family is more important than the business (not what his actions say, but my thoughts)
-- Need good advisors(this guy Bill is strong)
+- Need good advisors (this guy Bill is strong)
 - Peacetime CEO vs wartime CEO
 - He doesn’t sleep much (2 hours on three weeks during IPO push)
 - He asks great questions and is a problem solver
@@ -108,8 +110,8 @@ tags: books, leadership, management
 - For process, forces on the output first: what should the process produce?
 - Figure out if you are getting what you want out if each step
 - Engineer accountability into the system: who is responsible for what at each step
-- Do not scale to early, do not unfairly judge or assume someone’s ability to scale. No one comes out of the womb able to manage 1000 people. 
-- (Not to self: Reflect on your people, if the person were interviewed for the job today, would they get it?) 
+- Do not scale to early, do not unfairly judge or assume someone’s ability to scale. No one comes out of the womb able to manage 1000 people.
+- (Not to self: Reflect on your people, if the person were interviewed for the job today, would they get it?)
 - Always Be Evaluating
 
 ## Chapter 7: How to lead even when you don't know where you are going
@@ -138,7 +140,7 @@ tags: books, leadership, management
 - Creativity vs accountability? Hold people accountable, but also take into consideration: how senior is the person, how hard is the problem, was the original risk the right one to take
 - Not easy to decide whether to sell the company or not
 
-## Chapter 9: The end of the beginning 
+## Chapter 9: The end of the beginning
 - Unrelenting confidence
 - Hard things are hard because there are no easy answers or recipes (page 274)
 - Life is a struggle, embrace the struggle
