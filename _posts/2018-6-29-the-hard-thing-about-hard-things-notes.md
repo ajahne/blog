@@ -25,12 +25,12 @@ header:
 - Seems like everything came to easy, it works out in the end
 - Most stories are: things were bad, we struggled, all is well now. Everything turns out great
 - So far, all the “hard things” are left out
-- How was it to have a family and work at a startup? What were the hours like? How did you balance tech and management? (Maybe too early an it will come, but everything was just miraculous how it ended and he wants you to know that!)
+- How was it to have a family and work at a startup? What were the hours like? How did you balance tech and management? (Maybe too early and it will come, but everything was just miraculous how it ended and he wants you to know that!)
 - Hopefully things pick up as the book progresses (_edit after completion: yes it does! Excellent book, highly recommended_)
 
 ## Chapter 2: "I will survive"
 - Much better than chapter 1, more concrete examples, more “hard things”
-- If you have to eat shit, don’t nibble: when they had to announce their revenue forecast was off, they could go a little under then lose trust if had to reduce again, or go low and do it once. They went low, did it once. They were gonna take shit anyway
+- If you have to eat shit, don’t nibble: when they had to announce their revenue forecast was off, they could go a little under then lose trust if they had to reduce again, or go low and do it once. They went low, did it once. They were gonna take shit anyway
 - He had an amazing network. Flew to Cali to meet head of CAA, great people on his team. Learnings: meet people and build a strong team
 - Wife got sick, but supported him still. Learning: family is important, you need to prioritize them. Family is more important than the business (not what his actions say, but my thoughts)
 - Need good advisors (this guy Bill is strong)
@@ -42,7 +42,7 @@ header:
 
 ## Chapter 3: This time with feeling
 - They sold the company for 1.6 billion (wow!)
-- Take time to ask “what am I not doing”, ask the team “what are we not doing”
+- Take time to ask “what am I not doing”, ask the team “what are we not doing” (_started doing this immediately with my team to great results_)
 - Have talks with yourself: debate yourself
 - The ultimate question: should you sell? Have to ask the team. Do they want to sell or move on to the next challenge to make the company better?
 - Chose a share price he wanted and pushed for it
@@ -50,7 +50,7 @@ header:
 ## Chapter 4: When things fall apart
 - As a startup CEO, always believe there is an answer. You cannot give up. Find a solution
 - Calculus over statistics
-- Focus and make the best move, even when there are no good moves.
+- Focus and make the best move, even when there are no good moves
 - It’s hard
 - The struggle is hard
 - There is no answer to the struggle
@@ -58,26 +58,26 @@ header:
 - You always have a move
 - Do not lie to yourself, get to the root cause
 - Lead bullets: make better product. Sometimes there are no silver bullets, you have to confront the monster face on
-- Nobody cares: just win excuses do not matter, don’t focus on what you didn’t do, focus on what you might (will) do
+- Nobody cares: just win. Excuses do not matter, don’t focus on what you didn’t do, focus on what you might (will) do
 
 ## Chapter 5: Take care of the people, the products, and the profits - in that order
 - Hire based on strength
-- Difference between wartime hires and peacetime hires. Sometimes you need people with the drive/passion/strengths you need, but they may not be a cultural fit
+- There is a difference between wartime hires and peacetime hires. Sometimes you need people with the drive/passion/strengths you need, but they may not be a cultural fit
 - People, products, then profits
 - Make the company a “good place to work”.
 - Train your people
 - In addition to “what” to do, tell the team “why” to do it. Why is it important (e.g. 1-1 meetings)
 - As a leader it’s important that people who spend most of their waking life at the company have a good life
 - Good place to work: people can focus on their work and have confidence that if they get their work done, good things will happen to them and the company.
-- Good company: work is important to the company and the person.
+- Good company: work is important to the company and the person
 - If you do nothing else, build a good company
 - Train your people (need to train my managers)
 - Functional training (e.g. engineers) and manager training
 - TODO: find training courses
-- Hiring executives be sure you know what you want. Hire what your company needs, not just someone who looks the part or is straight out of central casting
+- When hiring executives be sure you know what you want. Hire what your company needs, not just someone who looks the part or is straight out of central casting
 - Sometimes you need to take on the role yourself to clearly define what you need in the role
 - Ultimately it is your decision, not the committee
-- Create the group of people who will interview. Group 1: can person do job, group 2: people who will help person onboard
+- Create the group of people who will interview. Group 1: can the person do the job, group 2: people who will help person onboard
 - Metrics are important, but also need a strong vision. Important to measure and important to have the correct goals that you can measure. Have metrics that flesh out and add perspectives to the vision
 - Invest in the future. Do not just create systems that work now but sacrifice your future ability to succeed
 - Avoid managerial debt: two in a box, overcompensating a key employee because she got another job offer, no performance management or employee feedback process
@@ -95,7 +95,7 @@ header:
 - Ensure you have a robust performance review in place
 - Do not give promotions and raises out of cycle, need to follow policies and keep everyone getting the same treatment, helps avoid lobbying and further politics
 - Yertle the turtle
-- Hire people with the right kind of ambition, we vs me, see how people describe past accomplishments in previous companies, if just them responsible for success, then they are not telling the truth, team is always involved.
+- Hire people with the right kind of ambition, "we vs me", see how people describe past accomplishments in previous companies, if it is just them responsible for success, then they are not telling the truth, team is always involved
 - Define a formal process for promotions
 - Choose titles wisely
 - Sometimes your smartest people can be your worst employees (heretic, flaky, not reliable, condescending, feel everyone is stupid)
@@ -104,14 +104,14 @@ header:
 - Executive performance: results against objectives, management, innovation, working with peers
 - Have 1-1s
 - Perks are good, but they are not culture
-- Important to create a company culture, the culture must shock so it distinguishes you (desks made out of doors, paying if late to a meeting, most fast and break things)
+- Important to create a company culture, the culture must shock so it distinguishes you (desks made out of doors, paying if late to a meeting, move fast and break things)
 - Once there is too much information for one person to know, then you need to specialize. If it takes longer to onboard than to do it yourself, you need to specialize (means you know too much, too much is isolated on you)
-- As you scale org chart and process become more important
+- As you scale, org chart and process become more important
 - For process, forces on the output first: what should the process produce?
 - Figure out if you are getting what you want out if each step
 - Engineer accountability into the system: who is responsible for what at each step
-- Do not scale to early, do not unfairly judge or assume someone’s ability to scale. No one comes out of the womb able to manage 1000 people.
-- (Not to self: Reflect on your people, if the person were interviewed for the job today, would they get it?)
+- Do not scale to early, do not unfairly judge or assume someone’s ability to scale. No one comes out of the womb able to manage 1000 people
+- (Note to self: Reflect on your people, if the person were interviewed for the job today, would they get it?)
 - Always Be Evaluating
 
 ## Chapter 7: How to lead even when you don't know where you are going
@@ -124,7 +124,7 @@ header:
 - Ones and twos. Ones about vision, twos about tactics. Ideas vs process, idea vs implementation. Ones have great ideas but may not create process. Twos can excel at process, but less strong on vision (Am I a one or a two?)
 - Follow the leader: articulating the vision, alignment of interests, ability to achieve the vision
 - Are great leaders born or made? Made.
-- Each attribute can be improved over time, some more than others.
+- Each attribute can be improved over time, some more than others
 - Peacetime vs wartime CEO
 - Being a CEO takes a broad range of skills, many of them unnatural (such as how to give feedback) but can be learned over time
 - Lonely job
