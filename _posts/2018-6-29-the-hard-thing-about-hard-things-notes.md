@@ -22,7 +22,7 @@ header:
 - [Chapter 9: The end of the beginning](#chapter-9-the-end-of-the-beginning)
 
 ## Chapter 1: From Communist to Venture Capitalist
-- Seems like everything came to easy, it works out in the end
+- Seems like everything came easily, it works out in the end
 - Most stories are: things were bad, we struggled, all is well now. Everything turns out great
 - So far, all the “hard things” are left out
 - How was it to have a family and work at a startup? What were the hours like? How did you balance tech and management? (Maybe too early and it will come, but everything was just miraculous how it ended and he wants you to know that!)
