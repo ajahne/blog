@@ -42,43 +42,42 @@ So how did it go? - Not so good, some teams did well, but most did not.
 
 ## What did Booking.com learn?
 - Autonomous teams can work, but present new challenges
-- Without team leads, there may not be a shield/buffer between the Project Owner and developers.
+- Without team leads, there may not be a shield/buffer between the Project Owner and developers
   - This could lead to too many features being requested under tight timelines, no time for technical debt, and developer burnout
-- Senior Team leads were being overtaxed (too many issues were bubbling up)
-  - Still sometimes need one person to make decision  
+- Senior team leads were being overtaxed (too many issues were bubbling up)
+  - Still sometimes need one person to make decisions  
 - With no team leads, there was no mentorship for engineers who wanted to become a lead
 
 ### From these learnings, they evolved to "Servant leadership"
 - Servant leadership is "democratic leadership" that is not about telling people what to do, but rather working through challenges collectively
 - Teams once again had team leads
-  - Team leads responsibilities were now:  people growth (~40%), team performance (~15%) and core contributions (~45%).
+  - Team lead responsibilities were now: people growth (~40%), team performance (~15%) and core contributions (~45%).
 
 ## Who was the speaker?
 - The speaker, [Georgiy Mogelashvili](https://twitter.com/glamcoder), is a team lead at Booking.com with over 10 years of experience in the industry.
 - He clearly understood the business, the challenges faced, and presented the material well.  He came across knowledgeable, insightful, and cracked a few jokes.  Good dude.  
 
 ## Assorted musings and tidbits:
-- Booking.com grew rapidly, went from 600k bookings/day to 1,000,000+ bookings a day in a couple of years
+- Booking.com grew rapidly, went from 600,000 bookings a day to 1,000,000+ bookings a day in a couple of years
 - Grew from 1 to 2 to 5 offices
 - They have ~1,000 engineers
-- Team leads foster autonomy, not telling people what to do
-- Experimentation is built into their culture, they put up new features and tests them out all the time. If the feature works (i.e. hits KPIs) great, if not, roll it back
-- This experimentation is reflected in their work with autonomous teams
+- Experimentation is built into their culture, they put up new features and test them out all the time. If the feature works (i.e. hits KPIs) great, if not, they roll it back
+  - This experimentation is reflected in their work with autonomous teams
 - Performance reviews are done quarterly
 - They have agile coaches to help out teams
 - Each team is allowed to choose their own tools (e.g. Jira vs Trello)
-- However, all code is written in Pearl.  Just Pearl, and Pearl, and Pearl. One language to rule them all...
+  - However, all code is written in Pearl.  Just Pearl, and Pearl, and Pearl. One language to rule them all...
 - In the autonomous teams, the performance reviews were 360 reviews and everyone gave feedback to everyone...this process could take an entire day!
-- the autonomous teams that did work - including the team our speaker was part of - were allowed to stay autonomous
-- every 2 weeks teams get together and have retrospectives...not on tech/project, but on team dynamic "how are we working together?"
-- The big metrics for their teams are OKRs and KPIs (not velocity, burn down, LOC, etc.), this aligns with my current read [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
+- The autonomous teams that did work - including the team our speaker was part of - were allowed to stay autonomous
+- Every 2 weeks teams get together and have retrospectives...not on tech/project, but on team dynamic "how are we working together?"
+- The big metrics for their teams are OKRs and KPIs (not velocity, burn down, LOC, etc.), this aligns with the findings outlined in [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339).
 
 ## My key takeaways:
 - Do not be afraid to change, you can and need to change
 - Be a leader, not a boss
 - "Team lead" is not about telling people what to do, but rather figuring our problems/solutions together
 - Create a safe environment where people feel comfortable sharing ideas and providing feedback
-- Teams go through a process: forming, storming, norming, performing
+- Teams go through a process: [forming, storming, norming, performing](https://www.mindtools.com/pages/article/newLDR_86.htm)
 - Autonomy is not scary: autonomous teams can work, but present new challenges
 - OKRs and KPIs are critical, have teams create them (bottom up, not top down)
 - Do not be afraid to try new organizational structures
