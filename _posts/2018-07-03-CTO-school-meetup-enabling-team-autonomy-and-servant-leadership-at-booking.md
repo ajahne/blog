@@ -75,7 +75,7 @@ So how did it go? - Not so good, some teams did well, but most did not.
 ## My key takeaways:
 - Do not be afraid to change, you can and need to change
 - Be a leader, not a boss
-- "Team lead" is not about telling people what to do, but rather figuring our problems/solutions together
+- "Team lead" is not about telling people what to do, but rather figuring out problems/solutions together
 - Create a safe environment where people feel comfortable sharing ideas and providing feedback
 - Teams go through a process: [forming, storming, norming, performing](https://www.mindtools.com/pages/article/newLDR_86.htm)
 - Autonomy is not scary: autonomous teams can work, but present new challenges
