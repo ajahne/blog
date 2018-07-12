@@ -21,31 +21,37 @@ Links and context covered, cool, let's get to it.  So what was the presentation 
 - [My key takeaways](#my-key-takeaways)
 
 ## What was the presentation about?
-As Booking.com faced tremendous and rapid growth, they needed to ensure their teams high performance, motivation, and scalability. They wanted to try out autonomous teams - teams without team leads - to provide more developer bandwidth, increase motivation, and drive their own - and the company's - performance.
+As Booking.com faced tremendous growth, they needed to ensure their teams high performance, motivation, and scalability. They wanted to try out autonomous teams - teams without team leads - to provide more developer bandwidth, increase motivation, and drive their own - and the company's - performance.
 
 To this end, Booking.com implemented autonomous teams - teams without team leads/managers.
 
-Their "standard" team structure had team lead, product owner and a cross functional team made
+For context: their "standard" team structure is comprised of a team lead, product owner, and a cross functional team of developers/QA/designers/etc.. Team leads are responsible people growth (~20%), team performance (~20%) and core contributions (~60%).
 
 ### Autonomous teams would:
 - set their own goals (OKRs, KPIs)
 - work with product owners
-- choose how they want to organize and meet (some do scrum, some pure Kanban, etc.)
+- choose how they want to organize and meet (some do scrum, some Kanban, etc.)
 - conduct 360 performance reviews
+- not have a team lead
 
-Booking.com ran an experiment.  They kept the majority of their teams standard (team lead, etc.) and shifted a significant portion (about 1/3rd) of their teams to autonomous.  Experimentation is built into their culture and they definitely practice what they preach.  
+Booking.com ran an experiment.  They kept the majority (54) of their teams standard (team lead, etc.) and shifted a significant portion (24) of their teams to autonomous.  Experimentation is built into their culture and they definitely practice what they preach.  
 
 So how did it go? - Not so good, some teams did well, but most did not.
 
-### Some challenges Booking.com observed with autonomous teams:
-- without team's lead, there may not be a shield/buffer between Project Owner/PM and developers.
+## What did Booking.com learn?
+- Autonomous teams can work, but present new challenges
+- Without team's lead, there may not be a shield/buffer between Project Owner/PM and developers.
   - Could lead to too many features being requested under tight timelines, no time for technical debt
-- Senior Team leads were being overtaxed
+- Senior Team leads were being overtaxed (too many issues were bubbling up)
+  - still sometimes need one person to make decision  
 - With no team leads, there was no mentorship for engineers who wanted to become a lead
 
-
-## What did Booking.com learn?
-- autonomous teams can work, but present new challenges
+### From these learnings, they wwitched to "Servant leadership"
+- Servant leadership
+  - democratic leadership
+  - not about telling people what to do, but working through challenges together
+- Teams once again have team leads
+  - Team leads responsibilities are now:  people growth (~40%), team performance (~15%) and core contributions (~45%).
 
 ## Who was the speaker?
 - The speaker, [Georgiy Mogelashvili](https://twitter.com/glamcoder), is a team lead Booking.com with over 10 years of experience in the industry.
@@ -68,10 +74,13 @@ So how did it go? - Not so good, some teams did well, but most did not.
 - The big metrics for their teams are OKRs and KPIs (not velocity, burn down, LOC, etc.), this aligns with my current read [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 
 ## My key takeaways:
-- do not be afraid to change, you can and need to change
-- be a leader, not a boss
-- not about telling people what to do, but rather figuring our problems/solutions together
-- experiment, learn, and grow
+- Do not be afraid to change, you can and need to change
+- Be a leader, not a boss
+- "Team lead" is not about telling people what to do, but rather figuring our problems/solutions together
+- Create a safe environment where people feel comfortable sharing ideas and feedback
 - Teams go through a process: forming, storming, norming, performing
-- OKRs and KPIs are critical, have teams create themselves (bottom up, not top down)
-- do not be afraid to try new organizational structures
+- Autonomy is not scary: Autonomous teams can work, but present new challenges
+- OKRs and KPIs are critical, have teams create them (bottom up, not top down)
+- Do not be afraid to try new organizational structures
+- Share trust within the team, all decisions should not fall on one person
+- Experiment, learn, and grow
