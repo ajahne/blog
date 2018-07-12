@@ -77,9 +77,9 @@ So how did it go? - Not so good, some teams did well, but most did not.
 - Do not be afraid to change, you can and need to change
 - Be a leader, not a boss
 - "Team lead" is not about telling people what to do, but rather figuring our problems/solutions together
-- Create a safe environment where people feel comfortable sharing ideas and feedback
+- Create a safe environment where people feel comfortable sharing ideas and providing feedback
 - Teams go through a process: forming, storming, norming, performing
-- Autonomy is not scary: Autonomous teams can work, but present new challenges
+- Autonomy is not scary: autonomous teams can work, but present new challenges
 - OKRs and KPIs are critical, have teams create them (bottom up, not top down)
 - Do not be afraid to try new organizational structures
 - Share trust within the team, all decisions should not fall on one person
