@@ -9,9 +9,11 @@ header:
 
 I'm a member of a monthly meetup of technologists from different organizations throughout the greater NYC area who are looking to become better leaders.  This is a wonderful [meetup](https://www.meetup.com/ctoschool/) of startup CTOs, VPs of Engineering, [Tech Leads]({{ site.baseurl }}{% post_url 2018-2-11-what-is-a-tech-lead %}), Entrepreneurs, Senior developers on the leadership path, individual contributors, and more.  
 
-The monthly meetup is a forum to discuss challenges we face as leaders related to people management, process, and technology.  [Last week's meetup](https://www.meetup.com/ctoschool/events/fgqzclyxjbpb/) was a special event, part of [QCon New York](https://qconnewyork.com), with a presentation centered around [Enabling team autonomy and servant leadership at Booking.com](https://qconnewyork.com/ny2018/presentation/empowered-teams-presentation-0).
+The monthly meetup is a forum to discuss challenges we face as leaders related to people management, process, and technology.  [Last week's meetup](https://www.meetup.com/ctoschool/events/fgqzclyxjbpb/) was a special event, part of [QCon New York](https://qconnewyork.com), with a presentation centered around [Enabling Team Autonomy and Servant Leadership at Booking.com](https://qconnewyork.com/ny2018/presentation/empowered-teams-presentation-0).
 
-Links and context covered, cool, let's get to it.  So what was the presentation about and what were some of my takeaways?   
+Links? Check. Context? Check. Let's get to it.  
+
+So what was the presentation about and what were some of my takeaways?   
 
 ## Contents
 - [What was the presentation about?](#what-was-the-presentation-about)
@@ -21,41 +23,39 @@ Links and context covered, cool, let's get to it.  So what was the presentation 
 - [My key takeaways](#my-key-takeaways)
 
 ## What was the presentation about?
-As Booking.com faced tremendous growth, they needed to ensure their teams high performance, motivation, and scalability. They wanted to try out autonomous teams - teams without team leads - to provide more developer bandwidth, increase motivation, and drive their own - and the company's - performance.
+As Booking.com faced tremendous growth, it was critical to ensure their teams maintained high performance and motivation. They wanted to try out autonomous teams - teams without team leads - to provide more developer bandwidth, increase motivation, and drive their own - and the company's - performance.
 
 To this end, Booking.com implemented autonomous teams - teams without team leads/managers.
 
-For context: their "standard" team structure is comprised of a team lead, product owner, and a cross functional team of developers/QA/designers/etc.. Team leads are responsible people growth (~20%), team performance (~20%) and core contributions (~60%).
+For context: their "standard" team structure was comprised of a team lead, product owner, and a cross functional team of developers/QA/designers/etc. Team leads were responsible for people growth (~20%), team performance (~20%) and core contributions (~60%).
 
 ### Autonomous teams would:
-- set their own goals (OKRs, KPIs)
-- work with product owners
-- choose how they want to organize and meet (some do scrum, some Kanban, etc.)
-- conduct 360 performance reviews
-- not have a team lead
+- Set their own goals (OKRs, KPIs)
+- Work with product owners
+- Choose how they want to organize and meet (some do scrum, some Kanban, etc.)
+- Conduct 360 performance reviews
+- Not have a team lead
 
-Booking.com ran an experiment.  They kept the majority (54) of their teams standard (team lead, etc.) and shifted a significant portion (24) of their teams to autonomous.  Experimentation is built into their culture and they definitely practice what they preach.  
+To see if this new structure was beneficial, Booking.com ran an experiment.  They kept the majority (54) of their teams standard (team lead, etc.) and shifted a significant portion (24) of their teams to autonomous.  Experimentation is built into their culture and they definitely practice what they preach.  
 
 So how did it go? - Not so good, some teams did well, but most did not.
 
 ## What did Booking.com learn?
 - Autonomous teams can work, but present new challenges
-- Without team's lead, there may not be a shield/buffer between Project Owner/PM and developers.
-  - Could lead to too many features being requested under tight timelines, no time for technical debt
+- Without team leads, there may not be a shield/buffer between the Project Owner and developers.
+  - This could lead to too many features being requested under tight timelines, no time for technical debt, and developer burnout
 - Senior Team leads were being overtaxed (too many issues were bubbling up)
-  - still sometimes need one person to make decision  
+  - Still sometimes need one person to make decision  
 - With no team leads, there was no mentorship for engineers who wanted to become a lead
 
-### From these learnings, they wwitched to "Servant leadership"
-- Servant leadership
-  - democratic leadership
-  - not about telling people what to do, but working through challenges together
-- Teams once again have team leads
-  - Team leads responsibilities are now:  people growth (~40%), team performance (~15%) and core contributions (~45%).
+### From these learnings, they evolved to "Servant leadership"
+- Servant leadership is "democratic leadership" that is not about telling people what to do, but rather working through challenges collectively
+- Teams once again had team leads
+  - Team leads responsibilities were now:  people growth (~40%), team performance (~15%) and core contributions (~45%).
 
 ## Who was the speaker?
-- The speaker, [Georgiy Mogelashvili](https://twitter.com/glamcoder), is a team lead Booking.com with over 10 years of experience in the industry.
-- He clearly understood the business, the challenges faced, and presented well.  He came across knowledgeable, insightful, and cracked a few jokes.  Good dude.  
+- The speaker, [Georgiy Mogelashvili](https://twitter.com/glamcoder), is a team lead at Booking.com with over 10 years of experience in the industry.
+- He clearly understood the business, the challenges faced, and presented the material well.  He came across knowledgeable, insightful, and cracked a few jokes.  Good dude.  
 
 ## Assorted musings and tidbits:
 - Booking.com grew rapidly, went from 600k bookings/day to 1,000,000+ bookings a day in a couple of years
