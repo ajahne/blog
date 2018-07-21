@@ -7,7 +7,7 @@ tags: books, leadership, management
 header:
   image: /assets/images/accelerate-chapter-notes.jpg
 ---
-[Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-readers-are-leaders-but-all-leaders-are-readers) and with that in mind, I push myself to read as often as I can.  Currently I am reading ["Accelerate"](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339) and am taking notes as I go.  Below are my notes, gut reactions, and raw thoughts from each chapter in Part 1.
+[Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-readers-are-leaders-but-all-leaders-are-readers) and with that in mind, I push myself to read as often as I can.  Currently I am reading ["Accelerate"](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339) and am taking notes as I go.  Below are my notes, gut reactions, and a few "notes to self" from Part 1.
 
 ## Table of Contents:
 - [Forward by Martin Fowler](#forward-by-martin-fowler)
@@ -42,7 +42,7 @@ header:
 ## Chapter 1: Accelerate
 - Techniques that accelerate technology transformations: CI, CD, lean practices, collaborative culture
 - Executives overestimate how much DevOps the org is doing, those doing it do not
-- (Assume) Potential for growth and enhanced value delivery is greater than executives currently realize
+- (Assume) potential for growth and enhanced value delivery is greater than executives currently realize
 - Focus on capabilities over maturity model
 - Follow a continuous improvement paradigm
 - Best companies never consider themselves “mature” or “done”
@@ -50,15 +50,15 @@ header:
 - Focus on key outcomes
 - Industry is always changing. What is good now, is no longer good enough in a year
 - Focus on the right capabilities
-- Neve settle for yesterday’s accomplishments
+- Never settle for yesterday’s accomplishments
 - Research showed that none of the following predicted performance: age and technology used for the application, whether operations or development team performed deployments, whether a change approval board is implemented
 - Do not trade speed for stability or vice versa
 
 ## Chapter 2: Measuring Performance
-- Lines of code, velocity, and utilization are not good measures of productivity and high performance
-- Loc: more lines doesn’t equate to better software, it can lead to bloated code bases, too little means you might create code that’s unreadable (e.g. one liners)
-- Velocity: teams can game the system with story points. Say something is harder than truly is
-- Utilization: if everyone is at 100% no bandwidth to fix bugs, or switch to other tasks that might crop up. Once utilization gets too high there is no bandwidth for changes, unplanned work, improvement work.
+- Lines of code (LOC), velocity, and utilization are not good measures of productivity and high performance
+  - LOC: more lines doesn’t equate to better software, it can lead to bloated code bases, too little means you might create code that’s unreadable (e.g. one liners)
+  - Velocity: teams can game the system with story points. Say something is harder than truly is
+  - Utilization: if everyone is at 100% no bandwidth to fix bugs, or switch to other tasks that might crop up. Once utilization gets too high there is no bandwidth for changes, unplanned work, improvement work.
 - Focus on outcomes not output, focus on a global outcome
 - Optimize for: deployment frequency, lead time for changes, Mean Time To Restore (MTTR), change failure rate
 - High performing teams continue to get better each year
@@ -80,7 +80,7 @@ header:
 - Build quality in, work in small batches, computers perform repetitive tasks; people solve problems, relentlessly pursue continuous improvement, everyone is responsible
 - A key goal of CD is changing the economics of software delivery so the cost of pushing out individual changes is very low
 - A key objective for management: Set measurable, achievable, time-bound goals for your outcomes (i.e. the outcomes of CD), help the team work towards them
-- Note to self: change definition of done - done does not mean dev complete, done means all tests are written and code passes all tests (add documentation too?)
+- _Note to self: change definition of done - done does not mean dev complete, done means all tests are written and code passes all tests (add documentation too?)_
 - To implement CD, we need a foundation of:
   - comprehensive configuration management(provision, build, and deploy purely based on what we have in version control),
   - CI (build in small branches, integrate to trunk/master frequently, each change triggers a build process),
@@ -100,7 +100,7 @@ header:
 - We can deploy or release our app independent of other services it depends on
 - Systems must be loosely coupled: that is, can be changed and validated independently of each other
 - Pg 62 has nice breakdown of loosely coupled architecture
-- Note to self: require minimum communication between teams for deployment
+- _Note to self: require minimum communication between teams for deployment_
 - Whoa this is so true, I’ve read it before, but now I see it: “organizations which designs systems are constrained to produce designs which are copies of the communication structure of the organization"
 - Goal: architecture should support the ability of teams to get their work done - from design to deployment - without requiring high-bandwidth communication between teams
 - Metric: number of deploys per day per developer (_let’s get this up_)
