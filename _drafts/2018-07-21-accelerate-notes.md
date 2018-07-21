@@ -121,6 +121,8 @@ header:
 - Infosec needs to provide training, developers have to be aware of security issues
 - Be "Rugged"
 
+![The Rugged Movement]({{site.baseurl}}/assets/images/accelerate-the-rugged-movement.jpg){:height="100%" width="100%"}
+
 ## Chapter 7: Management Practices for Software
 - _Note to self: check out the lean software development book series_
 - Lean management: limit Work in progress (what is this?), visual management, feedback from production, lightweight change approvals
@@ -171,6 +173,8 @@ header:
 - Diversity matters
 - Create an inclusive organization; all organizational members feel welcome and valued for who they are and what they bring to the table
 - As a leader watch for (and address) harassment, microagressions, and unequal pay
+
+![Chapter 10]({{site.baseurl}}/assets/images/accelerate-chapter-10-page.jpg){:height="100%" width="100%"}
 
 ## Chapter 11: Leaders and Managers
 - leadership doesn’t mean you have people reporting to you on an organizational chart - leadership is about inspiring and motivating those around you
