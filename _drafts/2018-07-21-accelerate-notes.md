@@ -31,22 +31,22 @@ header:
 - This book focuses on the journey from commit to production, not the entire software development process
 
 ## Forward by Courtney Kissler
-- optimize for speed
+- Optimize for speed
 - Focus on the right things to measure
 - Focus the move to outcome based team structures
-- Limiting blast radius (start with 1 or 2 teams)
+- Limit blast radius (start with 1 or 2 teams)
 - Use data to drive actions
 - Doesn’t happen overnight
 - Need senior leadership support
 
 ## Chapter 1: Accelerate
-- techniques that accelerate technology transformations: ci, cd, lean practices, collaborative culture
+- Techniques that accelerate technology transformations: CI, CD, lean practices, collaborative culture
 - Executives overestimate how much DevOps the org is doing, those doing it do not
 - (Assume) Potential for growth and enhanced value delivery is greater than executives currently realize
 - Focus on capabilities over maturity model
 - Follow a continuous improvement paradigm
 - Best companies never consider themselves “mature” or “done”
-- Teams have their goals, content, way of doing things. What we should focus on depends on those things. No one size fits all.
+- Teams have their goals, content, way of doing things. What we should focus on depends on those things. Not one size fits all.
 - Focus on key outcomes
 - Industry is always changing. What is good now, is no longer good enough in a year
 - Focus on the right capabilities
@@ -58,30 +58,33 @@ header:
 - Lines of code, velocity, and utilization are not good measures of productivity and high performance
 - Loc: more lines doesn’t equate to better software, it can lead to bloated code bases, too little means you might create code that’s unreadable (e.g. one liners)
 - Velocity: teams can game the system with story points. Say something is harder than truly is
-- Utilization: if everyone is at 100% not bandwidth to fix bugs, or switch to other tasks that might crop up. Once gets too high no bandwidth for changes, absorb unplanned work, improves cement work.
+- Utilization: if everyone is at 100% no bandwidth to fix bugs, or switch to other tasks that might crop up. Once utilization gets too high there is no bandwidth for changes, unplanned work, improvement work.
 - Focus on outcomes not output, focus on a global outcome
-- Optimize for: deployment frequency, lead time for changes, MTTR, change failure rate
+- Optimize for: deployment frequency, lead time for changes, Mean Time To Restore (MTTR), change failure rate
 - High performing teams continue to get better each year
 
 ## Chapter 3: Measuring and Changing Culture
 - Organizational culture can exist at three levels in organizations: basic assumptions, values, and artifacts (pg 29)
-- Can culture predict software delivery performance? They say yes.
+- Can culture predict software delivery performance? Authors (findings) say yes.
 - They found that Westrum Organizational culture predicts software delivery performance and organizational performance
 - Companies with safer environments and better communication perform better
-- Investigations that stop at “human error” are not just bad but dangerous, human error should instead be the start of the investigation
-- Goal is to improve information flow, so people have more timely/better information or yo find better tools to help prevent catastrophic failures following apparently mundane operations
+- Investigations that stop at “human error” are not just bad, but dangerous. Human error should instead be the start of the investigation
+- Goal is to improve information flow, so people have more timely/better information or to find better tools to help prevent catastrophic failures following apparently mundane operations
 - You can act your way to a better culture by implementing lean management and continuous delivery
 - Culture change: instead of changing people’s mind, first change what they do
 
 ## Chapter 4: Technical Practices
-- continuous delivery: enabler of more frequent, higher quality, and lower-risk software releases
+- Continuous Delivery: enabler of more frequent, higher quality, and lower-risk software releases
 - Agile has management/team and technical practices, need to ensure you are doing all
 - Definition of continuous delivery is outstanding (p42-43)
 - Build quality in, work in small batches, computers perform repetitive tasks; people solve problems, relentlessly pursue continuous improvement, everyone is responsible
 - A key goal of CD is changing the economics of software delivery so the cost of pushing out individual changes is very low
-- A key objective for management: Set measurable, achievable, time-bound goals for your outcomes (I.e. the outcomes of CD), help the team work towards them
+- A key objective for management: Set measurable, achievable, time-bound goals for your outcomes (i.e. the outcomes of CD), help the team work towards them
 - Note to self: change definition of done - done does not mean dev complete, done means all tests are written and code passes all tests (add documentation too?)
-- To implement CD, we need a foundation of comprehensive configuration management(provision, build, and deploy purely based on what we have in version control), CI (build in small branches, integrate to trunk/master frequently, each change triggers a build process), and continuous testing (inter heal part, test from the beginning)
+- To implement CD, we need a foundation of:
+  - comprehensive configuration management(provision, build, and deploy purely based on what we have in version control),
+  - CI (build in small branches, integrate to trunk/master frequently, each change triggers a build process),
+  - and continuous testing (inter heal part, test from the beginning)
 - Need to implement a deployment pipeline
 - Teams that did well with CD, identified more strongly with the org they worked for
 - Goal: deploy to production on demand, anyone
@@ -92,43 +95,47 @@ header:
 - Have automated tests that are reliable
 
 ## Chapter 5: Architecture
-- focus on deployability and testability
-- We can do most of our testing without requiring an integrated environment (I.e. staging)
+- Focus on deployability and testability
+- We can do most of our testing without requiring an integrated environment (i.e. staging)
 - We can deploy or release our app independent of other services it depends on
 - Systems must be loosely coupled: that is, can be changed and validated independently of each other
-- Pg 62 has nice breakdown
+- Pg 62 has nice breakdown of loosely coupled architecture
 - Note to self: require minimum communication between teams for deployment
-- Whoa this is so true, I’ve read it before, but now I see it: “organizations which Edith systems are constrained to produce designs which are copies of the communication structure of the organization
+- Whoa this is so true, I’ve read it before, but now I see it: “organizations which designs systems are constrained to produce designs which are copies of the communication structure of the organization"
 - Goal: architecture should support the ability of teams to get their work done - from design to deployment - without requiring high-bandwidth communication between teams
-- Metric: number of deploys per day per developer (let’s get this up)
-- Factors that predict high delivery performance: goal-oriented generative culture, modular architecture, CD, effective leadership
-- Explore this: allow teams to choose their own tools (mostly teams do, but what about standard languages? Ahhh, standardize the language within the team, less about cross-team)
+- Metric: number of deploys per day per developer (_let’s get this up_)
+- Factors that predict high delivery performance:
+  - goal-oriented generative culture
+  - modular architecture
+  - CD
+  - effective leadership
+- _Explore this_: allow teams to choose their own tools (mostly teams do, but what about standard languages? Ahhh, standardize the language within the team, less about cross-team)
 - Architects should focus on engineers and outcomes, not tools and technologies
 - Tools and technologies must help people achieve outcomes and enable behaviors we care about
 
 ## Chapter 6: Integrating Infosec into the Delivery Lifecycle
-- get developers familiar with OWASP Top 10 and how to prevent them
+- _Note to self: Get developers familiar with OWASP Top 10 and how to prevent them_
 - Research shows building security into software development not only improves delivery performance, but also improves security quality
-- Have security reviews conducted for all major features - in such a way that doesn’t slow down development process (how?)
+- Have security reviews conducted for all major features - in such a way that doesn’t slow down development process (_how do we do this?_)
 - Infosec experts should be part of entire process from the beginning: design, attend and provide feedback on demos, ensure security features are tested as part of the automated test suite
 - Infosec needs to provide training, developers have to be aware of security issues
-- Be rugged
+- Be "Rugged"
 
 ## Chapter 7: Management Practices for Software
-- note to self: check out the lean software development book series
+- _Note to self: check out the lean software development book series_
 - Lean management: limit Work in progress (what is this?), visual management, feedback from production, lightweight change approvals
-- Note to self: we do have visual displays (Kanban), but no info on quality and productivity, failures or defect rates
+- _Note to self: we do have visual displays (Kanban), but no info on quality and productivity, failures or defect rates_
 - N2S: look up better visual displays
 - Lean management decreases burnout, leads to a more generative culture, and improves software delivery performance
-- Limiting WIP(looked it up) is about reducing the current work in progress to focus the team, reduce team overload, reduce context switching, locate bottlenecks faster
-- Approval by an external body does not work with any increase stability of production systems - it slows things down, shown to be worse than having no change approval process at all
+- Limiting WIP (looked it up) is about reducing the current work in progress to focus the team, reduce team overload, reduce context switching, locate bottlenecks faster
+- Approval by an external body does not correlate with any increased stability of production systems - it slows things down, shown to be worse than having no change approval process at all
 - Recommendation: use lightweight change approval process based on peer review, combined with a deployment pipeline to detect and reject bad changes
-- Note to self: breakdown what needs review and what does not
+- _Note to self: breakdown what needs review and what does not_
 - Deployment pipeline is mission critical
 - Change acceptance board is risk management theatre
 
 ## Chapter 8: Product Development
-- most agile is faux agile
+- Most agile is faux agile
 - Lean emphasizes testing product design and business model by performing user feedback frequently
 - Take an experimental approach to product development - build and validate prototypes from the beginning, work in small batches, evolve and pivot business models early and often
 - Slice products and features into small batches that can be released in a week
@@ -137,7 +144,7 @@ header:
 - Do development teams have the authority to create and change specifications as part of development process - make flow of work through the delivery process visible to everyone
 
 ## Chapter 9: Making Work Sustainable
-- deployment pain: fear and anxiety related to pushing code to production
+- Deployment pain: fear and anxiety related to pushing code to production
 - Findings: where code deployments are most painful, you’ll find the poorest software delivery performance, organizational performance, and culture
 - Technical practices that improve our ability to deliver software with both speed and stability also reduce the stress and expert associated with pushing to production
 - Remove manual steps
@@ -145,19 +152,19 @@ header:
 - Employees have both a duty of care and fiduciary obligation to ensure staff do not get burned out
 - Burnout can be prevented, reversed
 - Ensure work is meaningful and ensure employees understand how their own work ties to strategic objectives
-- Managers often fix the employee while ignoring the environment (guilty)
+- Managers often fix the employee while ignoring the environment (_guilty_)
 - Foster safe environment that emphasizes learning from failure over blaming; communicate a strong sense of purpose; invest in employee development; ask employees what is preventing them from reaching objectives and fixing those things; give employee time, space, and resources to experiment and learn; employees must have authority to make decisions that affect their work and their jobs, particularly in areas where they are responsible for the outcomes
-- Improves bing technical practices reduce burnout
+- Improving technical practices reduce burnout
 - Human error is never the root cause of failure in systems
 - Five factors most correlated to burnout: organizational culture; deployment pain; effectiveness of leaders; organizational investment in devops; organizational performance
 - Team leader: limit work in process, eliminate roadblocks
-- Implement weekly experimentation time (how?)
+- Implement weekly experimentation time (_how can we implement this?_)
 - Organizational and individual values must align
 
 ## Chapter 10: Employee Satisfaction, Identity, and Engagement
-- loyal employees are more engaged and do their best work
-- When employees see the connection between the work they do and it’s positive impact of customers, they identify more strongly with the company’s purpose
-- eNPS - employee net promoter score
+- Loyal employees are more engaged and do their best work
+- When employees see the connection between the work they do and it’s positive impact on customers, they identify more strongly with the company’s purpose
+- eNPS - employee Net Promoter Score
 - CD creates a virtuous cycle - investments in technology and prices make the work better for our people, which makes them more motivated, identifying with the organization more, leading to move development - help reduce burnout
 - Ensure people have tools and resources to do their job
 - Automate menial tasks (performance monitoring, deployment, testing)
