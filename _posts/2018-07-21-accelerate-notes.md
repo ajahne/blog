@@ -88,7 +88,7 @@ With the intent to answer these questions and implement a "plan of attack" for m
 - To implement CD, we need a foundation of:
   - comprehensive configuration management(provision, build, and deploy purely based on what we have in version control),
   - CI (build in small branches, integrate to trunk/master frequently, each change triggers a build process),
-  - and continuous testing (inter heal part, test from the beginning)
+  - and continuous testing (integral part, test from the beginning)
 - Need to implement a deployment pipeline
 - Teams that did well with CD, identified more strongly with the org they worked for
 - Goal: deploy to production on demand, anyone
@@ -129,11 +129,11 @@ With the intent to answer these questions and implement a "plan of attack" for m
 
 ## Chapter 7: Management Practices for Software
 - _Note to self: check out the lean software development book series_
-- Lean management: limit Work in progress (what is this?), visual management, feedback from production, lightweight change approvals
+- Lean management: limit work in progress (what is this?), visual management, feedback from production, lightweight change approvals
 - _Note to self: we do have visual displays (Kanban), but no info on quality and productivity, failures or defect rates_
 - N2S: look up better visual displays
 - Lean management decreases burnout, leads to a more generative culture, and improves software delivery performance
-- Limiting WIP (looked it up) is about reducing the current work in progress to focus the team, reduce team overload, reduce context switching, locate bottlenecks faster
+- Limiting WIP _(looked it up)_ is about reducing the current work in progress to focus the team, reduce team overload, reduce context switching, locate bottlenecks faster
 - Approval by an external body does not correlate with any increased stability of production systems - it slows things down, shown to be worse than having no change approval process at all
 - Recommendation: use lightweight change approval process based on peer review, combined with a deployment pipeline to detect and reject bad changes
 - _Note to self: breakdown what needs review and what does not_
@@ -152,7 +152,7 @@ With the intent to answer these questions and implement a "plan of attack" for m
 ## Chapter 9: Making Work Sustainable
 - Deployment pain: fear and anxiety related to pushing code to production
 - Findings: where code deployments are most painful, you’ll find the poorest software delivery performance, organizational performance, and culture
-- Technical practices that improve our ability to deliver software with both speed and stability also reduce the stress and expert associated with pushing to production
+- Technical practices that improve our ability to deliver software with both speed and stability also reduce the stress and anxiety associated with pushing to production
 - Remove manual steps
 - Work to reduce burnout
 - Employees have both a duty of care and fiduciary obligation to ensure staff do not get burned out
@@ -171,7 +171,7 @@ With the intent to answer these questions and implement a "plan of attack" for m
 - Loyal employees are more engaged and do their best work
 - When employees see the connection between the work they do and it’s positive impact on customers, they identify more strongly with the company’s purpose
 - eNPS - employee Net Promoter Score
-- CD creates a virtuous cycle - investments in technology and prices make the work better for our people, which makes them more motivated, identifying with the organization more, leading to move development - help reduce burnout
+- CD creates a virtuous cycle - investments in technology and resources make the work better for our people, which makes them more motivated, identifying with the organization more, leading to move development - help reduce burnout
 - Ensure people have tools and resources to do their job
 - Automate menial tasks (performance monitoring, deployment, testing)
 - Diversity matters
@@ -181,7 +181,7 @@ With the intent to answer these questions and implement a "plan of attack" for m
 ![Chapter 10]({{site.baseurl}}/assets/images/accelerate-chapter-10-page.jpg){:height="100%" width="100%"}
 
 ## Chapter 11: Leaders and Managers
-- leadership doesn’t mean you have people reporting to you on an organizational chart - leadership is about inspiring and motivating those around you
+- Leadership doesn’t mean you have people reporting to you on an organizational chart - leadership is about inspiring and motivating those around you
 - 5 characteristics of a transformational leader: vision, inspirational communication, intellectual stimulation, supportive leadership, personal recognition
 - Transformative leadership vs servant leadership
 - Transformative leadership helps drive high performing teams
