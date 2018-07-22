@@ -7,7 +7,11 @@ tags: books, leadership, management
 header:
   image: /assets/images/accelerate-chapter-notes.jpg
 ---
-[Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-readers-are-leaders-but-all-leaders-are-readers) and with that in mind, I push myself to read as often as I can.  Currently I am reading ["Accelerate"](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339) and am taking notes as I go.  Below are my notes, gut reactions, and a few "notes to self" from Part 1.
+One of my current goals as an executive is to empower my team and build a high performance engineering organization.  As a company, we have embarked upon our [Continuous Delivery](https://www.continuousdelivery.com) journey and are always looking for ways to improve and grow. As engineering leaders, we are aware that Agile methodologies and DevOps principles can have a huge impact on our teams and organizations.
+
+However, improving technology, culture, communication, and teams is a constant process and comes with a myriad of ~~challenges~~ opportunities. What changes should we focus on, how do we get everyone involved, what benefits should we expect?  How do we do it?  
+
+With the intent to answer these questions and implement a "plan of attack" for my team and organization, I am currently reading ["Accelerate"](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339). Below are my notes, gut reactions, and a few "notes to self" from Part 1. Think of this as ~~Cliff~~ Ajahne Notes :).  
 
 ## Table of Contents:
 - [Forward by Martin Fowler](#forward-by-martin-fowler)
