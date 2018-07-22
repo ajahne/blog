@@ -11,7 +11,7 @@ One of my current goals as an executive is to empower my team and build a high p
 
 However, improving technology, culture, communication, and teams is a constant process and comes with a myriad of ~~challenges~~ opportunities. What changes should we focus on, how do we get everyone involved, what benefits should we expect?  How do we do it?  
 
-With the intent to answer these questions and implement a "plan of attack" for my team and organization, I am currently reading ["Accelerate"](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339). Below are my notes, gut reactions, and a few "notes to self" from Part 1. Think of this as ~~Cliff~~ Ajahne Notes :).  
+With the intent to answer these questions and implement a "plan of attack" for my team and organization, I am currently reading ["Accelerate"](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339). Below are my notes, gut reactions, and a few "notes to self" from each chapter in Part 1. Think of this as ~~Cliff~~ Ajahne Notes :).  
 
 ## Table of Contents:
 - [Forward by Martin Fowler](#forward-by-martin-fowler)
