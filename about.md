@@ -3,6 +3,6 @@ layout: single
 title: About
 permalink: /about/
 ---
-![Bio Pic]({{site.baseurl}}/assets/images/bio-pic.jpg){: .border .center-image-about}
+![Bio Pic]({{site.baseurl}}/assets/images/bio-pic.jpg){: .border-radius .center-image-about}
 
 Ajahne is the Vice President of Technology & Engineering at TrueChoice Solutions and has previously held positions in software development and design at a number of technology companies and interactive agencies including AKQA and Renegade Marketing.  His experience includes web and mobile application development for Comcast, Panasonic, the City of New York, as well as many other Fortune 500 clients and leading brands. Ajahne received his BS and MS in Computer Science from Tufts University.
