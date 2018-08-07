@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.border {
+  border-radius: 100%;
+}
+
+.center-image-about {
+  margin: 0 auto;
+  display: block;
+  width: 50%;
+}
