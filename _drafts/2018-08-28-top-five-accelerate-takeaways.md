@@ -4,6 +4,8 @@ title:  "My Top Five Accelerate Takeaways"
 date:   2018-08-28 04:03:29 -0400
 categories: leadership books
 tags: books, leadership, management
+header:
+  image: /assets/images/accelerate-takeaways.jpg
 ---
 
 ## Outline
