@@ -23,7 +23,19 @@ header:
 ## 1-1 Don'ts:
 
 ## Do not just focus on tasks
-The purpose
+There are many different flavors of 1-1 meetings.  
+- Feedback meetings - devoted to informal feedback and coaching
+- Getting to know you meetings - typically the first 1-1
+- Career development conversations - focused on growth and how the person feels about their career
+- and more
+
+In my experience, most 1-1 meetings begin as a catchup meeting ("how's the week been?") followed by an immediate run down of tasks.  Do not do this type of meeting.  In the beginning it works: its easy, it covers objectives, outlines deliverables, and makes sure everyone is "on the same page".  When I first started having 1-1s, this is what I did.  
+
+I had great todo meetings, everyone was clear on deliverables, deadlines were being met and from "on high" everything appeared rosy.  But one direct report was having issues with a senior individual contributor and couldn't work with him any longer.  One engineer was frustrated with her team lead and communication was ground to a stand still.  One team member asked "can we meet" and handed in her letter of resignation that same day.
+
+In each of these cases all items on the "todo list" had a nice fat check next to them.  Jiras had been resolved and bugs had been fixed.  New features were built in a timely manner and production was humming.  In each case there was more to discuss than a list of objectives. By focusing solely on tasks, no-one was focused on what was making the person tick.  What was exciting? Motivating? Frustrating?  For todos, find another meeting or way to communicate tasks - Kanban board, morning slack messages, daily stand ups.
+
+In all fairness, one on one meetings a not a panacea, they are not a cure-all exile that will solve all organizational ills.  However, if done right and if conducted from a place of care and compassion, these meetings will help build a strong rapport - showing people how much they matter to the organization and how the organization values them, supports them and supports their growth as individuals and professionals.  
 
 ## Do not let them turn into never-ending therapy sessions
 Problems will emerge.  Challenges will arise.  Frustrations will come to a head.  Not all discussions will be how awesome and exciting things (project, product, work environment, etc.) are.  At times people will have issues to discuss and as managers as need to A) listen and B) work with our colleague on how to address the issue.
