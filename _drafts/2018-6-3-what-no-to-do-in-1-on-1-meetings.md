@@ -26,6 +26,16 @@ header:
 The purpose
 
 ## Do not let them turn into never-ending therapy sessions
+Problems will emerge.  Challenges will arise.  Frustrations will come to a head.  Not all discussions will be how awesome and exciting things (project, product, work environment, etc.) are.  At times people will have issues to discuss and as managers as need to A) listen and B) work with our colleague on how to address the issue.
+
+Now, sometimes people just need to vent.  We have all been there.  Nothing is wrong with good venting session.  It helps to release tension and "clear the air". However, if every session is about the same one or two problems and a resolution is not reached, then you are not helping the situation and potentially making it worse.
+
+As Camille Fournier states in _The Manager's Path_
+> If you start focusing a lot of energy on hearing reports' complains and commiserating, you're quite possible making the problem worse.  You don't' have to have a to-do list, but problems in the workplace need to be either dealt with or put aside by mutual agreement.  There is very little value to repeatedly focusing on drama
+
+Either:
+- fix the problem (e.g. facilitate a meeting with disgruntled parties, work on process improvements during the next sprint, etc.)
+- mutually agree to set it aside (e.g. remove it from the agenda, agree to revisit it in 6 months)
 
 ## Do not do all of the talking
 So you're excited, your day is going well.  That new product launched to production with no errors, the CD pipeline has consistently performed in under 37 minutes, and.
