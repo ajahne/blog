@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Five One on One Dont's"
+title:  "10 One on One Dos and Dont's"
 date:   2018-8-28 07:23:29 -0400
 categories: leadership
 tags: one on one, 1-1, meetings, leadership, management
