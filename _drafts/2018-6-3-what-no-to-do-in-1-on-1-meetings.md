@@ -42,7 +42,7 @@ Problems will emerge.  Challenges will arise.  Frustrations will come to a head.
 
 Now, sometimes people just need to vent.  We have all been there.  Nothing is wrong with good venting session.  It helps to release tension and "clear the air". However, if every session is about the same one or two problems and a resolution is not reached, then you are not helping the situation and potentially making it worse.
 
-As Camille Fournier states in _The Manager's Path_
+As Camille Fournier states in [_The Manager's Path_]:(https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 > If you start focusing a lot of energy on hearing reports' complains and commiserating, you're quite possible making the problem worse.  You don't' have to have a to-do list, but problems in the workplace need to be either dealt with or put aside by mutual agreement.  There is very little value to repeatedly focusing on drama
 
 Either:
