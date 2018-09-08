@@ -1,17 +1,18 @@
 ---
 layout: single
-title:  "Checking for text on a page with puppeteer"
+title:  "Searching for text on a page with Puppeteer"
 date:   2018-9-6 04:11:29 -0400
 categories: javascript
 tags: javascript
 header:
   image: /assets/images/puppeteer-header-banner.jpg
 ---
----
+
 
 # outline
 - intro - what we are trying to solve for
   - context into how this came about or you may need this
+When using [puppeteer](https://github.com/GoogleChrome/puppeteer) there are times when you may need to check to see if text exists on a page.  
 - Dev steps
   - install puppeteer
   - create browser
@@ -39,3 +40,5 @@ header:
   ```
   await page.screenshot()
   ```
+
+# conclusion
