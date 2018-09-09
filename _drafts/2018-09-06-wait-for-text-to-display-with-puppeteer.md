@@ -89,3 +89,4 @@ We have created a solution that will wait for text on a page to display before p
 - [Puppeteer on Github](https://github.com/GoogleChrome/puppeteer)
 - [Puppeteer on Google Developers](https://developers.google.com/web/tools/puppeteer/)
 - [Puppeteer API](https://github.com/GoogleChrome/puppeteer/blob/v1.8.0/docs/api.md)
+- [StackOverflow: wait for text to appear with Puppeteer](https://stackoverflow.com/questions/46825300/wait-for-text-to-appear-when-using-puppeteer/46825433)
