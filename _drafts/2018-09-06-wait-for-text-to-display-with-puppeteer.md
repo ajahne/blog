@@ -13,7 +13,7 @@ Here is a (pseudo-code) solution to this problem:
 {% highlight js %}
 const browser = await puppeteer.launch();
 const page = await browser.newPage();
-await page.goto(url);
+await page.goto("http://ajahne.github.io/blog/");
 await page.waitForFunction(
   'document.querySelector("body").innerText.includes("Hello Ajahne");',
 );
@@ -29,9 +29,9 @@ Let's dive in and [Geppetto](https://en.wikipedia.org/wiki/Mister_Geppetto) it u
 For this example we will load up [espn.com](http://www.espn.com) (which is a relatively large site) and check for the text "NBA". You can use this example to load up any site and wait for any text.  However, please be aware of Puppeteer's [default timeout of 30 seconds](https://github.com/GoogleChrome/puppeteer/blob/v1.8.0/docs/api.md#pagesetdefaultnavigationtimeouttimeout) when doing so and extend it accordingly if your situation requires.
 
 ### Install Puppeteer
-{% highlight js %}
+{% highlight shell %}
 npm i puppeteer
-// or "yarn add puppeteer"
+# or "yarn add puppeteer"
 {% endhighlight %}
 
 ### Create a browser instance
@@ -64,11 +64,6 @@ await page.waitForFunction(
 await page.screenshot();
 {% endhighlight %}
 
-### Run the script (assumes code saved to "`wait-for-text.js`")
-{% highlight js %}
-node wait-for-text.js
-{% endhighlight %}
-
 ## The full script
 {% highlight js %}
 const url = "http://espn.com";
@@ -80,6 +75,11 @@ await page.waitForFunction(
   'document.querySelector("body").innerText.includes(text);',
 );
 await page.screenshot();
+{% endhighlight %}
+
+### Run the script (assumes code saved to "`wait-for-text.js`")
+{% highlight shell %}
+node wait-for-text.js
 {% endhighlight %}
 
 ## Conclusion
