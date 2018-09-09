@@ -1,9 +1,9 @@
 ---
 layout: single
-title:  "Searching for text on a page with Puppeteer"
+title:  "Wait for text to display a page with Puppeteer"
 date:   2018-9-6 04:11:29 -0400
 categories: javascript
-tags: javascript
+tags: javascript puppeteer text
 header:
   image: /assets/images/puppeteer-header-banner.jpg
 ---
