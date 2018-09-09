@@ -15,7 +15,7 @@ const browser = await puppeteer.launch();
 const page = await browser.newPage();
 await page.goto(url);
 await page.waitForFunction(
-  'document.querySelector("body").innerText.includes(text);',
+  'document.querySelector("body").innerText.includes("Hello Ajahne");',
 );
 {% endhighlight %}
 
@@ -26,7 +26,7 @@ The full details are outlined below.
 Let's dive in and [Geppetto](https://en.wikipedia.org/wiki/Mister_Geppetto) it up!  
 
 ## Step by Step Guide
-For this example we will load up espn.com (which is a relatively large site) and check for the text "NBA". You can use this example to load up any site and wait for any text.  However, please be aware of Puppeteer's [default timeout of 30 seconds](https://github.com/GoogleChrome/puppeteer/blob/v1.8.0/docs/api.md#pagesetdefaultnavigationtimeouttimeout) when doing so and extend it accordingly if your situation requires.
+For this example we will load up [espn.com](http://www.espn.com) (which is a relatively large site) and check for the text "NBA". You can use this example to load up any site and wait for any text.  However, please be aware of Puppeteer's [default timeout of 30 seconds](https://github.com/GoogleChrome/puppeteer/blob/v1.8.0/docs/api.md#pagesetdefaultnavigationtimeouttimeout) when doing so and extend it accordingly if your situation requires.
 
 ### Install Puppeteer
 {% highlight js %}
@@ -64,6 +64,11 @@ await page.waitForFunction(
 await page.screenshot();
 {% endhighlight %}
 
+### Run the script (assumes code saved to "`wait-for-text.js`")
+{% highlight js %}
+node wait-for-text.js
+{% endhighlight %}
+
 ## The full script
 {% highlight js %}
 const url = "http://espn.com";
@@ -78,6 +83,7 @@ await page.screenshot();
 {% endhighlight %}
 
 ## Conclusion
+We have created a solution that will wait for text on a page to display before proceeding to the next step in execution.  This script is helpful if you have any server side scripts (e.g. PHP) that may render text on the page by modifying the DOM without changing the URL.  Good luck with your puppeteering and check out the additional resources below.  Happy coding!
 
 ## Additional Resources
 - [Puppeteer on Github](https://github.com/GoogleChrome/puppeteer)
