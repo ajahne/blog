@@ -51,7 +51,6 @@ await page.goto('http://espn.com');
 
 ### Check to see if text exists on the page
 {% highlight js %}
-//wait for page to load and display the text
 await page.waitForFunction(
   'document.querySelector("body").innerText.includes("NBA");',
 );
