@@ -8,7 +8,7 @@ header:
   image: /assets/images/puppeteer-header-banner.jpg
 ---
 
-# outline
+## Outline
 - intro - what we are trying to solve for
   - context into how this came about or you may need this
 When using [puppeteer](https://github.com/GoogleChrome/puppeteer) there are times when you may need to check to see if text exists on a page.  
@@ -17,7 +17,7 @@ The core of this solution leverages Puppeteer's [waitForFunction](https://github
 
 Let's dive in and Geppetto it up!  
 
-# Step by Step Guide
+## Step by Step Guide
 
 ### install puppeteer
 ```
@@ -55,4 +55,9 @@ await page.waitForFunction(
 await page.screenshot()
 ```
 
-# Conclusion
+## Conclusion
+
+## Additional Resources
+- [Puppeteer on Github](https://github.com/GoogleChrome/puppeteer)
+- [Puppeteer on Google Developers](https://developers.google.com/web/tools/puppeteer/)
+- [Puppeteer API](https://github.com/GoogleChrome/puppeteer/blob/v1.8.0/docs/api.md)
