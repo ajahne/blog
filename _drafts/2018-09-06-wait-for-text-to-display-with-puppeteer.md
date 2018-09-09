@@ -1,32 +1,43 @@
 ---
 layout: single
-title:  "Wait for text to display a page with Puppeteer"
+title:  "Waiting for text on a page with Puppeteer"
 date:   2018-9-6 04:11:29 -0400
 categories: javascript
-tags: javascript puppeteer text
+tags: javascript puppeteer text chrome headless
 header:
   image: /assets/images/puppeteer-header-banner.jpg
 ---
+When using [Puppeteer](https://github.com/GoogleChrome/puppeteer) there are times when you may need to check to see if text exists on a page - perhaps to ensure that the page has fully loaded or before executing another step in your automation pipeline.   
 
-## Outline
-- intro - what we are trying to solve for
-  - context into how this came about or you may need this
-When using [puppeteer](https://github.com/GoogleChrome/puppeteer) there are times when you may need to check to see if text exists on a page.  
+Here is a (pseudo-code) solution to this problem:
+{% highlight js %}
+const browser = await puppeteer.launch();
+const page = await browser.newPage();
+await page.goto(url);
+await page.waitForFunction(
+  'document.querySelector("body").innerText.includes(text);',
+);
+{% endhighlight %}
 
-The core of this solution leverages Puppeteer's [waitForFunction](https://github.com/GoogleChrome/puppeteer/blob/v1.8.0/docs/api.md#pagewaitforselectororfunctionortimeout-options-args) in conjunction with a JavaScript function that will be evaluated within the page's context.  While you can wait for a specific selector, a request, or a navigation change, waiting for text to display on the page takes an extra step.  
+The core of this solution leverages Puppeteer's [waitForFunction](https://github.com/GoogleChrome/puppeteer/blob/v1.8.0/docs/api.md#pagewaitforfunctionpagefunction-options-args) in conjunction with a JavaScript function that will be evaluated within the page's context.  While you can wait for a specific selector, a request, or a navigation change, waiting for text to display on the page takes an extra step.  
 
-Let's dive in and Geppetto it up!  
+The full details are outlined below.
+
+Let's dive in and [Geppetto](https://en.wikipedia.org/wiki/Mister_Geppetto) it up!  
 
 ## Step by Step Guide
+For this example we will load up espn.com (which is a relatively large site) and check for the text "NBA". You can use this example to load up any site and wait for any text.  However, please be aware of Puppeteer's [default timeout of 30 seconds](https://github.com/GoogleChrome/puppeteer/blob/v1.8.0/docs/api.md#pagesetdefaultnavigationtimeouttimeout) when doing so and extend it accordingly if your situation requires.
 
-### Install puppeteer
+### Install Puppeteer
 {% highlight js %}
 npm i puppeteer
 // or "yarn add puppeteer"
 {% endhighlight %}
 
-### Create a browser instances
+### Create a browser instance
 {% highlight js %}
+const url = "http://espn.com";
+const text = "NBA";
 const browser = await puppeteer.launch();
 {% endhighlight %}
 
@@ -37,27 +48,33 @@ const page = await browser.newPage();
 
 ### Go to the desired URL
 {% highlight js %}
-await page.goto(url)
+await page.goto(url);
 {% endhighlight %}
 
 ### Check to see if text exists on the page
 {% highlight js %}
-const options = { timeout: 300000 };
-  //wait for page to load xml
+//wait for page to load and display the text
 await page.waitForFunction(
-  'document.querySelector("body").innerText.includes("Clearing cache on");',
-  options
+  'document.querySelector("body").innerText.includes(text);',
 );
 {% endhighlight %}
 
 ### Do something now that the page has loaded (e.g. take a screenshot)
 {% highlight js %}
-await page.screenshot()
+await page.screenshot();
 {% endhighlight %}
 
-## The final script
+## The full script
 {% highlight js %}
-
+const url = "http://espn.com";
+const text = "NBA";
+const browser = await puppeteer.launch();
+const page = await browser.newPage();
+await page.goto(url);
+await page.waitForFunction(
+  'document.querySelector("body").innerText.includes(text);',
+);
+await page.screenshot();
 {% endhighlight %}
 
 ## Conclusion
