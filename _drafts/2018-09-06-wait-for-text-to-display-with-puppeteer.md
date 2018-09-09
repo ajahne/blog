@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Waiting for text to display on a page with Puppeteer"
-date:   2018-9-6 04:11:29 -0400
+date:   2018-8-29 08:27:29 -0400
 categories: javascript
 tags: javascript puppeteer text chrome headless
 header:
