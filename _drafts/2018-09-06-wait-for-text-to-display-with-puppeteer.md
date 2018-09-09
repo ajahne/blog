@@ -19,41 +19,46 @@ Let's dive in and Geppetto it up!
 
 ## Step by Step Guide
 
-### install puppeteer
-```
+### Install puppeteer
+{% highlight js %}
 npm i puppeteer
-# or "yarn add puppeteer"
-```
+// or "yarn add puppeteer"
+{% endhighlight %}
 
-### Create browser
-```
+### Create a browser instances
+{% highlight js %}
 const browser = await puppeteer.launch();
-```
+{% endhighlight %}
 
-### Create page
-```
+### Create a page
+{% highlight js %}
 const page = await browser.newPage();
-```
+{% endhighlight %}
 
-### Go to desired URL
-```
+### Go to the desired URL
+{% highlight js %}
 await page.goto(url)
-```
+{% endhighlight %}
 
 ### Check to see if text exists on the page
-```
+{% highlight js %}
 const options = { timeout: 300000 };
   //wait for page to load xml
 await page.waitForFunction(
   'document.querySelector("body").innerText.includes("Clearing cache on");',
   options
 );
-```
+{% endhighlight %}
 
 ### Do something now that the page has loaded (e.g. take a screenshot)
-```
+{% highlight js %}
 await page.screenshot()
-```
+{% endhighlight %}
+
+## The final script
+{% highlight js %}
+
+{% endhighlight %}
 
 ## Conclusion
 
