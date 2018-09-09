@@ -36,8 +36,8 @@ npm i puppeteer
 
 ### Create a browser instance
 {% highlight js %}
-const url = "http://espn.com";
-const text = "NBA";
+const url = 'http://espn.com';
+const text = 'NBA';
 const browser = await puppeteer.launch();
 {% endhighlight %}
 
