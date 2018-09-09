@@ -7,7 +7,7 @@ tags: javascript puppeteer text chrome headless
 header:
   image: /assets/images/puppeteer-header-banner.jpg
 ---
-When using [Puppeteer](https://github.com/GoogleChrome/puppeteer) there are times when you may need to check to see if text exists on a page - perhaps to ensure that the page has fully loaded or before executing another step in your automation pipeline.   
+When using [Puppeteer](https://github.com/GoogleChrome/puppeteer) there are times when you may need to wait for text to display on a page - perhaps to ensure that the page has fully loaded or before executing another step in your automation pipeline.   
 
 Here is a (pseudo-code) solution to this problem:
 {% highlight js %}
@@ -111,7 +111,7 @@ const puppeteer = require('puppeteer');
 {% endhighlight %}
 
 ## Conclusion
-We have created a solution that will wait for text on a page to display before proceeding to the next step in execution.  This script is helpful if you have any server side scripts (e.g. PHP) that may render text on the page by modifying the DOM without changing the URL.  Good luck with your puppeteering and check out the additional resources below.  Happy coding!
+We have created a solution that will wait for text on a page to appear before proceeding to the next step in execution.  This script is helpful if you have any server side scripts (e.g. PHP) that may render text on the page by modifying the DOM without changing the URL.  Good luck with your puppeteering and check out the additional resources below.  Happy coding!
 
 ## Additional Resources
 - [Puppeteer on Github](https://github.com/GoogleChrome/puppeteer)
