@@ -13,7 +13,7 @@ Here is a (pseudo-code) solution to this problem:
 {% highlight js %}
 const browser = await puppeteer.launch();
 const page = await browser.newPage();
-await page.goto("http://ajahne.github.io/blog/");
+await page.goto('http://ajahne.github.io/blog/');
 await page.waitForFunction(
   'document.querySelector("body").innerText.includes("Hello Ajahne");',
 );
@@ -36,48 +36,68 @@ npm i puppeteer
 
 ### Create a browser instance
 {% highlight js %}
-const url = 'http://espn.com';
-const text = 'NBA';
 const browser = await puppeteer.launch();
 {% endhighlight %}
 
-### Create a page
+### Create a new page
 {% highlight js %}
 const page = await browser.newPage();
 {% endhighlight %}
 
-### Go to the desired URL
+### Navigate to the desired URL
 {% highlight js %}
-await page.goto(url);
+await page.goto('http://espn.com');
 {% endhighlight %}
 
 ### Check to see if text exists on the page
 {% highlight js %}
 //wait for page to load and display the text
 await page.waitForFunction(
-  'document.querySelector("body").innerText.includes(text);',
+  'document.querySelector("body").innerText.includes("NBA");',
 );
 {% endhighlight %}
 
 ### Do something now that the page has loaded (e.g. take a screenshot)
 {% highlight js %}
-await page.screenshot();
+await page.screenshot({path: 'page.png', fullPage:true});
 {% endhighlight %}
 
-## The full script
+### The full script
 {% highlight js %}
 const puppeteer = require('puppeteer');
+
+(async () => {
+  const browser = await puppeteer.launch();
+  const page = await browser.newPage();
+  await page.goto('http://espn.com');
+  await page.waitForFunction(
+    'document.querySelector("body").innerText.includes("NBA");',
+  );
+  await page.screenshot({path: 'page.png', fullPage:true});
+  await browser.close();
+})();
+{% endhighlight %}
+
+### Run the script (assumes the code is saved to "`wait-for-text.js`")
+{% highlight shell %}
+node wait-for-text.js
+{% endhighlight %}
+
+## Bonus - making the script more reusable
+This version stores our `url` and `text` values at the top of the file for easier modification. Notice how we now pass in a function instead of a string to the `waitForFunction`. We also send over arguments from node.js as the third parameter.  I leave it up to the reader to pass these in via the command line or via a separate module. Additionally, I added a little error handling by wrapping our `waitForFunction` in a `try/catch` block.
+{% highlight js %}
+const puppeteer = require('puppeteer');
+
 (async () => {
   const url = 'http://espn.com';
   const text = 'NBA';
-
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
   await page.goto(url);
 
   try {
     await page.waitForFunction(
-      text => document.querySelector("body").innerText.includes(text),
+      text => document.querySelector('body').innerText.includes(text),
       {},
       text
     );
@@ -89,11 +109,6 @@ const puppeteer = require('puppeteer');
   await page.screenshot({path: 'page.png', fullPage:true});
   await browser.close();
 })();
-{% endhighlight %}
-
-### Run the script (assumes code saved to "`wait-for-text.js`")
-{% highlight shell %}
-node wait-for-text.js
 {% endhighlight %}
 
 ## Conclusion
