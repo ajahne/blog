@@ -64,7 +64,7 @@ Now people get sick, go on vacation, have PTOs.  Servers go down and fires need 
 
 If the meetings are "boring" or not productive, I'm sorry to tell you, but that's on you.  Bad 1-1s are the fault of manager, not the direct report.  Here are some additional questions you can ask to spice things up.  Below you will find some recipes to switch up the formula.
 
-## Do not schedule them back to back
+## Do not schedule them back to back (to back)
 I learned this one the hard way.  When you first begin as a team or tech lead, you may have management responsibilities that include conducting 1-1s. In my case, I chose one day where I would have all of my 1-1s.  This plan was glorious.  I would know each week when I would meet with everyone, I would conduct all my 1-1s have productive meetings with all of my direct reports and conquer everything in one day.  I would go into the day mentally prepared, have a clear schedule,
 
 After doing it for a few months I was beat.  I would go into the day mentally prepared, but after the third 1-1 I was mentally exhausted.
@@ -78,7 +78,18 @@ My personal rule now is to ensure I do not book back to back meetings, have at l
 
 ## Dos:
 - do have them
-- do switch them up
+
+## do switch them up
+It is important to not let 1-1 meetings become monotonous.  Grab a coffee, go for a walk, switch up the location of the meeting - all of these will help keep the discussion and atmosphere fresh.  
+
+Some suggestions include:
+- taking your direct report out to lunch
+- have your 1-1 in a coffee shop (and offer to buy the coffee/tea/juice)
+- have a catchup over breakfast
+- leave the office and talk a walk
+- sit outside in a public space (park, atrium, etc.)
+
+
 - do focus on the moment and be present
 - do take notes
 - do come prepared
