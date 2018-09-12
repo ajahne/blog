@@ -43,3 +43,5 @@ Write about my schedule
 
 Have an agenda
 - in my experience it is best
+
+If the meetings are "boring" or not productive, I'm sorry to tell you, but that's on you.  Bad 1-1s are the fault of manager, not the direct report.  Here are some additional questions you can ask to spice things up.  Below you will find some recipes to switch up the formula.
