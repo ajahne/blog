@@ -19,6 +19,22 @@ header:
 - conclusion
 - additional references
 
+## Notes:
+Reflections on 1-1 meetings
+
+I have been conducting 1-1 meetings in various capacity with numerous members of our engineering term for over 7 years. These meetings have evolved significantly over this time. As members of the team grow into tech leads and managers I have begun to reflect on 1-1s in an effort to help guide new managers and to also self assess and improve the meetings I have.
+
+Reflections on 1-1
+Have them, have them weekly
+- if you are not having 1-1, then you should. From my perspective, 1-1s are critical because...
+
+
+Avoid rescheduling and canceling
+- these meetings matter, do your best to not reschedule or cancel the meeting
+
+Assess the meeting over time
+There are different meetings for different people
+Listen
 
 ## 1-1 Don'ts:
 
@@ -74,66 +90,3 @@ After doing it for a few months I was beat.  I would go into the day mentally pr
 The lesson? Do not overbook your time as you need mental breaks too.  1-1s can be light, upbeat affairs.  They can also be heavy and intense discussions.  Going from one meeting to the next to the next, will not give you the space to be your best, which will in turn have negative impact on the person you are meeting with.
 
 My personal rule now is to ensure I do not book back to back meetings, have at least 30 minutes in between, and have no more than three 1-1s in a day.
-
-
-## Dos:
-- do have them
-
-## do switch them up
-It is important to not let 1-1 meetings become monotonous.  Grab a coffee, go for a walk, switch up the location of the meeting - all of these will help keep the discussion and atmosphere fresh.  
-
-Some suggestions include:
-- taking your direct report out to lunch
-- have your 1-1 in a coffee shop (and offer to buy the coffee/tea/juice)
-- have a catchup over breakfast
-- leave the office and talk a walk
-- sit outside in a public space (park, atrium, etc.)
-
-
-- do focus on the moment and be present
-- do take notes
-- do come prepared
-
-## Other:
-- do not undervalue them
-- do not let them get stuck in a rut
-- do not think having 1-1s is a panacea
-- do not avoid the hard conversations
-- do reflect on them
-- do ask for feedback
-
-## Notes:
-Reflections on 1-1 meetings
-
-I have been conducting 1-1 meetings in various capacity with numerous members of our engineering term for over 7 years. These meetings have evolved significantly over this time. As members of the team grow into tech leads and managers I have begun to reflect on 1-1s in an effort to help guide new managers and to also self assess and improve the meetings I have.
-
-Reflections on 1-1
-Have them, have them weekly
-- if you are not having 1-1, then you should. From my perspective, 1-1s are critical because...
-
-Conduct them in private
-- so now you're having them, great. In order to get the most out if meeting, ensuring
-Switch them up
-- if not monitored, these meetings can easily
-
-Take notes
-
-Be present
-We have all been in meetings that we may not have wanted to be in. Sometimes we are tired, not feeling well, maybe there are pressing matters outside of work that are on your mind. We may gaze
-
-Worked to schedule 1-1s at a time that works for both parties. Are you a morning person? Does your direct report have a packed Thursday?
-
-Originally I tried to have "meeting days" and "development days". This didn't scale as the size of the team grew. Instead I have spread my meetings across all days throughout the work. As my team and I prefer morning meetings,
-
-Write about meetings
-Write about my schedule
-
-Avoid rescheduling and canceling
-- these meetings matter, do your best to not reschedule or cancel the meeting
-
-Have an agenda
-- in my experience it is best
-
-Assess the meeting over time
-There are different meetings for different people
-Listen
