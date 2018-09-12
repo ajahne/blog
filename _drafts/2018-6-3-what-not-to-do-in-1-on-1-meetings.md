@@ -1,7 +1,7 @@
 ---
 layout: single
-title:  "Five One on One Dont's"
-date:   2018-8-28 07:23:29 -0400
+title:  "Five One on One Meeting Dont's"
+date:   2018-9-10 09:30:29 -0400
 categories: leadership
 tags: one on one, 1-1, meetings, leadership, management
 header:
@@ -19,7 +19,7 @@ header:
 - conclusion
 - additional resources
 
-## Notes:
+## Intro:
 Reflections on 1-1 meetings
 
 I have been conducting 1-1 meetings in various capacity with numerous members of our engineering term for over 7 years. These meetings have evolved significantly over this time. As members of the team grow into tech leads and managers I have begun to reflect on 1-1s in an effort to help guide new managers and to also self assess and improve the meetings I have.
@@ -28,13 +28,6 @@ Reflections on 1-1
 Have them, have them weekly
 - if you are not having 1-1, then you should. From my perspective, 1-1s are critical because...
 
-Avoid rescheduling and canceling
-- these meetings matter, do your best to not reschedule or cancel the meeting
-
-Assess the meeting over time
-There are different meetings for different people
-Listen
-
 ## TL;DR
 - Don't just focus on tasks
 - Don't let them turn into never-ending therapy sessions
@@ -42,7 +35,7 @@ Listen
 - Don't cancel and avoid rescheduling
 - Don't schedule them back to back (to back)
 
-Our TL;DR is also a table of contents, click to jump to a topic.
+**Note**: Our TL;DR is also a table of contents, click to jump to a topic.
 
 ## Don't just focus on tasks
 There are many different flavors of 1-1 meetings.  
@@ -59,12 +52,16 @@ In each of these cases all items on the "todo list" had a nice fat check next to
 
 In all fairness, one on one meetings a not a panacea, they are not a cure-all exile that will solve all organizational ills.  However, if done right and if conducted from a place of care and compassion, these meetings will help build a strong rapport - showing people how much they matter to the organization and how the organization values them, supports them and supports their growth as individuals and professionals.  
 
+There are different meetings for different people.
+
+Assess the meeting over time. Listen
+
 ## Do not let them turn into never-ending therapy sessions
 Problems will emerge.  Challenges will arise.  Frustrations will come to a head.  Not all discussions will be how awesome and exciting things (project, product, work environment, etc.) are.  At times people will have issues to discuss and as managers as need to A) listen and B) work with our colleague on how to address the issue.
 
-Now, sometimes people just need to vent.  We have all been there.  Nothing is wrong with good venting session.  It helps to release tension and "clear the air". However, if every session is about the same one or two problems and a resolution is not reached, then you are not helping the situation and potentially making it worse.
+Now, sometimes people just need to vent.  We have all been there.  Nothing is wrong with a good venting session.  It helps to release tension and "clear the air". However, if every session is about the same one or two problems and a resolution is not reached, then you are not helping the situation and potentially making it worse.
 
-As Camille Fournier states in [_The Manager's Path_]:(https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
+As Camille Fournier states in [_The Manager's Path_](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897):
 > If you start focusing a lot of energy on hearing reports' complains and commiserating, you're quite possible making the problem worse.  You don't' have to have a to-do list, but problems in the workplace need to be either dealt with or put aside by mutual agreement.  There is very little value to repeatedly focusing on drama
 
 Either:
@@ -79,11 +76,14 @@ This.  Is.  Not.  Your.  Time.  Say it with me...(in your head is fine).  This i
 I recently went to a baseball game with a colleague of mine who works in the tech industry as well.  As we were talking shop, he told me that his team recently hired a new lead as the previous lead was promoted.  I asked him how it was going and if they were having 1-1s (I wanted to get insight into how others do it).  He said yes, they were having 1-1s, but that his manager did all the talking.  Each time he came into the meeting almost ready to prove that he belonged, that he should be the tech lead, that he was smart enough to lead the team.  He never asked questions or tried to build a rapport.  It caused my colleague to lose interest in the meetings, essentially shutting down during the 1-1s. You are a caring, open, good-hearted manager.  Don't be this guy.
 
 ## Don't cancel and avoid rescheduling
-1-1 meetings are important.  Rescheduling meetings as a manager can be frustrating to your direct report as it impacts their day and can also impact morale and motivation.  Have you ever had a performance review or an important meeting that was rescheduled by your boss?  Have you ever had something important to bring up, something that you wanted to discuss during a meeting that was shifted to another day or cancelled?  How did it feel? Not so good, right? We have all had that happen and must avoid moving meetings, especially 1-1s.  
+1-1 meetings are important.  Rescheduling meetings as a manager can be frustrating to your direct report as it impacts their day and can also impact morale and motivation.  
+
+Have you ever had a performance review or an important meeting that was rescheduled by your boss?  Have you ever had something important to bring up, something that you wanted to discuss during a meeting that was shifted to another day or cancelled?  How did it feel? Not so good, right? We have all had that happen and must avoid moving meetings, especially 1-1s.  
 
 Now people get sick, go on vacation, have PTOs.  Servers go down and fires need to be put out.  Changing a meeting (rarely) is understood.  Doing so consistently is a red flag and a failure as a leader.
 
-If the meetings are "boring" or not productive, I'm sorry to tell you, but that's on you.  Bad 1-1s are the fault of manager, not the direct report.  Here are some additional questions you can ask to spice things up.  Below you will find some recipes to switch up the formula.
+These meetings matter, do your best to not reschedule or cancel the meeting
+
 
 ## Don't schedule them back to back (to back)
 I learned this one the hard way.  When you first begin as a team or tech lead, you may have management responsibilities that include conducting 1-1s. In my case, I chose one day where I would have all of my 1-1s.  This plan was glorious.  I would know each week when I would meet with everyone, I would conduct all my 1-1s have productive meetings with all of my direct reports and conquer everything in one day.  I would go into the day mentally prepared, have a clear schedule,
