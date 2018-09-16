@@ -82,12 +82,11 @@ You are a caring, open, good-hearted manager.  Don't be this guy.
 
 Have you ever had a performance review or an important meeting that was rescheduled by your boss?  Have you ever had something important to bring up, something that you wanted to discuss during a meeting that was shifted to another day or cancelled?  How did it feel? Not so good, right? We have all had that happen and must avoid moving meetings, especially 1-1s.  
 
-Now people get sick, go on vacation, have PTOs.  Servers go down and fires need to be put out.  Changing a meeting (rarely) is understood.  Doing so consistently is a red flag and a failure as a leader.
+Now people get sick, go on vacation, have PTOs, etc.  Servers go down and fires need to be put out.  Changing a meeting (rarely) is understood.  Doing so consistently is a red flag and a failure as a leader.
 
-These meetings matter, do your best to not reschedule or cancel the meeting
+These meetings matter, do your best to not reschedule or cancel them.
 
-
-## Don't schedule them back to back (to back)
+## Don't schedule them back to back (to back to...)
 I learned this one the hard way.  When you first begin as a team or tech lead, you may have management responsibilities that include conducting 1-1s. In my case, I chose one day where I would have all of my 1-1s.  This plan was glorious.  I would know each week when I would meet with everyone, I would conduct all my 1-1s have productive meetings with all of my direct reports and conquer everything in one day.  I would go into the day mentally prepared, have a clear schedule,
 
 After doing it for a few months I was beat.  I would go into the day mentally prepared, but after the third 1-1 I was mentally exhausted.
