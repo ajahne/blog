@@ -12,12 +12,11 @@ header:
 *In this two part series I will outline 10 Dos and Don'ts (five each) for 1-1 meetings based on my experience as an engineering manager and leader.*
 
 ---
+I have been conducting 1-1 meetings in various capacities and roles for over eight years. These meetings have evolved significantly over this time. I have made mistakes, learned, challenged myself, and grown significantly as a manager and leader.
 
-I have been conducting 1-1 meetings in various capacities and roles for over 8 years. These meetings have evolved significantly over this time. I have made mistakes, learned, challenged myself, and grown significantly as a manager and leader. Early on in my career I did not even know that I was supposed to have 1-1 meetings, let alone how to conduct them.  
+Early on in my career I did not even know that I was supposed to have 1-1 meetings, let alone how to conduct them.  I was thrust into the role of tech lead - up $%!# creak; no paddle. As with most new managers, I was not provided any training nor a clear set of expectations for my role.
 
-I was thrust into the role of tech lead - Up $%!# creak; no paddle. As with most new managers, I was not provided any training nor a clear set of expectations for my role. I originally setup 1-1 meetings focused on tasks, concentrated on one day, which did not scale well as the team and my responsibilities grew. As the organization grew, my role rapidly grew from senior developer, to tech led, manager, director of interactive development, and beyond.  
-
-During the first few years, I did many (_I hope_ :P) things right and many (_I know_) wrong in my 1-1 meetings. In Part 1 of this series I will focus on some things not to do with one on one meetings. With Part 2 focused on things to do.
+During the first few years, I did many things right (_I hope_ :P) and many things wrong (_I know_) in my 1-1 meetings. In Part 1 of this series I will focus on five things not to do with one on one meetings. With Part 2 focused on five things to do.
 
 Let's grow!
 
