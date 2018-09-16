@@ -65,11 +65,17 @@ Either:
 - mutually agree to set it aside (e.g. remove it from the agenda, agree to revisit it in 6 months)
 
 ## Don't do all of the talking
-So you're excited, your day is going well.  That new product launched to production with no errors, the CD pipeline has consistently performed in under 37 minutes, and.
+So you're excited, your day is going well.  That new product launched to production with no errors, the CD pipeline has consistently performed in under 37 minutes, and you're bursting at the seams to share these wins...
 
-This.  Is.  Not.  Your.  Time.  Say it with me...(in your head is fine).  This is not your time.  It is their time.  As leaders as are generally a bit (*cough*) outspoken.  We get excited, we want to share, we want to motivate someone with our eloquent points of wisdom and insight.  Avoid this.  Instead, ask questions.  Listen.  Take notes.  Learn more about the person you are working with and supporting.
+This.  Is.  Not.  Your.  Time.  Say it with me...(in your head is fine). *This is not your time.*  
 
-I recently went to a baseball game with a colleague of mine who works in the tech industry as well.  As we were talking shop, he told me that his team recently hired a new lead as the previous lead was promoted.  I asked him how it was going and if they were having 1-1s (I wanted to get insight into how others do it).  He said yes, they were having 1-1s, but that his manager did all the talking.  Each time he came into the meeting almost ready to prove that he belonged, that he should be the tech lead, that he was smart enough to lead the team.  He never asked questions or tried to build a rapport.  It caused my colleague to lose interest in the meetings, essentially shutting down during the 1-1s. You are a caring, open, good-hearted manager.  Don't be this guy.
+**It is their time!**  
+
+As leaders we are generally a bit (*cough*) outspoken.  We get excited, we want to share, we want to motivate someone with our eloquent points of wisdom and insight.  Avoid this.  Instead, ask questions.  Listen.  Take notes. Take the time - and put in the effort - to learn more about the person you are working with and supporting.
+
+A fews weeks ago, I was speaking with a colleague who told me that his team recently hired a new lead as the previous lead was promoted.  I asked him how it was going and if they were having 1-1s.  He said yes, but that his manager did **all** of the talking.  Each time he (the manager) came into the meeting almost ready to prove that he belonged, that he should be the tech lead, that he was smart enough to lead the team.  He never asked questions or worked to build a rapport.  It caused my colleague to lose interest in the meetings, essentially shutting down as he did not feel supported or listened to. Even when raised, the manager did not change his behavior.
+
+You are a caring, open, good-hearted manager.  Don't be this guy.
 
 ## Don't cancel and avoid rescheduling
 1-1 meetings are important.  Rescheduling meetings as a manager can be frustrating to your direct report as it impacts their day and can also impact morale and motivation.  
