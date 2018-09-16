@@ -53,12 +53,12 @@ In all fairness, one on one meetings are not a panacea, they are not a cure-all 
 Not sure what to ask or how to go beyond status updates?  Check out this link on how to conduct 1-1 meetings and check out the additional resources below as well.
 
 ## Do not let them turn into never-ending therapy sessions
-Problems will emerge.  Challenges will arise.  Frustrations will come to a head.  Not all discussions will be how awesome and exciting things (project, product, work environment, etc.) are.  At times people will have issues to discuss and as managers as need to A) listen and B) work with our colleague on how to address the issue.
+Problems will emerge.  Challenges will arise.  Frustrations will come to a head.  Not all discussions will be about how awesome and exciting things (project, product, work environment, etc.) are.  At times people will have issues to discuss and as managers we need to A) listen and B) work with our colleague on how to address the issue.
 
 Now, sometimes people just need to vent.  We have all been there.  Nothing is wrong with a good venting session.  It helps to release tension and "clear the air". However, if every session is about the same one or two problems and a resolution is not reached, then you are not helping the situation and potentially making it worse.
 
 As Camille Fournier states in [_The Manager's Path_](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897):
-> If you start focusing a lot of energy on hearing reports' complains and commiserating, you're quite possible making the problem worse.  You don't' have to have a to-do list, but problems in the workplace need to be either dealt with or put aside by mutual agreement.  There is very little value to repeatedly focusing on drama
+> If you start focusing a lot of energy on hearing reports' complaints and commiserating, you're quite possibly making the problem worse.  You don't have to have a to-do list, but problems in the workplace need to be either dealt with or put aside by mutual agreement.  There is very little value to repeatedly focusing on drama.
 
 Either:
 - fix the problem (e.g. facilitate a meeting with disgruntled parties, work on process improvements during the next sprint, etc.)
