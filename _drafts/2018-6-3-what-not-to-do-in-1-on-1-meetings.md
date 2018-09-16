@@ -1,32 +1,20 @@
 ---
 layout: single
-title:  "Five One on One Meeting Dont's"
+title:  "One on One meeting Dos and Don'ts: Part 1"
 date:   2018-9-10 09:30:29 -0400
 categories: leadership
 tags: one on one, 1-1, meetings, leadership, management
 header:
   image: /assets/images/one-on-one-two-women-of-color.jpg
 ---
+*I have been conducting 1-1 meetings in various capacities and roles for over 7 years. As members my team grow into tech leads and managers I have begun to reflect on 1-1s in an effort to help guide new managers and to also self assess and improve the meetings I have.*
 
-# outline
-- Five One on One Don'ts
-- provide TL;DR that is a TOC
-- intro: why am I laying this out?
-- breakdown each one with examples:
-  - provide example
-  - why should you not do this/why this is an issue
-  - solutions if you find yourself doing it
-- conclusion
-- additional resources
+*In this two part series I will outline 10 Dos and Don'ts (five for each) for 1-1 meetings based on my experience.*
 
-## Intro:
-Reflections on 1-1 meetings
+---
+Throughout the course of having 1-1 meetings I have. These meetings have evolved significantly over this time. I have made mistakes, learned, challenged myself, and grown significantly as a manager and leader. Early on in my career I did not even know that I was supposed to have 1-1 meetings.  I was thrust into the role of tech lead - Up $%!# creak; no paddle.  
 
-I have been conducting 1-1 meetings in various capacity with numerous members of our engineering term for over 7 years. These meetings have evolved significantly over this time. As members of the team grow into tech leads and managers I have begun to reflect on 1-1s in an effort to help guide new managers and to also self assess and improve the meetings I have.
-
-Reflections on 1-1
-Have them, have them weekly
-- if you are not having 1-1, then you should. From my perspective, 1-1s are critical because...
+As with most new managers, I was not provided any training nor a clear set of expectations for my role. I originally setup 1-1 meeting focused on tasks, concentrated on one day, which did not scale well as the team and my responsibilities grew.  
 
 ## TL;DR
 - Don't just focus on tasks
@@ -34,8 +22,19 @@ Have them, have them weekly
 - Don't do all of the talking
 - Don't cancel and avoid rescheduling
 - Don't schedule them back to back (to back)
-
 **Note**: Our TL;DR is also a table of contents, click to jump to a topic.
+
+## Background
+First and foremost, if you are not having 1-1 meetings, start having them! Have them, have them weekly. If you are not having 1-1, then you should. From my perspective, 1-1s are critical because...
+- They help build a rapport between you and your direct reports.  The most important aspect of any business is the people and having productive meetings with your greatest assest will help you better understand who you are working with, how to motivate, how to avoid demotivating
+- Provide insight into the employee's current level of morale, stress, frustration, excitement, etc.
+- These meetings can shed light on areas where the business is doing well and where it can improve - be it at the individual, team, or organizational level
+- Understand more about the person you are working with to better ensure their career goals and business objectives align
+- They can shed light on what motivates and excites your direct reports
+- Bring frustrations to light than can be addressed, resolved, and minimized to help facilitate a high functioning team and safe environment
+- Stay on target with current Performance and Development goals - be it quarterly, yearly, or anotehr specific time frame
+- Provide coaching
+- Share formal and informal feedback
 
 ## Don't just focus on tasks
 There are many different flavors of 1-1 meetings.  
@@ -96,7 +95,12 @@ The lesson? Do not overbook your time as you need mental breaks too.  1-1s can b
 
 My personal rule now is to ensure I do not book back to back meetings, have at least 30 minutes in between, and have no more than three 1-1s in a day.
 
-
 ## Conclusion
+You will make mistakes.  That is OK.  You will learn and grow.  That is OK.  However, never rest on your laurels and never stop pushing yourself to get better.  I have laid out a myriad of mistakes that I have made - by far not an exhaustive list - with the hope that it will shed  some light in the tunnel for you and help you continue to improve your 1-1 meetings.  You got this!
 
 ## Additional Resources
+- link 1
+- link 2
+- link 3
+- link 4
+- link 5
