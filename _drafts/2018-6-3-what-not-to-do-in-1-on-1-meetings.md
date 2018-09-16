@@ -30,13 +30,13 @@ Let's grow!
 **Note**: Our TL;DR is also a table of contents, click to jump to a topic.
 
 ## Don't just focus on status updates and tasks
-There are many different flavors of 1-1 meetings.  
+There are many different flavors of 1-1 meetings:  
 - Feedback meetings - devoted to informal feedback and coaching
 - Getting to know you meetings - typically the first 1-1
 - Career development conversations - focused on growth and how the person feels about their career
 - and more
 
-> For todos and tasks, find another meeting or way to communicate status
+> For todos and tasks, find another meeting or another way to communicate status
 
 In my experience, most 1-1 meetings begin as a catchup meeting ("how's the week been?") followed by an immediate run down of tasks. In the beginning it works: its easy, it covers objectives, outlines deliverables, and makes sure everyone is "on the same page".  When I first started having 1-1s, this is what I did.  
 
@@ -44,9 +44,9 @@ In my experience, most 1-1 meetings begin as a catchup meeting ("how's the week 
 
 I had great todo meetings, everyone was clear on deliverables, deadlines were being met and from "on high" everything appeared rosy.  But little did I know, one direct report was having issues with a senior individual contributor and couldn't work with him any longer.  One engineer was frustrated with her team lead and communication had ground to a stand still.  One team member asked "can we meet" and handed in her letter of resignation that same day.
 
-In each of these cases all items on the "todo list" had a nice fat checkmark next to them.  Jiras had been resolved and bugs had been fixed.  New features were built in a timely manner and production was humming.  Yet, in all situations, there was more to discuss than a list of objectives. By focusing solely on tasks, no-one was focused on what was making the person tick.  What was exciting? Motivating? Frustrating?  
+In each of these cases all items on the "todo list" had a nice fat checkmark next to them.  Jiras had been resolved and bugs had been fixed.  New features were built in a timely manner and production was humming.  Yet, in all situations, there was more to discuss than a list of objectives. By focusing solely on tasks, no-one (i.e. me) was focused on what was making the person tick.  What was exciting? Motivating? Frustrating?  
 
-There are different meetings for different people. However, for todos and tasks, find another meeting or way to communicate status - Kanban board, morning Slack messages, daily stand ups, etc.
+There are different meetings for different people. However, for todos and tasks, find another meeting or way to communicate status - Kanban board, morning Slack messages, daily stand ups, etc. By focusing purely on status updates, you will miss the most important status of all - the person themselves.
 
 In all fairness, one on one meetings are not a panacea, they are not a cure-all elixir that will solve all organizational ills.  However, if done right and if conducted from a place of care and compassion, these meetings will help build a strong rapport - showing people how much they matter to the organization and how the organization values them, supports them and supports their growth as individuals and professionals.   
 
