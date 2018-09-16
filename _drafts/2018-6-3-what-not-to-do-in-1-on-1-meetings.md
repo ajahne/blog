@@ -7,53 +7,51 @@ tags: one on one, 1-1, meetings, leadership, management
 header:
   image: /assets/images/one-on-one-two-women-of-color.jpg
 ---
-*I have been conducting 1-1 meetings in various capacities and roles for over 7 years. As members my team grow into tech leads and managers I have begun to reflect on 1-1s in an effort to help guide new managers and to also self assess and improve the meetings I have.*
+*As members my team grow into tech leads and managers I have begun to reflect on 1-1s in an effort to help guide new managers and to also self assess and improve the meetings I have.*
 
-*In this two part series I will outline 10 Dos and Don'ts (five for each) for 1-1 meetings based on my experience.*
+*In this two part series I will outline 10 Dos and Don'ts (five each) for 1-1 meetings based on my experience as an engineering manager and leader.*
 
 ---
-Throughout the course of having 1-1 meetings I have. These meetings have evolved significantly over this time. I have made mistakes, learned, challenged myself, and grown significantly as a manager and leader. Early on in my career I did not even know that I was supposed to have 1-1 meetings.  I was thrust into the role of tech lead - Up $%!# creak; no paddle.  
 
-As with most new managers, I was not provided any training nor a clear set of expectations for my role. I originally setup 1-1 meeting focused on tasks, concentrated on one day, which did not scale well as the team and my responsibilities grew.  
+I have been conducting 1-1 meetings in various capacities and roles for over 8 years. These meetings have evolved significantly over this time. I have made mistakes, learned, challenged myself, and grown significantly as a manager and leader. Early on in my career I did not even know that I was supposed to have 1-1 meetings, let alone how to conduct them.  
+
+I was thrust into the role of tech lead - Up $%!# creak; no paddle. As with most new managers, I was not provided any training nor a clear set of expectations for my role. I originally setup 1-1 meetings focused on tasks, concentrated on one day, which did not scale well as the team and my responsibilities grew. As the organization grew, my role rapidly grew from senior developer, to tech led, manager, director of interactive development, and beyond.  
+
+During the first few years, I did many (_I hope_ :P) things right and many (_I know_) wrong in my 1-1 meetings. In Part 1 of this series I will focus on some things not to do with one on one meetings. With Part 2 focused on things to do.
+
+Let's grow!
 
 ## TL;DR
 - Don't just focus on tasks
 - Don't let them turn into never-ending therapy sessions
 - Don't do all of the talking
 - Don't cancel and avoid rescheduling
-- Don't schedule them back to back (to back)
+- Don't schedule them back to back (to back to...)
+
 **Note**: Our TL;DR is also a table of contents, click to jump to a topic.
 
-## Background
-First and foremost, if you are not having 1-1 meetings, start having them! Have them, have them weekly. If you are not having 1-1, then you should. From my perspective, 1-1s are critical because...
-- They help build a rapport between you and your direct reports.  The most important aspect of any business is the people and having productive meetings with your greatest assest will help you better understand who you are working with, how to motivate, how to avoid demotivating
-- Provide insight into the employee's current level of morale, stress, frustration, excitement, etc.
-- These meetings can shed light on areas where the business is doing well and where it can improve - be it at the individual, team, or organizational level
-- Understand more about the person you are working with to better ensure their career goals and business objectives align
-- They can shed light on what motivates and excites your direct reports
-- Bring frustrations to light than can be addressed, resolved, and minimized to help facilitate a high functioning team and safe environment
-- Stay on target with current Performance and Development goals - be it quarterly, yearly, or anotehr specific time frame
-- Provide coaching
-- Share formal and informal feedback
-
-## Don't just focus on tasks
+## Don't just focus on status updates and tasks
 There are many different flavors of 1-1 meetings.  
 - Feedback meetings - devoted to informal feedback and coaching
 - Getting to know you meetings - typically the first 1-1
 - Career development conversations - focused on growth and how the person feels about their career
 - and more
 
-In my experience, most 1-1 meetings begin as a catchup meeting ("how's the week been?") followed by an immediate run down of tasks.  Do not do this type of meeting.  In the beginning it works: its easy, it covers objectives, outlines deliverables, and makes sure everyone is "on the same page".  When I first started having 1-1s, this is what I did.  
+> For todos and tasks, find another meeting or way to communicate status
 
-I had great todo meetings, everyone was clear on deliverables, deadlines were being met and from "on high" everything appeared rosy.  But one direct report was having issues with a senior individual contributor and couldn't work with him any longer.  One engineer was frustrated with her team lead and communication was ground to a stand still.  One team member asked "can we meet" and handed in her letter of resignation that same day.
+In my experience, most 1-1 meetings begin as a catchup meeting ("how's the week been?") followed by an immediate run down of tasks. In the beginning it works: its easy, it covers objectives, outlines deliverables, and makes sure everyone is "on the same page".  When I first started having 1-1s, this is what I did.  
 
-In each of these cases all items on the "todo list" had a nice fat check next to them.  Jiras had been resolved and bugs had been fixed.  New features were built in a timely manner and production was humming.  In each case there was more to discuss than a list of objectives. By focusing solely on tasks, no-one was focused on what was making the person tick.  What was exciting? Motivating? Frustrating?  For todos, find another meeting or way to communicate tasks - Kanban board, morning slack messages, daily stand ups.
+**Do not do this type of meeting.**  
 
-In all fairness, one on one meetings a not a panacea, they are not a cure-all exile that will solve all organizational ills.  However, if done right and if conducted from a place of care and compassion, these meetings will help build a strong rapport - showing people how much they matter to the organization and how the organization values them, supports them and supports their growth as individuals and professionals.  
+I had great todo meetings, everyone was clear on deliverables, deadlines were being met and from "on high" everything appeared rosy.  But little did I know, one direct report was having issues with a senior individual contributor and couldn't work with him any longer.  One engineer was frustrated with her team lead and communication had ground to a stand still.  One team member asked "can we meet" and handed in her letter of resignation that same day.
 
-There are different meetings for different people.
+In each of these cases all items on the "todo list" had a nice fat checkmark next to them.  Jiras had been resolved and bugs had been fixed.  New features were built in a timely manner and production was humming.  Yet, in all situations, there was more to discuss than a list of objectives. By focusing solely on tasks, no-one was focused on what was making the person tick.  What was exciting? Motivating? Frustrating?  
 
-Assess the meeting over time. Listen
+There are different meetings for different people. However, for todos and tasks, find another meeting or way to communicate status - Kanban board, morning Slack messages, daily stand ups, etc.
+
+In all fairness, one on one meetings are not a panacea, they are not a cure-all elixir that will solve all organizational ills.  However, if done right and if conducted from a place of care and compassion, these meetings will help build a strong rapport - showing people how much they matter to the organization and how the organization values them, supports them and supports their growth as individuals and professionals.   
+
+Not sure what to ask or how to go beyond status updates?  Check out this link on how to conduct 1-1 meetings and check out the additional resources below as well.
 
 ## Do not let them turn into never-ending therapy sessions
 Problems will emerge.  Challenges will arise.  Frustrations will come to a head.  Not all discussions will be how awesome and exciting things (project, product, work environment, etc.) are.  At times people will have issues to discuss and as managers as need to A) listen and B) work with our colleague on how to address the issue.

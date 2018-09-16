@@ -1,6 +1,18 @@
 ## Dos:
 - do have them
 
+## Background
+First and foremost, if you are not having 1-1 meetings, start having them! Have them, have them weekly. If you are not having 1-1, then you should. From my perspective, 1-1s are critical because...
+- They help build a rapport between you and your direct reports.  The most important aspect of any business is the people and having productive meetings with your greatest asset will help you better understand who you are working with, how to motivate, how to avoid demotivating
+- Provide insight into the employee's current level of morale, stress, frustration, excitement, etc.
+- These meetings can shed light on areas where the business is doing well and where it can improve - be it at the individual, team, or organizational level
+- Understand more about the person you are working with to better ensure their career goals and business objectives align
+- They can shed light on what motivates and excites your direct reports
+- Bring frustrations to light that can be addressed, resolved, and minimized to help facilitate a high functioning team and safe environment
+- Stay on target with current Performance and Development goals - be it quarterly, yearly, or another specific time frame
+- Provide coaching
+- Share formal and informal feedback
+
 ## do switch them up
 It is important to not let 1-1 meetings become monotonous.  Grab a coffee, go for a walk, switch up the location of the meeting - all of these will help keep the discussion and atmosphere fresh.  
 
