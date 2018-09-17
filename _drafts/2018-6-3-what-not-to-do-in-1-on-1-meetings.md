@@ -1,11 +1,11 @@
 ---
 layout: single
-title:  "One on One meeting Dos and Don'ts: Part 1"
+title:  "One-on-one meeting dos and don'ts: Part 1 - Don'ts"
 date:   2018-9-10 09:30:29 -0400
 categories: leadership
 tags: one on one, 1-1, meetings, leadership, management
 header:
-  image: /assets/images/one-on-one-two-women-of-color.jpg
+  image: /assets/images/one-on-one-meeting-two-men.jpg
 ---
 *As members my team grow into [tech leads]({{ site.baseurl }}{% post_url 2018-2-11-what-is-a-tech-lead %}) and managers I have begun to reflect on 1-1s in an effort to help guide new managers and also to self-assess and improve the meetings I have.*
 
@@ -16,7 +16,7 @@ I have been conducting 1-1 meetings in various capacities and roles for over eig
 
 Early on in my career I did not even know that I was supposed to have 1-1 meetings, let alone how to conduct them.  I was thrust into the role of tech lead. As with most new managers, I was not provided any training nor a clear set of expectations for my role. Up $%!# creak; no paddle.
 
-During the first few years, I did many things right (_I hope_ :P) and many things wrong (_I know_) in my 1-1 meetings. In Part 1 of this series I will focus on five things not to do with one on one meetings. With Part 2 focused on five things to do.
+During the first few years, I did many things right (_I hope_ :P) and many things wrong (_I know_) in my 1-1 meetings. In Part 1 of this series I will focus on five things not to do with one on one meetings. With Part 2 focused on five things we should be doing.
 
 Let's grow!
 
@@ -47,7 +47,7 @@ In each of these cases all items on the "todo list" had a nice fat checkmark nex
 
 There are different meetings for different people and situations. However, for todos and tasks, find another meeting or way to communicate status - Kanban board, morning Slack messages, daily stand ups, etc. By focusing purely on status updates, you will miss the most important status of all - the person themselves.
 
-Not sure what to ask or how to go beyond status updates? Check out [this article on how to have honest and effective one-on-ones](https://getpocket.com/a/read/1818575162). Also, [here's a list of 101 questions to ask in 1-1 meetings](https://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/). Additionally, check out the [resources I have listed below](#additional-resources).
+Not sure what to ask or how to go beyond status updates? Check out [this article on how to have honest and effective one-on-ones](https://getpocket.com/a/read/1818575162). Additionally, check out the [resources listed below](#additional-resources).
 
 ## Don't let them turn into never-ending therapy sessions
 Problems will emerge.  Challenges will arise.  Frustrations will come to a head.  Not all discussions will be about how awesome and exciting things (project, product, work environment, etc.) are.  At times, people will have issues to discuss and as managers we need to A) listen and B) work with our colleague on how to address the issue.
@@ -68,11 +68,7 @@ This. Is. Not. Your. Time.  Say it with me...(in your head is fine). *This is no
 
 **It is their time!**  
 
-As leaders we are generally a bit (*cough*) outspoken.  We get excited, we want to share, we want to motivate someone with our eloquent points of wisdom and insight.  Avoid this.  Instead, ask questions.  Listen.  Take notes. Take the time - and put in the effort - to learn more about the person you are working with and supporting.
-
-A fews weeks ago, I was speaking with a colleague who told me that his team recently hired a new lead as the previous lead was promoted.  I asked him how it was going and if they were having 1-1s.  He said yes, but that his manager did **all** of the talking.  Each time he (the manager) came into the meeting almost ready to prove that he belonged, that he should be the tech lead, that he was smart enough to lead the team.  He never asked questions or worked to build a rapport.  It caused my colleague to lose interest in the meetings, essentially shutting down as he did not feel supported or listened to. Even when raised, the manager did not change his behavior.
-
-You are a caring, open, good-hearted manager.  Don't be this guy.
+As leaders we are generally a bit (*cough*) outspoken.  We get excited, we want to share, we want to motivate someone with our eloquent points of wisdom and insight.  Avoid this.  Instead, [ask questions](https://blog.knowyourcompany.com/the-9-questions-that-uncover-the-most-surprising-insights-from-employees-364a63a01286).  Listen.  Take notes. Take the time - and put in the effort - to learn more about the person you are working with and supporting.
 
 ## Don't cancel and avoid rescheduling
 1-1 meetings are important.  Rescheduling meetings as a manager can be frustrating to your direct report as it impacts their day and can also impact morale and motivation.  
@@ -86,7 +82,7 @@ These meetings matter, do your best to not reschedule or cancel them.
 With that being said...
 
 ## Don't schedule them back to back (to back to...)
-> 1-1s are critical, fundamental relationship building meetings.  Give yourself the time, space, and energy to ensure you are focused and "in the moment" during each one.
+> 1-1s are critical, fundamental meetings.  Give yourself the time, space, and energy to ensure you are focused and "in the moment" during each one.
 
 When you first begin as a team or tech lead, you may have management responsibilities that include conducting 1-1s. In my case, I chose one day where I would have all of my 1-1s.  This plan was glorious! I would go into the day mentally prepared, have a clear schedule and a specific agenda. I would know each week when I would meet with everyone, I would have productive meetings with all of my direct reports and conquer everything in one day.  
 
@@ -96,17 +92,17 @@ It did not scale as my team and number of direct reports grew.  What worked for 
 
 The lesson? Do not overbook your time as you need mental breaks too.  1-1s can be light, upbeat affairs.  They can also be heavy and intense discussions.  Going from one meeting to the next to the next, will not give you the space to be your best, which in turn will have a negative impact on the person you are meeting with.
 
-My personal rule now is to ensure that I do not book back to back meetings, have at least 30 minutes in between meetings, and have no more than three 1-1s in a day. 1-1s are critical, fundamental relationship building meetings.  Give yourself the time, space, and energy to ensure you are focused and "in the moment" during each one.
-
 ## Conclusion
-One on one meetings are not a panacea, they are not a cure-all elixir that will solve all organizational ills.  However, if done right and if conducted from a place of care and compassion, these meetings will help build a strong rapport - showing people how much they matter to the organization and how the organization values them, supports them and supports their growth as individuals and professionals.   
+If done properly and if conducted from a place of care and compassion, one-on-one meetings will help build a strong rapport - showing people how much they matter to the organization and how the organization values them, supports them and supports their growth as individuals and professionals. If done incorrectly, they can demotivate, lower morale, and ultimately lead to the departure of key employees.  As the saying goes (and data shows), [people do not leave companies, they leave managers](https://hbr.org/2018/01/why-people-really-quit-their-jobs).
 
-You will make mistakes.  That is OK.  You will learn and grow.  That is OK (_and expected_).  However, never rest on your laurels and never stop pushing yourself to get better.  I have laid out a myriad of mistakes that I have made -  not an exhaustive list - with the hope that it will shed some light in the tunnel for you and help you continue to improve your 1-1 meetings.  You got this!
+You will make mistakes.  That is OK.  You will learn and improve.  That is OK (_and expected_).  However, never stop pushing yourself to get better and grow.  I have laid out a myriad of mistakes that I have made -  not an exhaustive list - with the hope that it will help you on your journey as a manager and leader.
+
+Check out the additional materials below and keep growing. You got this!
 
 ## Additional Resources
 - [The 8 best questions to ask during a one-on-one meeting](https://blog.knowyourcompany.com/the-8-best-questions-to-ask-during-a-one-on-one-meeting-2dae773f6bc2)
 - [How to have honest and effective one-on-ones](https://getpocket.com/a/read/1818575162).
 - [How to start having one on ones with your team](https://getlighthouse.com/blog/how-to-start-one-on-ones-your-teams/)
 - [How to turn around a bad one on one meeting](https://getlighthouse.com/blog/one-to-one-meeting/)
-- [101 questions to ask in 1-1 meetings](https://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/)]
+- [101 questions to ask in 1-1 meetings](https://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/)
 - [Six tips to rock your one-on-ones](https://blog.knowyourcompany.com/six-tips-to-rock-your-one-on-ones-769484ae1495)
