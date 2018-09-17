@@ -9,18 +9,18 @@ header:
 ---
 *As members my team grow into [tech leads]({{ site.baseurl }}{% post_url 2018-2-11-what-is-a-tech-lead %}) and managers I have begun to reflect on 1-1s in an effort to help guide new managers and also to self-assess and improve the meetings I have.*
 
-*In this two part series I will outline 10 Dos and Don'ts (five each) for 1-1 meetings based on my experience as an engineering manager and leader.*
+*In this two part series I will outline 10 Dos and Don'ts (five each) for one-on-one meetings based on my experience as an engineering manager and leader.*
 
 ---
-I have been conducting 1-1 meetings in various capacities and roles for over eight years. These meetings have evolved significantly over this time. I have made mistakes, learned, challenged myself, and grown tremendously as a manager and leader.
+I have been conducting one-on-one meetings in various capacities and roles for over eight years. These meetings have evolved significantly over this time. I have made mistakes, learned, challenged myself, and grown tremendously as a manager and leader.
 
-Early on in my career I did not even know that I was supposed to have 1-1 meetings, let alone how to conduct them.  I was thrust into the role of tech lead. As with most new managers, I was not provided any training nor a clear set of expectations for my role. Up $%!# creak; no paddle.
+Early on in my career I did not even know that I was supposed to have one-on-one meetings, let alone how to conduct them.  I was thrust into the role of tech lead. As with most new managers, I was not provided any training nor a clear set of expectations for my role. Up $%!# creak; no paddle.
 
-During the first few years, I did many things right (_I hope_ :P) and many things wrong (_I know_) in my 1-1 meetings. In Part 1 of this series I will focus on five things not to do with one on one meetings. With Part 2 focused on five things we should be doing.
+During the first few years, I did many things right (_I hope_ :P) and many things wrong (_I know_) in my one-on-one meetings. In Part 1 of this series I will focus on five things not to do with one on one meetings. With Part 2 focused on five things we should be doing.
 
 Let's grow!
 
-## Five 1-1 meetings don'ts:
+## Five one-on-one meetings don'ts:
 - [Don't just focus on status updates and tasks](#dont-just-focus-on-status-updates-and-tasks)
 - [Don't let them turn into never-ending therapy sessions](#dont-let-them-turn-into-never-ending-therapy-sessions)
 - [Don't do all of the talking](#dont-do-all-of-the-talking)
@@ -30,14 +30,14 @@ Let's grow!
 **Note**: The above is a tl;dr and also a table of contents, click to jump to a topic.
 
 ## Don't just focus on status updates and tasks
-There are many different flavors of 1-1 meetings, including:  
+There are many different flavors of one-on-one meetings, including:  
 - Feedback meetings - devoted to informal feedback and coaching
-- Getting to know you meetings - typically the first 1-1
+- Getting to know you meetings - typically the first one-on-one
 - Career development conversations - focused on growth and how the person feels about their career
 
 > For to-dos and tasks, find another meeting or another way to communicate status
 
-In my experience, most 1-1 meetings begin as a catchup meeting ("how's the week been?") followed by an immediate run down of tasks. In the beginning it works: its easy, it covers objectives, outlines deliverables, and makes sure everyone is "on the same page".  When I first started having 1-1s, this is what I did.  
+In my experience, most one-on-one meetings begin as a catchup meeting ("how's the week been?") followed by an immediate run down of tasks. In the beginning it works: its easy, it covers objectives, outlines deliverables, and makes sure everyone is "on the same page".  When I first started having 1-1s, this is what I did.  
 
 **Do not do this type of meeting.**  
 
@@ -71,7 +71,7 @@ This. Is. Not. Your. Time.  Say it with me...(in your head is fine). *This is no
 As leaders we are generally a bit (*cough*) outspoken.  We get excited, we want to share, we want to motivate someone with our eloquent points of wisdom and insight.  Avoid this.  Instead, [ask questions](https://blog.knowyourcompany.com/the-9-questions-that-uncover-the-most-surprising-insights-from-employees-364a63a01286).  Listen.  Take notes. Take the time - and put in the effort - to learn more about the person you are working with and supporting.
 
 ## Don't cancel and avoid rescheduling
-1-1 meetings are important.  Rescheduling meetings as a manager can be frustrating to your direct report as it impacts their day and can also impact morale and motivation.  
+One-on-one meetings are important.  Rescheduling meetings as a manager can be frustrating to your direct report as it impacts their day and can also impact morale and motivation.  
 
 Have you ever had a performance review or an important meeting that was rescheduled by your boss?  Have you ever had something important to bring up, something that you wanted to discuss during a meeting that was shifted to another day or cancelled?  How did it feel? Not so good, right? We have all had that happen and must avoid moving meetings, especially 1-1s.  
 
@@ -88,7 +88,7 @@ When you first begin as a team or tech lead, you may have management responsibil
 
 This plan failed royally.
 
-It did not scale as my team and number of direct reports grew.  What worked for one, did not work for five, and definitely did not work for 20. After following this schedule of back to back meetings few months I was beat.  I would go into the day mentally prepared, but after the third 1-1, I was mentally exhausted. I ultimately had to [change my calendar for better 1-1s]({{ site.baseurl }}{% post_url 2018-5-17-changing-my-calendar-for-better-1-on-1s %}) .
+It did not scale as my team and number of direct reports grew.  What worked for one, did not work for five, and definitely did not work for 20. After following this schedule of back to back meetings few months I was beat.  I would go into the day mentally prepared, but after the third one-on-one, I was mentally exhausted. I ultimately had to [change my calendar for better 1-1s]({{ site.baseurl }}{% post_url 2018-5-17-changing-my-calendar-for-better-1-on-1s %}) .
 
 The lesson? Do not overbook your time as you need mental breaks too.  1-1s can be light, upbeat affairs.  They can also be heavy and intense discussions.  Going from one meeting to the next to the next, will not give you the space to be your best, which in turn will have a negative impact on the person you are meeting with.
 
@@ -104,5 +104,5 @@ Check out the additional materials below and keep growing. You got this!
 - [How to have honest and effective one-on-ones](https://getpocket.com/a/read/1818575162).
 - [How to start having one on ones with your team](https://getlighthouse.com/blog/how-to-start-one-on-ones-your-teams/)
 - [How to turn around a bad one on one meeting](https://getlighthouse.com/blog/one-to-one-meeting/)
-- [101 questions to ask in 1-1 meetings](https://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/)
+- [101 questions to ask in one-on-one meetings](https://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/)
 - [Six tips to rock your one-on-ones](https://blog.knowyourcompany.com/six-tips-to-rock-your-one-on-ones-769484ae1495)
