@@ -47,7 +47,7 @@ In each of these cases all items on the "to-do list" had a nice fat checkmark ne
 
 There are different meetings for different people and situations. However, for to-dos and tasks, find another meeting or way to communicate status - Kanban board, morning Slack messages, daily stand ups, etc. By focusing purely on status updates, you will miss the most important status of all - the person themselves.
 
-Not sure what to ask or how to go beyond status updates? Check out [this article on how to have honest and effective one-on-ones](https://getpocket.com/a/read/1818575162). Additionally, check out the [resources listed below](#additional-resources).
+Not sure what to ask or how to go beyond status updates? Check out [this article on how to have honest and effective one-on-ones](https://blog.knowyourcompany.com/how-to-have-an-honest-one-on-one-with-an-employee-6b918e5662bb). Additionally, check out the [resources listed below](#additional-resources).
 
 ## Don't let them turn into never-ending therapy sessions
 Problems will emerge.  Challenges will arise.  Frustrations will come to a head.  Not all discussions will be about how awesome and exciting things (project, product, work environment, etc.) are.  At times, people will have issues to discuss and as managers we need to A) listen and B) work with our colleague on how to address the issue.
@@ -88,20 +88,20 @@ When you first begin as a team or tech lead, you may have management responsibil
 
 This plan failed royally.
 
-It did not scale as my team and number of direct reports grew.  What worked for one, did not work for five, and definitely did not work for 20. After following this schedule of back to back meetings few months I was beat.  I would go into the day mentally prepared, but after the third one-on-one, I was mentally exhausted. I ultimately had to [change my calendar for better 1-1s]({{ site.baseurl }}{% post_url 2018-5-17-changing-my-calendar-for-better-1-on-1s %}) .
+It did not scale as my team and number of direct reports grew.  What worked for one, did not work for five, and definitely did not work for 20. After following this schedule of back to back meetings for a few months I was beat.  I would go into the day mentally prepared, but after the third one-on-one, I was mentally exhausted. I ultimately had to [change my calendar for better 1-1s]({{ site.baseurl }}{% post_url 2018-5-17-changing-my-calendar-for-better-1-on-1s %}) .
 
 The lesson? Do not overbook your time as you need mental breaks too.  1-1s can be light, upbeat affairs.  They can also be heavy and intense discussions.  Going from one meeting to the next to the next, will not give you the space to be your best, which in turn will have a negative impact on the person you are meeting with.
 
 ## Conclusion
 If done properly and if conducted from a place of care and compassion, one-on-one meetings will help build a strong rapport - showing people how much they matter to the organization and how the organization values them, supports them and supports their growth as individuals and professionals. If done incorrectly, they can demotivate, lower morale, and ultimately lead to the departure of key employees.  As the saying goes (and data shows), [people do not leave companies, they leave managers](https://hbr.org/2018/01/why-people-really-quit-their-jobs).
 
-You will make mistakes.  That is OK.  You will learn and improve.  That is OK (_and expected_).  However, never stop pushing yourself to get better and grow.  I have laid out a myriad of mistakes that I have made -  not an exhaustive list - with the hope that it will help you on your journey as a manager and leader.
+You will make mistakes.  That is OK.  You will learn and grow.  That is OK (_and expected_).  However, never stop pushing yourself to get better and improve.  I have laid out a myriad of mistakes that I have made -  not an exhaustive list - with the hope that it will help you on your journey as a manager and leader.
 
 Check out the additional materials below and keep growing. You got this!
 
 ## Additional Resources
 - [The 8 best questions to ask during a one-on-one meeting](https://blog.knowyourcompany.com/the-8-best-questions-to-ask-during-a-one-on-one-meeting-2dae773f6bc2)
-- [How to have honest and effective one-on-ones](https://getpocket.com/a/read/1818575162).
+- [How to have honest and effective one-on-ones](https://blog.knowyourcompany.com/how-to-have-an-honest-one-on-one-with-an-employee-6b918e5662bb)
 - [How to start having one on ones with your team](https://getlighthouse.com/blog/how-to-start-one-on-ones-your-teams/)
 - [How to turn around a bad one on one meeting](https://getlighthouse.com/blog/one-to-one-meeting/)
 - [101 questions to ask in one-on-one meetings](https://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/)
