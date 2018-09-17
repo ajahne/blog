@@ -21,11 +21,11 @@ During the first few years, I did many things right (_I hope_ :P) and many thing
 Let's grow!
 
 ## TL;DR
-- Don't just focus on tasks
-- Don't let them turn into never-ending therapy sessions
-- Don't do all of the talking
-- Don't cancel and avoid rescheduling
-- Don't schedule them back to back (to back to...)
+- [Don't just focus on status updates and tasks](#dont-just-focus-on-status-updates-and-tasks)
+- [Don't let them turn into never-ending therapy sessions](#dont-let-them-turn-into-never-ending-therapy-sessions)
+- [Don't do all of the talking](#dont-do-all-of-the-talking)
+- [Don't cancel and avoid rescheduling](#dont-cancel-and-avoid-rescheduling)
+- [Don't schedule them back to back (to back to...)](#dont-schedule-them-back-to-back-to-back-to)
 
 **Note**: Our TL;DR is also a table of contents, click to jump to a topic.
 
@@ -50,7 +50,7 @@ There are different meetings for different people and situations. However, for t
 
 Not sure what to ask or how to go beyond status updates?  Check out this link on how to conduct 1-1 meetings and check out the additional resources below as well.
 
-## Do not let them turn into never-ending therapy sessions
+## Don't let them turn into never-ending therapy sessions
 Problems will emerge.  Challenges will arise.  Frustrations will come to a head.  Not all discussions will be about how awesome and exciting things (project, product, work environment, etc.) are.  At times, people will have issues to discuss and as managers we need to A) listen and B) work with our colleague on how to address the issue.
 
 Now, sometimes people just need to vent.  We've all been there.  Nothing is wrong with a good venting session.  It helps to release tension and "clear the air". However, if every session is about the same one or two problems and a resolution is not reached, then you are not helping the situation and potentially making it worse.
