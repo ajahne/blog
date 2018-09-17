@@ -7,7 +7,7 @@ tags: one on one, 1-1, meetings, leadership, management
 header:
   image: /assets/images/one-on-one-meeting-two-men.jpg
 ---
-*As members my team grow into [tech leads]({{ site.baseurl }}{% post_url 2018-2-11-what-is-a-tech-lead %}) and managers I have begun to reflect on 1-1s in an effort to help guide new managers and also to self-assess and improve the meetings I have.*
+*As members my team grow into [tech leads]({{ site.baseurl }}{% post_url 2018-2-11-what-is-a-tech-lead %}) and managers I have begun to reflect on one-on-ones in an effort to help guide new managers and also to self-assess and improve the meetings I have.*
 
 *In this two part series I will outline 10 Dos and Don'ts (five each) for one-on-one meetings based on my experience as an engineering manager and leader.*
 
@@ -37,7 +37,7 @@ There are many different flavors of one-on-one meetings, including:
 
 > For to-dos and tasks, find another meeting or another way to communicate status
 
-In my experience, most one-on-one meetings begin as a catchup meeting ("how's the week been?") followed by an immediate run down of tasks. In the beginning it works: its easy, it covers objectives, outlines deliverables, and makes sure everyone is "on the same page".  When I first started having 1-1s, this is what I did.  
+In my experience, most one-on-one meetings begin as a catchup meeting ("how's the week been?") followed by an immediate run down of tasks. In the beginning it works: its easy, it covers objectives, outlines deliverables, and makes sure everyone is "on the same page".  When I first started having one-on-ones, this is what I did.  
 
 **Do not do this type of meeting.**  
 
@@ -73,7 +73,7 @@ As leaders we are generally a bit (*cough*) outspoken.  We get excited, we want 
 ## Don't cancel and avoid rescheduling
 One-on-one meetings are important.  Rescheduling meetings as a manager can be frustrating to your direct report as it impacts their day and can also impact morale and motivation.  
 
-Have you ever had a performance review or an important meeting that was rescheduled by your boss?  Have you ever had something important to bring up, something that you wanted to discuss during a meeting that was shifted to another day or cancelled?  How did it feel? Not so good, right? We have all had that happen and must avoid moving meetings, especially 1-1s.  
+Have you ever had a performance review or an important meeting that was rescheduled by your boss?  Have you ever had something important to bring up, something that you wanted to discuss during a meeting that was shifted to another day or cancelled?  How did it feel? Not so good, right? We have all had that happen and must avoid moving meetings, especially one-on-ones.  
 
 Now people get sick, go on vacation, have PTOs, etc.  Servers go down and fires need to be put out.  Changing a meeting (rarely) is understood.  Doing so consistently is a red flag and a failure as a leader.
 
@@ -82,15 +82,15 @@ These meetings matter, do your best to not reschedule or cancel them.
 With that being said...
 
 ## Don't schedule them back to back (to back to...)
-> 1-1s are critical, fundamental meetings.  Give yourself the time, space, and energy to ensure you are focused and "in the moment" during each one.
+> One-on-ones are critical, fundamental meetings.  Give yourself the time, space, and energy to ensure you are focused and "in the moment" during each one.
 
-When you first begin as a team or tech lead, you may have management responsibilities that include conducting 1-1s. In my case, I chose one day where I would have all of my 1-1s.  This plan was glorious! I would go into the day mentally prepared, have a clear schedule and a specific agenda. I would know each week when I would meet with everyone, I would have productive meetings with all of my direct reports and conquer everything in one day.  
+When you first begin as a team or tech lead, you may have management responsibilities that include conducting one-on-ones. In my case, I chose one day where I would have all of my one-on-ones.  This plan was glorious! I would go into the day mentally prepared, have a clear schedule and a specific agenda. I would know each week when I would meet with everyone, I would have productive meetings with all of my direct reports and conquer everything in one day.  
 
 This plan failed royally.
 
-It did not scale as my team and number of direct reports grew.  What worked for one, did not work for five, and definitely did not work for 20. After following this schedule of back to back meetings for a few months I was beat.  I would go into the day mentally prepared, but after the third one-on-one, I was mentally exhausted. I ultimately had to [change my calendar for better 1-1s]({{ site.baseurl }}{% post_url 2018-5-17-changing-my-calendar-for-better-1-on-1s %}) .
+It did not scale as my team and number of direct reports grew.  What worked for one, did not work for five, and definitely did not work for 20. After following this schedule of back to back meetings for a few months I was beat.  I would go into the day mentally prepared, but after the third one-on-one, I was mentally exhausted. I ultimately had to [change my calendar for better one-on-ones]({{ site.baseurl }}{% post_url 2018-5-17-changing-my-calendar-for-better-1-on-1s %}) .
 
-The lesson? Do not overbook your time as you need mental breaks too.  1-1s can be light, upbeat affairs.  They can also be heavy and intense discussions.  Going from one meeting to the next to the next, will not give you the space to be your best, which in turn will have a negative impact on the person you are meeting with.
+The lesson? Do not overbook your time as you need mental breaks too.  One-on-ones can be light, upbeat affairs.  They can also be heavy and intense discussions.  Going from one meeting to the next to the next, will not give you the space to be your best, which in turn will have a negative impact on the person you are meeting with.
 
 ## Conclusion
 If done properly and if conducted from a place of care and compassion, one-on-one meetings will help build a strong rapport - showing people how much they matter to the organization and how the organization values them, supports them and supports their growth as individuals and professionals. If done incorrectly, they can demotivate, lower morale, and ultimately lead to the departure of key employees.  As the saying goes (and data shows), [people do not leave companies, they leave managers](https://hbr.org/2018/01/why-people-really-quit-their-jobs).
