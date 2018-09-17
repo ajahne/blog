@@ -7,7 +7,7 @@ tags: one on one, 1-1, meetings, leadership, management
 header:
   image: /assets/images/one-on-one-two-women-of-color.jpg
 ---
-*As members my team grow into [tech leads]({{ site.baseurl }}{% post_url 2018-2-11-what-is-a-tech-lead %}) and managers I have begun to reflect on 1-1s in an effort to help guide new managers and to also self assess and improve the meetings I have.*
+*As members my team grow into [tech leads]({{ site.baseurl }}{% post_url 2018-2-11-what-is-a-tech-lead %}) and managers I have begun to reflect on 1-1s in an effort to help guide new managers and also to self-assess and improve the meetings I have.*
 
 *In this two part series I will outline 10 Dos and Don'ts (five each) for 1-1 meetings based on my experience as an engineering manager and leader.*
 
@@ -20,21 +20,20 @@ During the first few years, I did many things right (_I hope_ :P) and many thing
 
 Let's grow!
 
-## TL;DR
+## Five 1-1 meetings don'ts:
 - [Don't just focus on status updates and tasks](#dont-just-focus-on-status-updates-and-tasks)
 - [Don't let them turn into never-ending therapy sessions](#dont-let-them-turn-into-never-ending-therapy-sessions)
 - [Don't do all of the talking](#dont-do-all-of-the-talking)
 - [Don't cancel and avoid rescheduling](#dont-cancel-and-avoid-rescheduling)
 - [Don't schedule them back to back (to back to...)](#dont-schedule-them-back-to-back-to-back-to)
 
-**Note**: Our TL;DR is also a table of contents, click to jump to a topic.
+**Note**: The above is a tl;dr and also a table of contents, click to jump to a topic.
 
 ## Don't just focus on status updates and tasks
-There are many different flavors of 1-1 meetings:  
+There are many different flavors of 1-1 meetings, including:  
 - Feedback meetings - devoted to informal feedback and coaching
 - Getting to know you meetings - typically the first 1-1
 - Career development conversations - focused on growth and how the person feels about their career
-- and more
 
 > For todos and tasks, find another meeting or another way to communicate status
 
@@ -44,11 +43,11 @@ In my experience, most 1-1 meetings begin as a catchup meeting ("how's the week 
 
 I had great todo meetings, everyone was clear on deliverables, deadlines were being met and from "on high" everything appeared rosy.  But little did I know, one direct report was having issues with a senior individual contributor and couldn't work with him any longer.  One engineer was frustrated with her team lead and communication had ground to a stand still.  One team member asked "can we meet" and handed in her letter of resignation that same day.
 
-In each of these cases all items on the "todo list" had a nice fat checkmark next to them.  Jiras had been resolved and bugs had been fixed.  New features were built in a timely manner and production was humming.  Yet, in all situations, there was more to discuss than a list of objectives. By focusing solely on tasks, no-one (i.e. me) was focused on what was making the person tick.  What was exciting? Motivating? Frustrating?  
+In each of these cases all items on the "todo list" had a nice fat checkmark next to them.  Jiras had been resolved and bugs had been fixed.  New features were built in a timely manner and production was humming.  Yet, in all situations, there was more to discuss than a list of objectives. By focusing solely on tasks, no-one (i.e. me) was focused on how this person was doing. What was exciting? Motivating? Frustrating?  
 
 There are different meetings for different people and situations. However, for todos and tasks, find another meeting or way to communicate status - Kanban board, morning Slack messages, daily stand ups, etc. By focusing purely on status updates, you will miss the most important status of all - the person themselves.
 
-Not sure what to ask or how to go beyond status updates?  Check out this link on how to conduct 1-1 meetings and check out the additional resources below as well.
+Not sure what to ask or how to go beyond status updates? Check out [this article on how to have honest and effective one-on-ones](https://getpocket.com/a/read/1818575162). Also, [here's a list of 101 questions to ask in 1-1 meetings](https://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/). Additionally, check out the [resources I have listed below](#additional-resources).
 
 ## Don't let them turn into never-ending therapy sessions
 Problems will emerge.  Challenges will arise.  Frustrations will come to a head.  Not all discussions will be about how awesome and exciting things (project, product, work environment, etc.) are.  At times, people will have issues to discuss and as managers we need to A) listen and B) work with our colleague on how to address the issue.
@@ -105,8 +104,9 @@ One on one meetings are not a panacea, they are not a cure-all elixir that will 
 You will make mistakes.  That is OK.  You will learn and grow.  That is OK (_and expected_).  However, never rest on your laurels and never stop pushing yourself to get better.  I have laid out a myriad of mistakes that I have made -  not an exhaustive list - with the hope that it will shed some light in the tunnel for you and help you continue to improve your 1-1 meetings.  You got this!
 
 ## Additional Resources
-- link 1
-- link 2
-- link 3
-- link 4
-- link 5
+- [The 8 best questions to ask during a one-on-one meeting](https://blog.knowyourcompany.com/the-8-best-questions-to-ask-during-a-one-on-one-meeting-2dae773f6bc2)
+- [How to have honest and effective one-on-ones](https://getpocket.com/a/read/1818575162).
+- [How to start having one on ones with your team](https://getlighthouse.com/blog/how-to-start-one-on-ones-your-teams/)
+- [How to turn around a bad one on one meeting](https://getlighthouse.com/blog/one-to-one-meeting/)
+- [101 questions to ask in 1-1 meetings](https://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/)]
+- [Six tips to rock your one-on-ones](https://blog.knowyourcompany.com/six-tips-to-rock-your-one-on-ones-769484ae1495)
