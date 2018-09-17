@@ -39,7 +39,7 @@ In my experience, most one-on-one meetings begin as a catchup meeting ("how's th
 
 **Do not do this type of meeting.**  
 
-I had great to-do meetings, everyone was clear on deliverables, deadlines were being met and from "on high" everything appeared rosy.  But little did I know, one direct report was having issues with a senior individual contributor and couldn't work with him any longer.  One engineer was frustrated with her team lead and communication had ground to a stand still.  One team member asked "can we meet" and handed in her letter of resignation that same day.
+I had great to-do meetings, everyone was clear on deliverables, deadlines were being met and from "on high" everything appeared rosy.  But little did I know, one direct report was having issues with a senior individual contributor and couldn't work with him any longer.  One engineer was frustrated with her team lead and communication had ground to a stand still.  One team member asked "can we meet" and handed in his letter of resignation that same day.
 
 In each of these cases all items on the "to-do list" had a nice fat checkmark next to them.  Jiras had been resolved and bugs had been fixed.  New features were built in a timely manner and production was humming.  Yet, in all situations, there was more to discuss than a list of objectives. By focusing solely on tasks, no-one (i.e. me) was focused on how this person was doing. What was exciting? Motivating? Frustrating?  
 
