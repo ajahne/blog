@@ -100,8 +100,7 @@ const puppeteer = require('puppeteer');
       {},
       text
     );
-  }
-  catch(e) {
+  } catch(e) {
     console.log(`The text "${text}" was not found on the page`);
   }
 
