@@ -14,8 +14,6 @@ header:
 ---
 I have been conducting one-on-one meetings in various capacities and roles for over eight years. These meetings have evolved significantly over this time. I have made mistakes, learned, challenged myself, and grown tremendously as a manager and leader.
 
-Early on in my career I did not even know that I was supposed to have one-on-one meetings, let alone how to conduct them.  I was thrust into the role of tech lead. As with most new managers, I was not provided any training nor a clear set of expectations for my role. Up $%!# creak; no paddle.
-
 During the first few years, I did many things right (_I hope_ :P) and many things wrong (_I know_) in my one-on-one meetings. In Part 1 of this series I will focus on five things not to do with one on one meetings. With Part 2 focused on five things we should be doing.
 
 Let's grow!
@@ -41,7 +39,7 @@ In my experience, most one-on-one meetings begin as a catchup meeting ("how's th
 
 **Do not do this type of meeting.**  
 
-I had great to-do meetings, everyone was clear on deliverables, deadlines were being met and from "on high" everything appeared rosy.  But little did I know, one direct report was having issues with a senior individual contributor and couldn't work with him any longer.  One engineer was frustrated with her team lead and communication had ground to a stand still.  One team member asked "can we meet" and handed in her letter of resignation that same day.
+I had great to-do meetings, everyone was clear on deliverables, deadlines were being met and from "on high" everything appeared rosy.  But little did I know, one direct report was having issues with a senior individual contributor and couldn't work with him any longer.  One engineer was frustrated with her team lead and communication had ground to a stand still.  One team member asked "can we meet" and handed in his letter of resignation that same day.
 
 In each of these cases all items on the "to-do list" had a nice fat checkmark next to them.  Jiras had been resolved and bugs had been fixed.  New features were built in a timely manner and production was humming.  Yet, in all situations, there was more to discuss than a list of objectives. By focusing solely on tasks, no-one (i.e. me) was focused on how this person was doing. What was exciting? Motivating? Frustrating?  
 
@@ -88,7 +86,7 @@ When you first begin as a team or tech lead, you may have management responsibil
 
 This plan failed royally.
 
-It did not scale as my team and number of direct reports grew.  What worked for one, did not work for five, and definitely did not work for 20. After following this schedule of back to back meetings for a few months I was beat.  I would go into the day mentally prepared, but after the third one-on-one, I was mentally exhausted. I ultimately had to [change my calendar for better one-on-ones]({{ site.baseurl }}{% post_url 2018-5-17-changing-my-calendar-for-better-1-on-1s %}) .
+It did not scale as my team and number of direct reports grew.  What worked for one, did not work for five, and definitely did not work for 20. After following this schedule of back to back meetings for a few months I was beat.  I would go into the day mentally prepared, but after the third one-on-one, I was mentally exhausted. I ultimately had to [change my calendar for better one-on-ones]({{ site.baseurl }}{% post_url 2018-5-17-changing-my-calendar-for-better-1-on-1s %}).
 
 The lesson? Do not overbook your time as you need mental breaks too.  One-on-ones can be light, upbeat affairs.  They can also be heavy and intense discussions.  Going from one meeting to the next to the next, will not give you the space to be your best, which in turn will have a negative impact on the person you are meeting with.
 

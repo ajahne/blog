@@ -57,3 +57,6 @@ Have an agenda
 - in my experience it is best
 
 If the meetings are "boring" or not productive, I'm sorry to tell you, but that's on you.  Bad 1-1s are the fault of manager, not the direct report.  Here are some additional questions you can ask to spice things up.  Below you will find some recipes to switch up the formula.
+
+
+Early on in my career I did not even know that I was supposed to have one-on-one meetings, let alone how to conduct them.  I was thrust into the role of tech lead. As with most new managers, I was not provided any training nor a clear set of expectations for my role. Up $%!# creak; no paddle.
