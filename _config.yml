@@ -22,11 +22,17 @@ url: "https://ajahne.github.io" # the base hostname & protocol for your site, e.
 github_username:  ajahne
 author:
   name             : "Ajahne Santa Anna"
+  avatar           : "/assets/images/bio-pic.jpg"
+  bio              : "VP Technology & Engineering @truechoicesolutions"
+  location         : "Brooklyn"
   github           : "ajahne"
 
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.12.1"
+
+words_per_minute         : 200
+google_analytics         : UA-126257783-1
 
 plugins:
   - jekyll-feed
