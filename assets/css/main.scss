@@ -1,6 +1,12 @@
 ---
 ---
 
+// $link-color: #7dc2d6;
+$link-color: #5ba0EE;
+$text-color: #333333;
+$sans-serif: -apple-system, "Segoe UI",
+  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+
 @import "{{ site.theme }}";
 
 .border-radius {
