@@ -1,3 +1,13 @@
+---
+layout: single
+title:  "One-on-one meeting dos and don'ts: Part 2 - Dos"
+date:   2018-9-29 8:43:29 -0400
+categories: leadership
+tags: one on one, 1-1, meetings, leadership, management
+header:
+  image: /assets/images/one-on-one-two-women-of-color.jpg
+---
+
 ## Dos:
 - do have them
 
