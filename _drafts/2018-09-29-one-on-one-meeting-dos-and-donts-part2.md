@@ -19,11 +19,11 @@ During my first few years as a manager, I did many things right (_I hope_ :P) an
 Let's grow!
 
 ## Five one-on-one meetings Dos:
-- [Do have them](#dont-just-focus-on-status-updates-and-tasks)
-- [Do switch them up](#dont-let-them-turn-into-never-ending-therapy-sessions)
-- [Do focus on the moment and be present](#dont-do-all-of-the-talking)
-- [Do take notes](#dont-cancel-and-avoid-rescheduling)
-- [Do come prepared](#dont-schedule-them-back-to-back-to-back-to)
+- [Do have them](#do-have-them)
+- [Do switch them up](#do-switch-them-up)
+- [Do focus on the moment and be present](#do-focus-on-the-moment-and-be-present)
+- [Do take notes](#do-take-notes)
+- [Do come prepared](#do-come-prepared)
 
 ## Do have them
 First and foremost, if you are not having one-on-one meetings, start having them! Have them and have them weekly. If you are not having 1-1, then you should. From my perspective, 1-1s are important for many reasons, including...
