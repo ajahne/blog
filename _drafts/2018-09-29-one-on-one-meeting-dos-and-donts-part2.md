@@ -91,6 +91,10 @@ I end each one-on-one by asking if they have any feedback for me? And most times
 ## Conclusion
 
 ## Additional Resources
+- [One-on-one meeting agendas]https://getlighthouse.com/blog/one-on-one-meeting-agenda/
+- [Questions for our first 1:1](https://larahogan.me/blog/first-one-on-one-questions/)
+- [7 ways to prepare to have an effective one on one meeting with your manager](https://blog.knowyourcompany.com/7-ways-to-prepare-to-have-an-effective-one-on-one-meeting-with-your-manager-3b7e083cb3bb)
+- [Effective one-on-one questions](https://a16z.com/2012/08/30/one-on-one/)
 
 ## Other:
 - do not think having 1-1s is a panacea
