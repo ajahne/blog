@@ -16,7 +16,7 @@
 title: Hello Ajahne
 # email: your-email@example.com
 description: > # this means to ignore newlines until "baseurl:"
-  const blog = ['languages', 'learning', 'leadership', 'life'];
+  const blog = ['learning', 'leadership', 'languages', 'life'];
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://ajahne.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ajahne
