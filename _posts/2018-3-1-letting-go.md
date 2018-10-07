@@ -21,7 +21,7 @@ I, I, I
 
 Like most new managers, no context was given when I started the position.  I went from productive coder to manager in a seamless transition that didn't have any official pomp and circumstance nor ceremony or celebration. No horns, no champagne bottles, no title change. No training.  Small company. Just me, a couple developers and maybe an intern.  
 
-So, awesome.  I’m promoted.  But, ummm, what am I supposed to do? What is my focus? My goals? My individual tasks? Should I still write code? What should I be doing now?
+So, awesome.  I’m "promoted".  But, ummm, what am I supposed to do? What is my focus? My goals? My individual tasks? Should I still write code? What should I be doing now?
 
 What about the team?
 
