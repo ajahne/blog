@@ -7,6 +7,11 @@ $text-color: #333333;
 $sans-serif: -apple-system, "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 
+.archive {
+  width: calc(100% - 200px);
+  padding-right: 200px;
+}
+
 @import "{{ site.theme }}";
 
 .border-radius {
