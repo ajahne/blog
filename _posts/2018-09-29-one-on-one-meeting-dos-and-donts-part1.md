@@ -9,12 +9,10 @@ header:
 ---
 *As members my team grow into [tech leads]({{ site.baseurl }}{% post_url 2018-2-11-what-is-a-tech-lead %}) and managers I have begun to reflect on one-on-one meetings in an effort to help guide new managers and to also self-assess and improve the meetings I have.*
 
-*In this two part series I will outline 10 Dos and Don'ts (five each) for one-on-one meetings based on my experience as an engineering manager and leader.*
-
 ---
 I have been conducting one-on-one meetings in various capacities and roles for over eight years. These meetings have evolved significantly over this time. I have made mistakes, learned, challenged myself, and grown tremendously as a manager and leader.
 
-During my first few years as a manager, I did many things right (_I hope_ :P) and many things wrong (_I know_) in my one-on-one meetings. Part 1 covers five one-on-one dos, while [Part 2]({{ site.baseurl }}{% post_url 2018-10-08-one-on-one-meeting-dos-and-donts-part2 %}) will dive into the don'ts.
+During my first few years as a manager, I did many things right (_I hope_ :P) and many things wrong (_I know_) in my one-on-one meetings. In this two part series I will outline 10 Dos and Don'ts (five each) for one-on-one meetings based on my experience as an engineering manager and leader. Part 1 covers five one-on-one dos, while [Part 2]({{ site.baseurl }}{% post_url 2018-10-08-one-on-one-meeting-dos-and-donts-part2 %}) will dive into the don'ts.
 
 Let's grow!
 ## Five one-on-one meetings Dos:
@@ -28,7 +26,7 @@ Let's grow!
 **Note**: The above is a tl;dr and also a table of contents, click to jump to a topic.
 
 ## Do have them (and have them weekly)
-First and foremost, if you are not having one-on-one meetings, start having them! Have them and have them weekly. If you are having them, great, here are a few ways to have [high impact one-on-one meetings](https://www.intercom.com/blog/high-impact-one-to-one-meetings), which you may find useful.
+First and foremost, if you are not having one-on-one meetings, start having them! Have them and have them weekly. If you are having them, great, here are a few ways to have [high impact one-on-one meetings](https://www.intercom.com/blog/high-impact-one-to-one-meetings).
 
 So why do one-on-ones matter?
 
@@ -73,7 +71,7 @@ Here are some ways to help ensure the safety of your team during important conve
 This is a huge topic and not something that can be summarized in a few bullet points. There is a entire book, [crucial conversations](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822), which goes into great depth on talking, listening, and creating a safe space when the stakes are high.
 
 ## Do focus on the moment and be present
-We have all been in meetings that we may not have wanted to be in. Sometimes we are tired, not feeling well, dealing with personal issues, maybe there are pressing matters outside of work that are on our mind. I try very hard to leave that outside of the meeting space and give my teammate my undivided attention.  Appearing distracted or worse, not interested in the meeting can have a very negative impact.
+We have all been in meetings that we may not have wanted to be in. Sometimes we are tired, not feeling well, or dealing with personal issues. I try very hard to leave these feelings outside of the meeting space and give my teammate my undivided attention.  Appearing distracted or worse, not interested in the meeting can have a very negative impact.
 
 With that being said, we are human.  If you are having a bad day or a tough time, be honest, open, and let your teammate know. This will help build the rapport, potentially even making them feel more confident to open up in the future.
 
@@ -87,7 +85,7 @@ I have a folder for each employee and a notebook specifically dedicated to one-o
 - areas of excitement, frustrations, etc.
 - feedback from my direct report to me and from me to my direct report
 - follow ups, to-dos, and any next steps
-- something new I may have learned about my direct reports likes/dislikes or their life in general
+- something new I may have learned about my direct report's likes/dislikes or their life in general
 
 I find the notes are helpful in:
 - keeping track of progress made; useful for goal-setting, performance reviews, and career conversations
@@ -95,7 +93,7 @@ I find the notes are helpful in:
 - remembering what was discussed week to week (and month to month, year to year...)
 - finding areas to congratulate them when something awesome has been accomplished
 
-If it works for you, definitely share the notes. Some team members want to see the notes I have written down others keep their own. Ask what works best for your direct report and proceed accordingly.
+If it works for you, definitely share the notes. Some team members want to see the notes I have written down, while others keep their own. Ask what works best for your direct report and proceed accordingly.
 
 ## Bonus: Do come prepared and have an agenda
 The agenda should be created by the direct report.  As you know, this is their meeting, not ours.  Ask them to draft an agenda ahead of time.  This can be a set of questions they have, an area of focus they would like to discuss, or a specific follow up from a previous meeting. [Here is an article](https://blog.knowyourcompany.com/7-ways-to-prepare-to-have-an-effective-one-on-one-meeting-with-your-manager-3b7e083cb3bb) you can share with your team that will help them come more prepared to one-on-one meetings.
@@ -103,9 +101,9 @@ The agenda should be created by the direct report.  As you know, this is their m
 If there are no questions or follow ups, be prepared with a [few questions of your own](https://blog.knowyourcompany.com/the-9-questions-that-uncover-the-most-surprising-insights-from-employees-364a63a01286).
 
 ## Conclusion
-Conducting one-on-one meetings is one of the most (if not _the_ most) important set of responsibilities that we have. As managers, they are [the single most important investment we can make in our teams](https://getlighthouse.com/blog/high-output-management/). They can help us coach and provide feedback, catch and fix issues, learn organizational shortcomings, see individual frustrations and excitements, share information up and down the company, and gain valuable insight into the health of our people and teams.
+Conducting one-on-one meetings is [the single most important investment we can make in our teams](https://getlighthouse.com/blog/high-output-management/). They can help us coach and provide feedback, catch and fix issues, learn organizational shortcomings, see individual frustrations and excitements, share information up and down the company, and gain valuable insight into the health of our people and teams.
 
-In this article, I have outline five things to do for effective one-on-one meetings - all from my own experiences and learning. This is by no means an exhaustive list, but a place we can start from to make sure we are having the best meetings that we can.  What else would you add?  In [part 2]({{ site.baseurl }}{% post_url 2018-10-08-one-on-one-meeting-dos-and-donts-part2 %}), I will go into some don'ts.  By seeing what we should and should not do, we can calibrate how we spend our time and how we conduct our meetings, to ensure they are highly impactful in a positive manner.
+In this article, I have outlined five things to do for effective one-on-one meetings. This is by no means an exhaustive list, but a place we can start from to make sure we are having the best meetings that we can. By seeing what we should and should not do, we can calibrate how we spend our time and how we conduct our meetings, to ensure they are highly impactful in a positive manner. What else would you add?
 
 Check out [Part 2 for one-on-one don'ts]({{ site.baseurl }}{% post_url 2018-10-08-one-on-one-meeting-dos-and-donts-part2 %}) and see the additional materials below. Keep growing and keep learning. You got this!
 
