@@ -7,7 +7,7 @@ tags: one on one, 1-1, meetings, leadership, management
 header:
   image: /assets/images/one-on-one-two-women-of-color.jpg
 ---
-*As members my team grow into [tech leads]({{ site.baseurl }}{% post_url 2018-2-11-what-is-a-tech-lead %}) and managers I have begun to reflect on one-on-one meetings in an effort to help guide new managers and also self-assess and improve the meetings I have.*
+*As members my team grow into [tech leads]({{ site.baseurl }}{% post_url 2018-2-11-what-is-a-tech-lead %}) and managers I have begun to reflect on one-on-one meetings in an effort to help guide new managers and to also self-assess and improve the meetings I have.*
 
 *In this two part series I will outline 10 Dos and Don'ts (five each) for one-on-one meetings based on my experience as an engineering manager and leader.*
 
@@ -68,7 +68,7 @@ Here are some ways to help ensure the safety of your team during important conve
 - When first beginning one-on-ones with a new employee or teammate, explicitly state that these meetings are a safe space. I find that by specifically stating this, it helps to remove doubt and assumptions. The trust will build overtime and by listening, being present, staying consistent, and ensuring supportive and honest feedback - the conversations will become more and more open and effective.
 - Keep the conversation confidential.  What is said during a one-on-one meeting must remain private.  Unless otherwise stated - and agreed to by both parties - what is said during the meeting should not be shared.  Avoid office gossip.
 - Let people talk in whatever manner and tone they want.  Listen, be supportive, and avoid interrupting.
-- Pay close attention to the person's body language and the way the respond. If you notice people becoming nervous or anxious, work to ensure they are as comfortable as possible.  Check your body language as well, remain open.
+- Pay close attention to the person's body language and the way they respond. If you notice the team member becoming nervous or anxious, work to ensure they are as comfortable as possible.  Check your body language as well, remain open.
 
 This is a huge topic and not something that can be summarized in a few bullet points. There is a entire book, [crucial conversations](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822), which goes into great depth on talking, listening, and creating a safe space when the stakes are high.
 
@@ -105,9 +105,9 @@ If there are no questions or follow ups, be prepared with a [few questions of yo
 ## Conclusion
 Conducting one-on-one meetings is one of the most (if not _the_ most) important set of responsibilities that we have. As managers, they are [the single most important investment we can make in our teams](https://getlighthouse.com/blog/high-output-management/). They can help us coach and provide feedback, catch and fix issues, learn organizational shortcomings, see individual frustrations and excitements, share information up and down the company, and gain valuable insight into the health of our people and teams.
 
-In this article, I have outline five things to do for effective one-on-one meetings - all from my own experiences and learning. This is by no means an exhaustive list, but a place we can start from to make sure we are having the best meetings that we can.  What else would you add?  In part 2, I will go into some don'ts.  By seeing what we should and should not do, we can calibrate how we spend our time and how we conduct our meetings, to ensure they are highly impactful in a positive manner.
+In this article, I have outline five things to do for effective one-on-one meetings - all from my own experiences and learning. This is by no means an exhaustive list, but a place we can start from to make sure we are having the best meetings that we can.  What else would you add?  In [part 2]({{ site.baseurl }}{% post_url 2018-10-08-one-on-one-meeting-dos-and-donts-part2 %}), I will go into some don'ts.  By seeing what we should and should not do, we can calibrate how we spend our time and how we conduct our meetings, to ensure they are highly impactful in a positive manner.
 
-Check out the additional materials below and keep growing. You got this!
+Check out [Part 2 for one-on-one don'ts]({{ site.baseurl }}{% post_url 2018-10-08-one-on-one-meeting-dos-and-donts-part2 %}) and see the additional materials below. Keep growing and keep learning. You got this!
 
 ## Additional Resources
 - [One-on-one meeting agendas](https://getlighthouse.com/blog/one-on-one-meeting-agenda/)
