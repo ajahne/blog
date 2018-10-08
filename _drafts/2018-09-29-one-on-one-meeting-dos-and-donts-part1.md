@@ -12,7 +12,7 @@ header:
 *In this two part series I will outline 10 Dos and Don'ts (five each) for one-on-one meetings based on my experience as an engineering manager and leader.*
 
 ---
-During my first few years as a manager, I did many things right (_I hope_ :P) and many things wrong (_I know_) in my one-on-one meetings. Part 1 covers five one-on-one dos, while [Part 2]({{ site.baseurl }}{% post_url 2018-09-16-one-on-one-meeting-dos-and-donts-part1 %}) will dive into the don'ts.
+During my first few years as a manager, I did many things right (_I hope_ :P) and many things wrong (_I know_) in my one-on-one meetings. Part 1 covers five one-on-one dos, while [Part 2]({{ site.baseurl }}{% post_url 2018-10-08-one-on-one-meeting-dos-and-donts-part2 %}) will dive into the don'ts.
 
 Let's grow!
 ## Five one-on-one meetings Dos:
