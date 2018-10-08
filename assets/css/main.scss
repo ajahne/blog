@@ -9,11 +9,6 @@ $sans-serif: -apple-system, "Segoe UI",
 
 @import "{{ site.theme }}";
 
-.archive {
-  width: calc(100% - 200px);
-  padding-right: 200px;
-}
-
 .border-radius {
   border-radius: 100%;
 }
