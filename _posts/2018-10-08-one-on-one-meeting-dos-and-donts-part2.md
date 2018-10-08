@@ -7,16 +7,10 @@ tags: one on one, 1-1, meetings, leadership, management
 header:
   image: /assets/images/one-on-one-meeting-two-men.jpg
 ---
-*As members my team grow into [tech leads]({{ site.baseurl }}{% post_url 2018-2-11-what-is-a-tech-lead %}) and managers I have begun to reflect on one-on-ones in an effort to help guide new managers and also to self-assess and improve the meetings I have.*
 
-*In this two part series I will outline 10 Dos and Don'ts (five each) for one-on-one meetings based on my experience as an engineering manager and leader.*
+Welcome to the second entry of my two part series on one-on-one meeting dos and don'ts. [Part 1 focused on the dos]({{ site.baseurl }}{% post_url 2018-09-29-one-on-one-meeting-dos-and-donts-part1 %}) and Part 2, well you guessed it, will dig into the don'ts.
 
----
-I have been conducting one-on-one meetings in various capacities and roles for over eight years. These meetings have evolved significantly over this time. I have made mistakes, learned, challenged myself, and grown tremendously as a manager and leader.
-
-During the first few years, I did many things right (_I hope_ :P) and many things wrong (_I know_) in my one-on-one meetings. In Part 1 of this series I will focus on five things not to do with one on one meetings. With Part 2 focused on five things we should be doing.
-
-Let's grow!
+Ready? Let's grow!
 
 ## Five one-on-one meetings don'ts:
 - [Don't just focus on status updates and tasks](#dont-just-focus-on-status-updates-and-tasks)
