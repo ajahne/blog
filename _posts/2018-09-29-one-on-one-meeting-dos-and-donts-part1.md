@@ -101,7 +101,7 @@ The agenda should be created by the direct report.  As you know, this is their m
 If there are no questions or follow ups, be prepared with a [few questions of your own](https://blog.knowyourcompany.com/the-9-questions-that-uncover-the-most-surprising-insights-from-employees-364a63a01286).
 
 ## Conclusion
-Conducting one-on-one meetings is [the single most important investment we can make in our teams](https://getlighthouse.com/blog/high-output-management/). They can help us coach and provide feedback, catch and fix issues, learn organizational shortcomings, see individual frustrations and excitements, share information up and down the company, and gain valuable insight into the health of our people and teams.
+As managers, conducting one-on-one meetings is [the single most important investment we can make in our teams](https://getlighthouse.com/blog/high-output-management/). They can help us coach and provide feedback, catch and fix issues, learn organizational shortcomings, see individual frustrations and excitements, share information up and down the company, and gain valuable insight into the health of our people and teams.
 
 In this article, I have outlined five things to do for effective one-on-one meetings. This is by no means an exhaustive list, but a place we can start from to make sure we are having the best meetings that we can. By seeing what we should and should not do, we can calibrate how we spend our time and how we conduct our meetings, to ensure they are highly impactful in a positive manner. What else would you add?
 
