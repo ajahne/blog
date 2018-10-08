@@ -12,6 +12,8 @@ header:
 *In this two part series I will outline 10 Dos and Don'ts (five each) for one-on-one meetings based on my experience as an engineering manager and leader.*
 
 ---
+I have been conducting one-on-one meetings in various capacities and roles for over eight years. These meetings have evolved significantly over this time. I have made mistakes, learned, challenged myself, and grown tremendously as a manager and leader.
+
 During my first few years as a manager, I did many things right (_I hope_ :P) and many things wrong (_I know_) in my one-on-one meetings. Part 1 covers five one-on-one dos, while [Part 2]({{ site.baseurl }}{% post_url 2018-10-08-one-on-one-meeting-dos-and-donts-part2 %}) will dive into the don'ts.
 
 Let's grow!
@@ -22,6 +24,8 @@ Let's grow!
 - [Do focus on the moment and be present](#do-focus-on-the-moment-and-be-present)
 - [Do take notes](#do-take-notes)
 - [Bonus: Do come prepared](#bonus-do-come-prepared-and-have-an-agenda)
+
+**Note**: The above is a tl;dr and also a table of contents, click to jump to a topic.
 
 ## Do have them (and have them weekly)
 First and foremost, if you are not having one-on-one meetings, start having them! Have them and have them weekly. If you are having them, great, here are a few ways to have [high impact one-on-one meetings](https://www.intercom.com/blog/high-impact-one-to-one-meetings), which you may find useful.
