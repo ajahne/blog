@@ -9,20 +9,20 @@ header:
 ---
 Another month, another excellent [CTO meetup](https://www.meetup.com/ctoschool/). This month, the focus was on [options for scaling teams beyond NYC](https://www.meetup.com/ctoschool/events/llrrbqyxnblb/).
 
-The monthly meetup is a forum for startup CTOs, VPs of Engineering, [Tech Leads]({{ site.baseurl }}{% post_url 2018-2-11-what-is-a-tech-lead %}), Entrepreneurs, Senior developers on the leadership path, and individual contributors to gather and discuss challenges we face as leaders related to people management, process, and technology.  
+The monthly meetup is a forum for startup CTOs, VPs of Engineering, [Tech Leads]({{ site.baseurl }}{% post_url 2018-2-11-what-is-a-tech-lead %}), entrepreneurs, senior developers on the leadership path, and individual contributors to gather and discuss the challenges we face as leaders.
 
-As I am currently exploring ways to augment the development and QA teams at my organization, I am very interested in the topic of scaling and curious to hear additional perspectives.  Let's jump in.
+As I am currently exploring ways to augment the development and QA teams at my organization, I am very interested in the topic of scaling and curious to hear additional perspectives on the subject.  Let's jump in.
 
 ## Contents
 - [What was the discussion about?](#what-was-the-presentation-about)
-- [Who were the guest speakers?](#who-was-the-speaker)
+- [Who were the guest speakers?](#who-were-the-guest-speakers)
 - [Notes and learning](#assorted-musings-and-tidbits)
 - [My key takeaways](#my-key-takeaways)
 
 ## What was the discussion about?
 We focused on options for scaling your team beyond NYC. Many teams are struggling to hire fast enough, so the question is how do you supplement your NY team with other options.
 
-Jean, the facilitator, started off with question: "Who is having an easy time hiring developers in NYC?""  No-one raised their hands.  Welp, that about sums it up. Hiring in NYC (and I assume other competitive cities) is challenging for one key fact - the demand is higher than the supply and the big companies can outbid the smaller ones. The market favors developers (good if you are skilled and searching for an opportunity) and challenging for companies looking to hire.  
+[Jean](https://www.linkedin.com/in/jbarmash), the moderator, started off with question: "Who is having an easy time hiring developers in NYC?""  No-one raised their hands.  Welp, that about sums it up. Hiring in NYC (and I assume other competitive cities) is challenging for one key fact - the demand is higher than the supply and the big companies can outbid the smaller ones. The market favors developers (good if you are skilled and searching for an opportunity) and challenging for companies looking to hire.  
 
 There are many different options to tackle this problem of hiring and growing at scale.  This discussion centered around offshore/outsourcing, satellite workers/offices, and more options including hiring (and mentoring) junior developers.
 
@@ -30,12 +30,12 @@ There are many different options to tackle this problem of hiring and growing at
 - [Dmitry Koltunov](https://www.linkedin.com/in/dmitry-koltunov-cfa-0598241/) - Co-Founder & CTO, Alice
 - [Jesse Landry](https://www.linkedin.com/in/jesselandry/) - ITechArt Group
 - [Daniel Rolnick](https://www.linkedin.com/in/daniel-rolnick-6a36922) - CTO, Shopkeep  
-Each presenter provided a different perspective on scaling. Dmitry and Daniel discussed the challenges and opportunities with scaling, while Jesse provided the partner perspective.  Each brought extensive experience and insight to the discussion.
+
+Each presenter provided a different perspective on scaling. Dmitry and Daniel discussed the challenges and opportunities with growing an organization based in NYC, while Jesse provided the partner perspective on supporting.  Each brought extensive experience and insight to the discussion.
 
 ## Offshore vs distributed
 - monolithic vs micro services
 - More orchestration and monitoring
-- Alert when things arevdevuating
 - Give people what and why (pitch tech team like investors, product owner does it)
 - Hard to motivate, hard to keep culture
 - Can’t talk about why enough
@@ -81,12 +81,11 @@ Jesse described Vendor: TGIF, partner: restaurant that pairs your wine with your
   - Furthermore, talk to delivery team, the tech team, understand who you will work with?
 
 ## On creating a culture
-- what do the people think about
-- What do people feel
+- Determine what people think about and what they feel.
 - How do we align with the culture
 - Bring people out to New York for 1-2 weeks; Fly people back and forth
 - Have video calls (put people’s camera on)
-- People are social animals
+- People are social animals - have the "water cooler talk over Slack"
 - Need a balance between people who smile and people who are great engineers
 - Find people who get and appreciate taking on the challenge
 
