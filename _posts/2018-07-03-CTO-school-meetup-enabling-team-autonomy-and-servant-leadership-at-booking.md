@@ -23,7 +23,7 @@ So what was the presentation about and what were some of my takeaways?
 - [My key takeaways](#my-key-takeaways)
 
 ## What was the presentation about?
-As Booking.com faced tremendous growth, it was critical to ensure their teams maintained high performance and motivation. They wanted to try out autonomous teams - teams without team leads - to provide more developer bandwidth, increase motivation, and drive their own - and the company's - performance.
+As [Booking.com](https://www.booking.com) faced tremendous growth, it was critical to ensure their teams maintained high performance and motivation. They wanted to try out autonomous teams - teams without team leads - to provide more developer bandwidth, increase motivation, and drive their own (and the company's) performance.
 
 To this end, Booking.com implemented autonomous teams - teams without team leads/managers.
 
@@ -32,7 +32,7 @@ For context: their "standard" team structure was comprised of a team lead, produ
 ### Autonomous teams would:
 - Set their own goals (OKRs, KPIs)
 - Work with product owners
-- Choose how they want to organize and meet (some do scrum, some Kanban, etc.)
+- Choose how they want to organize and meet (some do Scrum, some Kanban, etc.)
 - Conduct 360 performance reviews
 - Not have a team lead
 
