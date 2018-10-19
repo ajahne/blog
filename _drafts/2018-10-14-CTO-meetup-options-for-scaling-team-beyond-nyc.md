@@ -7,16 +7,32 @@ tags: leadership, management, outsourcing, scaling, nyc, cto
 header:
   image: /assets/images/cto-meeting-scaling-nyc.jpg
 ---
-I'm a member of a monthly meetup of technologists from different organizations throughout the greater NYC area who are looking to become better leaders.  This is an excellent [meetup](https://www.meetup.com/ctoschool/) of startup CTOs, VPs of Engineering, [Tech Leads]({{ site.baseurl }}{% post_url 2018-2-11-what-is-a-tech-lead %}), Entrepreneurs, Senior developers on the leadership path, individual contributors, and more.  
+Another month, another excellent [CTO meetup](https://www.meetup.com/ctoschool/). This month, the focus was on [options for scaling teams beyond NYC](https://www.meetup.com/ctoschool/events/llrrbqyxnblb/).
 
-The monthly meetup is a forum to discuss challenges we face as leaders related to people management, process, and technology.  This month, the topic was scaling teams beyond NYC.
+The monthly meetup is a forum for startup CTOs, VPs of Engineering, [Tech Leads]({{ site.baseurl }}{% post_url 2018-2-11-what-is-a-tech-lead %}), Entrepreneurs, Senior developers on the leadership path, and individual contributors to gather and discuss challenges we face as leaders related to people management, process, and technology.  
 
-## outline
-- intro
-- what was the meeting
+As I am currently exploring ways to augment the development and QA teams at my organization, I am very interested in the topic of scaling and curious to hear additional perspectives.  Let's jump in.
+
+## Contents
+- [What was the discussion about?](#what-was-the-presentation-about)
+- [Who were the guest speakers?](#who-was-the-speaker)
+- [Notes and learning](#assorted-musings-and-tidbits)
+- [My key takeaways](#my-key-takeaways)
+
+## What was the discussion about?
+We focused on options for scaling your team beyond NYC. Many teams are struggling to hire fast enough, so the question is how do you supplement your NY team with other options.
+
+Jean, the facilitator, started off with question: "Who is having an easy time hiring developers in NYC?""  No-one raised their hands.  Welp, that about sums it up. Hiring in NYC (and I assume other competitive cities) is challenging for one key fact - the demand is higher than the supply and the big companies can outbid the smaller ones. The market favors developers (good if you are skilled and searching for an opportunity) and challenging for companies looking to hire.  
+
+There are many different options to tackle this problem of hiring and growing at scale.  This discussion centered around offshore/outsourcing, satellite workers/offices, and more options including hiring (and mentoring) junior developers.
+
+## Who were the guest speakers?
+- [Dmitry Koltunov](https://www.linkedin.com/in/dmitry-koltunov-cfa-0598241/) - Co-Founder & CTO, Alice
+- [Jesse Landry](https://www.linkedin.com/in/jesselandry/) - ITechArt Group
+- [Daniel Rolnick](https://www.linkedin.com/in/daniel-rolnick-6a36922) - CTO, Shopkeep  
+Each presenter provided a different perspective on scaling. Dmitry and Daniel discussed the challenges and opportunities with scaling, while Jesse provided the partner perspective.  Each brought extensive experience and insight to the discussion.
 
 ## Offshore vs distributed
-Offshore vs distributed
 - monolithic vs micro services
 - More orchestration and monitoring
 - Alert when things arevdevuating
@@ -24,10 +40,9 @@ Offshore vs distributed
 - Hard to motivate, hard to keep culture
 - Can’t talk about why enough
 - Lose ability to get excited (without why)
-- When a region is found you liked, hired a recruiter
+- When a region is found you liked, hire a recruiter
 
-### time zones
-Time zones
+### Time Zones
 - align people in a band
 - Shift to pods based on time zones
 
@@ -36,37 +51,46 @@ Time zones
 - Backlog out of the way
 - Hard to find people
 - Hard to get people; people can get salaries from Facebook and google
-- Why am I outsourcing?
-- What needs to get done?
 - Need additional expertise
 - Success has been in long term engagements
 - Project by project basis - might not have the expertise
-- Vendor: TGIF, partner: restaurant that pairs your wine with your meal
 
-### how to make staff augmenter/partner work
+Jesse described Vendor: TGIF, partner: restaurant that pairs your wine with your meal
+
+### How to make staff augmenter/partner work
 - communication what’s the person working on? Skills required?
-- “Overcomminicate”
+- “Over-communicate"
 - Partner
 - Have stability in your organization
 - Have the team visit your office
 - Have you visit them
 - Understand the culture of the company
 - Visit with the people
+- Have a clear objective, ask yourself: Why am I outsourcing? What needs to get done?
 
-### how to evaluate a partner
+### How to evaluate a partner
 - communication
-- Language
-- TimeZome (is partner willing to extend hours to work with you)
-- Budget
-- Who is involved
-- Escalation points?
+- Do they speak the language
+- Do you share a similar time zone and or is partner willing to extend hours to work with you?
+- Be clear on your budget
+- Who is involved? What are the escalation points?
 - Hands on or hands off
-- Team composition
-- Management
-- Interview
-- Talk to delivery team, tech team
+- What is the team composition
+- What is the management structure? This includes both your team and that of the partner
+- Take time to interview the developers and people you will work with (a point heavilty stressed by Dmitry as well)
+  - Furthermore, talk to delivery team, the tech team, understand who you will work with?
 
-## Some keys to success (i.e. making this work)
+## On creating a culture
+- what do the people think about
+- What do people feel
+- How do we align with the culture
+- Bring people out to New York for 1-2 weeks; Fly people back and forth
+- Have video calls (put people’s camera on)
+- People are social animals
+- Need a balance between people who smile and people who are great engineers
+- Find people who get and appreciate taking on the challenge
+
+## Some keys to success (aka Let's make this work)
 - Understand local power structure, have a local partner
 - Avoid it by - you are a sole contractor, works with a few people, found that critical mass was three
 - Worked with countries that other people don’t wanna work in
@@ -74,47 +98,16 @@ Time zones
 - Junior developers doesn’t work
 - If less than 7 years, then do not hire
 - Takes a level or professional experience
-- Do your diligence, research the company, laws and people
+- Do your diligence, research the company, laws and the people you are looking to work with
 - Design the teams first to create the architecture you want to create
-- Have to have good leadership in place. Need a partner you can trust?
+- Have to have good leadership in place. Need a partner you can trust.
 - When distributed - learn local labor laws. Hire contractors, they start sole proprietor for the developers, creates them as exclusive contractor
 - Getting teams independent, avoid spreading work amongst teams
 - Vertically align teams to areas of business and make sure everyone they need is collocated
-- Regularly send people from NYC to Belfast
+- Regularly have people meet in person (e.g. send people from NYC to Belfast)
 - Document everything (e.g. "If not written down, it doesn't exist")
 
-## creating a culture
-- what do the people think about
-- What do people feel
-- How do we align with the culture
-- Generally hiring in areas that do not have startups
-- Bring people out to New York for 1-2 weeks
-- Have video calls (put people’s camera on)
-- People are social animals
-- Need a balance between people who smile and people who are great engineers
-- Find people who get and appreciate taking on the challenge
-- Fly people back and forth
-
-## management
-- Video code reviews, not just code review bully
-- One on one always video
-- 360 email people that work with and collect it
-- Anonymize it
-- Constructive and reinforcing
-- 180 days
-- Team level
-- Manager leave
-- You as and execuiton person
-- 90% is lead by person
-- Then 360
-- Then manager
-- 2-4 hours per person
-- Engineering managers of the partners
-- If work with a partner do not do performance management
-- At the end of the day do not employee them
-- Would have to review if paying a hire rate
-
-## challenges
+## Challenges
 - Architecture is hard - cannot share white board
 - communication
 - Found no matter what city, run into a scaling problem
@@ -123,23 +116,13 @@ Time zones
 - Never try them out, if fail the interview, do not just try them out
 - Hiring in NYC
 
-## About the presenters and companies
-- Dimitri Alice
-  - "Jira for Hotel Staff"
-  - Raised 40million, 100+ staff
-  - Team is in 11 countries and 16 cities
-  - Went with staff aug - but interviewed every developer
-- Daniel CTO of [Company]
-  - 30 developers in NYC, 45 in Ireland
-- Staff Augmenter
-  - works with multiple companies
-
 ## Conclusion
 - I learned a lot
-- challenges in scaling, hard to hire very expensive in nyc
-- do your dilligence
+- challenges in scaling, hard to hire very expensive in NYC
+- do your diligence
 - visit the offices and have people from the offices visit NYC
 - focus on communication
 
 ## Additional Resources
 - https://andela.com
+- http://extendeditarms.com
