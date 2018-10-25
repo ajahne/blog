@@ -9,14 +9,19 @@ header:
 ---
 Another month, another excellent [CTO meetup](https://www.meetup.com/ctoschool/). This month, the focus was on [options for scaling teams beyond NYC](https://www.meetup.com/ctoschool/events/llrrbqyxnblb/).
 
-The monthly meetup is a forum for startup CTOs, VPs of Engineering, [Tech Leads]({{ site.baseurl }}{% post_url 2018-2-11-what-is-a-tech-lead %}), entrepreneurs, senior developers on the leadership path, and individual contributors to gather and discuss the challenges we face as leaders.
+To recap, the monthly meetup is a forum for startup CTOs, VPs of Engineering, [Tech Leads]({{ site.baseurl }}{% post_url 2018-2-11-what-is-a-tech-lead %}), entrepreneurs, senior developers on the leadership path, and individual contributors to gather and discuss the challenges we face as leaders.
 
-As I am currently exploring ways to augment the development and QA teams at my organization, I am very interested in the topic of scaling and curious to hear additional perspectives on the subject.  Let's jump in.
+As I am currently exploring ways to augment the development and QA teams at my organization. I am very interested in the topic of scaling and curious to hear additional perspectives on the subject.  Let's jump in.
+
+I recently met with one offshore development company, extendedITArms, and this meetup was not only timely, but helpful in identifying key areas for me to focus on and follow up on during my discussions.
 
 ## Contents
 - [What was the discussion about?](#what-was-the-presentation-about)
 - [Who were the guest speakers?](#who-were-the-guest-speakers)
-- [Notes and learning](#assorted-musings-and-tidbits)
+- [On scaling]
+- [On creating and maintaining a culture](foo)
+- [Scaling Challenges](#assorted-musings-and-tidbits)
+- [Solutions](foo)
 - [My key takeaways](#my-key-takeaways)
 
 ## What was the discussion about?
@@ -24,104 +29,84 @@ We focused on options for scaling your team beyond NYC. Many teams are strugglin
 
 [Jean](https://www.linkedin.com/in/jbarmash), the moderator, started off with question: "Who is having an easy time hiring developers in NYC?""  No-one raised their hands.  Welp, that about sums it up. Hiring in NYC (and I assume other competitive cities) is challenging for one key fact - the demand is higher than the supply and the big companies can outbid the smaller ones. The market favors developers (good if you are skilled and searching for an opportunity) and challenging for companies looking to hire.  
 
+Our challenges include:
+- Demand is higher than the supply
+- Hard to find people; hard to get (and keep) people
+- People can get salaries from Facebook and Google
+- Need additional expertise
+
 There are many different options to tackle this problem of hiring and growing at scale.  This discussion centered around offshore/outsourcing, satellite workers/offices, and more options including hiring (and mentoring) junior developers.
+
+### Definitions
+- **Outsource:** contract work to a third-party
+- **Offshore:** teams located in a different country
+- **Distributed:** teams in multiple countries/regions/timezones
+- **Staff augmenter/partner:** outsourcing strategy, extension of your team to leverage existing people and utilize additional staff
 
 ## Who were the guest speakers?
 - [Dmitry Koltunov](https://www.linkedin.com/in/dmitry-koltunov-cfa-0598241/) - Co-Founder & CTO, Alice
 - [Jesse Landry](https://www.linkedin.com/in/jesselandry/) - ITechArt Group
 - [Daniel Rolnick](https://www.linkedin.com/in/daniel-rolnick-6a36922) - CTO, Shopkeep  
 
-Each presenter provided a different perspective on scaling. Dmitry and Daniel discussed the challenges and opportunities with growing an organization based in NYC, while Jesse provided the partner perspective on supporting.  Each brought extensive experience and insight to the discussion.
+Each presenter provided a different perspective on scaling. Dmitry and Daniel discussed the challenges and opportunities with growing an organization based in NYC, while Jesse provided the partner perspective on supporting organizations as they scale.  Each brought extensive experience and insight to the discussion.
 
-## Offshore vs distributed
-- monolithic vs micro services
-- More orchestration and monitoring
-- Give people what and why (pitch tech team like investors, product owner does it)
-- Hard to motivate, hard to keep culture
-- Can’t talk about why enough
-- Lose ability to get excited (without why)
-- When a region is found you liked, hire a recruiter
+## On Different ways to scale.
+The discussion opened up discussing different wants to scale, specifically on offshore vs distributed teams.  Offshore, in this context, referring to a team of developers (potentially co-located) in another city or country, such as Ireland or Brazil.  Scaling beyond offshoring (i.e a focus on one or two distinct locations), is implementing a fully distributed team - for example a team located in 16 countries across 11 cities.  
 
-### Time Zones
-- align people in a band
-- Shift to pods based on time zones
+An apt analogy of offshore vs distributed, was that of architecture: monolithic vs microservices.  As [software built is often a reflection of the team dynamic and communication](software reflects the organization), it is very important to organization your teams accordingly.  Having teams located in different locations requires an extra level of orchestration and monitoring.  Jira and documentation was heavily stressed ("If not written down, it doesn't exist").
 
-## Staff Augmenter/Partner
-- want to be a true extension of what you do in your organization
-- Backlog out of the way
-- Hard to find people
-- Hard to get people; people can get salaries from Facebook and google
-- Need additional expertise
-- Success has been in long term engagements
-- Project by project basis - might not have the expertise
+In addition to scaling through these methods, Jesse provided his perspectives on scaling your organization through a staffing augmenter/partner.  Ideally, they want to be a true extension of what you do in your organization: help knockout your backlog; provide additional expertise.  A partner can help you on a project by project basis, but most success is in long term engagements.
 
-Jesse described Vendor: TGIF, partner: restaurant that pairs your wine with your meal
+Jesse described a _vendor_ as TGIF, while a _partner_ is restaurant that pairs your wine with your meal
 
-### How to make staff augmenter/partner work
-- communication what’s the person working on? Skills required?
-- “Over-communicate"
-- Partner
-- Have stability in your organization
-- Have the team visit your office
-- Have you visit them
-- Understand the culture of the company
-- Visit with the people
-- Have a clear objective, ask yourself: Why am I outsourcing? What needs to get done?
+Another way to scale that Daniel raised (and I have personally championed at my organization) is to hire junior developers and train them.  I have had great success hiring talented, hard-working, self-motivated developers in entry level positions who have rapidly transitioned into valuable and production team members.  The key(s) for this to work?  Have an excellent onboarding program (training) and strong management/leadership.
 
-### How to evaluate a partner
-- communication
-- Do they speak the language
-- Do you share a similar time zone and or is partner willing to extend hours to work with you?
-- Be clear on your budget
-- Who is involved? What are the escalation points?
-- Hands on or hands off
-- What is the team composition
-- What is the management structure? This includes both your team and that of the partner
-- Take time to interview the developers and people you will work with (a point heavilty stressed by Dmitry as well)
-  - Furthermore, talk to delivery team, the tech team, understand who you will work with?
+## Challenges
+### General challenges scaling beyond one location
+- Architecture is hard - cannot share white board
+- Communication
+- Found no matter what city, run into a scaling problem
+  - Price of developers overseas starts to rise
+  - Eventually everyone has a bench and a bench might run out. Team have people but not the people you need
+- Working in different time zones
+- For remote developers:
+  - If less than 7 years, then do not hire (junior developers do not work)
+  - Hiring people without a strong CS background doesn’t work
+- *Note:* Never "try out" a developer, if fail the interview, do not just try them out
 
 ## On creating a culture
-- Determine what people think about and what they feel.
-- How do we align with the culture
+One of the key challanges was creating and maintainging a culture when people are working in different locations, offices, and timezones. It can be hard to motivate and hard to keep the culture. The presenters has multiple viewpoints on how to potentially address this:
+- Determine what people think about and what they feel
+- As leadership, ask and determine: How do we align with the culture?
 - Bring people out to New York for 1-2 weeks; Fly people back and forth
 - Have video calls (put people’s camera on)
 - People are social animals - have the "water cooler talk over Slack"
 - Need a balance between people who smile and people who are great engineers
-- Find people who get and appreciate taking on the challenge
+- Find people who get and appreciate taking on challenges
+- Can’t talk about why enough; People can lose ability to get excited without the why
+  - Give people what *and* why, furthermore pitch tech team like investors
 
 ## Some keys to success (aka Let's make this work)
 - Understand local power structure, have a local partner
-- Avoid it by - you are a sole contractor, works with a few people, found that critical mass was three
-- Worked with countries that other people don’t wanna work in
-- Hiring people without a strong CS background doesn’t work
-- Junior developers doesn’t work
-- If less than 7 years, then do not hire
-- Takes a level or professional experience
+- When distributed - learn local labor laws.
+- Work with countries that other people don’t want to work in
 - Do your diligence, research the company, laws and the people you are looking to work with
 - Design the teams first to create the architecture you want to create
-- Have to have good leadership in place. Need a partner you can trust.
-- When distributed - learn local labor laws. Hire contractors, they start sole proprietor for the developers, creates them as exclusive contractor
-- Getting teams independent, avoid spreading work amongst teams
-- Vertically align teams to areas of business and make sure everyone they need is collocated
+- Must have good leadership in place. Need a partner you can trust.
+- Vertically align teams to areas of business and make sure everyone they need is collocated.  It is critical to get teams independent, avoid spreading work amongst teams
 - Regularly have people meet in person (e.g. send people from NYC to Belfast)
 - Document everything (e.g. "If not written down, it doesn't exist")
+- When a region is found you liked, hire a recruiter
+- When working in different time zones, align people in a time "band"; shift to teams based on time zones
 
-## Challenges
-- Architecture is hard - cannot share white board
-- communication
-- Found no matter what city, run into a scaling problem
-- Price of developers overseas starts to rise
-- Eventually everyone has a bench and a bench might run out. Team have people but not the people you need
-- Never try them out, if fail the interview, do not just try them out
-- Hiring in NYC
+## My Key Takeaways
+- Communication is key, over-communicate
+  - when working with remote teams have
+- Building and maintaining culture is paramount
+  - Have remote-teams visit NYC, have NYC teams meet their remote coworkers
+  - Focus on the why
+- If it isn't documented, it doesn't exist (_how true is this!_)
+- Understand the local labor laws
+- Do your diligence, ensure the partner you are working with is ethical
 
-## Conclusion
-- I learned a lot
-- challenges in scaling, hard to hire very expensive in NYC
-- do your diligence
-- visit the offices and have people from the offices visit NYC
-- focus on communication
-
-## Additional Resources
-- https://andela.com
-- http://extendeditarms.com
+These takeaways can also be applied to teams of all sizes and staffing strategy.
