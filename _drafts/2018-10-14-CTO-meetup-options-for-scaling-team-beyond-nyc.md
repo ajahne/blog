@@ -25,9 +25,11 @@ I recently met with one offshore development company, extendedITArms, and this m
 - [My key takeaways](#my-key-takeaways)
 
 ## What was the discussion about?
-[Jean](https://www.linkedin.com/in/jbarmash), the moderator, started off with question: "Who is having an easy time hiring developers in NYC?". _No-one_ raised their hand.  Welp, that about sums it up. Hiring in NYC (and I assume other competitive cities) is challenging for one key fact - the demand is higher than the supply and the big companies can outbid the smaller ones. The market favors developers (good if you are skilled and searching for an opportunity) and challenging for companies looking to hire.
+[Jean](https://www.linkedin.com/in/jbarmash), the moderator, started off with one (simple) question:
 
-Additionally, our teams may not have the expertise we require for our next big product push.
+> Who is having an easy time hiring developers in NYC?
+
+_No-one_ raised their hand.  Welp, that about sums it up. Hiring in NYC (and I assume other competitive cities) is challenging for one key fact - the demand is higher than the supply and the big companies can outbid the smaller ones. The market favors developers (good if you are skilled and searching for an opportunity) and challenging for companies looking to hire.
 
 There are many different options to tackle this problem of hiring and growing at scale.  This discussion centered around offshore/outsourcing, satellite workers/offices, and more options including hiring (and mentoring) junior developers.
 
@@ -35,7 +37,7 @@ Before we jump in further, a quick recap of different ways to scale
 
 ### Recap/Definitions
 - **Outsource:** contract work to a third-party
-- **Offshore:** teams located in a different country
+- **Offshore:** teams located in a different country (development in house or outsourced)
 - **Distributed:** teams in multiple countries/regions/timezones
 - **Staff augmenter/partner:** outsourcing strategy, extension of your team to leverage existing people and utilize additional staff
 
