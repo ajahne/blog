@@ -18,7 +18,7 @@ Now that we have a little context, let's jump in.
 ## Contents
 - [What was the discussion about?](#what-was-the-discussion-about)
 - [Who were the guest speakers?](#who-were-the-guest-speakers)
-- [What are some of the scaling challenges?](#what-are-some-of-challenges-when-scaling-beyond-one-location)
+- [What are some challenges when scaling beyond one location?](#what-are-some-challenges-when-scaling-beyond-one-location)
 - [On creating and maintaining a culture at scale](#on-creating-and-maintaining-a-culture-at-scale)
 - [A few keys to success aka let's make this work](#a-few-keys-to-success-aka-lets-make-this-work)
 - [My key takeaways](#my-key-takeaways)
@@ -32,7 +32,7 @@ _No-one_ raised their hand.  Welp, that about sums it up. Hiring in NYC (and I a
 
 There are many different options to tackle this problem of hiring and growing at scale.  This discussion centered around offshore/outsourcing, satellite workers/offices, as well as additional options including hiring (and mentoring) junior developers. Each presenter had an opportunity to share their experiences and perspectives.
 
-### Before we jump in further, a quick recap of some different ways to scale:
+### Before we go further, a quick recap of some different ways to scale:
 - **Outsource:** contract work to a third-party
 - **Offshore:** teams located in different countries (development in house or outsourced)
 - **Distributed:** teams in multiple countries/regions/timezones
@@ -57,8 +57,8 @@ Another approach to scaling that was raised by the presenters (and one I have pe
 
 Each presenter provided a different perspective on scaling. Dmitry and Daniel discussed the challenges and opportunities with growing an organization based in NYC, while Jesse provided the partner perspective on supporting organizations as they scale.  Each brought extensive experience and valuable insight to the discussion.
 
-## What are some of challenges when scaling beyond one location?
-- Communication.  This was often the **key driver** for success/failure in the relationship.
+## What are some challenges when scaling beyond one location?
+- Communication.  This was often the **key driver** for success/failure.
 - Architecture is hard - cannot share a white board
   - _As an aside, this seems like a great startup idea, why isn't this solved?_
 - It was observed that no matter what city, you can (will) run into a scaling problem
@@ -77,33 +77,33 @@ Furthermore, and worthy of its own section, is the challenge of creating a cultu
 - Bring people out to New York for 1-2 weeks; fly people back and forth
 - Have video calls (_make people put their camera on_)
 - People are social animals - have the "water cooler talk over Slack"
-- Create a balance between people who smile and people who are great engineers (_both?_)
+- Create a balance between people who smile and people who are great engineers
 - Find people who get and appreciate taking on challenges, specifically the challenge of working remotely
 - You can never talk about the _why_ enough; people can lose ability to get excited without the why
-  - Give people what **and** why, furthermore pitch the tech team like investors
+  - Give people the what **and** the why, furthermore pitch the tech team like investors
 
 ## A few keys to success (aka let's make this work)
 - Design the teams first to create the architecture you want to create
 - Regularly have people meet in person (e.g. send people from NYC to Belfast)
 - Document everything (e.g. "If not written down, it doesn't exist")
-- Understand local power structure, have a local partner
+- Understand the local power structure, have a local partner
 - When distributed - learn local labor laws
 - Work with countries that other people don’t want to work in
 - Do your diligence, research the company, laws and the people you are looking to work with
-- Must have good leadership in place; need a partner you can trust.
-- Vertically align teams to areas of business and make sure everyone they need is collocated.  It is critical to get teams independent, avoid spreading work amongst teams
+- Have good leadership in place _(a must)_; need a partner you can trust.
+- Vertically align teams to areas of business and make sure everyone they need to communicate with is collocated.  It is critical to get teams independent, avoid spreading work amongst teams
 - When a region is found that you like, hire a recruiter
 - When working in different time zones, align people in a time "band"; shift to teams based on time zones
 
 ## My key takeaways
 - There are many options for scaling and leadership must determine the best approach that works based on project/company needs, budget, and team expertise
 - Communication is key, over-communicate
-  - when working with remote teams have video conferences, align in timezones
-- Document everything.  If it isn't documented, it doesn't exist (_how true is this!_)
+  - when working with remote teams have video conferences, align squads in timezones
+- Document everything.  If it isn't documented, it doesn't exist
 - Building and maintaining culture is paramount
   - Have remote teams visit NYC, have NYC teams meet their remote coworkers
   - Focus on the why
 - Understand the local labor laws
 - Do your diligence and research, ensure the partner you are working with is ethical
 
-The great things is that these takeaways can (also) be applied to all teams regardless of size, location, and staffing strategy.
+The great things is that these takeaways can be applied to all teams regardless of size, location, and staffing strategy.
