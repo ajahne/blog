@@ -11,9 +11,9 @@ Another month, another excellent [CTO meetup](https://www.meetup.com/ctoschool/)
 
 To recap, the monthly meetup is a forum for startup CTOs, VPs of Engineering, [Tech Leads]({{ site.baseurl }}{% post_url 2018-2-11-what-is-a-tech-lead %}), entrepreneurs, senior developers on the leadership path, and individual contributors to gather and discuss the challenges we face as leaders.
 
-As I am currently exploring ways to augment the development and QA teams at my organization. I am very interested in the topic of scaling and curious to hear additional perspectives on the subject.  Let's jump in.
+As I am currently exploring ways to augment the development and QA teams at [my organization](With the context covered, let's jump in.), I am very interested in the topic of scaling and curious to hear additional perspectives on the subject. Recently, I met with one offshore development company, [extendedITArms](http://extendeditarms.com), and this meetup was not only timely, but essential in identifying key areas for me to focus on and follow up on during my discussions.
 
-I recently met with one offshore development company, extendedITArms, and this meetup was not only timely, but helpful in identifying key areas for me to focus on and follow up on during my discussions.
+With the context covered, let's jump in.
 
 ## Contents
 - [What was the discussion about?](#what-was-the-presentation-about)
@@ -41,7 +41,7 @@ Before we jump in further, a quick recap of different ways to scale
 - **Distributed:** teams in multiple countries/regions/timezones
 - **Staff augmenter/partner:** outsourcing strategy, extension of your team to leverage existing people and utilize additional staff
 
-### On Different ways to scale.
+### On the different ways to scale.
 An apt analogy of offshore vs distributed, was that of architecture: monolithic vs microservices.  As [software built is often a reflection of the team dynamic and communication](software reflects the organization), it is very important to organize your teams based on the intended system design.  Having teams located in different locations requires an extra level of orchestration and monitoring.  Jira and documentation was heavily stressed ("If not written down, it doesn't exist").
 
 In addition to scaling through these methods, perspectives were provided on scaling through a staffing augmenter/partner.  Ideally, a painter should be a true extension of what you do in your organization, including helping to knockout your backlog to providing additional expertise.  A partner can help you on a project by project basis, but most success is in long term engagements.
@@ -62,7 +62,7 @@ Good question!  Some of the key challenges raised by the group included:
 - Architecture is hard - cannot share white board
   - _As an aside, this seems like a great startup idea, why isn't this solved?_
 - Communication
-- It was obsessed that no matter what city, you can (will) run into a scaling problem
+- It was observed that no matter what city, you can (will) run into a scaling problem
   - Price of developers overseas starts to rise
   - Eventually everyone has a bench and a bench might run out. The team may have people but not the people you need
 - Working in different time zones
