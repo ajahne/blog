@@ -13,14 +13,14 @@ To recap, the monthly meetup is a forum for startup CTOs, VPs of Engineering, [T
 
 As I am currently exploring ways to augment the development and QA teams at [my organization](https://www.truechoicesolutions.com), I am very interested in the topic of scaling and curious to hear additional perspectives on the subject. Recently, I met with one offshore development company, [extendedITArms](http://extendeditarms.com), and this meetup was not only timely, but essential in identifying key areas for me to focus on and follow up on during my discussions.
 
-Now that we have a little context, let's jump in. Below you will find my recap, notes, and takeaways from the meetup.  
+Now that we have a little context, let's jump in.
 
 ## Contents
-- [What was the discussion about?](#what-was-the-presentation-about)
+- [What was the discussion about?](#what-was-the-discussion-about)
 - [Who were the guest speakers?](#who-were-the-guest-speakers)
-- [What are some of the scaling challenges?](#assorted-musings-and-tidbits)
-- [On creating and maintaining a culture at scale](foo)
-- [A few keys to success aka let's make this work](foo)
+- [What are some of the scaling challenges?](#what-are-some-of-challenges-when-scaling-beyond-one-location)
+- [On creating and maintaining a culture at scale](#on-creating-and-maintaining-a-culture-at-scale)
+- [A few keys to success aka let's make this work](#a-few-keys-to-success-aka-lets-make-this-work)
 - [My key takeaways](#my-key-takeaways)
 
 ## What was the discussion about?
@@ -57,7 +57,7 @@ Another approach to scaling that was raised by the presenters (and one I have pe
 
 Each presenter provided a different perspective on scaling. Dmitry and Daniel discussed the challenges and opportunities with growing an organization based in NYC, while Jesse provided the partner perspective on supporting organizations as they scale.  Each brought extensive experience and valuable insight to the discussion.
 
-## What are some of challenges faced when scaling beyond one location?
+## What are some of challenges when scaling beyond one location?
 - Communication.  This was often the **key driver** for success/failure in the relationship.
 - Architecture is hard - cannot share a white board
   - _As an aside, this seems like a great startup idea, why isn't this solved?_
@@ -70,7 +70,7 @@ Each presenter provided a different perspective on scaling. Dmitry and Daniel di
   - Hiring people without a strong CS background doesn’t work
 - *Note:* Never "try out" a developer, if they fail the interview, _do not_ just try them out
 
-## On creating a culture at scale
+## On creating and maintaining a culture at scale
 Furthermore, and worthy of its own section, is the challenge of creating a culture when teams are located in different countries, regions, and time zones. How do you create and maintain a culture at scale? The presenters offered multiple viewpoints on how to potentially address this difficulty:
 - As leadership, ask and determine: How do we align with the culture?
 - Determine what people think about and what they feel
@@ -82,7 +82,7 @@ Furthermore, and worthy of its own section, is the challenge of creating a cultu
 - You can never talk about the _why_ enough; people can lose ability to get excited without the why
   - Give people what **and** why, furthermore pitch the tech team like investors
 
-## Some keys to success (aka let's make this work)
+## A few keys to success (aka let's make this work)
 - Design the teams first to create the architecture you want to create
 - Regularly have people meet in person (e.g. send people from NYC to Belfast)
 - Document everything (e.g. "If not written down, it doesn't exist")
@@ -95,13 +95,13 @@ Furthermore, and worthy of its own section, is the challenge of creating a cultu
 - When a region is found that you like, hire a recruiter
 - When working in different time zones, align people in a time "band"; shift to teams based on time zones
 
-## My Key Takeaways
+## My key takeaways
 - There are many options for scaling and leadership must determine the best approach that works based on project/company needs, budget, and team expertise
 - Communication is key, over-communicate
   - when working with remote teams have video conferences, align in timezones
-- If it isn't documented, it doesn't exist (_how true is this!_)
+- Document everything.  If it isn't documented, it doesn't exist (_how true is this!_)
 - Building and maintaining culture is paramount
-  - Have remote-teams visit NYC, have NYC teams meet their remote coworkers
+  - Have remote teams visit NYC, have NYC teams meet their remote coworkers
   - Focus on the why
 - Understand the local labor laws
 - Do your diligence and research, ensure the partner you are working with is ethical
