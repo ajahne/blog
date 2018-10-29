@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  'CTO School Meetup: Options for scaling teams beyond NYC'
-date:   2018-10-14 21:00:00 -0400
+date:   2018-10-18 21:00:00 -0400
 categories: leadership
 tags: leadership, management, outsourcing, scaling, nyc, cto
 header:
