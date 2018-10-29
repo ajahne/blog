@@ -48,7 +48,7 @@ In addition, perspectives were provided on scaling through a staffing augmenter/
 
 So what's the difference between a "vendor" and a "partner"?  Well as eloquently explained in the meetup: A _vendor_ is TGIF, while a _partner_ is a restaurant that pairs your wine with your meal. Got it, I'd like the Merlot, please. Thanks!
 
-Another approach to scaling that was raised by the presenters (and one I have personally championed at my organization) is to **hire junior developers and train them**.  I have had great success hiring talented, hard-working, self-motivated developers in entry level positions who have rapidly transitioned into valuable and production team members.  The key(s) for this to work?  Have an excellent onboarding program (training) and strong management/leadership.
+Another approach to scaling that was raised by the presenters (and one I have personally championed at my organization) is to **hire junior developers and train them**.  I have had great success hiring talented, hard-working, self-motivated developers in entry level positions who have rapidly transitioned into valuable and productive team members.  The key(s) for this to work?  Have an excellent onboarding program (training) and strong management/leadership.
 
 ## Who were the guest speakers?
 - [Dmitry Koltunov](https://www.linkedin.com/in/dmitry-koltunov-cfa-0598241/) - Co-Founder & CTO, Alice
@@ -83,12 +83,11 @@ Furthermore, and worthy of its own section, is the challenge of creating a cultu
   - Give people the what **and** the why, furthermore pitch the tech team like investors
 
 ## A few keys to success (aka let's make this work)
-- Design the teams first to create the architecture you want to create
+- Design the teams first to create the architecture you want to build
 - Regularly have people meet in person (e.g. send people from NYC to Belfast)
 - Document everything (e.g. "If not written down, it doesn't exist")
 - Understand the local power structure, have a local partner
 - When distributed - learn local labor laws
-- Work with countries that other people don’t want to work in
 - Do your diligence, research the company, laws and the people you are looking to work with
 - Have good leadership in place _(a must)_; need a partner you can trust.
 - Vertically align teams to areas of business and make sure everyone they need to communicate with is collocated.  It is critical to get teams independent, avoid spreading work amongst teams
@@ -97,7 +96,7 @@ Furthermore, and worthy of its own section, is the challenge of creating a cultu
 
 ## My key takeaways
 - There are many options for scaling and leadership must determine the best approach that works based on project/company needs, budget, and team expertise
-- Communication is key, over-communicate
+- Communication is key! At times, you must _over-communicate_
   - when working with remote teams have video conferences, align squads in timezones
 - Document everything.  If it isn't documented, it doesn't exist
 - Building and maintaining culture is paramount
