@@ -96,8 +96,9 @@ Furthermore, and worthy of its own section, is the challenge of creating a cultu
 
 ## My key takeaways
 - There are many options for scaling and leadership must determine the best approach that works based on project/company needs, budget, and team expertise
-- Communication is key! At times, you must _over-communicate_
-  - when working with remote teams have video conferences, align squads in timezones
+- Communication is key
+  - At times, you must _over-communicate_
+  - When working with remote teams have video conferences, align squads in timezones
 - Document everything.  If it isn't documented, it doesn't exist
 - Building and maintaining culture is paramount
   - Have remote teams visit NYC, have NYC teams meet their remote coworkers
@@ -105,4 +106,4 @@ Furthermore, and worthy of its own section, is the challenge of creating a cultu
 - Understand the local labor laws
 - Do your diligence and research, ensure the partner you are working with is ethical
 
-The great things is that these takeaways can be applied to all teams regardless of size, location, and staffing strategy.
+The great thing about these takeaways is that they can be applied to all teams regardless of size, location, and staffing strategy.
