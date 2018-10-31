@@ -65,7 +65,7 @@ Do you give a damn? Do you care?  I mean really truly and utterly care?
 
 If the answer is yes, you  have the potential to be a good manager.
 
-Early on in my management career I had to learn to let go. So what if it wasn’t me who literally wrote all the source code? Isn’t the goal to help the business, create an engaging experience for the user, and build/ship great products? Isn’t the goal to see everyone grow?
+Early on in my management career I had to learn to let go. So what if it wasn’t me who literally wrote all of the source code? Isn’t the goal to help the business, create an engaging experience for the user, and build/ship great products? Isn’t the goal to see everyone grow?
 
 Isn’t the best way to become a 10x developer by empowering 5 developers to be 2x better?
 
