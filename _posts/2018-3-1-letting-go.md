@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Letting Go"
-date:   2018-03-1 8:48:29 -0400
+date:   2018-10-30 11:41:29 -0400
 categories: leadership
 header:
   image: /assets/images/let-go.jpg
