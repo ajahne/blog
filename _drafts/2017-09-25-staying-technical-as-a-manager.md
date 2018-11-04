@@ -2,6 +2,8 @@
 layout: single
 title:  "Staying Technical As a Manager!"
 date:   2017-09-25 22:16:29 -0400
+categories: leadership
+tags: leadership, management, engineering
 ---
 
 # Staying Technical as a Manager
