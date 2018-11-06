@@ -52,7 +52,7 @@ Another approach to scaling that was raised by the presenters (and one I have pe
 
 ## Who were the guest speakers?
 - [Dmitry Koltunov](https://www.linkedin.com/in/dmitry-koltunov-cfa-0598241/) - Co-Founder & CTO, Alice
-- [Jesse Landry](https://www.linkedin.com/in/jesselandry/) - ITechArt Group
+- [Jesse Landry](https://www.linkedin.com/in/jesselandry/) - VP of National Growth, ITechArt Group
 - [Daniel Rolnick](https://www.linkedin.com/in/daniel-rolnick-6a36922) - CTO, Shopkeep  
 
 Each presenter provided a different perspective on scaling. Dmitry and Daniel discussed the challenges and opportunities with growing an organization based in NYC, while Jesse provided the partner perspective on supporting organizations as they scale.  Each brought extensive experience and valuable insight to the discussion.
