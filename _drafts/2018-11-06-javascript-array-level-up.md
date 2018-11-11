@@ -5,7 +5,6 @@ date:  2018-11-06 10:00:00 -0400
 categories: javascript
 tags: javascript
 header:
-  image: /assets/images/cto-meeting-scaling-nyc1.jpg
 ---
 
 `Array.prototype.find()`
