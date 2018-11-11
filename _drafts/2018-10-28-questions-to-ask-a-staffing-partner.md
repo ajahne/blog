@@ -15,8 +15,6 @@ header:
 - ways to make it successful
 - a few resources
 
-offshore/near-shore consultants
-
 ### How to make staff augmenter/partner work
 - communication what’s the person working on? Skills required?
 - “Over-communicate"
