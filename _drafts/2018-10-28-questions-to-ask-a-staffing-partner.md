@@ -54,10 +54,6 @@ header:
 - How complex is the project?
   - if you're dealing with high complexity and/or low clarity/lots of change, you might want to consider engaging on-site consultants instead of remote. Your rates will be substantially higher, but the cold-start should be easier and equivalent on-site consultants will be in a much better position to understand context and accommodate ambiguity and change.
 
-### Some companies
-- iTech Art
-- https://www.stridenyc.com
-- extendedITArms
 
 ## Additional Resources
 - https://www.stridenyc.com/blog/how-to-choose-the-right-agile-software-development-consultancy-for-you
