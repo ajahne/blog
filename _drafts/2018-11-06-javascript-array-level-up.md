@@ -19,5 +19,12 @@ const found = array1.find(function(element) {
 console.log(found); // 12
 {% endhighlight %}
 
+
+`Array.of()`
+`Array.from()`
+
+`Array.prototype.findIndex()`
+`Array.prototype.filter()`
+
 ## Additional Resources
 - [Array.prototype.find()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
