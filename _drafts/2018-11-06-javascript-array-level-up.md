@@ -81,6 +81,30 @@ console.log(found); // 12
 
 
 ## `Array.prototype.findIndex()`
+Say I wanted to find the index of the first value > 25, in ES5 (or lower) I might create something like this...
+{% highlight js %}
+var arr = [10,20,30,40,50];
+var value = 25;
+var index;
+
+function getIndex(array, value) {
+  for (var i = 0; i < array.length; i++) {
+    if (array[i] > value) {
+      return i;
+    }
+  }
+}
+
+index = getIndex(arr, value);
+console.log(index);           //2
+{% endhighlight %}
+
+...but now ES6 in the building! Simplifying all of our code.
+{% highlight js %}
+const indexWithNoWork = arr.findIndex(num => num > value);
+console.log(indexWithNoWork); //2
+{% endhighlight %}
+
 
 ## `Array.prototype.filter()`
 
