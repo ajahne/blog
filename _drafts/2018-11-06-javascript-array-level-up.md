@@ -11,21 +11,7 @@ header:
 - How I used to do  it
 - How I am doing it now/want to do it
 
-`Array.prototype.find()`
-The `find()` method takes a "matching" function and returns the first value that is true or undefined if no value is found.
-
-{% highlight js %}
-const array1 = [5, 12, 8, 130, 44];
-
-const found = array1.find(function(element) {
-  return element > 10;
-});
-
-console.log(found); // 12
-{% endhighlight %}
-
-
-`Array.of()`
+## `Array.of()`
 Replaces the constructor form of `Array()` and gets around the key `Array()` gotcha of passing in a number.
 {% highlight js %}
 const a1 = new Array();
@@ -70,7 +56,7 @@ const a = Array.from(arr);
 console.log(a);     //[ 1, 2, 3, 4, 5 ]
 {% endhighlight %}
 
-A note about `Array.of()``: it performs a shallow copy, copying the values, not the reference. So, the two arrays are not equal, as opposed to assigning an array to another variable, which ensures they point to the same reference, for example
+A note about `Array.of()`: it performs a shallow copy, copying the values, not the reference. So, the two arrays are not equal, as opposed to assigning an array to another variable, which ensures they point to the same reference, for example
 {% highlight js %}
 const arr = [1,2,3,4,5];
 const a = Array.from(arr);
@@ -80,18 +66,33 @@ console.log (a === arr);  //false
 console.log (a === b);    //true
 {% endhighlight %}
 
-`Array.prototype.findIndex()`
-`Array.prototype.filter()`
+## `Array.prototype.find()`
+The `find()` method takes a "matching" function and returns the first value that is true or undefined if no value is found.
 
-`Array.prototype.fill()`
+{% highlight js %}
+const array1 = [5, 12, 8, 130, 44];
 
-`Array.prototype.findIndex()`
+const found = array1.find(function(element) {
+  return element > 10;
+});
 
-`Array.prototype.includes()`
+console.log(found); // 12
+{% endhighlight %}
 
-`Array.prototype.includes()`
 
-`Array.prototype.copyWithin()`
+## `Array.prototype.findIndex()`
+
+## `Array.prototype.filter()`
+
+## `Array.prototype.fill()`
+
+## `Array.prototype.findIndex()`
+
+## `Array.prototype.includes()`
+
+## `Array.prototype.includes()`
+
+## `Array.prototype.copyWithin()`
 
 ## Additional Resources
 - [Array.prototype.find()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
