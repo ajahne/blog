@@ -51,7 +51,34 @@ const a = [1,2,3,4,5];
 {% endhighlight %}
 
 
-`Array.from()`
+## `Array.from()`
+{% highlight js %}
+function shallowCopy (a) {
+  var temp = [];
+  a.forEach(function(value){
+    temp.push(value);
+  });
+  return temp;
+};
+
+const arr = [1,2,3,4,5];
+const temp = shallowCopy(arr);
+console.log(temp);  //[ 1, 2, 3, 4, 5 ]
+
+//let's simplify all of that!
+const a = Array.from(arr);
+console.log(a);     //[ 1, 2, 3, 4, 5 ]
+{% endhighlight %}
+
+A note about `Array.of()``: it performs a shallow copy, copying the values, not the reference. So, the two arrays are not equal, as opposed to assigning an array to another variable, which ensures they point to the same reference, for example
+{% highlight js %}
+const arr = [1,2,3,4,5];
+const a = Array.from(arr);
+const b = a;
+
+console.log (a === arr);  //false
+console.log (a === b);    //true
+{% endhighlight %}
 
 `Array.prototype.findIndex()`
 `Array.prototype.filter()`
