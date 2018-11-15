@@ -5,6 +5,7 @@ date:  2018-11-06 10:00:00 -0400
 categories: javascript
 tags: javascript
 header:
+  image: /assets/images/level-up-arrays.jpg
 ---
 
 ## Outline
