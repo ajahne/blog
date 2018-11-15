@@ -132,10 +132,6 @@ console.log(newArray);                //[ 30, 40, 50 ]
 
 ## `Array.prototype.fill()`
 
-## `Array.prototype.findIndex()`
-
-## `Array.prototype.includes()`
-
 ## `Array.prototype.includes()`
 
 ## `Array.prototype.copyWithin()`
