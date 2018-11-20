@@ -168,6 +168,12 @@ console.log(arr.includes('hello'));       //false
 
 
 ## `Array.prototype.copyWithin()`
+{% highlight js %}
+const arr = [10,20,30,40,50];
+const foo = arr.copyWithin(1, 0);
+console.log(arr);   //[ 10, 10, 20, 30, 40 ]
+console.log(foo);   //[ 10, 10, 20, 30, 40 ]
+{% endhighlight %}
 
 ## Additional Resources
 - [Array.prototype.find()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
