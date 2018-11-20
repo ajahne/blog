@@ -140,8 +140,6 @@ const newArray = arr.filter(num => num > value);
 console.log(newArray);                //[ 30, 40, 50 ]
 {% endhighlight %}
 
-## `Array.prototype.fill()`
-
 ## `Array.prototype.includes()`
 {% highlight js %}
 var arr = [10,20,30,40,50];
@@ -165,6 +163,9 @@ console.log(arr.includes(40));            //true
 console.log(arr.includes(4));             //false
 console.log(arr.includes('hello'));       //false
 {% endhighlight %}
+
+## `Array.prototype.fill()`
+
 
 ## `Array.prototype.copyWithin()`
 
