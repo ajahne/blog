@@ -12,6 +12,16 @@ header:
 - How I used to do  it
 - How I am doing it now/want to do it
 
+TOC/TL;DR
+- `Array.of()`
+- `Array.from()`
+- `Array.prototype.find()`
+- `Array.prototype.findIndex()`
+- `Array.prototype.filter()`
+- `Array.prototype.fill()`
+- `Array.prototype.includes()`
+- `Array.prototype.copyWithin()`
+
 ## `Array.of()`
 Replaces the constructor form of `Array()` and gets around the key `Array()` gotcha of passing in a number.
 {% highlight js %}
