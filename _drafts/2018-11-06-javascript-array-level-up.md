@@ -224,3 +224,5 @@ console.log(foo);   //[ 10, 10, 20, 30, 40 ]
 
 ## Additional Resources
 - [Array.prototype.find()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
+- [Array API cheatsheet](https://gist.github.com/rauschma/f7b96b8b7274f2e2d8dab899803346c3)
+- [level up your .filter game from CSS-Tricks](https://css-tricks.com/level-up-your-filter-game/)
