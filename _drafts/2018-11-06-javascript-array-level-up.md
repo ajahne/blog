@@ -7,12 +7,15 @@ tags: javascript
 header:
   image: /assets/images/level-up-arrays.jpg
 ---
+## Intro
+Time to level up our Array game.  With the advent of ES6, JavaScript Arrays have added new functionality that will help simplify the way we have previously done things.  For each function I will outline the ways we may have solved problems in the past and how we can use the new functions to do it now.  Basically a JavaScript Array version of [old and busted vs new hotness](https://www.youtube.com/watch?v=ha-uagjJQ9k).
 
-## Outline
-- How I used to do  it
-- How I am doing it now/want to do it
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ha-uagjJQ9k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <br/>
 
-TOC/TL;DR
+
+This post was inspired by reviewing code from team members and reflecting on my code as well. Often times I would review code and see methods I was not familiar with.  Many of the examples showcase modified code from things that I have done previously and wanted see to how ES6 can improve the code we write - basically how I used to do it and how I am doing it now (or want to in the future). The goal is to show how by using these new functions we can simplify our code, write less code that can reduce our cognitive load as we develop, and also level up our Array game. Let's get it.
+
+## TOC/TL;DR
 - `Array.of()`
 - `Array.from()`
 - `Array.prototype.find()`
@@ -67,7 +70,7 @@ const a = Array.from(arr);
 console.log(a);     //[ 1, 2, 3, 4, 5 ]
 {% endhighlight %}
 
-A note about `Array.of()`: it performs a shallow copy, copying the values, not the reference. So, the two arrays are not equal, as opposed to assigning an array to another variable, which ensures they point to the same reference, for example
+A note about `Array.from()`: it performs a shallow copy, copying the values, not the reference. So, the two arrays are not equal, as opposed to assigning an array to another variable, which ensures they point to the same reference, for example
 {% highlight js %}
 const arr = [1,2,3,4,5];
 const a = Array.from(arr);
