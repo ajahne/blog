@@ -70,7 +70,7 @@ const a = Array.from(arr);
 console.log(a);     //[ 1, 2, 3, 4, 5 ]
 {% endhighlight %}
 
-A note about `Array.from()`: it performs a shallow copy, copying the values, not the reference. So, the two arrays are not equal, as opposed to assigning an array to another variable, which ensures they point to the same reference, for example
+A note about `Array.from()`: it performs a shallow copy, copying the values, not the reference. So, the two arrays are not equal, as opposed to assigning an array to another variable, which ensures they point to the same reference, for example:
 {% highlight js %}
 const arr = [1,2,3,4,5];
 const a = Array.from(arr);
@@ -81,7 +81,7 @@ console.log (a === b);    //true
 {% endhighlight %}
 
 ## `Array.prototype.find()`
-The `find()` method takes a "matching" function and returns the first value that is true or undefined if no value is found.
+The `find()` method takes a "matching" function and returns the first value that is true or `undefined` if no value is found.
 
 {% highlight js %}
 const array1 = [5, 12, 8, 130, 44];
