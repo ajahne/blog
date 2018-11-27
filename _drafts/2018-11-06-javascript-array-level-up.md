@@ -26,14 +26,16 @@ The goal of this post is to show how by using these new functions we can simplif
 - `Array.prototype.copyWithin()`
 
 ## `Array.of()`
-Replaces the constructor form of `Array()` and gets around the key `Array()` gotcha of passing in a number.
+The `Array.of()` method creates a new Array instance and can be used similarly to the constructor form of `Array()`.  However, it gets around the key `Array()` gotcha of passing in a number - that new hotness.  
 {% highlight js %}
 const a1 = new Array();
 const a2 = Array.of();
 console.log(a1);  //[]
 console.log(a2);  //[]
 
+//the gotcha...
 const b1 = new Array(5);
+//the newness...
 const b2 = Array.of(5);
 console.log(b1);  //[undefined,undefined,undefined,undefined]
 console.log(b2);  //[5]
@@ -45,13 +47,14 @@ console.log(c2);  //[1, 2, 3, 4, 5]
 
 {% endhighlight %}
 
-There are a couple cases where this may be useful, but most instances I still recommended creating an array with using the array literal syntax we have gotten accustom too:
+There are a couple cases where this may be useful, but generally I still recommended **creating an array with using the array literal syntax** we have gotten accustom too:
 {% highlight js %}
 const a = [1,2,3,4,5];
 {% endhighlight %}
 
 
 ## `Array.from()`
+The `Array.from()` method creates a shallow copy of an Array.  We may have accomplished this in the past by creating a `shallowCopy` function as outlined below.
 {% highlight js %}
 function shallowCopy (a) {
   var temp = [];
@@ -64,13 +67,16 @@ function shallowCopy (a) {
 const arr = [1,2,3,4,5];
 const temp = shallowCopy(arr);
 console.log(temp);  //[ 1, 2, 3, 4, 5 ]
+{% endhighlight %}
 
-//let's simplify all of that!
+However, we can simplify all of that now with one simple method:
+{% highlight js %}
+const arr = [1,2,3,4,5];
 const a = Array.from(arr);
 console.log(a);     //[ 1, 2, 3, 4, 5 ]
 {% endhighlight %}
 
-A note about `Array.from()`: it performs a shallow copy, copying the values, not the reference. So, the two arrays are not equal, as opposed to assigning an array to another variable, which ensures they point to the same reference, for example:
+**A note about** `Array.from()`: This method copies the values, not the reference. So, the two arrays are not equal, as opposed to assigning an array to another variable, which ensures they point to the same reference, for example:
 {% highlight js %}
 const arr = [1,2,3,4,5];
 const a = Array.from(arr);
@@ -80,22 +86,71 @@ console.log (a === arr);  //false
 console.log (a === b);    //true
 {% endhighlight %}
 
+For more on value vs reference, check out [this post]({{ site.baseurl }}{% post_url 2018-1-29-javascript-value-vs-reference %})
+
 ## `Array.prototype.find()`
 The `find()` method takes a "matching" function and returns the first value that is true or `undefined` if no value is found.
 
 {% highlight js %}
-const array1 = [5, 12, 8, 130, 44];
+const a = [5, 12, 8, 130, 44];
 
-const found = array1.find(function(element) {
+const found = a.find(function(element) {
   return element > 10;
 });
 
 console.log(found); // 12
 {% endhighlight %}
 
+Cool...so how might we use this to improve our JS Skills? Glad you asked, I got you.  This code is a modified example I pulled from a server validation script I wrote to check that our AWS infrastructure had been properly built via [Terrarform](https://www.terraform.io). Lot's of words, let's get to the code.
+{% highlight js %}
+const subnets = [
+  {
+    'name': 'subnet-a',
+    'SubnetId': 1
+  },
+  {
+    'name': 'subnet-b',
+    'SubnetId': 2
+  },
+  {
+    'name': 'subnet-c',
+    'SubnetId': 3
+  },
+  {
+    'name': 'subnet-d',
+    'SubnetId': 4
+  },
+  {
+    'name': 'subnet-e',
+    'SubnetId': 5
+  },  
+];
+
+//let's search the array of subnets to find a particular one given an ID
+const getSubnetById = subnetId => {
+  const numSubnets = subnets.length;
+  for (let i=0; i < numSubnets; i++) {
+    if (subnets[i]['SubnetId'] === subnetId) {
+      return subnets[i];
+    }
+  }
+}
+
+console.log(getSubnetById(1));    //{ name: 'subnet-a', SubnetId: 1 }
+
+//using the find method
+const mySubnet = subnets.find(el => el['SubnetId'] === 1);
+console.log(mySubnet);            //{ name: 'subnet-a', SubnetId: 1 }
+
+//we could easily make this a reusable function
+const findSubnetById = subnetId => subnets.find(el => el['SubnetId'] === subnetId);
+console.log(findSubnetById(4));   //{ name: 'subnet-a', SubnetId: 4 }
+{% endhighlight %}
+
+As we can see from the Array method `find()` helped us reduce a lot of "boilerplate" code.  These are `for` loops we have all written a minimum of 27,841,991 times. Let's keep leveling up!
 
 ## `Array.prototype.findIndex()`
-Say I wanted to find the index of the first value > 25, in ES5 (or lower) I might create something like this...
+Say I wanted to find the index of the first value in an Array of numbers greater than 25, in ES5 (or earlier) I might've done something like this...
 {% highlight js %}
 var arr = [10,20,30,40,50];
 var value = 25;
@@ -113,41 +168,20 @@ index = getIndex(arr, value);
 console.log(index);           //2
 {% endhighlight %}
 
-...but now ES6 in the building! Simplifying all of our code.
+...but now ES6 in the building! Enter `findIndex()`. This method takes a matching function and returns the index of the first element in the Array, which satisfies the condition.  
 {% highlight js %}
+const value = 25;
 const indexWithNoWork = arr.findIndex(num => num > value);
 console.log(indexWithNoWork); //2
 {% endhighlight %}
 
-
-## `Array.prototype.filter()`
-{% highlight js %}
-var arr = [10,20,30,40,50];
-var value = 25;
-var filteredArray;
-
-function filter(array, value) {
-  var temp = [];
-  for (var i = 0; i < array.length; i++) {
-    if (array[i] > value) {
-      temp.push(array[i]);
-    }
-  }
-  return temp;
-}
-
-filteredArray = filter(arr, value);
-console.log(filteredArray);           //[ 30, 40, 50 ]
-
-const newArray = arr.filter(num => num > value);
-console.log(newArray);                //[ 30, 40, 50 ]
-{% endhighlight %}
-
 ## `Array.prototype.includes()`
+What if we want to determine whether a value exists in an Array? We can use the `includes()` method to check if an element is included within an Array.
 {% highlight js %}
 var arr = [10,20,30,40,50];
 var value
 
+//pre-ES6
 function existsInArray(array, value) {
   //before would use index of
   for (var i = 0; i < array.length; i++) {
@@ -162,6 +196,7 @@ console.log(existsInArray(arr, 40));      //true
 console.log(existsInArray(arr, 4));       //false
 console.log(existsInArray(arr, 'hello')); //false
 
+//that ES6 wave
 console.log(arr.includes(40));            //true
 console.log(arr.includes(4));             //false
 console.log(arr.includes('hello'));       //false
@@ -176,7 +211,7 @@ const e = Array(5);
 console.log(e);             //[undefined,undefined,undefined,undefined,undefined];
 {% endhighlight %}
 
-Please note that it will not change the length of the array. So if you have an empty array, it will not add items
+Please note that this method **will not change the length of the array**. So if you have an empty array, it will not add items:
 {% highlight js %}
 const a = [];//Array.of();
 console.log(a);             //[]
@@ -224,6 +259,37 @@ const foo = arr.copyWithin(1, 0);
 console.log(arr);   //[ 10, 10, 20, 30, 40 ]
 console.log(foo);   //[ 10, 10, 20, 30, 40 ]
 {% endhighlight %}
+
+
+## Bonus - `Array.prototype.filter()`
+No post on leveling up can dared be written without the almighty `filter()`.  While not ES6 (originally introduced in ES5), this is a powerful method that can greatly improve code readability and efficiency. `filter()`
+
+Let's return the list of elements greater than 25, show both pre and post ES5 implementations.
+{% highlight js %}
+//pre-ES5
+var arr = [10,20,30,40,50];
+var value = 25;
+var filteredArray;
+
+function filter(array, value) {
+  var temp = [];
+  for (var i = 0; i < array.length; i++) {
+    if (array[i] > value) {
+      temp.push(array[i]);
+    }
+  }
+  return temp;
+}
+
+filteredArray = filter(arr, value);
+console.log(filteredArray);           //[ 30, 40, 50 ]
+
+//ES5 now and forever
+const newArray = arr.filter(num => num > value);
+console.log(newArray);                //[ 30, 40, 50 ]
+{% endhighlight %}
+
+For a more in depth example, [check out this snippet](https://github.com/ajahne/js-examples/blob/master/arrays/array-filter-instances.js). 
 
 ## Additional Resources
 - [Array.prototype.find()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
