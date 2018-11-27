@@ -9,7 +9,9 @@ header:
 ---
 Time to level up our Array game!  With the advent of ES6, JavaScript `Arrays` have added new functionality that will enhance our programs and streamline the way we have solve problems. In this post I will highlight six ES6 `Array` methods, outlining the ways we may have solved problems in the past and illustrating how we can use these new functions to do it (better) now.
 
-Basically this post is a JavaScript `Array` version of **old and busted vs new hotness**. Let's get it.
+Basically this post is a JavaScript `Array` version of **old and busted vs new hotness**.   
+
+Let's get it.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ha-uagjJQ9k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <br/>
 
@@ -281,7 +283,13 @@ For a more in depth example, [check out this snippet on Github](https://github.c
 The goal of this post is to show how by using these new functions we can simplify our programs, write less code that can reduce our cognitive load as we develop, and improve our utilization of Arrays.
 
 ## Additional Resources
+- [Array.of()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/of)
+- [Array.from()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from)
+- [Array.prototype.fill()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill)
+- [Array.prototype.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 - [Array.prototype.find()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
+- [Array.prototype.findIndex()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex)
+- [Array.prototype.includes()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
 - [Array API cheatsheet](https://gist.github.com/rauschma/f7b96b8b7274f2e2d8dab899803346c3)
 - [Level up your .filter game from CSS-Tricks](https://css-tricks.com/level-up-your-filter-game/)
 - [JavaScript Array Examples](https://github.com/ajahne/js-examples/tree/master/arrays)
