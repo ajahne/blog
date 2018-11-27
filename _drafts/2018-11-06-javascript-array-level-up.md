@@ -199,7 +199,7 @@ console.log(arr.includes('hello'));       //false
 {% endhighlight %}
 
 ## `Array.prototype.fill()`
-The `fill()` method fills all (or part) of an array.
+The `fill()` method fills all (or part) of an array with a value. The first parameter is the value to fill the array, while the second parameter is the start index, which defaults to 0. The third parameter is the end index (which defaults to `this.length`).
 {% highlight js %}
 const d = Array(5).fill(0);
 console.log(d);             //[0,0,0,0,0]
@@ -280,7 +280,7 @@ console.log(newArray);                //[ 30, 40, 50 ]
 For a more in depth example, [check out this snippet on Github](https://github.com/ajahne/js-examples/blob/master/arrays/array-filter-instances.js).
 
 ## Conclusion
-The goal of this post is to show how by using these new functions we can simplify our programs, write less code that can reduce our cognitive load as we develop, and improve our utilization of Arrays.
+In this post we have shown that by utilizing these new `Array` methods that we can simplify our programs, write less code that will reduce our cognitive load as we develop, and improve our utilization of JavaScript. Check out the additional resources below and happy coding!
 
 ## Additional Resources
 - [Array.of()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/of)
