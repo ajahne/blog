@@ -209,7 +209,7 @@ console.log(e);             //[undefined,undefined,undefined,undefined,undefined
 
 Please note that this method **will not change the length of the array**. So if you have an empty array, it will not add items:
 {% highlight js %}
-const a = [];//Array.of();
+const a = [];
 console.log(a);             //[]
 const b = a.fill(0, 1, 3);
 console.log(a);             //[]
