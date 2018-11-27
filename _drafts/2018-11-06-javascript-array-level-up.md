@@ -7,7 +7,7 @@ tags: javascript
 header:
   image: /assets/images/level-up-arrays.jpg
 ---
-Time to level up our Array game!  With the advent of ES6, JavaScript `Arrays` have added new functionality that will enhance our programs and streamline the way we have solve problems. In this post I will highlight six ES6 `Array` methods, outlining the ways we may have solved problems in the past and illustrating how we can use these new functions to do it (better) now.
+Time to level up our `Array` game!  With the advent of ES6, JavaScript `Arrays` have added new functionality that will enhance our programs and streamline the way we write code. In this post I will highlight six ES6 `Array` methods, outlining the ways we may have solved problems in the past and illustrating how we can use these new functions to do it (better) now.
 
 Basically this post is a JavaScript `Array` version of **old and busted vs new hotness**.   
 
@@ -19,10 +19,10 @@ Let's get it.
 - [Array.of()](#arrayof)
 - [Array.from()](#arrayfrom)
 - [Array.prototype.find()](#arrayprototypefind)
-- [Array.prototype.findIndex()](#arrayprototypefindIndex)
+- [Array.prototype.findIndex()](#arrayprototypefindindex)
 - [Array.prototype.fill()](#arrayprototypefill)
 - [Array.prototype.includes()](#arrayprototypeincludes)
-- [Bonus: Array.prototype.filter()](##bonus-arrayprototypefilter)
+- [Bonus: Array.prototype.filter()](#bonus-arrayprototypefilter)
 
 ## `Array.of()`
 The `Array.of()` method creates a new `Array` instance and can be used similarly to the constructor form of `Array()`.  However, `Array.of()` avoids the key `Array()` gotcha that occurs when we pass in a number.  Let's create.  
@@ -249,7 +249,7 @@ console.log(newBoard2);     //[ -1, -1, -1, -1, -1 ]
 {% endhighlight %}
 
 
-## Bonus - `Array.prototype.filter()`
+## Bonus: `Array.prototype.filter()`
 No post on leveling up can dared be written without the almighty `filter()`.  While not ES6 (originally introduced in ES5), this is a powerful method that can greatly improve code readability and efficiency. `filter()` takes a matching function and returns an array of all the elements that match the condition.
 
 Let's return the list of elements greater than 25, showing both pre and post ES5 implementations.
