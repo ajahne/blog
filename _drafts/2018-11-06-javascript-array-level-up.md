@@ -7,13 +7,11 @@ tags: javascript
 header:
   image: /assets/images/level-up-arrays.jpg
 ---
-Time to level up our Array game!  With the advent of ES6, JavaScript `Arrays` have added new functionality that will enhance our code and streamline the way we have solve problems. In this post I will highlight six ES6 `Array` methods, outlining the ways we may have solved problems in the past and illustrating how we can use the new functions to do it (better) now.
+Time to level up our Array game!  With the advent of ES6, JavaScript `Arrays` have added new functionality that will enhance our programs and streamline the way we have solve problems. In this post I will highlight six ES6 `Array` methods, outlining the ways we may have solved problems in the past and illustrating how we can use these new functions to do it (better) now.
 
-Basically this post is a JavaScript `Array` version of **old and busted vs new hotness**.
+Basically this post is a JavaScript `Array` version of **old and busted vs new hotness**. Let's get it.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ha-uagjJQ9k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <br/>
-
-Let's get it.
 
 ## Table Of Contents
 - [Array.of()](#arrayof)
@@ -25,7 +23,7 @@ Let's get it.
 - [Bonus: Array.prototype.filter()](##bonus-arrayprototypefilter)
 
 ## `Array.of()`
-The `Array.of()` method creates a new `Array` instance and can be used similarly to the constructor form of `Array()`.  However, `Array.of()` gets around the key `Array()` gotcha of passing in a number.  Let's create.  
+The `Array.of()` method creates a new `Array` instance and can be used similarly to the constructor form of `Array()`.  However, `Array.of()` avoids the key `Array()` gotcha that occurs when we pass in a number.  Let's create.  
 {% highlight js %}
 const a1 = new Array();
 console.log(a1);  //[]
@@ -45,7 +43,7 @@ const c2 = Array.of(1,2,3,4,5);
 console.log(c2);  //[1, 2, 3, 4, 5]
 {% endhighlight %}
 
-There are a couple cases where this may be useful, but generally I still recommended **creating an array with using the array literal syntax** we have gotten accustom too:
+There are a couple cases where this may be useful, but generally I still recommended **creating an array by using the array literal syntax** we have gotten accustom too:
 {% highlight js %}
 const a = [1,2,3,4,5];
 {% endhighlight %}
@@ -66,7 +64,7 @@ const temp = shallowCopy(arr);
 console.log(temp);  //[ 1, 2, 3, 4, 5 ]
 {% endhighlight %}
 
-However, we can simplify all of that now with one simple method, `Array.from()`:
+However, we can simplify that now with `Array.from()`:
 {% highlight js %}
 const arr = [1,2,3,4,5];
 const a = Array.from(arr);
@@ -75,11 +73,11 @@ console.log(a);     //[ 1, 2, 3, 4, 5 ]
 
 **A note about** `Array.from()`: This method copies the values, not the reference. So, the two arrays are not equal, as opposed to assigning an array to another variable, which ensures they point to the same location in memory, for example:
 {% highlight js %}
-const arr = [1,2,3,4,5];
-const a = Array.from(arr);
-const b = a;
+const a = [1,2,3,4,5];
+const b = Array.from(a);
+const c = a;
 
-console.log (a === arr);  //false
+console.log (b === a);  //false
 console.log (a === b);    //true
 {% endhighlight %}
 
@@ -98,7 +96,7 @@ const found = a.find(function(element) {
 console.log(found); // 12
 {% endhighlight %}
 
-Cool...so how might we use this to improve our JS Skills? Glad you asked, I got you.  This code is a modified example I pulled from a server validation script I wrote to check that our AWS infrastructure had been properly built via [Terrarform](https://www.terraform.io). Lot's of words, let's get to the code.
+Cool...so how might we use this to improve our JS Skills? Glad you asked, I got you.  This code is a modified example from a server validation script I wrote, which checks that our AWS infrastructure has been properly built via [Terrarform](https://www.terraform.io). With the context covered, let's get to the code.
 {% highlight js %}
 const subnets = [
   {
@@ -144,7 +142,7 @@ const findSubnetById = subnetId => subnets.find(el => el['SubnetId'] === subnetI
 console.log(findSubnetById(4));   //{ name: 'subnet-a', SubnetId: 4 }
 {% endhighlight %}
 
-As we can see from the Array method `find()` helped us reduce a lot of "boilerplate" code.  These are `for` loops we have all written a minimum of 27,841,991 times. Let's keep leveling up!
+As we can see, the `find()` method helped us reduce a lot of "boilerplate" code.  These are `for` loops we have all written a minimum of 27,841,991 times and now we can (for the most part) stop writing them. Let's keep leveling up!
 
 ## `Array.prototype.findIndex()`
 Say I wanted to find the index of the first value in an `Array` of numbers greater than 25, in ES5 (or earlier) I might've done something like this...
@@ -173,7 +171,7 @@ console.log(indexWithNoWork); //2
 {% endhighlight %}
 
 ## `Array.prototype.includes()`
-What if we want to determine whether a value exists in an Array? We can use the `includes()` method to check if an element is included within an Array.
+What if we want to determine whether a value exists in an Array? We can use the `includes()` method to do this.
 {% highlight js %}
 var arr = [10,20,30,40,50];
 
@@ -219,7 +217,7 @@ const c = [1,2,3];
 console.log(c.fill(0, 1));  //[1,0,0]
 {% endhighlight %}
 
-How might we use this function?  Well, let's envision the following scenario: What if you have a game board represented by an array and you wanted to (re)initialize each value in the array to -1 (basically "reset") the game?
+How might we use this function?  Well, let's envision the following scenario: What if you have a game board represented by an array and you wanted to (re)initialize each value in the array to -1 (basically "reseting" the game)?
 
 {% highlight js %}
 var board = [];
@@ -227,7 +225,7 @@ var length = 5;
 var initialValue = -1;
 
 //Previously, we may have written a function like the following to set an initial
-//value for every element in our array
+//value for every index in our array
 function initializeBoard(board, length, initialValue) {
   for (var i = 0; i < length; i++) {
     board[i] = initialValue;
@@ -277,7 +275,7 @@ const newArray = arr.filter(num => num > value);
 console.log(newArray);                //[ 30, 40, 50 ]
 {% endhighlight %}
 
-For a more in depth example, [check out this snippet](https://github.com/ajahne/js-examples/blob/master/arrays/array-filter-instances.js).
+For a more in depth example, [check out this snippet on Github](https://github.com/ajahne/js-examples/blob/master/arrays/array-filter-instances.js).
 
 ## Conclusion
 The goal of this post is to show how by using these new functions we can simplify our programs, write less code that can reduce our cognitive load as we develop, and improve our utilization of Arrays.
