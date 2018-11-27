@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Six ES6 methods to level up your Array game"
-date:  2018-11-06 10:00:00 -0400
+date:  2018-11-27 1:00:00 -0400
 categories: javascript
 tags: javascript
 header:
