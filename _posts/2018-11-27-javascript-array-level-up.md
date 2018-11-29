@@ -83,7 +83,7 @@ console.log (b === a);  //false
 console.log (a === b);  //true
 {% endhighlight %}
 
-For more on value vs reference, check out [this post.]({{ site.baseurl }}{% post_url 2018-1-29-javascript-value-vs-reference %})
+For more on value vs reference, check out [this post]({{ site.baseurl }}{% post_url 2018-1-29-javascript-value-vs-reference %}).
 
 ## `Array.prototype.find()`
 The `find()` method takes a "matching" function and returns the first value that is true or `undefined` if no value is found.
