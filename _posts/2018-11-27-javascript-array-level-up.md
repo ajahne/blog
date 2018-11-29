@@ -230,7 +230,7 @@ var arr = [10,20,30,40,50];
 
 //pre-ES6
 function existsInArray(array, value) {
-  //before would use index of
+  //before we would use indexOf
   for (var i = 0; i < array.length; i++) {
     if (array.indexOf(value) !== -1) {
       return true;
