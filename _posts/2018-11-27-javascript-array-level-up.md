@@ -45,7 +45,7 @@ const c2 = Array.of(1,2,3,4,5);
 console.log(c2);  //[1, 2, 3, 4, 5]
 {% endhighlight %}
 
-There are a couple cases where this may be useful, but generally I still recommended **creating an array by using the array literal syntax** we have gotten accustom too:
+There are a couple cases where this may be useful, but generally I still recommended **creating an array by using the array literal syntax** we have become accustomed to:
 {% highlight js %}
 const a = [1,2,3,4,5];
 {% endhighlight %}
@@ -55,7 +55,7 @@ The `Array.from()` method creates a shallow copy of an `Array`.  We may have acc
 {% highlight js %}
 function shallowCopy (a) {
   var temp = [];
-  a.forEach(function(value){
+  a.forEach(function(value) {
     temp.push(value);
   });
   return temp;
@@ -80,10 +80,10 @@ const b = Array.from(a);
 const c = a;
 
 console.log (b === a);  //false
-console.log (a === b);    //true
+console.log (a === b);  //true
 {% endhighlight %}
 
-For more on value vs reference, check out [this post]({{ site.baseurl }}{% post_url 2018-1-29-javascript-value-vs-reference %})
+For more on value vs reference, check out [this post.]({{ site.baseurl }}{% post_url 2018-1-29-javascript-value-vs-reference %})
 
 ## `Array.prototype.find()`
 The `find()` method takes a "matching" function and returns the first value that is true or `undefined` if no value is found.
@@ -95,10 +95,10 @@ const found = a.find(function(element) {
   return element > 10;
 });
 
-console.log(found); // 12
+console.log(found); //12
 {% endhighlight %}
 
-Cool...so how might we use this to improve our JS Skills? Glad you asked, I got you.  This code is a modified example from a server validation script I wrote, which checks that our AWS infrastructure has been properly built via [Terrarform](https://www.terraform.io). With the context covered, let's get to the code.
+Cool...so how might we use this to improve our JS skills? Glad you asked, I got you.  This code is a modified example from a server validation script I wrote, which checks that our AWS infrastructure has been properly built via [Terraform](https://www.terraform.io). With the context covered, let's get to the code.
 {% highlight js %}
 const subnets = [
   {
@@ -123,7 +123,8 @@ const subnets = [
   },  
 ];
 
-//let's search the array of subnets to find a particular one given an ID
+//let's search the array of subnets
+//to find a particular one given an ID
 const getSubnetById = subnetId => {
   const numSubnets = subnets.length;
   for (let i=0; i < numSubnets; i++) {
@@ -162,7 +163,7 @@ function getIndex(array, value) {
 }
 
 index = getIndex(arr, value);
-console.log(index);           //2
+console.log(index); //2
 {% endhighlight %}
 
 ...but now ES6 is in the building! Enter `findIndex()`. This method takes a matching function and returns the index of the first element in the Array, which satisfies the condition.  
@@ -202,9 +203,9 @@ console.log(arr.includes('hello'));       //false
 The `fill()` method fills all (or part) of an array with a value. The first parameter is the value to fill the array, while the second parameter is the start index, which defaults to 0. The third parameter is the end index (which defaults to `this.length`).
 {% highlight js %}
 const d = Array(5).fill(0);
-console.log(d);             //[0,0,0,0,0]
+console.log(d);           //[0,0,0,0,0]
 const e = Array(5);
-console.log(e);             //[undefined,undefined,undefined,undefined,undefined];
+console.log(e);           //[undefined,undefined,undefined,undefined,undefined];
 {% endhighlight %}
 
 Please note that this method **will not change the length of the array**. So if you have an empty array, it will not add items:
@@ -226,8 +227,8 @@ var board = [];
 var length = 5;
 var initialValue = -1;
 
-//Previously, we may have written a function like the following to set an initial
-//value for every index in our array
+//Previously, we may have written a function like the following
+//to set an initial value for every index in our array
 function initializeBoard(board, length, initialValue) {
   for (var i = 0; i < length; i++) {
     board[i] = initialValue;
@@ -270,27 +271,28 @@ function filter(array, value) {
 }
 
 filteredArray = filter(arr, value);
-console.log(filteredArray);           //[ 30, 40, 50 ]
+console.log(filteredArray); //[ 30, 40, 50 ]
 
 //ES5 now and forever
 const newArray = arr.filter(num => num > value);
-console.log(newArray);                //[ 30, 40, 50 ]
+console.log(newArray);      //[ 30, 40, 50 ]
 {% endhighlight %}
 
 For a more in depth example, [check out this snippet on Github](https://github.com/ajahne/js-examples/blob/master/arrays/array-filter-instances.js).
 
 ## Conclusion
-In this post we have shown that by utilizing these new `Array` methods that we can simplify our programs, write less code that will reduce our cognitive load as we develop, and improve our utilization of JavaScript. Check out the additional resources below and happy coding!
+In this post we have shown that by utilizing these new `Array` methods we can simplify our programs, write less code that will reduce our cognitive load as we develop, and improve our JavaScript capabilities. Check out the additional resources below and happy coding!
 
 ## Additional Resources
-- [Array.of()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/of)
-- [Array.from()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from)
-- [Array.prototype.fill()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill)
-- [Array.prototype.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
-- [Array.prototype.find()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
-- [Array.prototype.findIndex()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex)
-- [Array.prototype.includes()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
-- [Array API cheatsheet](https://gist.github.com/rauschma/f7b96b8b7274f2e2d8dab899803346c3)
-- [Level up your .filter game from CSS-Tricks](https://css-tricks.com/level-up-your-filter-game/)
+- [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) method references from [Mozilla](https://developer.mozilla.org/en-US/):  
+  - [Array.of()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/of)
+  - [Array.from()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from)
+  - [Array.prototype.fill()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill)
+  - [Array.prototype.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+  - [Array.prototype.find()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
+  - [Array.prototype.findIndex()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex)
+  - [Array.prototype.includes()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
+- [Array API cheatsheet](https://gist.github.com/rauschma/f7b96b8b7274f2e2d8dab899803346c3) by [Dr. Axel Rauschmayer](http://2ality.com)
+- [Level up your .filter game](https://css-tricks.com/level-up-your-filter-game/) from [CSS-Tricks](https://css-tricks.com)
 - [JavaScript Array Examples](https://github.com/ajahne/js-examples/tree/master/arrays)
-- [A site showing whether an Array method mutates or not](https://doesitmutate.xyz)
+- [A reference on whether an Array method mutates or not](https://doesitmutate.xyz) created by [@rem](https://twitter.com/rem)
