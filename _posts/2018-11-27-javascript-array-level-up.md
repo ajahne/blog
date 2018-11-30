@@ -86,12 +86,12 @@ console.log (a === b);  //true
 For more on value vs reference, check out [this post]({{ site.baseurl }}{% post_url 2018-1-29-javascript-value-vs-reference %}).
 
 ## `Array.prototype.fill()`
-The `fill()` method fills all (or part) of an array with a value. The first parameter is the value to fill the array, while the second parameter is the start index, which defaults to 0. The third parameter is the end index, which defaults to `this.length`.
+The `fill()` method fills all (or part) of an array with a value from a start index up to (but not including) an end index. The first parameter is the value to fill the array, while the second parameter is the start index, which defaults to 0. The third parameter is the end index, which defaults to `this.length`.
 {% highlight js %}
 const d = Array(5).fill(0);
-console.log(d);           //[0,0,0,0,0]
-const e = Array(5);
-console.log(e);           //[undefined,undefined,undefined,undefined,undefined];
+console.log(d);          //[0,0,0,0,0]
+const e = Array(5).fill(0,1,4);
+console.log(e);          //[undefined, 0, 0, 0, undefined];
 {% endhighlight %}
 
 Please note that this method **will not change the length of the array**. So if you have an empty array, it will not add items:
