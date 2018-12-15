@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Questions to ask a staffing partner"
-date:  2018-11-03 10:00:00 -0400
+date:  2018-12-14 10:00:00 -0400
 categories: leadership
 tags: leadership, management, outsourcing, scaling, nyc, cto
 header:
