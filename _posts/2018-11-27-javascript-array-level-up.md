@@ -80,7 +80,7 @@ const b = Array.from(a);
 const c = a;
 
 console.log (b === a);  //false
-console.log (a === b);  //true
+console.log (a === c);  //true
 {% endhighlight %}
 
 For more on value vs reference, check out [this post]({{ site.baseurl }}{% post_url 2018-1-29-javascript-value-vs-reference %}).
