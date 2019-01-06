@@ -11,4 +11,4 @@ Link to the blog:https://ajahne.github.io/blog/
 - Infrastructure: provisioning, configuration management, orchestration, docker, CI
 - Security: XSS, CSRF, Pen test preparation
 - Programming Principles: Algorithms, sorting, OOP, functional programming, design patterns
-- Leadership: mentoring, coaching, management
+- Leadership: mentoring, coaching, management, one-on-ones, growth
