@@ -42,7 +42,7 @@ All this jetted through my head all in the time it took me to finish that first 
 
 I shared some thoughts with the students on leadership, things that you can do while in school to prepare yourself for your career, and interspersed pieces of my journey.  I realized I had some things I could share, more than what I was able to share during our lunch. Inspired, I jotted some notes and determined I would share a few tips that would be helpful to people pursuing their degrees that can (begin to) prepare them for their professional journey.  
 
-My thoughts, coming right up? But first...a word on our definitions.  What is Leadership
+My thoughts, coming right up? But first...a word on our definitions.  What is Leadership...
 
 ## What is Leadership?
 I like this definition from Forbes Magazine:
@@ -71,16 +71,39 @@ Management is not a promotion, it is a career change.
 ### Study the craft
 
 ### Be a TA or Tutor
+One area that helped me early in my career (and continues to do so), was becoming a TA.  Being a TA helped me further learn the craft, understand how to teach, and most importantly grow my ability to empathize.
 
 ### Work in groups
+In school, I did most of my programming alone.  In my dorm room, in the computer lab. However, in my first job at a marketing agency, I was thrust into a team, where the most important thing was not my ability to program (which, was key), but my ability to communicate and work with others. On almost all job specs, you will see some version of "strong written and verbal communication".
+
+Yet. We. Do. All. Our. Work. ALONE.
+
+Programming alone in a computer lab is not analogous to working in a professional environment.
+
+So a few things to do:
+- take a class (or classes) where there is an opportunity to work in groups
+
+Yeah, Ajahne, what works...but what if that doesn't work?
+
+Grab a friend or colleague and try out some duck typing or pair programming.  Many teams practice one or both. Take the initiative to push yourself.  Boom, leadership exhibited!
 
 ### Get an internship
+- Unable to obtain an internship? Be a TA over the summer or
 
 ### Extra curricular activities and groups (learn how to work with groups/teams)
+While in college, I was part of NSBE (National Society of Black Engineers), I resurrected the chapter at Tufts and led the organization locally.
 
-### Bonus 1: Get your masters degree
+There are numeruos society and activities to be a part of from IEEE, NSBE, Girls who Code, etc.
+
+### Do something outside of programming
+In college, I was a part of Onyx, a poetry and visual art magazine that realized an collection of art from the student body each semester.  In addition,
+
+
+### Bonus 1: A quick personal note, getting an advanced degree
+For me personally, getting my masters degree has helped me tremendously in career. It helped set me a part from other candidates, it provided my opportunities to become the head TA for computer science, and most importantly, gave me the confidence that I could actually be a computer scientist.  All of this is a topic and post for another time.  I say this to say, is that we all learn and grow at our own pace.  Do what **you** need to get the reps in required to be the awesome programmer (and person!) you need to be
 
 ### Bonus 2: Get experience programming outside of the classroom
+Programming in class is different from programming the cubicle. Take on a coding challenge
 
 ## Some additional resources:
 - Pragmatic Programmer
