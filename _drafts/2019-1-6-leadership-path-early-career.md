@@ -67,8 +67,15 @@ Management is not a promotion, it is a career change.
 - study the craft
 - find a mentor
 
-## While in School
+## While in School (be it University, Code Academy)
 ### Study the craft
+Fundamental to your career as a computer scientest...is..well..computer science! To that end, get good at this!  Most importantly, learn how to learn!  The core of what you learn in school (algorithms, data structures, programming principles, etc.) will buttress your career.  Addionally, what will? learning how to learn.
+
+> Most importantly, Learn how to learn
+
+Learning is forever.  In our industry, we are constantly learning.  Not to be overly dramatic, learn or die (ok...that was overly dramatic).
+
+Once you leave school, the learning has essentially just begins.  On the job you will
 
 ### Be a TA or Tutor
 One area that helped me early in my career (and continues to do so), was becoming a TA.  Being a TA helped me further learn the craft, understand how to teach, and most importantly grow my ability to empathize.
@@ -87,16 +94,29 @@ Yeah, Ajahne, what works...but what if that doesn't work?
 
 Grab a friend or colleague and try out some duck typing or pair programming.  Many teams practice one or both. Take the initiative to push yourself.  Boom, leadership exhibited!
 
+If you have worked in groups, great! Take the opportunity to organize the  
+
 ### Get an internship
 - Unable to obtain an internship? Be a TA over the summer or
 
-### Extra curricular activities and groups (learn how to work with groups/teams)
+### Participate to Extra curricular activities and groups (learn how to work with groups/teams)
 While in college, I was part of NSBE (National Society of Black Engineers), I resurrected the chapter at Tufts and led the organization locally.
 
-There are numeruos society and activities to be a part of from IEEE, NSBE, Girls who Code, etc.
+There are numerous society and activities to be a part of from IEEE, NSBE, Girls who Code, etc.
+
+Tufts has JumboCode and I am sure your school may have something analogous.  If it doesn't, find an opportunity to volunteer.
 
 ### Do something outside of programming
-In college, I was a part of Onyx, a poetry and visual art magazine that realized an collection of art from the student body each semester.  In addition,
+In college, I was a part of Onyx,a poetry and visual art magazine that published an collection of art from the student body each semester.  In addition,
+
+I had to:
+- follow up with the printer
+- organize all
+- review art submissions
+- organize spoken-word open mics
+- create (with my co-editor) the magazine each semester
+
+This helped teach me time management,
 
 
 ### Bonus 1: A quick personal note, getting an advanced degree
@@ -113,9 +133,11 @@ Programming in class is different from programming the cubicle. Take on a coding
 ## Some additional tips
 - Start a blog
 - Attend meetups and build your network
-- Find speaking engagements
+- Find speaking engagements -
+- Work and school at the same time (for some this is not an option) - teaches time management
 
 ## Additional Resources:
 - [Forbes Magazine](https://www.forbes.com/sites/kevinkruse/2013/04/09/what-is-leadership/#64088d435b90) on Leadership
 
 ## Conclusion
+- Leadership is about seeing an objective that needs to be accomplished and working to ensure the collective goal is reached
