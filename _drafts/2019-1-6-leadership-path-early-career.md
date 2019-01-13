@@ -97,7 +97,16 @@ Grab a friend or colleague and try out some duck typing or pair programming.  Ma
 If you have worked in groups, great! Take the opportunity to organize the  
 
 ### Get an internship
-- Unable to obtain an internship? Be a TA over the summer or
+One thing that you can do, which will help you early in your career is to obtain an internship.  
+
+Wait..seriously?  This is your advice?  I knew this one...
+
+I hear you.  Let me add some additional color on why getting an internship is helpful:
+- it will set you apart from your peers when looking for opportunities
+- give you experience in the work environment, helping illustrate the difference between coding in the computer lab and coding in the office
+- help you improve communication and team work
+
+- Unable to obtain an internship? All good, there are other opportunities to grow and learn.  I never had an internship as an undergrad, however I did work on campus for the Math department and revamped their website (the originally version is probably still online somewhere...).  Whatever it is, find a way to code outside of the classroom and find an opportunity to work with others!  It is invaluable, especially early on in your career.
 
 ### Participate to Extra curricular activities and groups (learn how to work with groups/teams)
 While in college, I was part of NSBE (National Society of Black Engineers), I resurrected the chapter at Tufts and led the organization locally.
@@ -107,16 +116,14 @@ There are numerous society and activities to be a part of from IEEE, NSBE, Girls
 Tufts has JumboCode and I am sure your school may have something analogous.  If it doesn't, find an opportunity to volunteer.
 
 ### Do something outside of programming
-In college, I was a part of Onyx,a poetry and visual art magazine that published an collection of art from the student body each semester.  In addition,
-
-I had to:
+In college, I was a part of Onyx,a poetry and visual art magazine that published an collection of art from the student body each semester.  In addition, I had to:
 - follow up with the printer
 - organize all
 - review art submissions
 - organize spoken-word open mics
 - create (with my co-editor) the magazine each semester
 
-This helped teach me time management,
+This helped teach me time management, working with others, meeting deadlines, being responsible for others, and taking ownership.  These are all critical skills that I continue to grow and improve on - looking back, taking on activities outside of programming help nurture these burgeoning abilities.
 
 
 ### Bonus 1: A quick personal note, getting an advanced degree
