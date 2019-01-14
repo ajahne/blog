@@ -43,7 +43,7 @@ Who was the TA for OOP in Java after struggling with Data Structures.
 
 Who became the head TA for Intro to Computer Science. The same course he almost failed.
 
-Who, on his first job was told that he would not be a fit for the position.
+Who, on his first job was told that he would not be a fit for the position. Yet, was promoted in three months. 
 
 Who is now the VP of Technology & Engineering at [TrueChoice Solutions](https://www.truechoicesolutions.com). From almost failing out, to succeeding, to excelling, teaching, and now continuing to mentor and coach engineers from entry level to architect.
 
