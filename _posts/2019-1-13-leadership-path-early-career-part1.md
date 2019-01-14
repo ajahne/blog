@@ -139,11 +139,9 @@ While in college, I helped restart Tufts' chapter of [NSBE (National Society of 
 
 There are numerous societies and activities to be a part of from IEEE, NSBE, Girls who Code, etc.
 
-Tufts has JumboCode and I am sure your school may have something analogous.  If it doesn't, find an opportunity to volunteer!
+Tufts has JumboCode and I am sure your school may have something analogous.  If it doesn't, find an opportunity to volunteer!   
 
-Take on a coding challenge. Work with the local Boys and Girls club. Start a podcast with friends/classmastes.   
-
-Looking to go further? Take on a leadership position (become the treasurer, co-chair, etc.) in an organization. Additionally, explore speaking engagements and opportunities to present your ideas (to classmates and others, TED talks, etc.).  You know more than you think and **we all have knowledge to share!** 
+Looking to go further? Take on a leadership position (become the treasurer, co-chair, etc.). Take on a coding challenge. Work with the local Boys and Girls club. Start a podcast with friends/classmastes. Additionally, explore speaking engagements and opportunities to present your ideas (to classmates and others, TED talks, etc.).  You know more than you think and **we all have knowledge to share!** 
 
 ## Do something outside of programming
 In college, I was a part of [Onyx](https://dl.tufts.edu/catalog/ead/tufts:UA069.001.DO.UP034), a poetry and visual arts magazine that published a collection of art from the student body each semester.  As Co-Editor in Chief, I had to:
