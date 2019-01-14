@@ -58,7 +58,7 @@ My thoughts, coming right up? But first...a word on our definitions.  What is Le
 ## What is Leadership?
 There are as many definitions of leadership as there are links on the internet*.
 
-*Maybe I exaggerate, but only slightly*
+_*Maybe I exaggerate, but only slightly_
 
 I personally gravitate towards this definition of Leadership from [Forbes Magazine](https://www.forbes.com/sites/kevinkruse/2013/04/09/what-is-leadership/#64088d435b90):
 > Leadership is a process of social influence, which maximizes the efforts of others, towards the achievement of a goal.
