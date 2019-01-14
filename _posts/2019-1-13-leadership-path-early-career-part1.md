@@ -41,7 +41,7 @@ Me? The student who turned it around and made Dean's List in his Junior and Seni
 
 Who was the TA for OOP in Java after struggling with Data Structures.
 
-Who became the head TA for for Intro to Computer Science. The same course he almost failed.
+Who became the head TA for Intro to Computer Science. The same course he almost failed.
 
 Who, on his first job was told that he would not be a fit for the position.
 
@@ -80,7 +80,7 @@ Ok, deuces for definitions, let's dive in.
 ## Study the craft
 > Most importantly, learn how to learn
 
-Fundamental to your career as a computer scientist...is..well..computer science!
+Fundamental to your career as a computer scientist...is..well...computer science!
 
 **Ajahne, seriously? This is your sagely wisdom?**
 
@@ -122,20 +122,20 @@ So what can you do?
 
 Take the initiative to push yourself.  Boom, leadership exhibited!
 
-## Get an internship
+## Obtain an internship
 One thing that you can do, which will help you early in your career is to obtain an internship.  
 
-Wait..seriously?  This is your advice?  I knew this one...
+**Wait..for real, Ajahne?  This is your advice?  I knew this one...**
 
 I hear you.  Let me add some additional color on why getting an internship is helpful:
 - it will set you apart from your peers when looking for opportunities
 - it will give you experience in the work environment, helping illustrate the difference between coding in the computer lab and coding in the office
-- it can help you improve communication and team work
+- it will help you improve communication and team work
 
 Unable to obtain an internship? All good, there are other opportunities to grow and learn.  I never had an internship as an undergrad, however I did work on campus for the Math department and revamped their website (the original version is probably still online somewhere...). Whatever it is, **find a way to code outside of the classroom and find an opportunity to work with others!**  
 
 ## Participate in extracurricular activities
-While in college, I helped restart Tufts chapter of [NSBE (National Society of Black Engineers)](https://nsbe.org/home.aspx). I worked to organize meetings, coordinate trips to conventions, and recruit members.  
+While in college, I helped restart Tufts' chapter of [NSBE (National Society of Black Engineers)](https://nsbe.org/home.aspx). I worked to organize meetings, coordinate trips to conventions, and recruit members.  
 
 There are numerous societies and activities to be a part of from IEEE, NSBE, Girls who Code, etc.
 
@@ -158,7 +158,7 @@ This helped teach me time management, how to work with others, meet deadlines, b
 It's College!  'Nuff Said.
 
 ## Bonus: A quick personal note, getting an advanced degree
-For me personally, getting my masters degree has helped me tremendously in career. It helped set me apart from other candidates, it provided me opportunities to become the head TA for Intro to Computer Science, and most importantly, gave me the confidence that I could actually be a computer scientist.  All of this is a topic and post for another time.  I mention this to say, is that we all learn and grow at our own pace.  Do what **you** need to get the reps in required to be the awesome programmer (and person!) you are capable of becoming!
+For me personally, getting my masters degree has helped me tremendously in career. It set me apart from other candidates, it provided me opportunities to become the head TA for Intro to Computer Science, and most importantly, gave me the confidence that I could actually be a computer scientist.  All of this is a topic and post for another time.  I mention this to say that we all learn and grow at our own pace.  Do what **you** need to get the reps in required to be the awesome programmer (and person!) you are capable of becoming!
 
 ## Conclusion
 > Everyone has the capability and potential to be a leader
