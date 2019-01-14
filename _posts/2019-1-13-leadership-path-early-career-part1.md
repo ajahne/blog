@@ -108,7 +108,7 @@ When I began working and had to show engineers who had only just started three m
 Being a TA built my confidence, made me learn the subject matter better (because I had to teach it), and most importantly helped me learn how to work with (and teach) others. Being a TA was the single best thing I did for my career as a undergrad.
 
 ## Work in groups
-In school, I did most of my programming alone.  In my dorm room, in the computer lab. However, in one of my first jobs at a marketing agency, I was thrust into a team, where the most important thing was not my ability to program (which, was key), but my ability to communicate and work with others. On almost all job specs, you will see some version of "must have strong written and verbal communication".
+In school, I did most of my programming alone.  In my dorm room, in the computer lab. However, in one of my first jobs at a marketing agency, I was thrust into a team, where the most important thing was not my ability to program (which, was key), but my ability to communicate and work with others. On almost all job specs, you will see some version of "must have strong written and verbal communication skills".
 
 Yet. We. Do. All. Our. Work. ALONE.
 
@@ -130,7 +130,7 @@ One thing that you can do, which will help you early in your career is to obtain
 I hear you.  Let me add some additional color on why getting an internship is helpful:
 - it will set you apart from your peers when looking for opportunities
 - it will give you experience in the work environment, helping illustrate the difference between coding in the computer lab and coding in the office
-- it will help you improve communication and team work
+- it will help to improve your communication and team work
 
 Unable to obtain an internship? All good, there are other opportunities to grow and learn.  I never had an internship as an undergrad, however I did work on campus for the Math department and revamped their website (the original version is probably still online somewhere...). Whatever it is, **find a way to code outside of the classroom and find an opportunity to work with others!**  
 
@@ -144,7 +144,7 @@ Tufts has JumboCode and I am sure your school may have something analogous.  If 
 Looking for an opportunity to go further? Take on a leadership position (become the treasurer, co-chair, etc.).
 
 ## Do something outside of programming
-In college, I was a part of [Onyx](https://dl.tufts.edu/catalog/ead/tufts:UA069.001.DO.UP034),a poetry and visual arts magazine that published a collection of art from the student body each semester.  As Co-Editor in Chief, I had to:
+In college, I was a part of [Onyx](https://dl.tufts.edu/catalog/ead/tufts:UA069.001.DO.UP034), a poetry and visual arts magazine that published a collection of art from the student body each semester.  As Co-Editor in Chief, I had to:
 - create (with my co-editor) the magazine each semester
 - follow up with the printer to ensure we got the magazine printed on time
 - organize all pages and layouts
@@ -154,11 +154,11 @@ In college, I was a part of [Onyx](https://dl.tufts.edu/catalog/ead/tufts:UA069.
 
 This helped teach me time management, how to work with others, meet deadlines, be responsible to others, and take ownership.  These are all critical skills that I continue to grow and improve upon - looking back, taking on activities outside of programming helped nurture these burgeoning abilities.
 
-## Have Fun.
+## Have Fun
 It's College!  'Nuff Said.
 
 ## Bonus: A quick personal note, getting an advanced degree
-For me personally, getting my masters degree has helped me tremendously in career. It set me apart from other candidates, it provided me opportunities to become the head TA for Intro to Computer Science, and most importantly, gave me the confidence that I could actually be a computer scientist.  All of this is a topic and post for another time.  I mention this to say that we all learn and grow at our own pace.  Do what **you** need to get the reps in required to be the awesome programmer (and person!) you are capable of becoming!
+For me personally, getting my master's degree has helped me tremendously in my career. It set me apart from other candidates, it provided me opportunities to become the head TA for Intro to Computer Science, and most importantly, gave me the confidence that I could actually be a computer scientist.  All of this is a topic and post for another time.  I mention this to say that we all learn and grow at our own pace.  Do what **you** need to get the reps in required to be the awesome programmer (and person!) you are capable of becoming!
 
 ## Conclusion
 > Everyone has the capability and potential to be a leader
