@@ -1,11 +1,11 @@
 ---
 layout: single
 title:  "Leadership opportunities early in your career: Part 1"
-date:  2019-1-6 6:00:00 -0400
+date:  2019-1-13 10:00:00 -0400
 categories: leadership
-tags: leadership
+tags: leadership, management, school
 header:
-  image: /assets/images/people-2557396_1280.jpg
+  image: /assets/images/leadership-early-career-tips-part1.jpg
 ---
 What can you do early in your career to strengthen your leadership abilities?  In this first post, I will start with things you can do while in school, with a second post diving into what you can do early in your professional career. Let's grow!
 
@@ -73,7 +73,7 @@ I have worked with engineers who did not manage any direct reports but had treme
 This is a big topic and a deep dive is beyond the scope of this post.
 
 **Whatever you do, just don't be this guy:**  
-![]({{site.baseurl}}/assets/images/media_httpwwwdilbertc_jgrpe-scaled1000.jpg)
+![]({{site.baseurl}}/assets/images/leadership-early-career-tips-part1-dilbert.jpg)
 
 Ok, deuces for definitions, let's dive in.
 
