@@ -7,23 +7,23 @@ tags: leadership
 header:
   image: /assets/images/people-2557396_1280.jpg
 ---
-What you can do early in your career to strengthen your leadership abilities?  In this first post, I will start with things you can do while in school while a second post will dive into things you can do early in your professional career. Let's grow!
+What can you do early in your career to strengthen your leadership abilities?  In this first post, I will start with things you can do while in school, with a second post diving into what you can do early in your professional career. Let's grow!
 
 ### TLDR/Table of contents:
-- Intro
-- What is leadership?
+- [Intro](#intro)
+- [What is leadership?](#what-is-leadership)
 - What you can do while in school:
-  - Study the craft
-  - Become a TA or Tutor
-  - Work in groups
-  - Obtain an internship
-  - Participate in extra curricular activities
-  - Do something outside of programming
-  - Have fun
-- Conclusion
+  - [Study the craft](#study-the-craft)
+  - [Be a TA or Tutor](#be-a-ta-or-tutor)
+  - [Work in groups](#work-in-groups)
+  - [Obtain an internship](#obtain-an-internship)
+  - [Participate in extracurricular activities](#participate-in-extracurricular-activities)
+  - [Do something outside of programming](#do-something-outside-of-programming)
+  - [Have fun](#have-fun)
+- [Conclusion](#conclusion)
 
 ## Intro
-I am a board member of Tufts University's [Computer Science External Advisory Board](https://engineering.tufts.edu/cs/community/externaladvisoryboard).  Last fall, during our inaugural meeting, we broke between sessions to have lunch with some of the students in the CS department.  The lunch was great because I got a chance to meet and speak with students.  It had been years since I had been on campus.  The department had grown (in both department size and the number of students), there were new extra-curricular activities (like JumboCode), and an excited student body with passionate teachers.
+I am a board member of Tufts University's [Computer Science External Advisory Board](https://engineering.tufts.edu/cs/community/externaladvisoryboard).  Last fall, during our inaugural meeting, we broke between sessions to have lunch with some of the students in the CS department.  The lunch was great because I got a chance to meet and speak with students.  It had been years since I had been on campus.  The department had grown (in both department size and the number of students), there were new extracurricular activities (like JumboCode), and an excited student body with passionate teachers.
 
 I smiled. It was good to be back.
 
@@ -63,9 +63,9 @@ There are as many definitions of leadership as there are links on the internet*.
 I personally gravitate towards this definition of Leadership from [Forbes Magazine](https://www.forbes.com/sites/kevinkruse/2013/04/09/what-is-leadership/#64088d435b90):
 > Leadership is a process of social influence, which maximizes the efforts of others, towards the achievement of a goal.
 
-The students asked me **"What do I do to get on the leadership path?"**. The interpretation at that time, the underlying context, was how do I become a VP, a manager, a director, a CTO? Before we proceed, it is important to _stress_ that being a manager is **not** the only way to be a leader. Leadership is not about the amount of people you manage, but the impact you have on your team, project, initiative, and organization. Leaders help to set and shape the vision. 
+The students asked me **"What do I do to get on the leadership path?"**. The interpretation at that time, the underlying context, was how do I become a VP, a manager, a director, a CTO? Before we proceed, it is important to _stress_ that being a manager is **not** the only way to be a leader. Leadership is not about the amount of people you manage, but the impact you have on your team, project, initiative, and organization.
 
-I have worked with engineers who did not manage any direct reports but had tremendous impact and showed leadership through problem solving, setting and sharing of standards, mentorship, and high quality development, architecture, and system design.
+I have worked with engineers who did not manage any direct reports but had tremendous impact and showed leadership through problem solving, setting and sharing of standards, mentorship, and high quality development, architecture, and system design. With the team, leaders help to set, shape, and achieve the vision.
 
 ### Leadership vs management
 > Leadership is not about the amount of people you manage, but the impact you have on your team, project, initiative, and organization.
@@ -101,9 +101,9 @@ Once you leave school, the learning has essentially just begun.  On the job you 
 
 One area that helped me early in my career (and continues to do so), was becoming a teaching assistant (TA).  Being a TA helped me to further learn the craft, understand how to teach, and most importantly grow my ability to empathize.
 
-During my office hours, I once had a student who was so frustrated by a problem, that she began to tear up.  She felt that she could never figure it out.  I remember working with her, helping her (but not showing her how) to get to the solution. Her excited smile on solving the nested for loop, still lives with me.
+During my office hours, I once had a student who was so frustrated by a problem, that she began to tear up.  She felt that she could never figure it out.  I remember working with her, helping her (but not showing her how) to get to the solution. Her excited smile on solving the nested `for` loop, still lives with me.
 
-When I began working and had to show engineers who had only just started three months after me how to work on our code base, I went back to this moment.  This experience laid the groundwork, which helped me from working with my first intern, to being a tech lead, to today.
+When I began working and had to show engineers who had only just started three months after me how to work on our code base, I went back to this moment.  This experience laid the groundwork, which helped me from working with my first intern, to being a [tech lead]({{ site.baseurl }}{% post_url 2018-2-11-what-is-a-tech-lead %}), to today.
 
 Being a TA built my confidence, made me learn the subject matter better (because I had to teach it), and most importantly helped me learn how to work with (and teach) others. Being a TA was the single best thing I did for my career as a undergrad.
 
@@ -116,8 +116,9 @@ Programming alone in a computer lab is not analogous to working in a professiona
 
 So what can you do?
 - take a class (or classes) where there is an opportunity to work in groups
-- Grab a friend or colleague and experiment with [rubber ducking](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
-- Try out [pair programming](https://en.wikipedia.org/wiki/Pair_programming).  Many teams practice one or both.
+- [participate in extracurricular activities](#participate-in-extracurricular-activities)
+- grab a friend or colleague and experiment with [rubber ducking](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
+- try out [pair programming](https://en.wikipedia.org/wiki/Pair_programming).  Many teams practice one or both.
 
 Take the initiative to push yourself.  Boom, leadership exhibited!
 
@@ -133,15 +134,17 @@ I hear you.  Let me add some additional color on why getting an internship is he
 
 Unable to obtain an internship? All good, there are other opportunities to grow and learn.  I never had an internship as an undergrad, however I did work on campus for the Math department and revamped their website (the original version is probably still online somewhere...). Whatever it is, **find a way to code outside of the classroom and find an opportunity to work with others!**  
 
-## Participate in extra curricular activities and groups (learn how to work with groups/teams)
+## Participate in extracurricular activities
 While in college, I helped restart Tufts chapter of [NSBE (National Society of Black Engineers)](https://nsbe.org/home.aspx). I worked to organize meetings, coordinate trips to conventions, and recruit members.  
 
-There are numerous society and activities to be a part of from IEEE, NSBE, Girls who Code, etc.
+There are numerous societies and activities to be a part of from IEEE, NSBE, Girls who Code, etc.
 
 Tufts has JumboCode and I am sure your school may have something analogous.  If it doesn't, find an opportunity to volunteer!
 
+Looking for an opportunity to go further? Take on a leadership position (become the treasurer, co-chair, etc.).
+
 ## Do something outside of programming
-In college, I was a part of [Onyx](https://dl.tufts.edu/catalog/ead/tufts:UA069.001.DO.UP034),a poetry and visual art magazine that published an collection of art from the student body each semester.  As Co-Editor in Chief, I had to:
+In college, I was a part of [Onyx](https://dl.tufts.edu/catalog/ead/tufts:UA069.001.DO.UP034),a poetry and visual arts magazine that published a collection of art from the student body each semester.  As Co-Editor in Chief, I had to:
 - create (with my co-editor) the magazine each semester
 - follow up with the printer to ensure we got the magazine printed on time
 - organize all pages and layouts
@@ -149,10 +152,10 @@ In college, I was a part of [Onyx](https://dl.tufts.edu/catalog/ead/tufts:UA069.
 - organize open mics (venues, performers, hosts, etc.)
 - more things that I have probably forgotten
 
-This helped teach me time management, how to work with others, meet deadlines, be responsible to others, and take ownership.  These are all critical skills that I continue to grow and improve on - looking back, taking on activities outside of programming helped nurture these burgeoning abilities.
+This helped teach me time management, how to work with others, meet deadlines, be responsible to others, and take ownership.  These are all critical skills that I continue to grow and improve upon - looking back, taking on activities outside of programming helped nurture these burgeoning abilities.
 
 ## Have Fun.
-Its College!  'Nuff Said.
+It's College!  'Nuff Said.
 
 ## Bonus: A quick personal note, getting an advanced degree
 For me personally, getting my masters degree has helped me tremendously in career. It helped set me apart from other candidates, it provided me opportunities to become the head TA for Intro to Computer Science, and most importantly, gave me the confidence that I could actually be a computer scientist.  All of this is a topic and post for another time.  I mention this to say, is that we all learn and grow at our own pace.  Do what **you** need to get the reps in required to be the awesome programmer (and person!) you are capable of becoming!
