@@ -45,7 +45,7 @@ Who became the head TA for for Intro to Computer Science. The same course he alm
 
 Who, on his first job was told that he would not be a fit for the position.
 
-Who is now the VP of Technology & Engineering at TrueChoice Solutions. From almost failing out, to succeeding, to excelling, teaching, and now continuing to mentor and coach engineers from entry level to architect.
+Who is now the VP of Technology & Engineering at [TrueChoice Solutions](https://www.truechoicesolutions.com). From almost failing out, to succeeding, to excelling, teaching, and now continuing to mentor and coach engineers from entry level to architect.
 
 Yeah...maybe I did have a few perspectives I could share?
 
