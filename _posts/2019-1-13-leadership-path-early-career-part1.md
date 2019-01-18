@@ -7,7 +7,9 @@ tags: leadership, management, school
 header:
   image: /assets/images/leadership-early-career-tips-part1.jpg
 ---
-What can you do early in your career to strengthen your leadership abilities?  I was recently asked this very question by a CS student. Challenge accepted! In this first post, I will start with things you can do while in school, with a second post diving into what you can do early in your professional career. Let's grow!
+What can you do early in your career to strengthen your leadership abilities?  I was recently asked this very question by a CS student from my alma mater. Challenge accepted! 
+
+In this first post, I will start with things you can do while in school, with a second post diving into what you can do early in your professional career. Let's grow!
 
 ### TLDR/Table of contents:
 - [Intro](#intro)
