@@ -82,7 +82,7 @@ Ok, deuces for definitions, let's dive in.
 ## Study the craft
 > Most importantly, learn how to learn
 
-Fundamental to your career as a computer scientist...is..well...computer science!
+Fundamental to your career as a computer scientist...is...well...computer science!
 
 **Ajahne, seriously? This is your sagely wisdom?**
 
