@@ -7,7 +7,7 @@ tags: leadership, management, school
 header:
   image: /assets/images/leadership-early-career-tips-part1.jpg
 ---
-What can you do early in your career to strengthen your leadership abilities?  I was recently asked this very question by a CS student from my alma mater. Challenge accepted! 
+What can you do early in your career to strengthen your leadership abilities?  I was recently asked this very question by a CS student from my [alma mater](https://engineering.tufts.edu). Challenge accepted!
 
 In this first post, I will start with things you can do while in school, with a second post diving into what you can do early in your professional career. Let's grow!
 
@@ -25,7 +25,7 @@ In this first post, I will start with things you can do while in school, with a 
 - [Conclusion](#conclusion)
 
 ## Intro
-I am a board member of Tufts University's [Computer Science External Advisory Board](https://engineering.tufts.edu/cs/community/externaladvisoryboard).  Last fall, during our inaugural meeting, we broke between sessions to have lunch with some of the students in the CS department.  The lunch was great because I got a chance to meet and speak with students.  It had been years since I had been on campus.  The department had grown (in both department size and the number of students), there were new extracurricular activities (like JumboCode), and an excited student body with passionate teachers.
+I am a board member of Tufts University's [Computer Science External Advisory Board](https://engineering.tufts.edu/cs/community/externaladvisoryboard).  Last fall, during our inaugural meeting, we broke between sessions to have lunch with some of the students in the CS department.  The lunch was great because I got a chance to meet and speak with students.  It had been years since I had been on campus.  The department had grown (in both department size and the number of students), there were new extracurricular activities (like [JumboCode](https://jumbocode.org)), and an excited student body with passionate teachers.
 
 I smiled. It was good to be back.
 
@@ -45,7 +45,7 @@ Who was the TA for OOP in Java after struggling with Data Structures.
 
 Who became the head TA for Intro to Computer Science. The same course he almost failed.
 
-Who, on his first job was told that he would not be a fit for the position. Yet, was promoted in three months. 
+Who, on his first job was told that he would not be a fit for the position. Yet, was promoted in three months.
 
 Who is now the VP of Technology & Engineering at [TrueChoice Solutions](https://www.truechoicesolutions.com). From almost failing out, to succeeding, to excelling, teaching, and now continuing to mentor and coach engineers from entry level to architect.
 
@@ -143,7 +143,7 @@ There are numerous societies and activities to be a part of from IEEE, NSBE, Gir
 
 Tufts has JumboCode and I am sure your school may have something analogous.  If it doesn't, find an opportunity to volunteer!   
 
-Looking to go further? Take on a leadership position (become the treasurer, co-chair, etc.). Take on a coding challenge. Work with the local Boys and Girls club. Start a podcast with friends/classmastes. Additionally, explore speaking engagements and opportunities to present your ideas (to classmates and others, TED talks, etc.).  You know more than you think and **we all have knowledge to share!** 
+Looking to go further? Take on a leadership position (become the treasurer, co-chair, etc.). Take on a coding challenge. Work with the local Boys and Girls club. Start a podcast with friends/classmastes. Additionally, explore speaking engagements and opportunities to present your ideas (to classmates and others, TED talks, etc.).  You know more than you think and **we all have knowledge to share!**
 
 ## Do something outside of programming
 In college, I was a part of [Onyx](https://dl.tufts.edu/catalog/ead/tufts:UA069.001.DO.UP034), a poetry and visual arts magazine that published a collection of art from the student body each semester.  As Co-Editor in Chief, I had to:
