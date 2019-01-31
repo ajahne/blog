@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Leadership Opportunities in College"
-date:  2019-1-13 10:00:00 -0400
+date:  2019-1-30 23:00:00 -0400
 categories: leadership
 tags: leadership, management, school, college, opportunities
 header:
