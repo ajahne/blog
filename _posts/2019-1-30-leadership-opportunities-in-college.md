@@ -174,4 +174,4 @@ Good luck and keep learning.  Keep pushing yourself and growing.  You got this!
 - [Opportunities for Leadership in College](https://www.thoughtco.com/opportunities-for-leadership-in-college-793360)
 - [Getting Leadership/Management Experience in College]( http://www.jobipedia.org/Topics/Details?id=1899&category=Answers&reference=What-are-ways-college-students-can-get-leadership-management-experience-so-they-could-have-the-opportunity-to-be-put-in-leadership-positions-straight-out-of-college&page=Answers%20to%20Questions)
 - [10 Ways to Build Job Skills While You're in College](https://www.princetonreview.com/college-advice/experiential-learning-opportunities)
-- [Tips to Develop Leadership Skills in College](Tips to Develop Leadership Skills in College)
+- [Tips to Develop Leadership Skills in College](https://www.varsitytutors.com/blog/tips+to+develop+leadership+skills+in+college)
