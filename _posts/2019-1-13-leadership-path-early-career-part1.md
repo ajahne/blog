@@ -1,9 +1,9 @@
 ---
 layout: single
-title:  "Leadership opportunities early in your career: Part 1"
+title:  "Leadership Opportunities in College"
 date:  2019-1-13 10:00:00 -0400
 categories: leadership
-tags: leadership, management, school
+tags: leadership, management, school, college, opportunities
 header:
   image: /assets/images/leadership-early-career-tips-part1.jpg
 ---
@@ -23,6 +23,7 @@ In this first post, I will start with things you can do while in school, with a 
   - [Do something outside of programming](#do-something-outside-of-programming)
   - [Have fun](#have-fun)
 - [Conclusion](#conclusion)
+- [Additional Resources](#additional-resources)
 
 ## Intro
 I am a board member of Tufts University's [Computer Science External Advisory Board](https://engineering.tufts.edu/cs/community/externaladvisoryboard).  Last fall, during our inaugural meeting, we broke between sessions to have lunch with some of the students in the CS department.  The lunch was great because I got a chance to meet and speak with students.  It had been years since I had been on campus.  The department had grown (in both department size and the number of students), there were new extracurricular activities (like [JumboCode](https://jumbocode.org)), and an excited student body with passionate teachers.
@@ -168,3 +169,9 @@ For me personally, getting my master's degree has helped me tremendously in my c
 This is not an all extensive list, but a set of tips that can help you grow your leadership capabilities early in your career. Leaders are not born, they are made. I believe everyone has the capability and potential to be a leader. Leadership is about seeing an objective that needs to be accomplished and working with others to ensure a collective goal is achieved.
 
 Good luck and keep learning.  Keep pushing yourself and growing.  You got this!
+
+## Additional Resources
+- [Opportunities for Leadership in College](https://www.thoughtco.com/opportunities-for-leadership-in-college-793360)
+- [Getting Leadership/Management Experience in College]( http://www.jobipedia.org/Topics/Details?id=1899&category=Answers&reference=What-are-ways-college-students-can-get-leadership-management-experience-so-they-could-have-the-opportunity-to-be-put-in-leadership-positions-straight-out-of-college&page=Answers%20to%20Questions)
+- [10 Ways to Build Job Skills While You're in College](https://www.princetonreview.com/college-advice/experiential-learning-opportunities)
+- [Tips to Develop Leadership Skills in College](Tips to Develop Leadership Skills in College)
