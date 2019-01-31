@@ -30,7 +30,7 @@ I am a board member of Tufts University's [Computer Science External Advisory Bo
 
 I smiled. It was good to be back.
 
-I ate my sandwich (and destroyed _two_ cookies), while speaking with three students who made me happy to be both an alumni and board member. In between bites, one of the students asked me about my career, working, and being in a leadership position. What is it like? What does it take to be a leader?  
+I ate my sandwich (and destroyed _two_ cookies), while speaking with three students who made me happy to be both an alumnus and board member. In between bites, one of the students asked me about my career, working, and being in a leadership position. What is it like? What does it take to be a leader?  
 
 Me? It brought me back.
 
