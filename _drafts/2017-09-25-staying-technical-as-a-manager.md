@@ -107,7 +107,10 @@ OK, let's jump off the phone/tablet/PC and get some fresh air and fresh perspect
 - https://github.com/brooklynjs/brooklynjs.github.io
 
 ## Stay in the code
-Fix a bug, edit a (small) feature, build to production. See what the dev environment is like. Make sure you can build the system that the team you lead/collaborate with is responsible for maintaining.
+Fix a bug, edit a (small) feature, build to production. See what the dev environment is like. Make sure you can build the system that the team you lead/collaborate with is responsible for maintaining. 
+- conduct code review
+- create/set with the team style guides
+- do not become a bottleneck/blocker
 
 ## Code what you love
 Love AR? Do it!  Inspired by the latest SRE tech? Go work in it! Follow your passions and dive into what inspires you.
