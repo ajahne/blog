@@ -97,7 +97,7 @@ To that end, get good at this!  However, most importantly, learn how to learn!
 
 Learning is forever. In our industry, we are constantly learning.  Not to be overly dramatic, but learn or die (ok...that was _a bit_ overly dramatic).
 
-Once you leave school, the learning has essentially just begun.  On the job you will learn about stand-ups, SCRUM, assessments, DevOps, JIRA, CI/CD, server environments (Dev->Staging->Prod), new programming languages, emerging technologies, and...the list will continue. What has helped me most in my career is not only learning how to learn, but loving learning, loving the journey.
+Once you leave school, the learning has essentially just begun.  On the job you will learn about stand-ups, SCRUM, assessments, Kanban, DevOps, TDD, CI/CD, server environments (Dev->Staging->Prod), new programming languages, emerging technologies, and...the list will continue. What has helped me most in my career is not only learning how to learn, but loving learning, loving the journey.
 
 ## Be a TA or Tutor
 > Being a TA was the single best thing I did for my career as a undergrad.
