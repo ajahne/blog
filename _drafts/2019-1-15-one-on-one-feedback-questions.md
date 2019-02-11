@@ -10,15 +10,19 @@ header:
 
 ## Outline
 - intro
-Having one-on-ones (which I know you are) be sure to follow the dos and don'ts of having productive conversations.
+  - Having one-on-ones (which I know you are) be sure to follow the dos and don'ts of having productive conversations.
+  - Goal: create a culture a feedback.  
+  - do not start by _giving_ feedback, instead we must start by _getting_ feedback. This will give people the confidence and comfort to have open conversations.  We, as leaders, must exemplify the behavior
+  - provide an open, and safe space for feedback.  
+  - be sure to thank the person for giving you feedback!
+  - we want to grow as managers, leaders, and people
 - questions
 - additional resources
-- be sure to thank the person for giving you feedback!
 
 ## Questions
-For each of these questions, be sure to say it in your own words.  Make sure if rolls off your tongue in a natural way that works for you.
+Here are some questions that I have used to obtain feedback from my team.  For each of these questions, be sure to say it in your own words.  Make sure if rolls off your tongue in a natural way that works for you.
 
-With that said, wording matters!  Do not dodge feedback by asking "do you have any feedback for me".  That allows someone to opt-out, most people want to avoid uncomfortable situations. So instead, ask flat out: "What feedback do you have for me?".  Lean into the feedback, shift left on the feedback, [latest saying] to the feedback!
+With that said, wording matters!  Do not dodge feedback by asking "*do you* have any feedback for me".  That allows someone to opt-out, most people want to avoid uncomfortable situations. So instead, ask flat out: "*What feedback* do you have for me?".  Lean into the feedback, shift left on the feedback, [latest saying] to the feedback!
 
 - What feedback do you have for me?
 - What advice do you have for me? _(a slight change from above...but it may open up more feedback)_
@@ -36,4 +40,4 @@ With that said, wording matters!  Do not dodge feedback by asking "do you have a
 - Ben Horowitz on [one-on-ones](https://a16z.com/2012/08/30/one-on-one/)
 - Signal vs Noise on [how to give feedback to your boss](https://m.signalvnoise.com/how-to-give-feedback-to-your-boss/)
 - [Unlock honest feedback from your employees with this one word](https://knowyourteam.com/blog/2017/12/01/unlock-honest-feedback-from-your-employees-with-this-one-word/) by Know your team
-- The muse on [getting honest feedback from your team as a manager](https://www.themuse.com/advice/dear-managers-this-is-how-you-get-honest-feedback-from-your-team) 
+- The muse on [getting honest feedback from your team as a manager](https://www.themuse.com/advice/dear-managers-this-is-how-you-get-honest-feedback-from-your-team)
