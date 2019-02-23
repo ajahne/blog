@@ -5,7 +5,7 @@ date:  2019-1-14 10:00:00 -0400
 categories: leadership
 tags: leadership, management, 1-1, one-on-one
 header:
-  image: assets/images/pexels-photo-1181516.jpeg
+  image: assets/images/one-on-one-meeting-feedback-questions.jpeg
 ---
 
 ## Outline
