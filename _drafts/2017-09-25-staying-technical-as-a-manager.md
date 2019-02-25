@@ -118,5 +118,8 @@ Love AR? Do it!  Inspired by the latest SRE tech? Go work in it! Follow your pas
 ## Write a blog :)
 I encourage you to push yourself. Want to get better at that cool tech you keep reading about? Code up a few "hello worlds" on GitHub and write about it.  Tried out some great new tools at work?  Blog about it. There will be someone who will appreciate it and to top it off, you will be giving back to the community that has given so much to us.
 
-# Conclusion
+## Conclusion
 Let me know if you have any further suggestions!
+
+## Additional Resources
+- [Keeping yourself up to date](https://www.linkedin.com/pulse/knowledge-worker-keeping-yourself-up-date-nikolaj-karpov/)
