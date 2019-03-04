@@ -5,7 +5,7 @@ date:  2019-1-13 3:00:00 -0400
 categories: leadership
 tags: leadership
 header:
-  image: /assets/images/pexels-photo-1181414.jpg
+  image: /assets/images/pexels-photo-1181298.jpg
 ---
 ## Outline
 **Submitting interview application:**
