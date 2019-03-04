@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Getting Feedback as a Manager"
-date:  2019-1-14 10:00:00 -0400
+date:  2019-2-28 10:00:00 -0400
 categories: leadership
 tags: leadership, management, 1-1, one-on-one
 header:
