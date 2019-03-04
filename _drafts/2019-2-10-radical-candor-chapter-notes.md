@@ -23,7 +23,6 @@ Part 1
 1: building radically candid relationships
 - leadership and management are like forehand and backhand, you need both to win
 - Bosses guide a team to achieve results
-- Semantics: leader, boss, manager
 - Three areas of responsibility: guidance (feedback/coaching, praise and criticism), team-building(hiring, firing, promoting, motivation), results (getting things done)
 - Relationships, not power, drive you forward
 - “Your ability to build trusting, human connections with the people who report directly to you will determine the quality of everything that follows” (p8)
@@ -34,7 +33,6 @@ Part 1
 - Radical Candor = Care Personally + Challenge Directly
 - Bring your whole self to work (how?)
 - Being a boss is a job, not a value judgment
-- Care personally
 - Finding out what makes us get out of bed and what makes us wanna stay there
 - They may never repay you, but they are likely to pay it forward.
 - “Challenging others and encouraging them to challenge you helps build trusting relationships”. You care enough to point out when things aren’t going well and admit you are wrong and committed to fixing mistakes (pg14)
@@ -42,7 +40,6 @@ Part 1
 - Radical Candor is not front-stabbing, not an open invite to be a jerk, not schmoozing - remember you have to care about people
 - Radical Candor is sensitive to context. Not what is said, it’s what is heard. It’s measured at the listeners ear. Only works if person understand that you care personally
 - Communication and how to give feedback and share perspectives differs by company, country, and culture - be aware of this and still push for Radical Candor (e.g. from experiences in Tokyo at Google the author encouraged “polite persistence”)
--
 
 2: get, give, and encourage guidance
 - “Um” note to self: check to see if you are seeing up, if so stop! Work to improve. Maybe speech coach?
@@ -60,10 +57,9 @@ Part 1
 - Leadership is sometimes about being willing to piss people off
 - Do not be insecure, not about being liked or praised, about being honest, direct, and caring
 - When giving praise investigate until you really understand who did what and why it was so great. Be specific and thorough with praise as with criticism. Go deep into the details
-- On the path to creating a culture of radical Candor: start being getting feedback, not giving it
+- On the path to creating a culture of radical Candor: start by getting feedback, not giving it
 - Note to self: get clear on the difference between radical candor and obnoxious aggression
-- “Red Toyota square of feedback”
-- Worry more about praise, less about criticism- but above all be sincere
+- Worry more about praise, less about criticism - but above all be sincere
 - To criticize without discouraging, focus on the relationship
 - Ask for criticism before giving it.
 - Be humble
@@ -78,11 +74,11 @@ Part 1
 3: understand what motivates each person on your team
 - What motivates this person?
 - rock stars and superstars
-- Rock is consistent, like rock of Gibraltar, superstars always looking for the next
+- Rockstars are consistent, like rock of Gibraltar, superstars always looking for the next
 - Analyze when you have been each one? Self reflect first
 - Break down direct reports and see where they fall. Be honest. Avoid assumptions
 - Focus on growth
-- Job is not to provide purpose, but to know team well enough to understand how each derbies meaning from their work
+- Job is not to provide purpose, but to know team well enough to understand how each drives meaning from their work
 - Ask how each person derived meaning from their work (since I cannot guess, just ask)
 - How do I determine rock stars and superstars?
 - Excellent performance
@@ -182,16 +178,12 @@ Part 2: tools and techniques
 
 5: relationships
 - start with yourself, stay centered and take care of yourself
-- What does that mean for me?
 - When everyone is able to bring the best of themselves to work, they are more fulfilled, they work better with one another, and the team gets better results
 - Lay down unilateral authority
 - Master the art of socializing at work
 - Sometime the greatest gift you can give your team is to let them go home!
-- Limit the booze
-- Respect boundaries
-- Respect and openness
+- Respect boundaries; Respect and openness
 - NTS: work to say “you all” instead of “you guys”
-- Hugs? How do you know who wants to be hugged?
 - Recognize your emotions and master your reactions to others emotions
 - Acknowledge emotions: “I can see you’re mad/frustrated/elated/etc.”
 - When someone is upset ask questions until you understand what the real issue is
@@ -212,7 +204,6 @@ Part 2: tools and techniques
 - Hear the criticism and take action
 - Repeat what you heard back to ensure you understand it
 - Keep a tally each week: how much do people praise or criticize you
-- Have a suggestion box in a highly trafficked area to solicit anonymous feedback
 - Make it not just safe, but natural to criticize you
 - Have management fix-it weeks, similar to engineering bug fix week. Get suggestions and that’s what you focus on
 - *Giving impromptu feedback*
@@ -222,7 +213,7 @@ Part 2: tools and techniques
 - Do not confuse objective reality with our subjective experience
 - Explicitly state what is good or bad: not “she is smart”, say “she just gave the clearest explanation I’ve ever heard of why users don’t like that feature”
 - Find help for people
-- Give feedback immediately; guidance had a short half-life
+- Give feedback immediately; guidance has a short half-life
 - Don’t let scheduled meetings (performance reviews, 1-1s) be an excuse to not get impromptu in-person feedback
 - Praise in public, criticize in private
 - Group learning: most people will say they do not want to be praised in public, so say something like: “Not because I want to embarrass Jane, but to make sure everyone learns from what she accomplished and how she did it”
