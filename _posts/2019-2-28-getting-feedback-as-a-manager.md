@@ -9,8 +9,6 @@ header:
 ---
 One of the most important goals as leader is to create a culture of feedback. To foster an environment of healthy debate and discussion, a place where constructive feedback is given throughout the organization - amongst peers, to and from leadership, and across teams. As leaders, the building of this culture starts with us.  
 
-As managers we want to grow and become better teammates, coaches, and leaders.  We cannot do this without guidance.  We cannot do this without criticism.  To be our best, we must obtain feedback from our teams.
-
 To encourage a culture of feedback as a leader, we must first prove we can take it. To that end, we must not start by **giving** feedback but, instead start by **getting** it. This will give people the confidence and comfort to have open conversations with us and with others.  
 
 > We, as leaders, must exemplify the behavior we want to see, further enabling and promoting it in our teams.
@@ -46,7 +44,7 @@ Below are some of the best questions I have asked to obtain feedback from my tea
 ## Conclusion
 > Once my team knew that I wanted, encouraged, and appreciated their feedback, it came more often, more easily.
 
-Getting feedback is critical component to our growth as managers. Ultimately, we want to foster open, collaborative, safe, and supportive environments for our team. We want to improve, get better, and create high-performing technology organizations. To accomplish these goals, we must start with ourselves. Learning our blind spots, our strengths, and our areas of improvement is fundamental to being the best leaders - and people - we can be. Is it easy? Nah. Is it worth it? No doubt.
+Getting feedback is a critical component to our growth as managers. Ultimately, we want to foster open, collaborative, safe, and supportive environments for our team. We want to improve, get better, and create high-performing technology organizations. To accomplish these goals, we must start with ourselves. Learning our blind spots, our strengths, and our areas of improvement is fundamental to being the best leaders - and people - we can be. Is it easy? Nah. Is it worth it? No doubt.
 
 Keep pushing, keep growing, and keep learning. You got this!
 
