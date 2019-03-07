@@ -24,8 +24,6 @@ So what are some questions you can ask to get guidance as a manager and help cre
 ## One-on-one feedback questions
 Below are some of the best questions I have asked to obtain feedback from my team. I typically pose one *(and only one)* of these at the end of my one-on-one meetings. Now, for each of these questions, be sure to say it in your own words.  Make sure it rolls off your tongue in a natural way that works for you.
 
-With that said, wording matters!  For example, do **not** dodge feedback by asking "*Do you* have any feedback for me?". Nah. That allows someone to opt-out, most people want to avoid uncomfortable situations. So instead, ask flat out: "*What feedback* do you have for me?". Lean into the feedback, shift left on the feedback, embrace the feedback!
-
 > Ask the question, then wait. Listen. Do not interrupt, do not follow up with another question. Sit with the discomfort and let the conversation breathe.
 
 - What feedback do you have for me?
