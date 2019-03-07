@@ -7,17 +7,17 @@ tags: leadership, management, 1-1, one-on-one, feedback
 header:
   image: assets/images/one-on-one-meeting-feedback-questions.jpeg
 ---
-One of the most important goals as leader is to create a culture of feedback. To foster an environment of healthy debate and discussion, a place where constructive feedback is given throughout the organization - amongst peers, to and from leadership, and across teams. As leaders, the building of this culture starts with us.  
+One of the most important goals as leader is to create a culture of feedback. Fostering an environment of healthy debate and discussion, where constructive feedback is shared throughout the organization -- amongst peers, to and from leadership, and across teams -- is paramount to your business' long term growth and success. As leaders, the building of this culture starts with us.  
 
-To encourage a culture of feedback as a leader, we must first prove we can take it. To that end, we must not start by **giving** feedback but, instead start by **getting** it. This will give people the confidence and comfort to have open conversations with us and with others.  
+To encourage a culture of feedback as a manager, we must first prove we can take it. To that end, we must not start by **giving** feedback but, instead start by **getting** it. This will give people the confidence and comfort to have open conversations with us and with others.  
 
 > We, as leaders, must exemplify the behavior we want to see, further enabling and promoting it in our teams.
 
 **So how do we get started?**
 
-I got you! The weekly [one-on-one meetings](https://wavelength.asana.com/workstyle-what-is-a-1-1/) with our direct reports is the perfect place to begin and an ideal opportunity to get feedback. It is our secret weapon, one of the best tools we have in our managerial utility belt.
+I got you! The weekly [one-on-one meetings](https://wavelength.asana.com/workstyle-what-is-a-1-1/) with our direct reports is the perfect place to begin and an ideal opportunity to get feedback that will help us grow. It is our secret weapon, one of the best tools we have in our managerial utility belt.
 
-So what are some questions you can ask to get guidance as a manager and help create a culture of feedback? Glad you asked...
+*And without further ado...*
 
 ## One-on-one feedback questions
 Below are some of the best questions I have asked to obtain feedback from my team. I typically pose one *(and only one)* of these at the end of my one-on-one meetings. Now, for each of these questions, be sure to say it in your own words.  Make sure it rolls off your tongue in a natural way that works for you.
@@ -44,14 +44,14 @@ Below are some of the best questions I have asked to obtain feedback from my tea
 ## Conclusion
 > Once my team knew that I wanted, encouraged, and appreciated their feedback, it came more often, more easily.
 
-Getting feedback is a critical component to our growth as managers. Ultimately, we want to foster open, collaborative, safe, and supportive environments for our team. We want to improve, get better, and create high-performing technology organizations. To accomplish these goals, we must start with ourselves. Learning our blind spots, our strengths, and our areas of improvement is fundamental to being the best leaders - and people - we can be. Is it easy? Nah. Is it worth it? No doubt.
+Getting feedback is a critical component to our growth as managers. Ultimately, we want to foster open, collaborative, safe, and supportive environments for our team. We want to improve, get better, and create high-performing technology organizations. To accomplish these goals, we must start with ourselves. Learning our blind spots, our strengths, and our areas of improvement is fundamental to being the best leaders (and people!) we can be. Is it easy? Nah. Is it worth it? No doubt.
 
 Keep pushing, keep growing, and keep learning. You got this!
 
 ## Additional resources
 - Ben Horowitz on [one-on-ones](https://a16z.com/2012/08/30/one-on-one/)
-- Signal vs Noise on [how to give feedback to your boss](https://m.signalvnoise.com/how-to-give-feedback-to-your-boss/)
 - [Unlock honest feedback from your employees with this one word](https://knowyourteam.com/blog/2017/12/01/unlock-honest-feedback-from-your-employees-with-this-one-word/) by Know your team
 - The muse on [getting honest feedback from your team as a manager](https://www.themuse.com/advice/dear-managers-this-is-how-you-get-honest-feedback-from-your-team)
 - DayDreams in Ruby on [getting feedback](http://daydreamsinruby.com/getting-feedback/)
+- [Radical Candor](https://www.radicalcandor.com) by Kim Scott
 - One-on-one meeting [Dos]({{ site.baseurl }}{% post_url 2018-09-29-one-on-one-meeting-dos-and-donts-part1 %}) and [Don'ts]({{ site.baseurl }}{% post_url 2018-10-08-one-on-one-meeting-dos-and-donts-part2 %})
