@@ -38,9 +38,10 @@ Below are some of the best questions I have asked to obtain feedback from my tea
 - I am working on my attention to detail/listening/area I am not strong at, could you give me some feedback on how I have been doing in this area in the last week/month/quarter?
 - Would you like more or less feedback on your work? If so, what additional feedback would you like?
 
-**Now, once we have received feedback, we must be sure to:**
-- Take action to address the feedback _(work to improve, have follow ups, get coaching, etc.)_
+**Now, once we have received feedback, we must:**
+- Ensure we are clear on the feedback _(ask clarifying questions as needed, get examples where appropriate, etc.)_
 - Thank the person for their feedback _(this is important, let people know you appreciate their feedback and more will come!)_
+- Take action to address the feedback _(work to improve, conduct follow ups, get coaching, etc.)_
 
 ## Conclusion
 > Once my team knew that I wanted, encouraged, and appreciated their feedback, it came more often, more easily.
