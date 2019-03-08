@@ -7,7 +7,7 @@ tags: leadership, management, 1-1, one-on-one, feedback
 header:
   image: assets/images/one-on-one-meeting-feedback-questions.jpeg
 ---
-One of the most important goals as leader is to create a culture of feedback. Fostering an environment of healthy debate and discussion, where constructive feedback is shared throughout the organization -- amongst peers, to and from leadership, and across teams -- is paramount to your business' long term growth and success. As leaders, the building of this culture starts with us.  
+One of the most important goals as leader is to create a culture of feedback. Fostering an environment of healthy debate and discussion, where constructive feedback is shared throughout the organization -- amongst peers, to and from leadership, and across teams -- is paramount to your business' long term growth and success. As leaders, the building of this culture begins with us.  
 
 To encourage a culture of feedback as a manager, we must first prove we can take it. To that end, we must not start by **giving** feedback but, instead start by **getting** it. This will give people the confidence and comfort to have open conversations with us and with others.  
 
