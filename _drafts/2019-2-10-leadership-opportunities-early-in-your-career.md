@@ -25,8 +25,13 @@ Some additional resources:
 - Execute and excel on the tasks given to you
 - Interview prospective candidates
 - Understand the business’ value proposition and mission
+- Do a demonstration to the team/company
+- volunteer to lead a project
+- become a tech lead
+- share your knowledge and teach what you know/have learned
 
 ## Some additional tips
 - Start a blog
+- start a podcast
 - Attend meetups and build your network
 - Find speaking engagements
