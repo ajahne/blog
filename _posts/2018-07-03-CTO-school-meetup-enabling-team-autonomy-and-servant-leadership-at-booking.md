@@ -61,7 +61,7 @@ So how did it go? - Not so good, some teams did well, but most did not.
 - Booking.com grew rapidly, went from 600,000 bookings a day to 1,000,000+ bookings a day in a couple of years
 - Grew from 1 to 2 to 5 offices
 - They have ~1,000 engineers
-- Experimentation is built into their culture, they put up new features and test them out all the time. If the feature works (i.e. hits KPIs) great, if not, they roll it back
+- Experimentation is built into their culture, they put up new features and test them out all the time. If the feature works (e.g. hits KPIs) great, if not, they roll it back
   - This experimentation is reflected in their work with autonomous teams
 - Performance reviews are done quarterly
 - They have agile coaches to help out teams
