@@ -53,5 +53,5 @@ Keep pushing, keep growing, and keep learning. You got this!
 - [Unlock honest feedback from your employees with this one word](https://knowyourteam.com/blog/2017/12/01/unlock-honest-feedback-from-your-employees-with-this-one-word/) by Know your team
 - The muse on [getting honest feedback from your team as a manager](https://www.themuse.com/advice/dear-managers-this-is-how-you-get-honest-feedback-from-your-team)
 - DayDreams in Ruby on [getting feedback](http://daydreamsinruby.com/getting-feedback/)
-- [Radical Candor](https://www.radicalcandor.com) by Kim Scott
+- [Radical Candor](https://www.radicalcandor.com)
 - One-on-one meeting [Dos]({{ site.baseurl }}{% post_url 2018-09-29-one-on-one-meeting-dos-and-donts-part1 %}) and [Don'ts]({{ site.baseurl }}{% post_url 2018-10-08-one-on-one-meeting-dos-and-donts-part2 %})
