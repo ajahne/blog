@@ -15,7 +15,7 @@ const browser = await puppeteer.launch();
 const page = await browser.newPage();
 await page.goto('http://ajahne.github.io/blog/');
 await page.waitForFunction(
-  'document.querySelector("body").innerText.includes("Hello Ajahne");'
+  'document.querySelector("body").innerText.includes("Hello Ajahne")'
 );
 {% endhighlight %}
 
@@ -52,7 +52,7 @@ await page.goto('http://espn.com');
 ### Check to see if text exists on the page
 {% highlight js %}
 await page.waitForFunction(
-  'document.querySelector("body").innerText.includes("NBA");'
+  'document.querySelector("body").innerText.includes("NBA")'
 );
 {% endhighlight %}
 
@@ -70,7 +70,7 @@ const puppeteer = require('puppeteer');
   const page = await browser.newPage();
   await page.goto('http://espn.com');
   await page.waitForFunction(
-    'document.querySelector("body").innerText.includes("NBA");',
+    'document.querySelector("body").innerText.includes("NBA")',
   );
   await page.screenshot({path: 'page.png', fullPage:true});
   await browser.close();
