@@ -23,9 +23,7 @@ So what was the presentation about and what were some of my takeaways?
 - [My key takeaways](#my-key-takeaways)
 
 ## What was the presentation about?
-As [Booking.com](https://www.booking.com) faced tremendous growth, it was critical to ensure their teams maintained high performance and motivation. They wanted to try out autonomous teams - teams without team leads - to provide more developer bandwidth, increase motivation, and drive their own (and the company's) performance.
-
-To this end, Booking.com implemented autonomous teams - teams without team leads/managers.
+As [Booking.com](https://www.booking.com) faced tremendous growth, it was critical to ensure their teams maintained high performance and motivation. To this end, Booking.com experimented with autonomous teams - teams without leads/managers - to provide more developer bandwidth, increase motivation, and drive their own (and the company's) performance.
 
 For context: their "standard" team structure was comprised of a team lead, product owner, and a cross functional team of developers/QA/designers/etc. Team leads were responsible for people growth (~20%), team performance (~20%) and core contributions (~60%).
 
@@ -61,7 +59,7 @@ So how did it go? - Not so good, some teams did well, but most did not.
 - Booking.com grew rapidly, went from 600,000 bookings a day to 1,000,000+ bookings a day in a couple of years
 - Grew from 1 to 2 to 5 offices
 - They have ~1,000 engineers
-- Experimentation is built into their culture, they put up new features and test them out all the time. If the feature works (i.e. hits KPIs) great, if not, they roll it back
+- Experimentation is built into their culture, they put up new features and test them out all the time. If the feature works (e.g. hits KPIs) great, if not, they roll it back
   - This experimentation is reflected in their work with autonomous teams
 - Performance reviews are done quarterly
 - They have agile coaches to help out teams
