@@ -1,4 +1,4 @@
-# Refatoring Notes - The first 100 pages
+# Refatoring Notes - The First 100 Pages
 
 ## Contents:
 - [Intro](#intro)
