@@ -1,11 +1,18 @@
 # Refatoring Notes - The first 100 pages
 
-## Intro Notes:
+## TOC:
+- [Intro](#intro)
+- [Chapter 1: Refactoring: A First Example](#chapter-1-refactoring-a-first-example)
+- [Chapter 2: Principles in Refactoring](#chapter-2-principles-in-refactoring)
+- [Chapter 3: Bad Smells in Code](#chapter-3-bad-smells-in-code)
+- [Chapter 4: Building Tests](#chapter-4-building-tests)
+
+## Intro:
 - refactoring definition on page xiv
 - general approach to reading the book Read chapters 1-4 and skim the catalog
 - a lesson learned by reading later on: "As long as I learn something, my time wasn’t wasted." 
 
-## Chapter 1
+## Chapter 1: Refactoring: A First Example
 - For examples, imagine in the context of a larger system
 - The compiler doesn’t care if the code is ugly or clean, but a human does
 - Changes drive the need to refactor. If the code works and never needs to change, leave as is (page 5)
@@ -19,7 +26,7 @@
 - Common sequence: read the code, gain some insight and move insight from your head back into the code (43)
 - Take small steps when refactoring
 
-## Chapter 2
+## Chapter 2: Principles in Refactoring
 - Refactoring: Make code easier to understand and cheaper to modify
 - Any bugs noticed during refactoring should still be present after refactoring (though latent bugs. One noticed can be fixed)
 - Refactoring does not add new functionality
@@ -51,7 +58,7 @@
 - The first foundation of refactoring is self-testing code
 - Refactoring helps is write fast software - it slows software in the short term but makes simpler code that is easier to performance tune during optimization
 
-## Chapter 3: bad smells in code
+## Chapter 3: Bad Smells in Code
 - Mysterious name
 - Duplicated code
 - Long function
@@ -67,7 +74,7 @@
 - Loops - write and experiment with replacing it with maps
 - Comments: when you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous
 
-## Chapter 4: building tests
+## Chapter 4: Building Tests
 - make sure all tests are fully automatic and that they check their own results
 - TDD was started by Kent Beck
 - TDD: write a failing test, write the code that makes it work, refactor to ensure the code is as clean as possible (test-code-refactor)
