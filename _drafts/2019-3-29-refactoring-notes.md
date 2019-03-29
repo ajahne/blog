@@ -1,6 +1,6 @@
 # Refatoring Notes - The first 100 pages
 
-## TOC:
+## Contents:
 - [Intro](#intro)
 - [Chapter 1: Refactoring: A First Example](#chapter-1-refactoring-a-first-example)
 - [Chapter 2: Principles in Refactoring](#chapter-2-principles-in-refactoring)
