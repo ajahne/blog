@@ -7,9 +7,9 @@ tags: javascript, clean code, programming, books
 header:
   image:
 ---
-I am in the process of reading [Refactoring by Martin Fowler](https://www.amazon.com/gp/product/0134757599) and have recently finished the first 100 pages.  What is so special about the first 100? Well, Martin himself _(yep, we're on a first name basis)_ tells the reader _(yours truly)_ that to get the most out of the book to read the first four chapters, then skim and leverage the refactoring catalog as needed.  And how long are the first four chapters...yup, you guessed it...100 pages!  
+I am in the process of reading [Refactoring by Martin Fowler](https://www.amazon.com/gp/product/0134757599) and have recently finished the first 100 pages.  What is so special about the first 100? Well, Martin himself _(yep, we're on a first name basis)_ tells the reader _(yours truly)_ that to get the most out of the book read the first four chapters, then skim and leverage the refactoring catalog as needed.  And how long are the first four chapters...yup, you guessed it...100 pages!  
 
-This is not a review of the book, but rather my key takeaways and notes. I use these notes to augment my learning and leverage them to successfully use refactoring in my own work.  While not a review, I highly recommend this book if you architect systems, design software, want to advance an as engineer, and/or have a passion for clean, maintainable, and self-documenting code. And, let's be real, every self-respecting programmer cares about _all_ of these things :).
+This is not a review of the book, but rather my key takeaways and chapter notes. I use these notes to augment my learning and leverage them to successfully use refactoring in my own work.  While not a review, I highly recommend this book if you architect systems, design software, want to advance an as engineer, and/or have a passion for clean, maintainable, and self-documenting code. And, let's be real, every self-respecting programmer cares about _all_ of these things :).
 
 Let's dive in!
 
@@ -45,6 +45,8 @@ Speaking of key takeaways...
 - Legacy code without tests is very difficult to refactor _(yeah, tell me about it!)_
 - When you need to add a new feature, take time to clean up the code
 - Ultimately you want to learn more about the system and from that learning improve the code, do not keep that learning in your head. Write it down and put it directly into the system (through refactoring).
+- Two hats: refactoring and new features
+  - Refactoring **does not** add new features  
 - Follow the scout rule:
 > leave the code cleaner than you found it  
 
@@ -58,7 +60,7 @@ Speaking of key takeaways...
 - A lesson learned by reading later on: "As long as I learn something, my time wasn’t wasted."
 
 ## Chapter 1: Refactoring: A First Example
-- For examples, imagine in the context of a larger system
+- _For code examples, imagine them in the context of a larger system_
 - The compiler doesn’t care if the code is ugly or clean, but a human does
 - Changes drive the need to refactor. If the code works and never needs to change, leave as is (page 5)
 - Before refactoring, must have tests
