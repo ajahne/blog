@@ -7,20 +7,55 @@ tags: javascript, clean code, programming, books
 header:
   image:
 ---
+I am in the process of reading [Refactoring by Martin Fowler](https://www.amazon.com/gp/product/0134757599) and have recently finished the first 100 pages.  What is so special about the first 100? Well, Martin himself _(yep, we're on a first name basis)_ tells the reader _(yours truly)_ that to get the most out of the book to read the first four chapters, then skim and leverage the refactoring catalog as needed.  And how long are the first four chapters...yup, you guessed it...100 pages!  
 
-# Refatoring Notes - The First 100 Pages
+This is not a review of the book, but rather my key takeaways and notes. I use these notes to augment my learning and leverage them to successfully use refactoring in my own work.  While not a review, I highly recommend this book if you architect systems, design software, want to advance an as engineer, and/or have a passion for clean, maintainable, and self-documenting code. And, let's be real, every self-respecting programmer cares about _all_ of these things :).
+
+Let's dive in!
 
 ## Contents:
-- [Intro](#intro)
-- [Chapter 1: Refactoring: A First Example](#chapter-1-refactoring-a-first-example)
-- [Chapter 2: Principles in Refactoring](#chapter-2-principles-in-refactoring)
-- [Chapter 3: Bad Smells in Code](#chapter-3-bad-smells-in-code)
-- [Chapter 4: Building Tests](#chapter-4-building-tests)
+- [What is refactoring?](#what-is-refactoring)
+- [My key takeaways](#my-key-takeaways)
+- Chapter Notes:
+  - [Intro](#intro)
+  - [Chapter 1: Refactoring: A First Example](#chapter-1-refactoring-a-first-example)
+  - [Chapter 2: Principles in Refactoring](#chapter-2-principles-in-refactoring)
+  - [Chapter 3: Bad Smells in Code](#chapter-3-bad-smells-in-code)
+  - [Chapter 4: Building Tests](#chapter-4-building-tests)
+
+## What is refactoring?
+Refactoring is a particular approach to cleaning up code. The term can be used as either a noun or verb.
+
+> Refactoring (noun): a change made to the internal structure of software to make it easier to understand and cheeper to modify without changing its observable behavior
+
+Refactoring can also be used as a verb:
+
+> Refactoring (verb): to restructure software by applying a series of refactorings without changing its observable behavior.
+
+The key takeaway: make modifications to the internal structure of the code to augment development _without_ modifying the external behavior (e.g. public API).
+
+Speaking of key takeaways...
+
+## My Key Takeaways
+- Refactoring requires testable software!
+- Make changes in small batches. Take small steps:
+  - Update code, compile, test, commit, loop...
+- If code works, and does not need to change, do not refactor. Only refactor code when you need to make changes to the code.
+  - Changes drive the need to refactor. If the code works and never needs to change, leave as is
+- Legacy code without tests is very difficult to refactor _(yeah, tell me about it!)_
+- When you need to add a new feature, take time to clean up the code
+- Ultimately you want to learn more about the system and from that learning improve the code, do not keep that learning in your head. Write it down and put it directly into the system (through refactoring).
+- Follow the scout rule:
+> leave the code cleaner than you found it  
+
+# ======= Chapter Notes =======
 
 ## Intro:
-- refactoring definition on page xiv
-- general approach to reading the book Read chapters 1-4 and skim the catalog
-- a lesson learned by reading later on: "As long as I learn something, my time wasn’t wasted."
+- Refactoring definition on page xiv [and copied above](#what-is-refactoring)
+- General approach to reading the book:
+  - Read chapters 1-4
+  - Skim the catalog
+- A lesson learned by reading later on: "As long as I learn something, my time wasn’t wasted."
 
 ## Chapter 1: Refactoring: A First Example
 - For examples, imagine in the context of a larger system
@@ -30,7 +65,7 @@ header:
 - Have automated tests and test after every refactoring
 - Advice is to ignore performance when refactoring, oftentimes the performance hits are negligible
 - Compile, test, commit
-- Note, when he refactored, he put all the new functions is the main function to avoid impacting other scopes
+- _Note, when he refactored, he put all the new functions is the main function to avoid impacting other scopes_
 - Leave the codebase healthier than when you found it
 - The true test of good code is how easy it is to change it (43)
 - Common sequence: read the code, gain some insight and move insight from your head back into the code (43)
