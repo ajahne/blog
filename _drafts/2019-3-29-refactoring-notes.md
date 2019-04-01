@@ -1,3 +1,13 @@
+---
+layout: single
+title:  "Refactoring: The First 100 pages"
+date:  2019-3-31
+categories: javascript
+tags: javascript, clean code, programming, books
+header:
+  image:
+---
+
 # Refatoring Notes - The First 100 Pages
 
 ## Contents:
@@ -10,7 +20,7 @@
 ## Intro:
 - refactoring definition on page xiv
 - general approach to reading the book Read chapters 1-4 and skim the catalog
-- a lesson learned by reading later on: "As long as I learn something, my time wasn’t wasted." 
+- a lesson learned by reading later on: "As long as I learn something, my time wasn’t wasted."
 
 ## Chapter 1: Refactoring: A First Example
 - For examples, imagine in the context of a larger system
@@ -41,7 +51,7 @@
 - Code reviews help spread knowledge through the development team, help more experienced developers pass knowledge to those less experienced, help people understand larger parts of the system, give opportunity for more people to suggest useful ideas (pg54)
 - Implement refactoring and code review with pair programming
 - Not refactor: code is a mess, but do not need to modify, then don’t need to refactor - only change when you need to understand how it works/ add features
-- Problems with refactoring 
+- Problems with refactoring
 - There can be a tradeoff between large refactoring and adding a small feature
 - As a tech lead, encourage refactoring, encourage the health of your system
 - Those without experience in refactoring need mentorship
