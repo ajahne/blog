@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Refactoring: The First 100 pages"
+title:  "Refactoring: The First 100 Pages"
 date:  2019-3-31
 categories: javascript books
 tags: javascript, clean code, programming, books, refactoring
