@@ -23,7 +23,7 @@ Let's dive in!
   - [Chapter 4: Building Tests](#chapter-4-building-tests)
 
 ## What is refactoring?
-Refactoring is a particular approach to cleaning up code. The term can be used as either a noun or verb.
+Refactoring is a particular approach to cleaning up code. The term can be used as either a noun or a verb.
 
 > Refactoring (noun): a change made to the internal structure of software to make it easier to understand and cheaper to modify without changing its observable behavior.
 
