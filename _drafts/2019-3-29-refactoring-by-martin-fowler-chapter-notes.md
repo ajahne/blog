@@ -27,7 +27,7 @@ Refactoring is a particular approach to cleaning up code. The term can be used a
 
 > Refactoring (noun): a change made to the internal structure of software to make it easier to understand and cheaper to modify without changing its observable behavior.
 
-Refactoring can also be used as a verb:
+Refactoring as a verb:
 
 > Refactoring (verb): to restructure software by applying a series of refactorings without changing its observable behavior.
 
