@@ -50,6 +50,12 @@ Speaking of key takeaways...
 - Lastly, follow the scout rule:
 > Leave the code cleaner than you found it  
 
+Or as Three Stacks told me...
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-JfEJq56IwI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br/>
+
+
+On to the ~~cliff~~ Ajahne notes!
+
 # Chapter Notes
 
 ## Chapter 1: Refactoring: A First Example
