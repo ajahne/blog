@@ -5,7 +5,7 @@ date:  2019-3-31
 categories: javascript books
 tags: javascript, clean code, programming, books, refactoring
 header:
-  image:
+  image: assets/images/refactoring-header-chapter-notes.jpg
 ---
 I am in the process of reading [Refactoring by Martin Fowler](https://www.amazon.com/gp/product/0134757599) and have recently finished the first 100 pages.  What is so special about the first 100 pages? Well, Martin himself _(yep, we're on a first name basis)_ tells the reader _(yours truly)_ that to get the most out of the book read the first four chapters, then skim and leverage the refactoring catalog as needed. And how long are the first four chapters...yup, you guessed it...100 pages!  
 
