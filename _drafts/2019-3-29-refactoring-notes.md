@@ -2,14 +2,14 @@
 layout: single
 title:  "Refactoring: The First 100 pages"
 date:  2019-3-31
-categories: javascript
-tags: javascript, clean code, programming, books
+categories: javascript books
+tags: javascript, clean code, programming, books, refactoring
 header:
   image:
 ---
-I am in the process of reading [Refactoring by Martin Fowler](https://www.amazon.com/gp/product/0134757599) and have recently finished the first 100 pages.  What is so special about the first 100? Well, Martin himself _(yep, we're on a first name basis)_ tells the reader _(yours truly)_ that to get the most out of the book read the first four chapters, then skim and leverage the refactoring catalog as needed.  And how long are the first four chapters...yup, you guessed it...100 pages!  
+I am in the process of reading [Refactoring by Martin Fowler](https://www.amazon.com/gp/product/0134757599) and have recently finished the first 100 pages.  What is so special about the first 100 pages? Well, Martin himself _(yep, we're on a first name basis)_ tells the reader _(yours truly)_ that to get the most out of the book read the first four chapters, then skim and leverage the refactoring catalog as needed. And how long are the first four chapters...yup, you guessed it...100 pages!  
 
-This is not a review of the book, but rather my key takeaways and chapter notes. I use these notes to augment my learning and leverage them to successfully use refactoring in my own work.  While not a review, I highly recommend this book if you architect systems, design software, want to advance an as engineer, and/or have a passion for clean, maintainable, and self-documenting code. And, let's be real, every self-respecting programmer cares about _all_ of these things :).
+This is not a review of the book nor a JavaScript filled example-a-thon _(in process btw)_, but rather my key takeaways and chapter notes. I use these notes to augment my learning and leverage them to successfully use refactoring in my own work.  While not a review, I highly recommend this book if you architect systems, design software, want to advance an as engineer, and/or have a passion for clean, maintainable, and self-documenting code. And, let's be real, every self-respecting programmer cares about _all_ of these things :).
 
 Let's dive in!
 
