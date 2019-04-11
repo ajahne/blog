@@ -89,7 +89,7 @@ On to the ~~cliff~~ Ajahne notes!
   - There can be a tradeoff between large refactoring and adding a small feature
   - Those without experience in refactoring need mentorship
 - As a tech lead, encourage refactoring, encourage the health of your system
-- **Point of refactoring is not to create “clean code”, it is purely economic - we refactor to make is faster - these economic benefits should always be the driving factor**
+- **Point of refactoring is not to create “clean code”, it is purely economic - we refactor to make it faster - these economic benefits should always be the driving factor**
 - Code ownership - published interfaces are harder to do (e.g. APIs)
 - One of the key characteristics of refactoring is that it does not change the observable behavior of the program
 - If I want to refactor, need self-testing code
@@ -132,7 +132,7 @@ On to the ~~cliff~~ Ajahne notes!
 - Be an enemy to your code
 - Don’t let the fear that testing can’t catch all bugs stop you from writing tests that catch most bugs
 - Add to the test suite as you refactor
-- Architectures often are (and rightly so) judged on there testability
+- Architectures often are (and rightly so) judged on their testability
 - Will often work on a test suite as much as we work on the main code
 - When you get a bug report, start by writing tests that expose the bug
 - How confident are you in the code that some tests will fail when a defect is entered into the code
