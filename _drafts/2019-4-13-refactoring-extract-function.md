@@ -32,10 +32,6 @@ function printOwing(invoice) {
 }
 {% endhighlight %}
 
-V
-v
-v
-
 {% highlight js %}
 function printOwing(invoice) {
   printBanner();
