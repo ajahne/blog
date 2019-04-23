@@ -145,3 +145,12 @@ To run, type
 ```
 node ec2-terminate-instances.js
 ```
+
+## Additional Resources
+- [Creating an Amazon EC2 Instance](https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/ec2-example-creating-an-instance.html)
+- [EC2 API](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/EC2.html)
+  - [EC2 Run Instances](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/EC2.html#runInstances-property)
+  - [EC2 Stop Instances](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/EC2.html#stopInstances-property)
+  - [EC2 Terminate Instances](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/EC2.html#terminateInstances-property)
+- [Regions and Availability Zones](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.RegionsAndAvailabilityZones.html)
+- [Ubuntu EC2 AMI Locator](https://cloud-images.ubuntu.com/locator/ec2/)
