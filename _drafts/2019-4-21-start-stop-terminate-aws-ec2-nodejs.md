@@ -5,7 +5,7 @@ date:   2019-4-21 12:30:00 -0400
 categories: javascript
 tags: javascript node nodejs aws amazon ec2
 header:
-  image:
+  image: assets/images/aws-ec2-nodejs-header.jpg
 ---
 
 Outline
