@@ -75,6 +75,11 @@ ec2.runInstances(params, function(err, data) {
 
 {% endhighlight %}
 
+Type the following in the command line to run the example
+```
+node ec2-create-instances.js
+```
+
 ## Stopping an AWS EC2 Instance
 {% highlight js %}
 //load the SDK for JavaScript
@@ -103,6 +108,11 @@ ec2.stopInstances(params, function(err, data) {
 });
 {% endhighlight %}
 
+To run, type
+```
+node ec2-stop-instances.js
+```
+
 ## Terminating an AWS EC2 Instance
 {% highlight js %}
 //load the SDK for JavaScript
@@ -130,3 +140,8 @@ ec2.terminateInstances(params, function(err, data) {
   }  
 });
 {% endhighlight %}
+
+To run, type
+```
+node ec2-terminate-instances.js
+```
