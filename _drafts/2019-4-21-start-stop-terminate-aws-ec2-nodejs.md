@@ -104,6 +104,7 @@ ec2.stopInstances(params, function(err, data) {
 {% endhighlight %}
 
 ## Terminating an AWS EC2 Instance
+{% highlight js %}
 //load the SDK for JavaScript
 const AWS = require('aws-sdk');
 
@@ -128,3 +129,4 @@ ec2.terminateInstances(params, function(err, data) {
     console.log(data);           // successful response
   }  
 });
+{% endhighlight %}
