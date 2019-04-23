@@ -34,7 +34,7 @@ That was easy! Onward and upward, now the cool parts!
 
 ## Creating an AWS EC2 Instance
 {% highlight js %}
-// Load the SDK for JavaScript
+//load the SDK for JavaScript
 const AWS = require('aws-sdk');
 
 //set the region
@@ -76,5 +76,31 @@ ec2.runInstances(params, function(err, data) {
 {% endhighlight %}
 
 ## Stopping an AWS EC2 Instance
+{% highlight js %}
+//load the SDK for JavaScript
+const AWS = require('aws-sdk');
+
+//set the region
+AWS.config.update({region:'us-west-2'});
+
+//create an ec2 object
+const ec2 = new AWS.EC2({apiVersion: '2016-11-15'});
+
+//setup instance params
+const params = {
+  DryRun: true,
+  InstanceIds: [
+    'i-#####'    
+  ]
+};
+
+ec2.stopInstances(params, function(err, data) {
+  if (err) {
+    console.log(err, err.stack); // an error occurred
+  } else {
+    console.log(data);           // successful response
+  }  
+});
+{% endhighlight %}
 
 ## Terminating an AWS EC2 Instance
