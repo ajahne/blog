@@ -128,7 +128,21 @@ The `KeyName` is the [key pair you have setup](https://docs.aws.amazon.com/sdk-f
 
 I am also setting the ID of the [subnet](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Subnets.html) to launch the instance into.
 
-Lastly, you will notice I added the `TagSpecifications` to set a tag, which let's me know I created this instance via code. I find this helpful when checking that my code worked!  
+You will notice I added the `TagSpecifications` to set a tag, which let's me know I created this instance via code. I find this helpful when checking that my code worked!  
+
+Finally, I deploy the instance by calling `runInstances` with the specified `params` and pass in a callback function to handle the response.
+{% highlight js %}
+ec2.runInstances(params, function(err, data) {
+  if (err) {
+    console.log(err, err.stack); // an error occurred
+  } else {
+    console.log(data);           // successful response
+  }  
+});
+{% endhighlight %}
+
+
+_Do note that you can also utilize promises as well instead of callbacks, as seen [here](https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/ec2-example-creating-an-instance.html). My examples follow the standard callback syntax utilized in the AWS API documentation_. 
 
 Now that all the details are outlined, let's launch! Type the following in the command line to run the example:
 ```
