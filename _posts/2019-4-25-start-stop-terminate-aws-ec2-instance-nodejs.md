@@ -91,7 +91,7 @@ AWS.config.update({region:'us-west-2'});
 const ec2 = new AWS.EC2({apiVersion: '2016-11-15'});
 {% endhighlight %}
 
-First is the setup. What we initially do is load the amazon sdk i.e. `aws-sdk`. Next we set our region. As you probably know, there is a wide array of [AWS regions](https://docs.aws.amazon.com/general/latest/gr/rande.html). I chose the west coast (Oregon), but there are numerous regions you can chose from.  We also create a new `ec2` instance which we utilize later in the code. Cool? Cool!
+First is the setup. What we initially do is load the amazon sdk i.e. `aws-sdk`. Next we set our region. As you probably know, there is a wide array of [AWS regions](https://docs.aws.amazon.com/general/latest/gr/rande.html). I chose the west coast (Oregon), but there are numerous regions you can chose from.  We also create a new `ec2` service object which we utilize later in the code. Cool? Cool!
 
 Next we setup the instance parameters. This is information specific to our EC2 instance(s).
 
@@ -126,7 +126,7 @@ The `KeyName` is the [key pair you have setup](https://docs.aws.amazon.com/sdk-f
 
 `MinCount` is the minimum number of instance to launch, while `MaxCount` is (yup, you guessed it) the maximum number of servers to launch. Both of these must be set to 1 or greater. For more details, go [here](https://aws.amazon.com/ec2/faqs/#How_many_instances_can_I_run_in_Amazon_EC2).
 
-I am also setting the ID of the subnet to launch the instance into.
+I am also setting the ID of the [subnet](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Subnets.html) to launch the instance into.
 
 Lastly, you will notice I added the `TagSpecifications` to set a tag, which let's me know I created this instance via code. I find this helpful when checking that my code worked!  
 
@@ -166,7 +166,7 @@ ec2.stopInstances(params, function(err, data) {
 });
 {% endhighlight %}
 
-The key difference (outside of the call to `stopInstances`) is the `params` object, which takes an array of `InstanceIds` to stop!  So, to stop the instance we started, we must add the `InstanceId` into the `params` object.
+The key difference (outside of the call to `stopInstances`) is the `params` object, which takes an array of `InstanceIds` to stop.  So, to stop the instance we started, we must add the `InstanceId` into the `params` object.
 
 Once you have entered the instance id, type the following to stop the instance:
 ```
@@ -206,7 +206,7 @@ ec2.terminateInstances(params, function(err, data) {
 
 As you can see, most of this code is pretty similar to our previous examples and astute readers are already figuring ways to [refactor the code]({{ site.baseurl }}{% post_url 2019-3-29-refactoring-by-martin-fowler-chapter-notes%}) to make it more maintainable, economic, and efficient.
 
-Similar to when we stop the instance, we add the target instance id to the params object!
+Similar to when we stop the instance, we add the target instance id to the params object.
 
 Once we are ready to terminate, we type the following:
 ```
