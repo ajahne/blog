@@ -1,7 +1,7 @@
 ---
 layout: single
-title:  "Starting, stopping, and terminating AWS EC2 instances with Node.js"
-date:   2019-4-21 12:30:00 -0400
+title:  "Start, Stop, and Terminate AWS EC2 Instances with Node.js"
+date:   2019-4-25 0:30:00 -04:00
 categories: javascript
 tags: javascript node nodejs aws amazon ec2
 header:
