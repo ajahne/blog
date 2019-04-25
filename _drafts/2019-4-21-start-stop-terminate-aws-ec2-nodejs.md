@@ -11,14 +11,15 @@ When provisioning and decommissioning Amazon servers in the cloud, we can use th
 
 Let's build!
 
-**Table of Contents**
-- Assumptions (i.e. ensure your environment is setup)
+**Table of Contents:**
+- [Assumptions (aka ensure your environment is setup)](#assumptions-before-jumping-in)
 - That code!
-  - Start an EC2 Instance
-  - Stop an EC2 Instance
-  - Terminate an EC2 Instance
-- Conclusion
-- Additional resources  
+  - [Install the AWS SDK](#install-the-aws-sdk)
+  - [Start an EC2 Instance](#creating-an-aws-ec2-instance)
+  - [Stop an EC2 Instance](#stopping-an-aws-ec2-instance)
+  - [Terminate an EC2 Instance](#terminating-an-aws-ec2-instance)
+- [Conclusion](#conclusion)
+- [Additional resources](#additional-resources)
 
 ## Assumptions before jumping in:
 - You have Node.js installed. [Download at the Node.js website](https://nodejs.org/en/).
@@ -121,8 +122,7 @@ There are a few things I'd like to point out here. First is the `ImageId`, this 
 
 _Note: be sure to check your region and setup to ensure you are using free-tier. Do **not** send your bills here!_
 
-The `KeyName` is the [key pair you have setup]((https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/ec2-example-key-pairs.html)
-).
+The `KeyName` is the [key pair you have setup](https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/ec2-example-key-pairs.html).
 
 `MinCount` is the minimum number of instance to launch, while `MaxCount` is (yup, you guessed it) the maximum number of servers to launch. Both of these must be set to 1 or greater. For more details, go [here](https://aws.amazon.com/ec2/faqs/#How_many_instances_can_I_run_in_Amazon_EC2).
 
@@ -166,7 +166,7 @@ ec2.stopInstances(params, function(err, data) {
 });
 {% endhighlight %}
 
-The key difference (outside of the call to `stopInstances`) is the `params` object, which takes an array of `InstanceIds` to stop!  So, to stop the instance we started you must type the `InstanceId` into the `params` object.
+The key difference (outside of the call to `stopInstances`) is the `params` object, which takes an array of `InstanceIds` to stop!  So, to stop the instance we started, we must add the `InstanceId` into the `params` object.
 
 Once you have entered the instance id, type the following to stop the instance:
 ```
@@ -212,6 +212,8 @@ Once we are ready to terminate, we type the following:
 ```
 node ec2-terminate-instances.js
 ```
+
+And just like that, we have destroyed our instance. 
 
 ## Conclusion
 In this article, we have utilized Node.js to start, stop, and terminate Amazon EC2 instances. We are now _that much_ closer to automating the deployment of our servers, versioning our infrastructure, embracing DevOps principles, and leveraging IAC to scale and  [accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339) our organization. Ain't no stopping us, let's keep pushing!
