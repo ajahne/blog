@@ -135,7 +135,11 @@ Now that all the details are outlined let's launch! Type the following in the co
 node ec2-create-instances.js
 ```
 
+This will output a bunch of information from the creation of this instance.  To continue on and stop (then terminate) this instance, be sure to grab the `InstnaceId` of the EC2 server we just create!
+
 ## Stopping an AWS EC2 Instance
+Great, so we started an instance, now what? Well, one thing we can do is stop said instance (or instances).  As you can see, most of the code is similar to deploying an instance.
+
 {% highlight js %}
 //load the SDK for JavaScript
 const AWS = require('aws-sdk');
@@ -148,7 +152,6 @@ const ec2 = new AWS.EC2({apiVersion: '2016-11-15'});
 
 //setup instance params
 const params = {
-  DryRun: true,
   InstanceIds: [
     'i-#####'    
   ]
@@ -163,12 +166,18 @@ ec2.stopInstances(params, function(err, data) {
 });
 {% endhighlight %}
 
-To run, type
+The key difference is the `params` object, which takes an array of InstanceIds to stop!  So, to stop the instance we started you must type in the `InstanceId` into the `params`.
+
+Once you have entered the instance id, type the following to stop the instance.
 ```
 node ec2-stop-instances.js
 ```
 
+Boom, instance stopped!
+
 ## Terminating an AWS EC2 Instance
+So, we stopped the instance, we are done, right? Well, not quite.  Starting an instance provisioins our server, but the server is still there when stopped. To fully decommission, we need to terminate the instance.
+
 {% highlight js %}
 //load the SDK for JavaScript
 const AWS = require('aws-sdk');
@@ -181,7 +190,6 @@ const ec2 = new AWS.EC2({apiVersion: '2016-11-15'});
 
 //setup params
 const params = {
-  DryRun: true,
   InstanceIds: [
     'i-#####'    
   ]
@@ -196,7 +204,11 @@ ec2.terminateInstances(params, function(err, data) {
 });
 {% endhighlight %}
 
-To run, type
+As you can see, most of this code is pretty similar to our previous examples and astute readers are already figuring ways to [refactor the code]({{ site.baseurl }}{% post_url 2019-3-29-refactoring-by-martin-fowler-chapter-notes%}) to make it more maintainable, economic, and efficient.
+
+Similar to when we stop the instance, we add the target instance id to the params object!
+
+Once we are ready to terminate, we type
 ```
 node ec2-terminate-instances.js
 ```
