@@ -90,7 +90,7 @@ AWS.config.update({region:'us-west-2'});
 const ec2 = new AWS.EC2({apiVersion: '2016-11-15'});
 {% endhighlight %}
 
-First is the setup. What we initially do is load the amazon sdk i.e. `aws-sdk`. Next we set our region. As you probably know, there is wide array of [AWS regions](https://docs.aws.amazon.com/general/latest/gr/rande.html). I chose the west coast (Oregon), but there are numerous regions you can chose from.  We also create a new `ec2` instance which we utilize later in the code. Cool? Cool!
+First is the setup. What we initially do is load the amazon sdk i.e. `aws-sdk`. Next we set our region. As you probably know, there is a wide array of [AWS regions](https://docs.aws.amazon.com/general/latest/gr/rande.html). I chose the west coast (Oregon), but there are numerous regions you can chose from.  We also create a new `ec2` instance which we utilize later in the code. Cool? Cool!
 
 Next we setup the instance parameters. This is information specific to our EC2 instance(s).
 
@@ -124,18 +124,18 @@ _Note: be sure to check your region and setup to ensure you are using free-tier.
 The `KeyName` is the [key pair you have setup]((https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/ec2-example-key-pairs.html)
 ).
 
-`MinCount` is the minimum number of instance to launch, while `MaxCount` is (yup, you guessed it) the maximum number of servers to launch. Both of these must be set to 1 or greater. For more details, go [here](https://aws.amazon.com/ec2/faqs/#How_many_instances_can_I_run_in_Amazon_EC2)
+`MinCount` is the minimum number of instance to launch, while `MaxCount` is (yup, you guessed it) the maximum number of servers to launch. Both of these must be set to 1 or greater. For more details, go [here](https://aws.amazon.com/ec2/faqs/#How_many_instances_can_I_run_in_Amazon_EC2).
 
 I am also setting the ID of the subnet to launch the instance into.
 
 Lastly, you will notice I added the `TagSpecifications` to set a tag, which let's me know I created this instance via code. I find this helpful when checking that my code worked!  
 
-Now that all the details are outlined let's launch! Type the following in the command line to run the example
+Now that all the details are outlined, let's launch! Type the following in the command line to run the example:
 ```
 node ec2-create-instances.js
 ```
 
-This will output a bunch of information from the creation of this instance.  To continue on and stop (then terminate) this instance, be sure to grab the `InstnaceId` of the EC2 server we just create!
+This will output a lot of information from the creation of this instance.  To continue on and stop (then terminate) this instance, **be sure to grab the `InstnaceId` of the EC2 server we just created!**
 
 ## Stopping an AWS EC2 Instance
 Great, so we started an instance, now what? Well, one thing we can do is stop said instance (or instances).  As you can see, most of the code is similar to deploying an instance.
@@ -166,9 +166,9 @@ ec2.stopInstances(params, function(err, data) {
 });
 {% endhighlight %}
 
-The key difference is the `params` object, which takes an array of InstanceIds to stop!  So, to stop the instance we started you must type in the `InstanceId` into the `params`.
+The key difference (outside of the call to `stopInstances`) is the `params` object, which takes an array of `InstanceIds` to stop!  So, to stop the instance we started you must type the `InstanceId` into the `params` object.
 
-Once you have entered the instance id, type the following to stop the instance.
+Once you have entered the instance id, type the following to stop the instance:
 ```
 node ec2-stop-instances.js
 ```
@@ -176,7 +176,7 @@ node ec2-stop-instances.js
 Boom, instance stopped!
 
 ## Terminating an AWS EC2 Instance
-So, we stopped the instance, we are done, right? Well, not quite.  Starting an instance provisioins our server, but the server is still there when stopped. To fully decommission, we need to terminate the instance.
+So, we stopped the instance, we are done, right? Well, not quite.  Starting an instance provisions our server, but the server is still there when stopped. To fully decommission, we need to terminate the instance.
 
 {% highlight js %}
 //load the SDK for JavaScript
@@ -208,7 +208,7 @@ As you can see, most of this code is pretty similar to our previous examples and
 
 Similar to when we stop the instance, we add the target instance id to the params object!
 
-Once we are ready to terminate, we type
+Once we are ready to terminate, we type the following:
 ```
 node ec2-terminate-instances.js
 ```
