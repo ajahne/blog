@@ -7,7 +7,7 @@ tags: javascript node nodejs aws amazon ec2
 header:
   image: assets/images/aws-ec2-nodejs-header.jpg
 ---
-When provisioning and decommissioning Amazon servers in the cloud, we can use the console or we can use code. We're programmers, right? Well let's follow DevOps principles and embrace our coding capabilities to deploy AWS EC2 infrastructure in a scalable way.
+When provisioning and decommissioning Amazon servers in the cloud, we can use the console or we can use code. We're programmers, right? Well let's follow DevOps principles and embrace our coding capabilities to deploy [AWS EC2 infrastructure](https://aws.amazon.com/ec2/) in a scalable way.
 
 Let's build!
 
