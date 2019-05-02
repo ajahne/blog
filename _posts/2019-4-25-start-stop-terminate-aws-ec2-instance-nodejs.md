@@ -91,7 +91,7 @@ AWS.config.update({region:'us-west-2'});
 const ec2 = new AWS.EC2({apiVersion: '2016-11-15'});
 {% endhighlight %}
 
-First is the setup. What we initially do is load the amazon sdk i.e. `aws-sdk`. Next we set our region. As you probably know, there is a wide array of [AWS regions](https://docs.aws.amazon.com/general/latest/gr/rande.html). I chose the west coast (Oregon), but there are numerous regions you can chose from.  We also create a new `ec2` service object which we utilize later in the code. Cool? Cool!
+First is the setup. What we initially do is load the amazon sdk i.e. `aws-sdk`. Next we set our region. As you probably know, there is a wide array of [AWS regions](https://docs.aws.amazon.com/general/latest/gr/rande.html). I chose the west coast (Oregon), but there are numerous regions you can choose from.  We also create a new `ec2` service object which we utilize later in the code. Cool? Cool!
 
 Next we setup the instance parameters. This is information specific to our EC2 instance(s).
 
@@ -128,7 +128,7 @@ The `KeyName` is the [key pair you have setup](https://docs.aws.amazon.com/sdk-f
 
 I am also setting the ID of the [subnet](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Subnets.html) to launch the instance into.
 
-You will notice I added the `TagSpecifications` to set a tag, which let's me know I created this instance via code. I find this helpful when checking that my code worked!  
+You will notice I added the `TagSpecifications` to set a tag, which lets me know I created this instance via code. I find this helpful when checking that my code worked!  
 
 Finally, I deploy the instance by calling `runInstances` with the specified `params` and pass in a callback function to handle the response.
 {% highlight js %}
@@ -149,7 +149,7 @@ Now that all the details are outlined, let's launch! Type the following in the c
 node ec2-create-instances.js
 ```
 
-This will output a lot of information from the creation of this instance.  To continue on and stop (then terminate) this instance, **be sure to grab the `InstnaceId` of the EC2 server we just created!**
+This will output a lot of information from the creation of this instance.  To continue on and stop (then terminate) this instance, **be sure to grab the `InstanceId` of the EC2 server we just created!**
 
 ## Stopping an AWS EC2 Instance
 Great, so we started an instance, now what? Well, one thing we can do is stop said instance (or instances).  As you can see, most of the code is similar to deploying an instance.
