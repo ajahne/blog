@@ -7,9 +7,21 @@ tags: javascript node nodejs aws amazon ec2 linux ami
 header:
   image: assets/images/finding-a-linux-ami-with-nodejs-header.jpg
 ---
+In order to launch an instance, we need the AMI to use. This can be done in a myriad of ways, including the command line and AWS GUI Console. In this article we will leverage Node.js to get the job done!
 
-# Describe Amazon Machine Images
-Node.js examples of `describeImages` based off Amazon's [Finding a Linux AMI](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/finding-an-ami.html) documentation.
+Before choosing an AMI, there are multiple factors to consider:
+- The Region
+- The operating system (e.g. Ubuntu)
+- The architecture: 32-bit (i386) or 64-bit (x86_64)
+- The root device type: Amazon EBS or instance store
+- The provider (e.g. Amazon)
+- The state (e.g. is it currently available)
+- Additional software (e.g. SQL server)
+
+In working with launching ec2 instances with Node.js, I did not find a clear guide to help me find what I needed. So, I decided to write one!
+
+This is an example driven article with Node.js snippets of `describeImages` based on Amazon's [Finding a Linux AMI](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/finding-an-ami.html) documentation.
+
 
 ## Example: Find the current Amazon Linux 2 AMI
 ```javascript
