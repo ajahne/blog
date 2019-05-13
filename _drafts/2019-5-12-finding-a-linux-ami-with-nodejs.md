@@ -18,12 +18,20 @@ Before choosing an AMI, there are multiple factors to consider:
 - The state (e.g. is it currently available)
 - Additional software (e.g. SQL server)
 
-In working with launching ec2 instances with Node.js, I did not find a clear guide to help me find what I needed. So, I decided to write one!
+In working with launching ec2 instances with Node.js, I did not find a clear guide to help me obtain I needed. So, I decided to write some code, figure it out, and turn my learning into an article!
 
 This is an example driven article with Node.js snippets of `describeImages` based on Amazon's [Finding a Linux AMI](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/finding-an-ami.html) documentation.
 
+### Table of Contents
+- Examples
+  - [Find the current Amazon Linux 2 AMI](#example-find-the-current-amazon-linux-2-ami)
+  - Find the current Amazon Linux AMI
+  - Find the current Ubuntu Server 16.04 LTS AMI
+  - Find the 2019 Ubuntu Bionic Servers
+  - Find the current Red Hat Enterprise Linux 7.5 AMI
+- Additional Resources
 
-## Example: Find the current Amazon Linux 2 AMI
+### Example: Find the current Amazon Linux 2 AMI
 ```javascript
 const AWS = require('aws-sdk');
 const fs = require("fs");
@@ -76,7 +84,7 @@ ec2.describeImages(params, function(err, data) {
 });
 ```
 
-## Example: Find the current Amazon Linux AMI
+### Example: Find the current Amazon Linux AMI
 ```javascript
 const params = {
   DryRun:false,
@@ -102,7 +110,7 @@ const params = {
  };
 ```
 
-## Example: Find the current Ubuntu Server 16.04 LTS AMI
+### Example: Find the current Ubuntu Server 16.04 LTS AMI
 ```javascript
 const params = {
   DryRun:false,
@@ -126,7 +134,7 @@ const params = {
  };
 ```
 
-## Example: Find the 2019 Ubuntu Bionic Servers
+### Example: Find the 2019 Ubuntu Bionic Servers
 ```javascript
 const params = {
   DryRun:false,
@@ -150,7 +158,7 @@ const params = {
  };
 ```
 
-## Example: Find the current Red Hat Enterprise Linux 7.5 AMI
+### Example: Find the current Red Hat Enterprise Linux 7.5 AMI
 ```javascript
 const params = {
   DryRun:false,
