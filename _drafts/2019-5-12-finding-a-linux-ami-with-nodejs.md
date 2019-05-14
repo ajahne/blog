@@ -7,7 +7,7 @@ tags: javascript node nodejs aws amazon ec2 linux ami
 header:
   image: assets/images/finding-a-linux-ami-with-nodejs-header.jpg
 ---
-In order to launch an instance, we need the AMI to use. This can be done in a myriad of ways, including the command line and AWS GUI Console. In this article we will leverage Node.js to get the job done!
+In order to launch an Amazon EC2 instance, we need the AMI to use. This can be done in a myriad of ways, including the command line and AWS GUI Console. In this article we will leverage Node.js to get the job done!
 
 Before choosing an AMI, there are multiple factors to consider:
 - The Region
