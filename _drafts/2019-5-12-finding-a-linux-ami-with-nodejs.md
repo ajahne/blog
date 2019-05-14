@@ -18,7 +18,7 @@ Before choosing an AMI, there are multiple factors to consider:
 - The state (e.g. is it currently available)
 - Additional software (e.g. SQL server)
 
-In working with launching ec2 instances with Node.js, I did not find a clear guide to help me obtain I needed. So, I decided to write some code, figure it out, and turn my learning into an article!
+In working with launching EC2 instances with Node.js, I did not find a clear guide to help me obtain I needed. So, I decided to write some code, figure it out, and turn my learning into an article!
 
 This is an example driven article with Node.js snippets of `describeImages` based on Amazon's [Finding a Linux AMI](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/finding-an-ami.html) documentation.
 
@@ -184,5 +184,5 @@ const params = {
 
 ## Additional Resources
 - [Finding a Linux AMI](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/finding-an-ami.html)
-- [AWS ec2 API](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/EC2.html)
-- [ec2 describeImages](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/EC2.html#describeImages-property)
+- [AWS EC2 API](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/EC2.html)
+- [EC2 describeImages](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/EC2.html#describeImages-property)
