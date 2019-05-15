@@ -39,7 +39,7 @@ const AWS = require('aws-sdk');
 //set the region, we are going to perform tests in Oregon
 AWS.config.update({region:'us-west-2'});
 
-//create ec2 service object
+//create EC2 service object
 const ec2 = new AWS.EC2({apiVersion: '2016-11-15'});
 
 const params = {
@@ -62,7 +62,7 @@ const params = {
   Owners: [
     'amazon'
   ]  
- };
+};
 
 ec2.describeImages(params, function(err, data) {
   if (err) {
@@ -75,6 +75,15 @@ ec2.describeImages(params, function(err, data) {
 
 ### Example: Find the current Amazon Linux AMI
 ```javascript
+//load AWS SDK
+const AWS = require('aws-sdk');
+
+//set the region, we are going to perform tests in Oregon
+AWS.config.update({region:'us-west-2'});
+
+//create EC2 service object
+const ec2 = new AWS.EC2({apiVersion: '2016-11-15'});
+
 const params = {
   DryRun:false,
   Filters: [
@@ -94,11 +103,28 @@ const params = {
   Owners: [
     'amazon'
   ]  
- };
+};
+
+ec2.describeImages(params, function(err, data) {
+  if (err) {
+    console.log(err, err.stack); // an error occurred
+  } else {
+    console.log(data);           // successful response
+  }  
+});
 ```
 
 ### Example: Find the current Ubuntu Server 16.04 LTS AMI
 ```javascript
+//load AWS SDK
+const AWS = require('aws-sdk');
+
+//set the region, we are going to perform tests in Oregon
+AWS.config.update({region:'us-west-2'});
+
+//create EC2 service object
+const ec2 = new AWS.EC2({apiVersion: '2016-11-15'});
+
 const params = {
   DryRun:false,
   Filters: [
@@ -118,11 +144,28 @@ const params = {
   Owners: [
     '099720109477'
   ]  
- };
+};
+
+ec2.describeImages(params, function(err, data) {
+  if (err) {
+    console.log(err, err.stack); // an error occurred
+  } else {
+    console.log(data);           // successful response
+  }  
+});
 ```
 
 ### Example: Find the 2019 Ubuntu Bionic Servers
 ```javascript
+//load AWS SDK
+const AWS = require('aws-sdk');
+
+//set the region, we are going to perform tests in Oregon
+AWS.config.update({region:'us-west-2'});
+
+//create EC2 service object
+const ec2 = new AWS.EC2({apiVersion: '2016-11-15'});
+
 const params = {
   DryRun:false,
   Filters: [
@@ -147,6 +190,15 @@ const params = {
 
 ### Example: Find the current Red Hat Enterprise Linux 7.5 AMI
 ```javascript
+//load AWS SDK
+const AWS = require('aws-sdk');
+
+//set the region, we are going to perform tests in Oregon
+AWS.config.update({region:'us-west-2'});
+
+//create EC2 service object
+const ec2 = new AWS.EC2({apiVersion: '2016-11-15'});
+
 const params = {
   DryRun:false,
   Filters: [
@@ -166,7 +218,15 @@ const params = {
   Owners: [
     '309956199498'
   ]  
- };
+};
+
+ec2.describeImages(params, function(err, data) {
+  if (err) {
+    console.log(err, err.stack); // an error occurred
+  } else {
+    console.log(data);           // successful response
+  }  
+});
 ```
 
 ## Additional Resources
