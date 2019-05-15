@@ -25,11 +25,11 @@ This is an example driven article with Node.js snippets of `describeImages` base
 ### Table of Contents
 - Examples
   - [Find the current Amazon Linux 2 AMI](#example-find-the-current-amazon-linux-2-ami)
-  - Find the current Amazon Linux AMI
-  - Find the current Ubuntu Server 16.04 LTS AMI
-  - Find the 2019 Ubuntu Bionic Servers
-  - Find the current Red Hat Enterprise Linux 7.5 AMI
-- Additional Resources
+  - [Find the current Amazon Linux AMI](#example-find-the-current-amazon-linux-ami)
+  - [Find the current Ubuntu Server 16.04 LTS AMI](#example-find-the-current-ubuntu-server-1604-lts-ami)
+  - [Find the 2019 Ubuntu Bionic Servers](#example-find-the-2019-ubuntu-bionic-servers)
+  - [Find the current Red Hat Enterprise Linux 7.5 AMI](#example-find-the-current-red-hat-enterprise-linux-75-ami)
+- [Additional Resources](#additional-resources)
 
 ### Example: Find the current Amazon Linux 2 AMI
 ```javascript
