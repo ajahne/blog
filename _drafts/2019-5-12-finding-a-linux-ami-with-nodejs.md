@@ -33,13 +33,13 @@ This is an example driven article with Node.js snippets of `describeImages` base
 
 ### Example: Find the current Amazon Linux 2 AMI
 ```javascript
+//load AWS SDK
 const AWS = require('aws-sdk');
-const fs = require("fs");
 
-//set the region, going to perform tests in Oregon
+//set the region, we are going to perform tests in Oregon
 AWS.config.update({region:'us-west-2'});
 
-//create ec2
+//create ec2 service object
 const ec2 = new AWS.EC2({apiVersion: '2016-11-15'});
 
 const params = {
@@ -57,10 +57,10 @@ const params = {
       Values: [
         'available'
       ]
-    },    
+    }    
   ],
   Owners: [
-    'amazon',
+    'amazon'
   ]  
  };
 
@@ -89,10 +89,10 @@ const params = {
       Values: [
         'available'
       ]
-    },
+    }
   ],
   Owners: [
-    'amazon',
+    'amazon'
   ]  
  };
 ```
@@ -113,10 +113,10 @@ const params = {
       Values: [
         'available'
       ]
-    },
+    }
   ],
   Owners: [
-    '099720109477',
+    '099720109477'
   ]  
  };
 ```
@@ -137,10 +137,10 @@ const params = {
       Values: [
         'available'
       ]
-    },
+    }
   ],
   Owners: [
-    '099720109477',
+    '099720109477'
   ]  
  };
 ```
@@ -161,10 +161,10 @@ const params = {
       Values: [
         'available'
       ]
-    },
+    }
   ],
   Owners: [
-    '309956199498',
+    '309956199498'
   ]  
  };
 ```
