@@ -48,7 +48,7 @@ const params = {
     {
       Name: 'name',
       Values: [
-        //Note, the ? represent the date, which is 8 chars, e.g. 20190403
+        //the ? represents the 8 char date, e.g. 20190403
         'amzn2-ami-hvm-2.0.????????-x86_64-gp2'
       ]
     },
@@ -185,7 +185,15 @@ const params = {
   Owners: [
     '099720109477'
   ]  
- };
+};
+
+ec2.describeImages(params, function(err, data) {
+  if (err) {
+    console.log(err, err.stack); // an error occurred
+  } else {
+    console.log(data);           // successful response
+  }  
+});
 ```
 
 ### Example: Find the current Red Hat Enterprise Linux 7.5 AMI
