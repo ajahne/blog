@@ -1,3 +1,13 @@
+---
+layout: single
+title:  "List AWS Subnets with Node.js"
+date:   2019-5-17 10:30:00 -04:00
+categories: javascript
+tags: javascript node nodejs aws amazon ec2 subnet subnets
+header:
+  image: 
+---
+
 ```javascript
 //load AWS SDK
 const AWS = require('aws-sdk');
