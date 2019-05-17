@@ -33,7 +33,6 @@ ec2.describeSubnets(params, function(err, data) {
 
 ### Example output:
 ```javascript
-/*
 data = {
   Subnets: [
     {
