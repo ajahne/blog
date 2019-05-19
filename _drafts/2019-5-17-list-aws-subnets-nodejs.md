@@ -5,7 +5,7 @@ date:   2019-5-17 10:30:00 -04:00
 categories: javascript
 tags: javascript node nodejs aws amazon ec2 subnet subnets
 header:
-  image:
+  image: assets/images/list-aws-subnets-with-nodejs-header.jpg
 ---
 In order to [launch an Amazon EC2 instance]({{ site.baseurl }}{% post_url 2019-4-25-start-stop-terminate-aws-ec2-instance-nodejs %}), we need both the AMI to use and the subnet we want to launch the instance into. This entry will show you how to use Node.js to list the subnets available to you in a particular region.
 
