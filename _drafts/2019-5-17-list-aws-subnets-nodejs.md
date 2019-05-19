@@ -9,7 +9,7 @@ header:
 ---
 In order to [launch an Amazon EC2 instance]({{ site.baseurl }}{% post_url 2019-4-25-start-stop-terminate-aws-ec2-instance-nodejs %}), we need both the AMI to use and the subnet we want to launch the instance into. This entry will show you how to use Node.js to list the subnets available to you in a particular region.
 
-Please note, it is beyond the scope of this post to define VPCs and subnets, however you can find more information on these concepts in [Amazon's documentation here](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Subnets.html) and in the additional resources below.
+Please note, it is beyond the scope of this post to define VPCs and subnets, however you can find more information on these concepts in [Amazon's documentation here](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Subnets.html) and in the [additional resources](#additional-resources) below.
 
 Let's list!
 
