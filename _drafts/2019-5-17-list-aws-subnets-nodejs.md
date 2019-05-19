@@ -7,17 +7,17 @@ tags: javascript node nodejs aws amazon ec2 subnet subnets
 header:
   image:
 ---
+In order to [launch an Amazon EC2 instance]({{ site.baseurl }}{% post_url 2019-4-25-start-stop-terminate-aws-ec2-instance-nodejs %}), we need both the AMI to use and the subnet we want to launch the instance into. This entry will show you how to use Node.js to list the subnets available to you in a particular region.
 
-# Outline
-- purpose
-- examples
-- additional resources
+Please note, it is beyond the scope of this post to define VPCs and subnets, however you can find more information on these concepts in [Amazon's documentation here](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Subnets.html) and in the additional resources below.
+
+Let's list!
 
 ```javascript
 //load AWS SDK
 const AWS = require('aws-sdk');
 
-//set the region, going to perform tests in Oregon
+//setting the region to Oregon
 AWS.config.update({region:'us-west-2'});
 
 //create EC2 service object
@@ -59,3 +59,5 @@ const subnetId = data.Subnets[0].SubnetId;
 ```
 
 ## Additional Resources
+- [AWS EC2 API](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/EC2.html)
+- [EC2 describeSubnets](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/EC2.html#describeSubnets-property)
