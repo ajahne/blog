@@ -5,8 +5,13 @@ date:   2019-5-17 10:30:00 -04:00
 categories: javascript
 tags: javascript node nodejs aws amazon ec2 subnet subnets
 header:
-  image: 
+  image:
 ---
+
+# Outline
+- purpose
+- examples
+- additional resources 
 
 ```javascript
 //load AWS SDK
@@ -30,19 +35,18 @@ ec2.describeSubnets(params, function(err, data) {
 });
 ```
 
-
 ### Example output:
 ```javascript
 data = {
   Subnets: [
     {
-      AvailabilityZone: "us-west-2c", 
-      AvailableIpAddressCount: 251, 
-      CidrBlock: "10.0.1.0/24", 
-      DefaultForAz: false, 
-      MapPublicIpOnLaunch: false, 
-      State: "available", 
-      SubnetId: "subnet-9d4a7b6c", 
+      AvailabilityZone: "us-west-2c",
+      AvailableIpAddressCount: 251,
+      CidrBlock: "10.0.1.0/24",
+      DefaultForAz: false,
+      MapPublicIpOnLaunch: false,
+      State: "available",
+      SubnetId: "subnet-9d4a7b6c",
       VpcId: "vpc-a01106c2"
     }
   ]
