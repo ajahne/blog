@@ -58,6 +58,8 @@ From this output we want the `SubnetId`, which we can obtain in the following ma
 const subnetId = data.Subnets[0].SubnetId;
 ```
 
+With the `SubnetId` and the `ImageId` obtained from [describeImages]({{ site.baseurl }}{% post_url 2019-5-15-finding-a-linux-ami-with-nodejs %}), we are now ready to [launch an instance](({{ site.baseurl }}{% post_url 2019-4-25-start-stop-terminate-aws-ec2-instance-nodejs %}))!
+
 ## Additional Resources
 - [AWS EC2 API](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/EC2.html)
 - [EC2 describeSubnets](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/EC2.html#describeSubnets-property)
