@@ -53,7 +53,7 @@ data = {
 }
 ```
 
-From this output we want the `SubnetId`, which we can obtain in the following manner
+From this output we want the `SubnetId`, which we can obtain in the following manner:
 ```javascript
 const subnetId = data.Subnets[0].SubnetId;
 ```
