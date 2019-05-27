@@ -38,18 +38,56 @@ ec2.describeSubnets(params, function(err, data) {
 ### Example output:
 ```javascript
 data = {
-  Subnets: [
-    {
-      AvailabilityZone: "us-west-2c",
-      AvailableIpAddressCount: 251,
-      CidrBlock: "10.0.1.0/24",
-      DefaultForAz: false,
-      MapPublicIpOnLaunch: false,
-      State: "available",
-      SubnetId: "subnet-9d4a7b6c",
-      VpcId: "vpc-a01106c2"
-    }
-  ]
+ "Subnets": [
+  {
+   "AvailabilityZone": "us-west-2a",
+   "AvailabilityZoneId": "usw2-az1",
+   "AvailableIpAddressCount": 251,
+   "CidrBlock": "10.0.0.0/24",
+   "DefaultForAz": false,
+   "MapPublicIpOnLaunch": true,
+   "State": "available",
+   "SubnetId": "subnet-9d4a7b6a",
+   "VpcId": "vpc-a01106c2",
+   "OwnerId": "38918754239506",
+   "AssignIpv6AddressOnCreation": false,
+   "Ipv6CidrBlockAssociationSet": [],
+   "Tags": [],
+   "SubnetArn": "arn:aws:ec2:us-west-2:38918754239506:subnet/subnet-9d4a7b6a"
+  },   
+  {
+   "AvailabilityZone": "us-west-2b",
+   "AvailabilityZoneId": "usw2-az2",
+   "AvailableIpAddressCount": 251,
+   "CidrBlock": "10.0.1.0/24",
+   "DefaultForAz": false,
+   "MapPublicIpOnLaunch": true,
+   "State": "available",
+   "SubnetId": "subnet-9d4a7b6b",
+   "VpcId": "vpc-a01106c2",
+   "OwnerId": "38918754239506",
+   "AssignIpv6AddressOnCreation": false,
+   "Ipv6CidrBlockAssociationSet": [],
+   "Tags": [],
+   "SubnetArn": "arn:aws:ec2:us-west-2:38918754239506:subnet/subnet-9d4a7b6b"
+  },
+  {
+   "AvailabilityZone": "us-west-2c",
+   "AvailabilityZoneId": "usw2-az3",
+   "AvailableIpAddressCount": 251,
+   "CidrBlock": "10.0.2.0/24",
+   "DefaultForAz": false,
+   "MapPublicIpOnLaunch": true,
+   "State": "available",
+   "SubnetId": "subnet-9d4a7b6c",
+   "VpcId": "vpc-a01106c2",
+   "OwnerId": "38918754239506",
+   "AssignIpv6AddressOnCreation": false,
+   "Ipv6CidrBlockAssociationSet": [],
+   "Tags": [],
+   "SubnetArn": "arn:aws:ec2:us-west-2:38918754239506:subnet/subnet-9d4a7b6c"
+  }
+ ]
 }
 ```
 
