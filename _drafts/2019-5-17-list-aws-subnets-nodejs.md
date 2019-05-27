@@ -99,5 +99,8 @@ const subnetId = data.Subnets[0].SubnetId; //subnet-9d4a7b6a
 With the `SubnetId` and the `ImageId` obtained from [describeImages]({{ site.baseurl }}{% post_url 2019-5-15-finding-a-linux-ami-with-nodejs %}), we are now ready to [launch an instance](({{ site.baseurl }}{% post_url 2019-4-25-start-stop-terminate-aws-ec2-instance-nodejs %}))!
 
 ## Additional Resources
+- [AWS Core Concepts: Analogy and Guide](https://start.jcolemorrison.com/aws-vpc-core-concepts-analogy-guide/)
+- [AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
+- [Intro to VPC](https://medium.com/tensult/intro-to-vpc-548b69f1bd1f)
 - [AWS EC2 API](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/EC2.html)
 - [EC2 describeSubnets](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/EC2.html#describeSubnets-property)
