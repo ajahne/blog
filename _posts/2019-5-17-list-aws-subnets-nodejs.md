@@ -17,7 +17,7 @@ Let's list!
 //load AWS SDK
 const AWS = require('aws-sdk');
 
-//setting the region to Oregon
+//set the region to Oregon
 AWS.config.update({region:'us-west-2'});
 
 //create EC2 service object
