@@ -7,7 +7,7 @@ tags: javascript node nodejs aws ami amazon ec2
 header:
   image: assets/images/get-aws-ami-id-nodejs-header.jpg
 ---
-In order to [launch an Amazon EC2 instance]({{ site.baseurl }}{% post_url 2019-4-25-start-stop-terminate-aws-ec2-instance-nodejs %}), we need both the `ImageId` from [the AMI we want use]({{ site.baseurl }}{% post_url 2019-5-15-finding-a-linux-ami-with-nodejs %}) and [the SubnetId]({{ site.baseurl }}{% post_url 2019-5-17-list-aws-subnets-nodejs %}) to launch the instance into.
+In order to [launch an Amazon EC2 instance]({{ site.baseurl }}{% post_url 2019-4-25-start-stop-terminate-aws-ec2-instance-nodejs %}), we need both the `ImageId` from [the AMI we want to use]({{ site.baseurl }}{% post_url 2019-5-15-finding-a-linux-ami-with-nodejs %}) and [the SubnetId]({{ site.baseurl }}{% post_url 2019-5-17-list-aws-subnets-nodejs %}) to launch the instance into.
 
 In this article we illustrate how to get the `ImageId` from a Linux [Amazon Machine Image (AMI)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html) with Node.js.  I have also included an additional example, which shows how we can sort the results to easily get the most recent AMI.
 
