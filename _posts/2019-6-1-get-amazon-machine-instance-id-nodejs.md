@@ -9,7 +9,7 @@ header:
 ---
 In order to [launch an Amazon EC2 instance]({{ site.baseurl }}{% post_url 2019-4-25-start-stop-terminate-aws-ec2-instance-nodejs %}), we need both [the AMI to use]({{ site.baseurl }}{% post_url 2019-5-15-finding-a-linux-ami-with-nodejs %}) and [the SubnetId]({{ site.baseurl }}{% post_url 2019-5-17-list-aws-subnets-nodejs %}) to launch the instance into.
 
-In this article we illustrate how to get the `ImageId` from a Linux [Amazon Machine Image (AMI)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html) with Node.js.  I have also included an additional example, which shows how we can sort the results to easily get the most recent AMI.
+In this article we illustrate how to get the `ImageId` from a Linux [Amazon Machine Image (AMI)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html) with Node.js.  I have also included an additional example, which shows how we can easily sort the results to get the most recent AMI.
 
 Let's code!
 
@@ -25,7 +25,6 @@ const ec2 = new AWS.EC2({apiVersion: '2016-11-15'});
 
 //get the current Amazon Linux 2 AMIs
 const params = {
-  DryRun:false,
   Filters: [
     {
       Name: 'name',
@@ -117,7 +116,6 @@ const ec2 = new AWS.EC2({apiVersion: '2016-11-15'});
 
 //get the current Amazon Linux 2 AMIs
 const params = {
-  DryRun:false,
   Filters: [
     {
       Name: 'name',
@@ -165,6 +163,11 @@ ec2.describeImages(params, function(err, data) {
     console.log(data);
   }  
 });
+```
+
+We obtain the `ImageId` in the exact same way as before, however the first element of the `Images` array will always be the most recent AMI! This is useful if we want to [launch instances]({{ site.baseurl }}{% post_url 2019-4-25-start-stop-terminate-aws-ec2-instance-nodejs %}) with the latest and greatest architecture.
+```javascript
+const imageId = data.Images[0].ImageId; //ami-0cb72367e98845d43
 ```
 
 ## Additional Resources
