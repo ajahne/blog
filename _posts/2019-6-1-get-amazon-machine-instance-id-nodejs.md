@@ -174,3 +174,4 @@ const imageId = data.Images[0].ImageId; //ami-0cb72367e98845d43
 - [Finding a Linux AMI with Node.js]({{ site.baseurl }}{% post_url 2019-5-15-finding-a-linux-ami-with-nodejs %})
 - [AWS EC2 API](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/EC2.html)
 - [EC2 describeImages](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/EC2.html#describeImages-property)
+- [MDN: Array.prototype.sort](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
