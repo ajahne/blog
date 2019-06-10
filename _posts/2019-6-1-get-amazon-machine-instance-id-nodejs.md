@@ -17,7 +17,7 @@ Let's code!
 //load AWS SDK
 const AWS = require('aws-sdk');
 
-//set the region, going to perform tests in Oregon
+//set the region to Oregon
 AWS.config.update({region:'us-west-2'});
 
 //create EC2 service object
@@ -108,7 +108,7 @@ When we describe all the images available to us, the results are ordered arbitra
 //load AWS SDK
 const AWS = require('aws-sdk');
 
-//set the region, going to perform tests in Oregon
+//set the region to Oregon
 AWS.config.update({region:'us-west-2'});
 
 //create EC2 service object
