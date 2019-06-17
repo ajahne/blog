@@ -1,7 +1,7 @@
 ---
 layout: single
-title:  "Start, Stop, and Terminate AWS EC2 Instances with Node.js"
-date:   2019-4-25 1:15:00 -04:00
+title:  "Launch, Stop, and Terminate AWS EC2 Instances with Node.js"
+date:   2019-6-16 11:53:00 -04:00
 categories: javascript
 tags: javascript node nodejs aws amazon ec2
 header:
@@ -15,6 +15,8 @@ Let's build!
 - [Assumptions (aka ensure your environment is setup)](#assumptions-before-jumping-in)
 - That code!
   - [Install the AWS SDK](#install-the-aws-sdk)
+  - Get AMI ID
+  - Get SubnetId
   - [Start an EC2 Instance](#creating-an-aws-ec2-instance)
   - [Stop an EC2 Instance](#stopping-an-aws-ec2-instance)
   - [Terminate an EC2 Instance](#terminating-an-aws-ec2-instance)
@@ -34,6 +36,76 @@ npm install aws-sdk
 ```
 
 That was easy! Onward and upward, now the cool parts!
+
+## Get AMI ID we want to launch
+To launch an instance, we need the ID of the Amazon Machine Image ("AMI"), we want to create. We are going to launch a linux server and we can find the current Amazon Linux 2 AMI like so:
+
+{% highlight js %}
+//load AWS SDK
+const AWS = require('aws-sdk');
+
+//set the region, we are going to perform tests in Oregon
+AWS.config.update({region:'us-west-2'});
+
+//create EC2 service object
+const ec2 = new AWS.EC2({apiVersion: '2016-11-15'});
+
+const params = {
+  DryRun:false,
+  Filters: [
+    {
+      Name: 'name',
+      Values: [
+        //the ? represents the 8 char date, e.g. 20190403
+        'amzn2-ami-hvm-2.0.????????-x86_64-gp2'
+      ]
+    },
+    {
+      Name: 'state',
+      Values: [
+        'available'
+      ]
+    }    
+  ],
+  Owners: [
+    'amazon'
+  ]  
+};
+
+ec2.describeImages(params, function(err, data) {
+  if (err) {
+    console.log(err, err.stack); // an error occurred
+  } else {
+    console.log(data);           // successful response
+  }  
+});
+{% endhighlight %}
+
+For more details, information and examples check out this article [on finding a Linux AMI with Node.js ]({{ site.baseurl }}{% post_url 2019-4-30-finding-a-linux-ami-with-nodejs %})
+
+Running this code...
+```
+node ec2-describe-images.js
+```
+
+...will result in an output like the following
+
+{% highlight js %}
+output = {
+
+}
+{% endhighlight %}
+
+from this output, we can obtain the id like so:
+
+{% highlight js %}
+const amiId = results[0].amiId; //###-###-####
+{% endhighlight %}
+
+Keep this ID handy, as we will be using it shortly. It is the id of the instance we will launch.  
+
+Now that we have this important number, we need to obtain the subnet we will launch our instance into.
+
 
 ## Creating an AWS EC2 Instance
 First let's  deploy (i.e. create) an EC2 instance.  Here is the full block of code that will get you there!
@@ -142,7 +214,7 @@ ec2.runInstances(params, function(err, data) {
 {% endhighlight %}
 
 
-_Do note that you can also utilize promises as well instead of callbacks, as seen [here](https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/ec2-example-creating-an-instance.html). My examples follow the standard callback syntax utilized in the AWS API documentation_. 
+_Do note that you can also utilize promises as well instead of callbacks, as seen [here](https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/ec2-example-creating-an-instance.html). My examples follow the standard callback syntax utilized in the AWS API documentation_.
 
 Now that all the details are outlined, let's launch! Type the following in the command line to run the example:
 ```
