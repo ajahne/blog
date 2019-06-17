@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Finding a Linux AMI with Node.js"
-date:   2019-5-15 00:25:00 -04:00
+date:   2019-4-30 00:25:00 -04:00
 categories: javascript
 tags: javascript node nodejs aws amazon ec2 linux ami instance
 header:
