@@ -14,16 +14,16 @@ In this article we illustrate how to get the `ImageId` from a Linux [Amazon Mach
 Let's code!
 
 ```javascript
-//load AWS SDK
+// load AWS SDK
 const AWS = require('aws-sdk');
 
-//set the region to Oregon
+// set the region to Oregon
 AWS.config.update({region:'us-west-2'});
 
-//create EC2 service object
+// create EC2 service object
 const ec2 = new AWS.EC2({apiVersion: '2016-11-15'});
 
-//get the current Amazon Linux 2 AMIs
+// get the current Amazon Linux 2 AMIs
 const params = {
   Filters: [
     {
@@ -112,16 +112,16 @@ Now that we have an AMI `ImageId`, [let's grab a SubnetId]({{ site.baseurl }}{% 
 When we describe all the images available to us, the results are ordered arbitrarily. If we want to obtain the most recent AMI we can sort by `CreationDate`. In the following example, I have added a function `sortByCreationDate` that does just that.
 
 ```javascript
-//load AWS SDK
+// load AWS SDK
 const AWS = require('aws-sdk');
 
-//set the region to Oregon
+// set the region to Oregon
 AWS.config.update({region:'us-west-2'});
 
-//create EC2 service object
+// create EC2 service object
 const ec2 = new AWS.EC2({apiVersion: '2016-11-15'});
 
-//get the current Amazon Linux 2 AMIs
+// get the current Amazon Linux 2 AMIs
 const params = {
   Filters: [
     {
@@ -142,8 +142,8 @@ const params = {
   ]  
  };
 
-//sorts the array of images by creation date
-//the most recent AMIs will appear first
+// sorts the array of images by creation date
+// the most recent AMIs will appear first
 function sortByCreationDate(data) {
   const images = data.Images;
   images.sort(function(a,b) {
@@ -155,11 +155,11 @@ function sortByCreationDate(data) {
     if (dateA > dateB) {
       return 1;
     }
-    //dates are equal
+    // dates are equal
     return 0;
   });
 
-  //arrange the images by date in descending order
+  // arrange the images by date in descending order
   images.reverse();
 }
 
