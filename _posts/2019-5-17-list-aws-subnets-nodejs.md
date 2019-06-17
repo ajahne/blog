@@ -91,9 +91,16 @@ data = {
 }
 ```
 
-From this output we want the `SubnetId`, which we can obtain in the following manner:
+From this output we want the `SubnetId`, which we can obtain with a slight update to our callback function:
 ```javascript
-const subnetId = data.Subnets[0].SubnetId; //subnet-9d4a7b6a
+ec2.describeSubnets(params, function(err, data) {
+  if (err) {                      // an error occurred
+    console.log(err, err.stack);  
+  } else {                        // successful response
+    const subnetId = data.Subnets[0].SubnetId;
+    console.log(subnetId);        // subnet-9d4a7b6a
+  }  
+});
 ```
 
 With the `SubnetId` and the `ImageId` [obtained from describeImages]({{ site.baseurl }}{% post_url 2019-5-15-finding-a-linux-ami-with-nodejs %}), we are now ready to [launch an instance]({{ site.baseurl }}{% post_url 2019-4-25-start-stop-terminate-aws-ec2-instance-nodejs %})!
