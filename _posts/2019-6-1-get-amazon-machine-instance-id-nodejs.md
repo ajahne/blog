@@ -58,45 +58,52 @@ ec2.describeImages(params, function(err, data) {
 data = {
   "Images": [
     {
-     "Architecture": "x86_64",
-     "CreationDate": "2019-05-09T00:58:10.000Z",
-     "ImageId": "ami-0cb72367e98845d43",
-     "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20190508-x86_64-gp2",
-     "ImageType": "machine",
-     "Public": true,
-     "OwnerId": "137112412989",
-     "ProductCodes": [],
-     "State": "available",
-     "BlockDeviceMappings": [
-      {
-       "DeviceName": "/dev/xvda",
-       "Ebs": {
-        "DeleteOnTermination": true,
-        "SnapshotId": "snap-05f1f2daed90efa18",
-        "VolumeSize": 8,
-        "VolumeType": "gp2",
-        "Encrypted": false
+      "Architecture": "x86_64",
+      "CreationDate": "2019-01-14T19:17:25.000Z",
+      "ImageId": "ami-032509850cf9ee54e",
+      "ImageLocation": "amazon/amzn2-ami-hvm-2.0.20190115-x86_64-gp2",
+      "ImageType": "machine",
+      "Public": true,
+      "OwnerId": "137112412989",
+      "ProductCodes": [],
+      "State": "available",
+      "BlockDeviceMappings": [
+       {
+        "DeviceName": "/dev/xvda",
+        "Ebs": {
+         "DeleteOnTermination": true,
+         "SnapshotId": "snap-04359c6bb66cf4243",
+         "VolumeSize": 8,
+         "VolumeType": "gp2",
+         "Encrypted": false
+        }
        }
-      }
-     ],
-     "Description": "Amazon Linux 2 AMI 2.0.20190508 x86_64 HVM gp2",
-     "EnaSupport": true,
-     "Hypervisor": "xen",
-     "ImageOwnerAlias": "amazon",
-     "Name": "amzn2-ami-hvm-2.0.20190508-x86_64-gp2",
-     "RootDeviceName": "/dev/xvda",
-     "RootDeviceType": "ebs",
-     "SriovNetSupport": "simple",
-     "Tags": [],
-     "VirtualizationType": "hvm"
-    }
+      ],
+      "Description": "Amazon Linux 2 AMI 2.0.20190115 x86_64 HVM gp2",
+      "EnaSupport": true,
+      "Hypervisor": "xen",
+      "ImageOwnerAlias": "amazon",
+      "Name": "amzn2-ami-hvm-2.0.20190115-x86_64-gp2",
+      "RootDeviceName": "/dev/xvda",
+      "RootDeviceType": "ebs",
+      "SriovNetSupport": "simple",
+      "Tags": [],
+      "VirtualizationType": "hvm"
+     }
   ]
 }
 ```
 
-From this output we want the `ImageId`, which we can obtain in the following manner:
+From this output we want the `ImageId`, which we can easily obtain with a slight update to our callback function:
 ```javascript
-const imageId = data.Images[0].ImageId; //ami-0cb72367e98845d43
+ec2.describeImages(params, function(err, data) {
+  if (err) {                      // an error occurred
+    console.log(err, err.stack);  
+  } else {                        // successful response
+    const imageId = data.Images[0].ImageId;
+    console.log(imageId);         // ami-032509850cf9ee54e
+  }  
+});
 ```
 
 Now that we have an AMI `ImageId`, [let's grab a SubnetId]({{ site.baseurl }}{% post_url 2019-5-17-list-aws-subnets-nodejs %}), and then [launch an EC2 instance]({{ site.baseurl }}{% post_url 2019-4-25-start-stop-terminate-aws-ec2-instance-nodejs %})!
