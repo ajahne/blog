@@ -159,7 +159,7 @@ function sortByCreationDate(data) {
     return 0;
   });
 
-  //reverse so we have the images sorted by date in descending order
+  //arrange the images by date in descending order
   images.reverse();
 }
 
