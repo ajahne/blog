@@ -138,7 +138,8 @@ const params = {
 //sorts the array of images by creation date
 //the most recent AMIs will appear first
 function sortByCreationDate(data) {
-  data.Images.sort(function(a,b) {
+  const images = data.Images;
+  images.sort(function(a,b) {
     const dateA = a["CreationDate"];
     const dateB = b["CreationDate"];
     if (dateA < dateB) {
