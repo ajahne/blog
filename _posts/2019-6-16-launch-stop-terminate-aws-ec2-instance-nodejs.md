@@ -12,12 +12,10 @@ When provisioning and decommissioning Amazon servers in the cloud, we can use th
 Let's build!
 
 **Table of Contents:**
-- [Assumptions (aka ensure your environment is setup)](#assumptions-before-jumping-in)
+- [Assumptions (aka ensuring you have everything you need)](#assumptions-before-jumping-in)
 - That code!
   - [Install the AWS SDK](#install-the-aws-sdk)
-  - Get AMI ID
-  - Get SubnetId
-  - [Start an EC2 Instance](#creating-an-aws-ec2-instance)
+  - [Launch an EC2 Instance](#creating-an-aws-ec2-instance)
   - [Stop an EC2 Instance](#stopping-an-aws-ec2-instance)
   - [Terminate an EC2 Instance](#terminating-an-aws-ec2-instance)
 - [Conclusion](#conclusion)
@@ -27,6 +25,8 @@ Let's build!
 - You have Node.js installed. [Download at the Node.js website](https://nodejs.org/en/).
 - You have created a shared credentials file. For more information, see [loading credentials in Node.js](https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/loading-node-credentials-shared.html).
 - You have created a key pair.  For details, see [Working with Amazon EC2 Key Pairs](https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/ec2-example-key-pairs.html). You use the name of the key pair in this example.
+- You have the `ImageId` of the AMI you want to launch. For details, see [getting an AMI ID]({{ site.baseurl }}{% post_url 2019-5-15-getting-an-ami-id-nodejs %}). You will use the `ImageId` in this example.
+- You have the `SubnetId` for the subnet you want to launch the instance into. Check out [this article on listing aws subnets]({{ site.baseurl }}{% post_url 2019-5-28-list-aws-subnets-nodejs %}) for more information. You will need a `SubnetId` to proceed.
 
 OK, now that we are all set to start building, let's get to it!
 
@@ -36,76 +36,6 @@ npm install aws-sdk
 ```
 
 That was easy! Onward and upward, now the cool parts!
-
-## Get AMI ID we want to launch
-To launch an instance, we need the ID of the Amazon Machine Image ("AMI"), we want to create. We are going to launch a linux server and we can find the current Amazon Linux 2 AMI like so:
-
-{% highlight js %}
-//load AWS SDK
-const AWS = require('aws-sdk');
-
-//set the region, we are going to perform tests in Oregon
-AWS.config.update({region:'us-west-2'});
-
-//create EC2 service object
-const ec2 = new AWS.EC2({apiVersion: '2016-11-15'});
-
-const params = {
-  DryRun:false,
-  Filters: [
-    {
-      Name: 'name',
-      Values: [
-        //the ? represents the 8 char date, e.g. 20190403
-        'amzn2-ami-hvm-2.0.????????-x86_64-gp2'
-      ]
-    },
-    {
-      Name: 'state',
-      Values: [
-        'available'
-      ]
-    }    
-  ],
-  Owners: [
-    'amazon'
-  ]  
-};
-
-ec2.describeImages(params, function(err, data) {
-  if (err) {
-    console.log(err, err.stack); // an error occurred
-  } else {
-    console.log(data);           // successful response
-  }  
-});
-{% endhighlight %}
-
-For more details, information and examples check out this article [on finding a Linux AMI with Node.js ]({{ site.baseurl }}{% post_url 2019-4-30-finding-a-linux-ami-with-nodejs %})
-
-Running this code...
-```
-node ec2-describe-images.js
-```
-
-...will result in an output like the following
-
-{% highlight js %}
-output = {
-
-}
-{% endhighlight %}
-
-from this output, we can obtain the id like so:
-
-{% highlight js %}
-const amiId = results[0].amiId; //###-###-####
-{% endhighlight %}
-
-Keep this ID handy, as we will be using it shortly. It is the id of the instance we will launch.  
-
-Now that we have this important number, we need to obtain the subnet we will launch our instance into.
-
 
 ## Creating an AWS EC2 Instance
 First let's  deploy (i.e. create) an EC2 instance.  Here is the full block of code that will get you there!
@@ -167,6 +97,8 @@ First is the setup. What we initially do is load the amazon sdk i.e. `aws-sdk`. 
 
 Next we setup the instance parameters. This is information specific to our EC2 instance(s).
 
+_Note: The `ImageId` and `SubnetId` are placeholders. These values are the ones you obtained from [here]({{ site.baseurl }}{% post_url 2019-5-15-getting-an-ami-id-nodejs %}) and [here]({{ site.baseurl }}{% post_url 2019-5-28-list-aws-subnets-nodejs %})._
+
 {% highlight js %}
 //setup instance params
 const params = {
@@ -190,15 +122,15 @@ const params = {
 };
 {% endhighlight %}
 
-There are a few things I'd like to point out here. First is the `ImageId`, this is a unique identifier that is particular to the region that you can obtain from AWS, which specifies the server instance you want to use. Second is the instance type. As we are targeting "free-tier" this is set to `t2.micro`.
+There are a few things I'd like to point out here. First is the `ImageId`, this is a unique identifier that is particular to the region that you can obtain from AWS, which specifies the [server instance you want to use]({{ site.baseurl }}{% post_url 2019-4-30-finding-a-linux-ami-with-nodejs %}). Second is the instance type. As we are targeting "free-tier" this is set to `t2.micro`.
 
 _Note: be sure to check your region and setup to ensure you are using free-tier. Do **not** send your bills here!_
 
 The `KeyName` is the [key pair you have setup](https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/ec2-example-key-pairs.html).
 
-`MinCount` is the minimum number of instance to launch, while `MaxCount` is (yup, you guessed it) the maximum number of servers to launch. Both of these must be set to 1 or greater. For more details, go [here](https://aws.amazon.com/ec2/faqs/#How_many_instances_can_I_run_in_Amazon_EC2).
+`MinCount` is the minimum number of instances to launch, while `MaxCount` is (yup, you guessed it) the maximum number of servers to launch. Both of these must be set to 1 or greater. For more details, go [here](https://aws.amazon.com/ec2/faqs/#How_many_instances_can_I_run_in_Amazon_EC2).
 
-I am also setting the ID of the [subnet](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Subnets.html) to launch the instance into.
+I am also [setting the ID]({{ site.baseurl }}{% post_url 2019-5-28-list-aws-subnets-nodejs %}) of the [subnet](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Subnets.html) to launch the instance into.
 
 You will notice I added the `TagSpecifications` to set a tag, which lets me know I created this instance via code. I find this helpful when checking that my code worked!  
 
