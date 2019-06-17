@@ -140,8 +140,8 @@ const params = {
 function sortByCreationDate(data) {
   const images = data.Images;
   images.sort(function(a,b) {
-    const dateA = a["CreationDate"];
-    const dateB = b["CreationDate"];
+    const dateA = a['CreationDate'];
+    const dateB = b['CreationDate'];
     if (dateA < dateB) {
       return -1;
     }
