@@ -168,15 +168,13 @@ ec2.describeImages(params, function(err, data) {
     console.log(err, err.stack);  
   } else {                        // successful response
     sortByCreationDate(data);
-    console.log(data);
+    const imageId = data.Images[0].ImageId;
+    console.log(imageId);         // ami-0cb72367e98845d43
   }  
 });
 ```
 
-We obtain the `ImageId` in the exact same way as before, however the first element of the `Images` array will always be the most recent AMI! This is useful if we want to [launch instances]({{ site.baseurl }}{% post_url 2019-4-25-start-stop-terminate-aws-ec2-instance-nodejs %}) with the latest and greatest architecture.
-```javascript
-const imageId = data.Images[0].ImageId; //ami-0cb72367e98845d43
-```
+As you can see in the above snippet, we obtain the `ImageId` in the exact same way as before, however the first element of the `Images` array will always be the most recent AMI! This is useful if we want to [launch instances]({{ site.baseurl }}{% post_url 2019-4-25-start-stop-terminate-aws-ec2-instance-nodejs %}) with the latest and greatest architecture.
 
 ## Additional Resources
 - [Finding a Linux AMI with Node.js]({{ site.baseurl }}{% post_url 2019-5-15-finding-a-linux-ami-with-nodejs %})
