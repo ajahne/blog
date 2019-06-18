@@ -24,7 +24,7 @@ Let's build!
 ## Assumptions before jumping in:
 - You have Node.js installed. [Download at the Node.js website](https://nodejs.org/en/).
 - You have created a shared credentials file. For more information, see [loading credentials in Node.js](https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/loading-node-credentials-shared.html).
-- You have created a key pair.  For details, see [Working with Amazon EC2 Key Pairs](https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/ec2-example-key-pairs.html). You use the name of the key pair in this example.
+- You have created a key pair.  For details, see [working with Amazon EC2 Key Pairs](https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/ec2-example-key-pairs.html). You use the name of the key pair in this example.
 - You have the `ImageId` of the AMI you want to launch. For details, see [getting an AMI ID]({{ site.baseurl }}{% post_url 2019-5-15-getting-an-ami-id-nodejs %}). You will use the `ImageId` in this example.
 - You have the `SubnetId` for the subnet you want to launch the instance into. Check out [this article on listing aws subnets]({{ site.baseurl }}{% post_url 2019-5-28-list-aws-subnets-nodejs %}) for more information. You will need a `SubnetId` to proceed.
 
