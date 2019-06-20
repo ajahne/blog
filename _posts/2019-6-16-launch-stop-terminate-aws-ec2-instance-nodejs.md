@@ -15,7 +15,7 @@ Let's build!
 - [Assumptions (aka ensuring you have everything you need)](#assumptions-before-jumping-in)
 - That code!
   - [Install the AWS SDK](#install-the-aws-sdk)
-  - [Launch an EC2 Instance](#creating-an-aws-ec2-instance)
+  - [Launch an EC2 Instance](#launching-an-aws-ec2-instance)
   - [Stop an EC2 Instance](#stopping-an-aws-ec2-instance)
   - [Terminate an EC2 Instance](#terminating-an-aws-ec2-instance)
 - [Conclusion](#conclusion)
@@ -37,8 +37,8 @@ npm install aws-sdk
 
 That was easy! Onward and upward, now the cool parts!
 
-## Creating an AWS EC2 Instance
-First let's  deploy (i.e. create) an EC2 instance.  Here is the full block of code that will get you there!
+## Launching an AWS EC2 Instance
+First let's launch an EC2 instance.  Here is the full block of code that will get you there!
 {% highlight js %}
 //load the SDK for JavaScript
 const AWS = require('aws-sdk');
