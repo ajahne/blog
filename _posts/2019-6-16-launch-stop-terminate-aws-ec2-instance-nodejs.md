@@ -40,16 +40,16 @@ That was easy! Onward and upward, now the cool parts!
 ## Launching an AWS EC2 Instance
 First let's launch an EC2 instance.  Here is the full block of code that will get you there!
 {% highlight js %}
-//load the SDK for JavaScript
+// load the SDK for JavaScript
 const AWS = require('aws-sdk');
 
-//set the region
+// set the region
 AWS.config.update({region:'us-west-2'});
 
-//create an ec2 object
+// create an ec2 object
 const ec2 = new AWS.EC2({apiVersion: '2016-11-15'});
 
-//setup instance params
+// setup instance params
 const params = {
   ImageId: 'ami-#####',
   InstanceType: 't2.micro',
@@ -83,13 +83,13 @@ ec2.runInstances(params, function(err, data) {
 OK, let's take a moment to break down some of what we are doing.  I will cut the code into chunks and explain each section. Starting from the top...
 
 {% highlight js %}
-//load the SDK for JavaScript
+// load the SDK for JavaScript
 const AWS = require('aws-sdk');
 
-//set the region
+// set the region
 AWS.config.update({region:'us-west-2'});
 
-//create an ec2 object
+// create an ec2 object
 const ec2 = new AWS.EC2({apiVersion: '2016-11-15'});
 {% endhighlight %}
 
@@ -100,7 +100,7 @@ Next we setup the instance parameters. This is information specific to our EC2 i
 _Note: The `ImageId` and `SubnetId` are placeholders. These values are the ones you obtained from [here]({{ site.baseurl }}{% post_url 2019-5-15-getting-an-ami-id-nodejs %}) and [here]({{ site.baseurl }}{% post_url 2019-5-28-list-aws-subnets-nodejs %})._
 
 {% highlight js %}
-//setup instance params
+// setup instance params
 const params = {
   ImageId: 'ami-#####',
   InstanceType: 't2.micro',
@@ -159,16 +159,16 @@ This will output a lot of information from the creation of this instance.  To co
 Great, so we started an instance, now what? Well, one thing we can do is stop said instance (or instances).  As you can see, most of the code is similar to deploying an instance.
 
 {% highlight js %}
-//load the SDK for JavaScript
+// load the SDK for JavaScript
 const AWS = require('aws-sdk');
 
-//set the region
+// set the region
 AWS.config.update({region:'us-west-2'});
 
-//create an ec2 object
+// create an ec2 object
 const ec2 = new AWS.EC2({apiVersion: '2016-11-15'});
 
-//setup instance params
+// setup instance params
 const params = {
   InstanceIds: [
     'i-#####'    
@@ -197,16 +197,16 @@ Boom, instance stopped!
 So, we stopped the instance, we are done, right? Well, not quite.  Starting an instance provisions our server, but the server is still there when stopped. To fully decommission, we need to terminate the instance.
 
 {% highlight js %}
-//load the SDK for JavaScript
+// load the SDK for JavaScript
 const AWS = require('aws-sdk');
 
-//set the region
+// set the region
 AWS.config.update({region:'us-west-2'});
 
-//create an ec2 object
+// create an ec2 object
 const ec2 = new AWS.EC2({apiVersion: '2016-11-15'});
 
-//setup params
+// setup params
 const params = {
   InstanceIds: [
     'i-#####'    
