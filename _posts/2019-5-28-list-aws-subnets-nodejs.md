@@ -14,16 +14,16 @@ Please note, it is beyond the scope of this post to define VPCs and subnets, how
 Let's list!
 
 ```javascript
-//load AWS SDK
+// load AWS SDK
 const AWS = require('aws-sdk');
 
-//set the region to Oregon
+// set the region to Oregon
 AWS.config.update({region:'us-west-2'});
 
-//create EC2 service object
+// create EC2 service object
 const ec2 = new AWS.EC2({apiVersion: '2016-11-15'});
 
-//empty params object, needed to pass into describeSubnets function
+// empty params object, needed to pass into describeSubnets function
 const params = {};
 
 ec2.describeSubnets(params, function(err, data) {
