@@ -234,7 +234,7 @@ node ec2-terminate-instances.js
 And just like that, we have destroyed our instance.
 
 ## Conclusion
-In this article, we have utilized Node.js to start, stop, and terminate Amazon EC2 instances. We are now _that much_ closer to automating the deployment of our servers, versioning our infrastructure, embracing DevOps principles, and leveraging IAC to scale and  [accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339) our organization. Ain't no stopping us, let's keep pushing!
+In this article, we have utilized Node.js to create, stop, and terminate Amazon EC2 instances. We are now _that much_ closer to automating the deployment of our servers, versioning our infrastructure, embracing DevOps principles, and leveraging IAC to scale and  [accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339) our organization. Ain't no stopping us, let's keep pushing!
 
 Check out the additional resources below and happy coding!
 
