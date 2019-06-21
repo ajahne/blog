@@ -150,7 +150,7 @@ _Do note that you can also utilize promises as well instead of callbacks, as see
 
 Now that all the details are outlined, let's launch! Type the following in the command line to run the example:
 ```
-node ec2-create-instances.js
+node ec2-launch-instances.js
 ```
 
 This will output a lot of information from the creation of this instance.  To continue on and stop (then terminate) this instance, **be sure to grab the `InstanceId` of the EC2 server we just created!**
