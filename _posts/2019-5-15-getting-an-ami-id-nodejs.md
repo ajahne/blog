@@ -101,7 +101,7 @@ ec2.describeImages(params, function(err, data) {
     console.log(err, err.stack);  
   } else {                        // successful response
     const imageId = data.Images[0].ImageId;
-    console.log(imageId);         // ami-032509850cf9ee54e
+    console.log(imageId);         // ami-07669fc90e6e6cc47
   }  
 });
 ```
