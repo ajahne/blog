@@ -156,7 +156,7 @@ node ec2-launch-instances.js
 This will output a lot of information from the creation of this instance.  To continue on and stop (then terminate) this instance, **be sure to grab the `InstanceId` of the EC2 server we just created!**
 
 ## Stopping an AWS EC2 Instance
-Great, so we started an instance, now what? Well, one thing we can do is stop said instance (or instances).  As you can see, most of the code is similar to deploying an instance.
+Great, so we created an instance, now what? Well, one thing we can do is stop said instance (or instances).  As you can see, most of the code is similar to deploying an instance.
 
 {% highlight js %}
 // load the SDK for JavaScript
@@ -194,7 +194,7 @@ node ec2-stop-instances.js
 Boom, instance stopped!
 
 ## Terminating an AWS EC2 Instance
-So, we stopped the instance, we are done, right? Well, not quite.  Starting an instance provisions our server, but the server is still there when stopped. To fully decommission, we need to terminate the instance.
+So, we stopped the instance, we are done, right? Well, not quite.  Launching an instance provisions our server, but the server is still there when stopped. To fully decommission, we need to terminate the instance.
 
 {% highlight js %}
 // load the SDK for JavaScript
