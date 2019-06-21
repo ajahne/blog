@@ -122,7 +122,7 @@ const params = {
 };
 {% endhighlight %}
 
-There are a few things I'd like to point out here. First is the `ImageId`, this is a unique identifier that is particular to the region that you can obtain from AWS, which specifies the [server instance you want to use]({{ site.baseurl }}{% post_url 2019-4-30-finding-a-linux-ami-with-nodejs %}). Second is the instance type. As we are targeting "free-tier" this is set to `t2.micro`.
+There are a few things I'd like to point out here. First is the `ImageId`, this is a unique identifier that is particular to the region that you can obtain from AWS, which specifies the [server instance you want to use]({{ site.baseurl }}{% post_url 2019-4-30-finding-a-linux-ami-with-nodejs %}). Second is the `InstanceType`. As we are targeting "free-tier" this is set to `t2.micro`.
 
 _Note: be sure to check your region and setup to ensure you are using free-tier. Do **not** send your bills here!_
 
