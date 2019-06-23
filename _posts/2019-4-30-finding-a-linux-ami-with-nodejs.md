@@ -33,13 +33,13 @@ Let's dive in and describe!
 
 ### Example: Find the current Amazon Linux 2 AMI
 ```javascript
-//load AWS SDK
+// load AWS SDK
 const AWS = require('aws-sdk');
 
-//set the region, we are going to perform tests in Oregon
+// set the region, we are going to perform tests in Oregon
 AWS.config.update({region:'us-west-2'});
 
-//create EC2 service object
+// create EC2 service object
 const ec2 = new AWS.EC2({apiVersion: '2016-11-15'});
 
 const params = {
@@ -48,7 +48,7 @@ const params = {
     {
       Name: 'name',
       Values: [
-        //the ? represents the 8 char date, e.g. 20190403
+        // the ? represents the 8 char date, e.g. 20190403
         'amzn2-ami-hvm-2.0.????????-x86_64-gp2'
       ]
     },
@@ -75,13 +75,13 @@ ec2.describeImages(params, function(err, data) {
 
 ### Example: Find the current Amazon Linux AMI
 ```javascript
-//load AWS SDK
+// load AWS SDK
 const AWS = require('aws-sdk');
 
-//set the region, we are going to perform tests in Oregon
+// set the region, we are going to perform tests in Oregon
 AWS.config.update({region:'us-west-2'});
 
-//create EC2 service object
+// create EC2 service object
 const ec2 = new AWS.EC2({apiVersion: '2016-11-15'});
 
 const params = {
@@ -116,13 +116,13 @@ ec2.describeImages(params, function(err, data) {
 
 ### Example: Find the current Ubuntu Server 16.04 LTS AMI
 ```javascript
-//load AWS SDK
+// load AWS SDK
 const AWS = require('aws-sdk');
 
-//set the region, we are going to perform tests in Oregon
+// set the region, we are going to perform tests in Oregon
 AWS.config.update({region:'us-west-2'});
 
-//create EC2 service object
+// create EC2 service object
 const ec2 = new AWS.EC2({apiVersion: '2016-11-15'});
 
 const params = {
@@ -157,13 +157,13 @@ ec2.describeImages(params, function(err, data) {
 
 ### Example: Find the 2019 Ubuntu Bionic Servers
 ```javascript
-//load AWS SDK
+// load AWS SDK
 const AWS = require('aws-sdk');
 
-//set the region, we are going to perform tests in Oregon
+// set the region, we are going to perform tests in Oregon
 AWS.config.update({region:'us-west-2'});
 
-//create EC2 service object
+// create EC2 service object
 const ec2 = new AWS.EC2({apiVersion: '2016-11-15'});
 
 const params = {
@@ -198,13 +198,13 @@ ec2.describeImages(params, function(err, data) {
 
 ### Example: Find the current Red Hat Enterprise Linux 7.5 AMI
 ```javascript
-//load AWS SDK
+// load AWS SDK
 const AWS = require('aws-sdk');
 
-//set the region, we are going to perform tests in Oregon
+// set the region, we are going to perform tests in Oregon
 AWS.config.update({region:'us-west-2'});
 
-//create EC2 service object
+// create EC2 service object
 const ec2 = new AWS.EC2({apiVersion: '2016-11-15'});
 
 const params = {
