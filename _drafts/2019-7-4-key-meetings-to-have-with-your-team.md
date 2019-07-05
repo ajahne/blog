@@ -13,10 +13,123 @@ header:
 - Who is this for?
 - Key meetings
   - One-on-ones
-  - Skip Level
+  - Skip Level meeting
   - Three month catch up
-  - Career Conversation
-  - Goal Review  
+  - Career Development Conversation
+  - Goal Review
   - Performance Review
 - Conclusion
 - Additional Resources
+
+## Purpose
+The purpose of this article is to provide an introduction and a set of resources for key meetings that managers should have with members of their team.
+
+Each meeting breakdown contains the following information
+- Meeting Name
+- Purpose
+- Agenda and topics
+- Attendees
+- Frequency
+- Length of meeting
+- Template (if applicable)
+- Further reading
+
+Essentially we want to answer the "Who, What, When, Where, Why, and How" of each meeting.  Cool? Cool!
+
+## Who is this for?
+Anyone and everyone who wants to position their team members and teams for success?
+
+Wait? Seriously?
+
+Yes, this is for Managers who are looking for ways to connect further with their staff.  For first time managers learning the ropes. This is also for experienced managers who are looking for a refresher, set of resources, or a guide that will help them train new managers.
+
+This is also for makers who are who may be curious of the meetings they are in. This is also for the makers who are holding their managers accountable and/or a guide for makers to know what to expect from a good manager!
+
+Lastly, this is for my past self.  These are the meetings I wish I knew about - and I wish I knew how to conduct - when I first became a manager!
+
+So yeah...everyone :)
+
+### One-on-ones
+1-1s are the most important meeting to have. They help us stay connected with members if our team, undestsnding what is goung well, what's not going well, what we can improve on and more. I have found that these meetings have helped me and my direct reports by giving each of ys insight ibto what makes the ither tick. How to better communicate with, support, and listen to you direct reports is fundamental to be a good leader.
+
+1-1s provide a chance for you to get to know the people you work with better. It is easy to firget during the grind of delivering thay we are all human. We have hopes, dreams, fears, passions, goals that help shape who we are. Its paramount to understand how to best work together.
+
+In that context, 1-1s must be more than ju\st a status update or a rundown of the weeks tasks. While that is fine on occasion, these types of discussions may mak more fundamental areas. What makes this person excited? What motivates them and even mkre imoirtantmy, what type ic behaviors might de-motivate them.
+
+With this in mind, I find the best way to conduct the first 1-1s is to understand this person better. Here are a few questions that I ask in the initial meeting.
+
+1-1s are the lifeblood of an open, healthy, and communicative working relationship. The other meetings outlined in this list flow out of this one.  If you are having productive 1-1s it will make the other meetings flow smoother.
+
+Frequency: weekly, biweekly, monthly
+
+### Skip Level Meetings
+The first cousin to the 1-1 is the skip-level meeting. I was first introduced to this concept when reading Camille Fournier book:
+
+When you are a manager of managers it is important to understand
+
+How managers are performing
+How people are doing under your managers
+Are there any process/performance issues that are being "managed up", which you do not have insight to
+
+For skip level meetings you meet with the direct reports of your managers. The objectives and structure of thus meeting is analogous to the weekly 1-1.
+
+Frequency: monthly, quarterly
+
+### 3 month catch up
+For new hires and especially junior developers starting their first job, I encourage a 3 month catchup. This meeting provides the opportunity to sit down with a new employee in a more focused session. A developer starting their first job may.
+
+When things are going well this meeting helps to promote continued flow. When things are not going well it provides an opportunity to provide constructive feedback in a more formal manner. At times I have used used meeting as a mini performance review.
+
+1-2 weeks before the meeting, I conduct a quick 10-15 minute overview discussion of the meeting. Where we go over the agenda and topics
+
+Frequency: 1 time. Three months after start date with new hire
+
+### Goal Review
+Having a performance review is only one component of meeting goals.
+
+Have you ever had a conducted a performance review where you set up shiny new goals for the upcoming year only to never review them again until the next performance review?
+
+Has there ever been a disconnect between the goals you laid out and what the person actually worked on?
+
+Maybe priorities changed throughout the year(they will). Things that seemed ao important in January may have turned irrelevant in June. How do you ensure alignment between the company vision, team goals with this person's personal goals and motivations?
+
+Frequency: monthly (with more junior people or people new to their role), quarterly (more senior/experienced staff)
+
+### Career Development Conversations
+Frequency: every 6 months
+
+Objective: understand your direct reports motivations and career goals
+
+While performance reviews are backward looking, career development conversations are forward facing.
+
+Have you ever wondered the following questions (and if not, you should!)
+- what motivates you?
+- what are some career goals you have?
+- what inspired you to enter this field?
+
+Once we understand what motivates our people and what their goals are; we can help them achieve them.
+
+But wait, I hear you saying, what if their career goals dont align with the position or the company's trajectory? Won't asking about these goals create dissonance between this person and the organization?
+
+Whoa, whoa, whoa. If that dissonance exists, it exists independent of this meeting. Wouldn't it be great to acknowledge any dissonance before this person is demotivated or worse and starts looking for (or actually takes) another opportunity?
+
+Length: 60-90 minutes
+
+Great resources on how to conduct them
+
+### Performance Reviews
+
+Frequency: once a year
+Length: 60-90 minutes
+Objective: reflect on performance from the last year.
+
+Advice for managers:
+- give yourself plenty of time to write these reviews.  It will take time to gather feedback, speak to peers, review your notes, and draft the full review
+- keep notes throughout the year. When this person excels or performs below expectations on a task/goal/expectation make note of it.  When you receive feedback on this person from their peers or other managers, make note of it. There i
+
+Have an example for each piece of feedback
+
+
+## Conclusion
+
+## Additional Resources
