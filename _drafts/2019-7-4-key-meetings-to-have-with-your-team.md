@@ -57,14 +57,35 @@ Lastly, this is for my past self.  These are the meetings I wish I knew about - 
 So yeah...everyone :)
 
 ### One-on-ones
-**Who**: Manager (i.e. you) and their (i.e. your) direct report  
-**What**: One-on-one meeting  
-**When**: Weekly  
+**Who**: Manager (i.e. you) and their (i.e. your) direct report
+
+**What**: 1-1s are the most important meeting to have. They help us stay connected with members of our team, understanding what is going well, what's not going well, what we can improve on and more. I have found that these meetings have helped me and my direct reports by giving each of us insight into what makes the other tick. How to better communicate with, support, and listen to your direct reports is fundamental to being a good leader.
+
+1-1s provide a chance for you to get to know the people you work with better. It is easy to forget during the grind of delivering that we are all human. We have hopes, dreams, fears, passions, and experiences that help shape who we are. Its paramount to understand how to best work together.
+
+In that context, 1-1s must be more than just a status update or a rundown of the weeks tasks. While that is fine on occasion, these types of discussions must focus on more fundamental areas. What makes this person excited? What motivates them and even more importantly, what type of behaviors might de-motivate them.
+
+1-1s are the lifeblood of an open, healthy, and communicative working relationship. The other meetings outlined in this list flow out of this one.  If you are having productive 1-1s it will make the other meetings flow smoother.  
+
+**When**: Weekly (30-60 minutes)
+
 **Where**: Take a walk, grab a coffee, hit up the conference room, switch it up  
+
 **Why**: Provide support, coaching, and candor to help your teammate succeed and excel  
 
+**Additional Resources**  
+- One-on-one Do's and Don'ts
+- Questions for our first 1:1
+- Working the weekly 1-1
+- One-on-one resources
+- One-on-one questions
+- To Share with your direct report: "7 ways to prepare for an effective one-on-one meeting with your manager"
 
-1-1s are the most important meeting to have. They help us stay connected with members if our team, undestsnding what is goung well, what's not going well, what we can improve on and more. I have found that these meetings have helped me and my direct reports by giving each of ys insight ibto what makes the ither tick. How to better communicate with, support, and listen to you direct reports is fundamental to be a good leader.
+### One-on-ones
+**Purpose:** To Provide support, coaching, and candor to help your teammate succeed and excel.
+
+**Brief Description**  
+1-1s are the most important meeting to have. They help us stay connected with members of our team, understanding what is going well, what's not going well, what we can improve on and more. I have found that these meetings have helped me and my direct reports by giving each of us insight into what makes the other tick. How to better communicate with, support, and listen to your direct reports is fundamental to being a good leader.
 
 1-1s provide a chance for you to get to know the people you work with better. It is easy to forget during the grind of delivering that we are all human. We have hopes, dreams, fears, passions, and experiences that help shape who we are. Its paramount to understand how to best work together.
 
@@ -72,25 +93,14 @@ In that context, 1-1s must be more than just a status update or a rundown of the
 
 1-1s are the lifeblood of an open, healthy, and communicative working relationship. The other meetings outlined in this list flow out of this one.  If you are having productive 1-1s it will make the other meetings flow smoother.
 
-
-### One-on-ones
-- **Purpose:** To Provide support, coaching, and candor to help your teammate succeed and excel
-- **Agenda and topics**:
+**Agenda and topics**:
   - The agenda is driven by the direct report
   - Priorities, roadblocks, feedback,
   - It is _not_ a status update
-- **Frequency**: weekly  
-- **Meeting Length**: 30-60 minutes  
 
-1-1s are the most important meeting to have. They help us stay connected with members if our team, undestsnding what is goung well, what's not going well, what we can improve on and more. I have found that these meetings have helped me and my direct reports by giving each of ys insight ibto what makes the ither tick. How to better communicate with, support, and listen to you direct reports is fundamental to be a good leader.
+**Frequency**: weekly  
 
-1-1s provide a chance for you to get to know the people you work with better. It is easy to firget during the grind of delivering thay we are all human. We have hopes, dreams, fears, passions, goals that help shape who we are. Its paramount to understand how to best work together.
-
-In that context, 1-1s must be more than just a status update or a rundown of the weeks tasks. While that is fine on occasion, these types of discussions must focus on more fundamental areas. What makes this person excited? What motivates them and even more importantly, what type ic behaviors might de-motivate them.
-
-With this in mind, I find the best way to conduct the first 1-1s is to understand this person better. Here are a few questions that I ask in the initial meeting.
-
-1-1s are the lifeblood of an open, healthy, and communicative working relationship. The other meetings outlined in this list flow out of this one.  If you are having productive 1-1s it will make the other meetings flow smoother.
+**Meeting Length**: 30-60 minutes  
 
 **Additional Resources**:
 - One-on-one Do's and Don'ts
