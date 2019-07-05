@@ -3,7 +3,7 @@ layout: single
 title:  "Radical Candor Chapter Notes"
 date:  2019-2-10 6:00:00 -0400
 categories: leadership, books
-tags: leadership, books
+tags: leadership books
 header:
   image: /assets/images/leadership-early-career-tips.jpg
 ---
