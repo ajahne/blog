@@ -89,7 +89,7 @@ In that context, 1-1s must be more than just a status update or a rundown of the
 The first cousin to the 1-1 is the skip-level meeting. I was first introduced to this concept when reading Camille Fournier's book ["The Manager's Path"](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 
 When you are a manager of managers it is important to understand
-- How managers are performing
+- How your managers are performing
 - How people are doing under your managers
 - Are there any process/performance issues that are being "managed up", which you do not have insight to
 
@@ -99,10 +99,10 @@ For skip level meetings you meet with the direct reports of your managers. The o
 
 **Meeting Length**: 30-60 minutes  
 
-### 3 month catch up
+### Three month catch up
 For new hires and especially junior engineers starting their first job, I have introduced a "three month catchup". This meeting provides the opportunity to sit down with a new employee in a more focused session. A developer starting their first job may.
 
-When things are going well this meeting helps to promote continued flow. When things are not going well it provides an opportunity to provide constructive feedback in a more formal manner. At times I have utilized meeting as a mini performance review. If you are conducting frequnet one-on-ones (as I know you are) then this meetings will be pretty straight forward
+When things are going well this meeting helps to promote continued flow. When things are not going well it provides an opportunity to provide constructive feedback in a more formal manner. At times I have utilized meeting as a mini performance review. If you are conducting frequent one-on-ones (as I know you are) then this meetings will be pretty straight forward
 
 1-2 weeks before the meeting, I conduct a quick 10-15 minute overview discussion of the meeting. Where we go over the agenda and topics.
 
@@ -153,9 +153,8 @@ Objective: reflect on performance from the last year.
 
 Advice for managers:
 - give yourself plenty of time to write these reviews.  It will take time to gather feedback, speak to peers, review your notes, and draft the full review
-- keep notes throughout the year. When this person excels or performs below expectations on a task/goal/expectation make note of it.  When you receive feedback on this person from their peers or other managers, make note of it. There i
-
-Have an example for each piece of feedback
+- keep notes throughout the year. When this person excels or performs below expectations on a task/goal/expectation make note of it.  When you receive feedback on this person from their peers or other managers, make note of it.
+- Have an example for each piece of feedback. Feedback without an example does not resonant and in my opinion should can come across like an opinion versus an objective observation. 
 
 **Addition Resources**
 
