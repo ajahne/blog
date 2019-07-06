@@ -2,8 +2,8 @@
 layout: single
 title:  "Key Meetings To Have With Your Team"
 date:  2019-7-4 9:05:00 -0400
-categories: leadership
-tags: meetings, 1-1, one-on-one, skip-level
+categories: leadership management
+tags: meetings, 1-1, one-on-one, skip-level, performance review, career, management
 header:
   image: assets/images/adult-communication-diversity-1181719.jpg
 ---
