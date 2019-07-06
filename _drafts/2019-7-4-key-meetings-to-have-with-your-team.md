@@ -48,7 +48,7 @@ Wait? Seriously? Anyone _and_ everyone?
 
 Yup!
 
-This is for Managers who are looking for ways to connect further with their staff.  For first time managers learning the ropes. This is also for experienced managers who are looking for a refresher, set of resources, or a guide that will help them train new managers.
+This is for Managers who are looking for ways to connect further with their staff.  For first time managers learning the ropes. This is also for experienced managers who are looking for a refresher, a set of resources, or a guide that will help them train new managers.
 
 This is also for makers who are or who may be curious of the meetings they are in. This is also for the makers who are holding their managers accountable and/or a guide for makers to know what to expect from a good manager!
 
@@ -62,7 +62,7 @@ So yeah...everyone :)
 **Brief Description**  
 1-1s are the most important meeting to have. They help us stay connected with members of our team, understanding what is going well, what's not going well, what we can improve on and more. I have found that these meetings have helped me and my direct reports by giving each of us insight into what makes the other tick. How to better communicate with, support, and listen to your direct reports is fundamental to being a good leader.
 
-1-1s provide a chance for you to get to know the people you work with better. It is easy to forget during the grind of delivering that we are all human. We have hopes, dreams, fears, passions, and experiences that help shape who we are. Its paramount to understand how to best work together.
+1-1s provide a chance for you to get to know the people you work with better. It is easy to forget during the grind of delivering that we are all human. We have hopes, dreams, fears, passions, and experiences that help shape who we are. It is paramount to understand how to best work together.
 
 In that context, 1-1s must be more than just a status update or a rundown of the weeks tasks. While that is fine on occasion, these types of discussions must focus on more fundamental areas. What makes this person excited? What motivates them and even more importantly, what type of behaviors might de-motivate them.
 
@@ -95,7 +95,9 @@ When you are a manager of managers it is important to understand
 
 For skip level meetings you meet with the direct reports of your managers. The objectives and structure of this meeting is analogous to the weekly 1-1.
 
-Frequency: monthly, quarterly
+**Frequency**: monthly, quarterly
+
+**Meeting Length**: 30-60 minutes  
 
 ### 3 month catch up
 For new hires and especially junior engineers starting their first job, I have introduced a "three month catchup". This meeting provides the opportunity to sit down with a new employee in a more focused session. A developer starting their first job may.
@@ -104,7 +106,9 @@ When things are going well this meeting helps to promote continued flow. When th
 
 1-2 weeks before the meeting, I conduct a quick 10-15 minute overview discussion of the meeting. Where we go over the agenda and topics.
 
-Frequency: 1 time. Three months after start date with new hire
+**Frequency**: 1 time. Three months after start date with new hire
+
+**Meeting Length**: 45 minutes
 
 ### Goal Review
 Having a performance review is only one component of meeting goals.
@@ -113,9 +117,11 @@ Have you ever had a conducted a performance review where you set up shiny new go
 
 Has there ever been a disconnect between the goals you laid out and what the person actually worked on?
 
-Maybe priorities changed throughout the year (they will) or maybe now strategic initiiave m. Things that seemed ao important in January may have turned irrelevant in June. How do you ensure alignment between the company vision, team goals with this person's personal goals and motivations?
+Maybe priorities changed throughout the year (they will) or maybe now a new strategic initiative needs to be added to the roadmap (it will). Things that seemed so important in January may have turned irrelevant in June. How do you ensure alignment between the company vision, team goals with this person's personal goals and motivations?
 
-Frequency: monthly (with more junior people or people new to their role), quarterly (more senior/experienced staff)
+**Frequency:** monthly (with more junior people or people new to their role), quarterly (more senior/experienced staff)
+
+**Meeting Length**: 60 minutes
 
 ### Career Development Conversations
 Frequency: every 6 months
@@ -131,13 +137,13 @@ Have you ever wondered the following questions (and if not, you should!)
 
 Once we understand what motivates our people and what their goals are; we can help them achieve them.
 
-But wait, I hear you saying, what if their career goals dont align with the position or the company's trajectory? Won't asking about these goals create dissonance between this person and the organization?
+But wait, I hear you saying, what if their career goals don't align with the position or the company's trajectory? Won't asking about these goals create dissonance between this person and the organization?
 
 Whoa, whoa, whoa. If that dissonance exists, it exists independent of this meeting. Wouldn't it be great to acknowledge any dissonance before this person is demotivated or worse and starts looking for (or actually takes) another opportunity?
 
-Length: 60-90 minutes
+**Meeting Length**: 60-90 minutes
 
-Great resources on how to conduct them
+**Addition Resources**
 
 ### Performance Reviews
 
@@ -150,6 +156,8 @@ Advice for managers:
 - keep notes throughout the year. When this person excels or performs below expectations on a task/goal/expectation make note of it.  When you receive feedback on this person from their peers or other managers, make note of it. There i
 
 Have an example for each piece of feedback
+
+**Addition Resources**
 
 
 ## Conclusion
