@@ -2,7 +2,7 @@
 layout: single
 title:  "Key Meetings To Have With Your Team"
 date:  2019-7-4 9:05:00 -0400
-categories: leadership management
+categories: leadership
 tags: meetings, 1-1, one-on-one, skip-level, performance review, career, management
 header:
   image: assets/images/adult-communication-diversity-1181719.jpg
@@ -154,7 +154,7 @@ Objective: reflect on performance from the last year.
 Advice for managers:
 - give yourself plenty of time to write these reviews.  It will take time to gather feedback, speak to peers, review your notes, and draft the full review
 - keep notes throughout the year. When this person excels or performs below expectations on a task/goal/expectation make note of it.  When you receive feedback on this person from their peers or other managers, make note of it.
-- Have an example for each piece of feedback. Feedback without an example does not resonant and in my opinion should can come across like an opinion versus an objective observation. 
+- Have an example for each piece of feedback. Feedback without an example does not resonant and in my opinion should can come across like an opinion versus an objective observation.
 
 **Addition Resources**
 
