@@ -156,7 +156,7 @@ Maybe priorities changed throughout the year (they will) or maybe now a new stra
 - TBD
 
 ## Career Development Conversations
-**Purpose:** To better understand (and support) your direct reports motivations and career aspirations.
+**Purpose:** To better understand (and support) your direct report's motivations and career aspirations.
 
 **Brief Description:**  
 While performance reviews are backward looking, career development conversations are forward facing.
