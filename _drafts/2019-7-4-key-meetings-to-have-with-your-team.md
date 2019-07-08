@@ -184,18 +184,23 @@ Whoa, whoa, whoa. If that dissonance exists, it exists independent of this meeti
 - First round review link
 
 ### Performance Reviews
+**Purpose:** Objective: reflect on performance from the last year.
 
-Frequency: once a year
-Length: 60-90 minutes
-Objective: reflect on performance from the last year.
-
+**Brief Description:**  
 Advice for managers:
 - give yourself plenty of time to write these reviews.  It will take time to gather feedback, speak to peers, review your notes, and draft the full review
 - keep notes throughout the year. When this person excels or performs below expectations on a task/goal/expectation make note of it.  When you receive feedback on this person from their peers or other managers, make note of it.
 - Have an example for each piece of feedback. Feedback without an example does not resonant and in my opinion should can come across like an opinion versus an objective observation.
 
-**Addition Resources**
+**Agenda and topics:**
+- TBD
 
+**Frequency:** once a year
+
+**Meeting Length:** 60-90 minutes
+
+**Additional Resources:**
+- TBD
 
 ## Conclusion
 
