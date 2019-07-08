@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Key Meetings To Have With Your Team"
+title:  "Essential Meetings to Have With Your Team as a Manager"
 date:  2019-7-4 9:05:00 -0400
 categories: leadership
 tags: meetings, 1-1, one-on-one, skip-level, performance review, career, management
