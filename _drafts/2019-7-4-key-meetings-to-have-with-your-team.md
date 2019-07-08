@@ -109,15 +109,29 @@ For skip level meetings you meet with the direct reports of your managers. The o
 - TBD
 
 ### Three month catch up
+**Purpose:** To conduct an informal "mini-review" of the employee's first three months at the organization to better understand strengths, areas of improvement, and what this person has liked/disliked over the first few months. A "level-set".
+
+**Brief Description:**  
 For new hires and especially junior engineers starting their first job, I have introduced a "three month catchup". This meeting provides the opportunity to sit down with a new employee in a more focused session. A developer starting their first job may.
 
 When things are going well this meeting helps to promote continued flow. When things are not going well it provides an opportunity to provide constructive feedback in a more formal manner. At times I have utilized meeting as a mini performance review. If you are conducting frequent one-on-ones (as I know you are) then this meetings will be pretty straight forward
 
 1-2 weeks before the meeting, I conduct a quick 10-15 minute overview discussion of the meeting. Where we go over the agenda and topics.
 
-**Frequency**: 1 time. Three months after start date with new hire
+When things are not going well I have used this meeting as a forum to focus on areas of improvements. It is important to address areas where someone is performing below expectation early and directly.
 
-**Meeting Length**: 45 minutes
+**Agenda and topics:**
+- Understand what this person has enjoyed and not enjoyed working on in the first three months
+- Discuss strengths and areas of improvement. Start with self reflection, what does this person feel?
+- Outline goals for the next 9-12 months
+- See the [Meeting Template](https://github.com/ajahne/essential-manager-meetings/blob/master/templates/three-month-catch-up.md) for a detailed outline.
+
+**Frequency:** 1 time. Three months after start date with new hire
+
+**Meeting Length:** 45 minutes
+
+**Additional Resources:**
+- [Meeting Template](https://github.com/ajahne/essential-manager-meetings/blob/master/templates/three-month-catch-up.md)
 
 ### Goal Review
 Having a performance review is only one component of meeting goals.
