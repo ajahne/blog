@@ -86,6 +86,9 @@ In that context, 1-1s must be more than just a status update or a rundown of the
 - To Share with your direct report: "7 ways to prepare for an effective one-on-one meeting with your manager"
 
 ### Skip Level Meetings
+**Purpose:** To understand better how your managers are performing and to learn more about/further support your team members. _(edit this wording)_
+
+**Brief Description:**  
 The first cousin to the 1-1 is the skip-level meeting. I was first introduced to this concept when reading Camille Fournier's book ["The Manager's Path"](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 
 When you are a manager of managers it is important to understand
@@ -93,11 +96,17 @@ When you are a manager of managers it is important to understand
 - How people are doing under your managers
 - Are there any process/performance issues that are being "managed up", which you do not have insight to
 
-For skip level meetings you meet with the direct reports of your managers. The objectives and structure of this meeting is analogous to the weekly 1-1.
+For skip level meetings you meet with the direct reports of your managers. The objectives and structure of this meeting is analogous to the weekly 1-1.  
 
-**Frequency**: monthly, quarterly
+**Agenda and topics:**
+- TBD
 
-**Meeting Length**: 30-60 minutes  
+**Frequency:**: monthly, quarterly
+
+**Meeting Length:** 30-60 minutes
+
+**Additional Resources:**
+- TBD
 
 ### Three month catch up
 For new hires and especially junior engineers starting their first job, I have introduced a "three month catchup". This meeting provides the opportunity to sit down with a new employee in a more focused session. A developer starting their first job may.
