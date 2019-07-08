@@ -174,6 +174,13 @@ Whoa, whoa, whoa. If that dissonance exists, it exists independent of this meeti
 
 I believe our role as managers is to help each member of our team be the most awesome version of themselves and support them on this journey. Career Conversations are a critical tool that helps get us there. 
 
+Career conversations
+-	Career conversations are ongoing discussions that help you identify your direct reports professional goals and the steps needed to achieve them.
+-	Twice a year
+-	Craft an 18 month plan
+-	Life story (past); Dreams (present); Career Action Plan
+
+
 
 **Agenda and topics:**
 - Conduct three converations twice a year 
