@@ -172,8 +172,15 @@ But wait, I hear you saying, what if their career goals don't align with the pos
 
 Whoa, whoa, whoa. If that dissonance exists, it exists independent of this meeting. Wouldn't it be great to acknowledge any dissonance before this person is demotivated or worse and starts looking for (or actually takes) another opportunity?
 
+I believe our role as managers is to help each member of our team be the most awesome version of themselves and support them on this journey. Career Conversations are a critical tool that helps get us there. 
+
+
 **Agenda and topics:**
-- TBD
+- Conduct three converations twice a year 
+  - Meeting One: Life Story
+  - Meeting Two: Dreams
+  - Meeting Three: Career Action Plan
+- In subsequent meetings (i.e. 6-9 months later) I focus on the dreams and ensuring we are tracking accurately on our Career Action Plan.  Using the goal reviews meeting is a great way to do this as well. 
 
 **Frequency:** Every 6 months
 
