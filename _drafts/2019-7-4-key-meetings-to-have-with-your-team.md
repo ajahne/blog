@@ -134,6 +134,9 @@ When things are not going well I have used this meeting as a forum to focus on a
 - [Meeting Template](https://github.com/ajahne/essential-manager-meetings/blob/master/templates/three-month-catch-up.md)
 
 ### Goal Review
+**Purpose:** To review your direct report's current goals and ensure we are accurately tracking towards them. 
+
+**Brief Description:**  
 Having a performance review is only one component of meeting goals.
 
 Have you ever had a conducted a performance review where you set up shiny new goals for the upcoming year only to never review them again until the next performance review?
@@ -142,9 +145,15 @@ Has there ever been a disconnect between the goals you laid out and what the per
 
 Maybe priorities changed throughout the year (they will) or maybe now a new strategic initiative needs to be added to the roadmap (it will). Things that seemed so important in January may have turned irrelevant in June. How do you ensure alignment between the company vision, team goals with this person's personal goals and motivations?
 
-**Frequency:** monthly (with more junior people or people new to their role), quarterly (more senior/experienced staff)
+**Agenda and topics:**
+- TBD
 
-**Meeting Length**: 60 minutes
+**Frequency:** monthly (with more junior people or people new to their role), quarterly (with more senior/experienced staff)
+
+**Meeting Length:**: 30-60 minutes (dependent on frequency). If monthly, 30 minutes. If quarterly, allocate more time as necessary.  
+
+**Additional Resources:**
+- TBD
 
 ### Career Development Conversations
 Frequency: every 6 months
