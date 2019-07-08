@@ -180,8 +180,11 @@ Whoa, whoa, whoa. If that dissonance exists, it exists independent of this meeti
 **Meeting Length:** 60-90 minutes
 
 **Additional Resources:**
-- Radical Candor
-- First round review link
+- [Radical Candor by Kim Scott](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1427283125)
+- Career Conversations from [radicalcandor.com](https://www.radicalcandor.com/blog/category/career-conversations)
+- [Three Powerful Conversations Managers Must Have To Develop Their People](https://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people)
+- [The Problem with Career Conversations (and how to improve them!)](https://www.radicalcandor.com/blog/problem-career-conversations)
+- [How to have career conversations with your employees](https://medium.com/fellowapp/want-to-be-a-great-manager-have-career-conversations-with-your-team-5e432dcdce86)
 
 ## Performance Reviews
 **Purpose:** Objective: reflect on performance from the last year.
