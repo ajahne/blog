@@ -12,19 +12,19 @@ header:
 - Purpose aka why am I writing this
 - Who is this for?
 - Key meetings
-  - One-on-ones
-  - Skip Level meeting
-  - Three month catch up
-  - Career Development Conversation
-  - Goal Review
-  - Performance Review
+  - [One-on-ones](#one-on-ones)
+  - [Skip Level meeting](#skip-level-meetings)
+  - [Three month catch up](#three-month-catch-up)
+  - [Goal Reviews](#goal-reviews)
+  - [Career Development Conversation](#career-development-conversations)
+  - [Performance Review](#performance-reviews)
 - Conclusion
 - Additional Resources
 
 ## Purpose aka why am I writing this
 The purpose of this article is to provide an introduction to - and a set of resources for - key meetings that managers should have with members of their team.
 
-Each meeting breakdown contains the following information
+Each meeting breakdown contains important details, including:
 - Meeting Name
 - Purpose
 - Agenda and topics
@@ -32,7 +32,7 @@ Each meeting breakdown contains the following information
 - Frequency
 - Length of meeting
 - Template (if applicable)
-- Further reading
+- Additional Resources
 
 Essentially we want to answer the "Who, What, When, Where, Why, and How" of each meeting.  Cool? Cool!
 
@@ -56,7 +56,7 @@ Lastly, this is for my past self.  These are the meetings I wish I knew about - 
 
 So yeah...everyone :)
 
-### One-on-ones
+## One-on-ones
 **Purpose:** To Provide support, coaching, and candor to help your teammate succeed and excel.
 
 **Brief Description**  
@@ -85,7 +85,7 @@ In that context, 1-1s must be more than just a status update or a rundown of the
 - One-on-one questions
 - To Share with your direct report: "7 ways to prepare for an effective one-on-one meeting with your manager"
 
-### Skip Level Meetings
+## Skip Level Meetings
 **Purpose:** To understand better how your managers are performing and to learn more about/further support your team members. _(edit this wording)_
 
 **Brief Description:**  
@@ -108,7 +108,7 @@ For skip level meetings you meet with the direct reports of your managers. The o
 **Additional Resources:**
 - TBD
 
-### Three month catch up
+## Three month catch up
 **Purpose:** To conduct an informal "mini-review" of the employee's first three months at the organization to better understand strengths, areas of improvement, and what this person has liked/disliked over the first few months. A "level-set".
 
 **Brief Description:**  
@@ -133,7 +133,7 @@ When things are not going well I have used this meeting as a forum to focus on a
 **Additional Resources:**
 - [Meeting Template](https://github.com/ajahne/essential-manager-meetings/blob/master/templates/three-month-catch-up.md)
 
-### Goal Reviews
+## Goal Reviews
 **Purpose:** To review your direct report's current goals and ensure we are accurately tracking towards them.
 
 **Brief Description:**  
@@ -150,12 +150,12 @@ Maybe priorities changed throughout the year (they will) or maybe now a new stra
 
 **Frequency:** monthly (with more junior people or people new to their role), quarterly (with more senior/experienced staff)
 
-**Meeting Length:**: 30-60 minutes (dependent on frequency). If monthly, 30 minutes. If quarterly, allocate more time as necessary.  
+**Meeting Length:** 30-60 minutes (dependent on frequency). If monthly, 30 minutes. If quarterly, allocate more time as necessary.  
 
 **Additional Resources:**
 - TBD
 
-### Career Development Conversations
+## Career Development Conversations
 **Purpose:** To better understand (and support) your direct reports motivations and career aspirations.
 
 **Brief Description:**  
@@ -183,7 +183,7 @@ Whoa, whoa, whoa. If that dissonance exists, it exists independent of this meeti
 - Radical Candor
 - First round review link
 
-### Performance Reviews
+## Performance Reviews
 **Purpose:** Objective: reflect on performance from the last year.
 
 **Brief Description:**  
