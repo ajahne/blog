@@ -133,8 +133,8 @@ When things are not going well I have used this meeting as a forum to focus on a
 **Additional Resources:**
 - [Meeting Template](https://github.com/ajahne/essential-manager-meetings/blob/master/templates/three-month-catch-up.md)
 
-### Goal Review
-**Purpose:** To review your direct report's current goals and ensure we are accurately tracking towards them. 
+### Goal Reviews
+**Purpose:** To review your direct report's current goals and ensure we are accurately tracking towards them.
 
 **Brief Description:**  
 Having a performance review is only one component of meeting goals.
@@ -156,10 +156,9 @@ Maybe priorities changed throughout the year (they will) or maybe now a new stra
 - TBD
 
 ### Career Development Conversations
-Frequency: every 6 months
+**Purpose:** To better understand (and support) your direct reports motivations and career aspirations.
 
-Objective: understand your direct reports motivations and career goals
-
+**Brief Description:**  
 While performance reviews are backward looking, career development conversations are forward facing.
 
 Have you ever wondered the following questions (and if not, you should!)
@@ -173,9 +172,16 @@ But wait, I hear you saying, what if their career goals don't align with the pos
 
 Whoa, whoa, whoa. If that dissonance exists, it exists independent of this meeting. Wouldn't it be great to acknowledge any dissonance before this person is demotivated or worse and starts looking for (or actually takes) another opportunity?
 
-**Meeting Length**: 60-90 minutes
+**Agenda and topics:**
+- TBD
 
-**Addition Resources**
+**Frequency:** Every 6 months
+
+**Meeting Length:** 60-90 minutes
+
+**Additional Resources:**
+- Radical Candor
+- First round review link
 
 ### Performance Reviews
 
