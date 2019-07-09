@@ -91,27 +91,46 @@ One-on-ones are the lifeblood of an open, healthy, and effective working relatio
 - [The 8 best questions to ask during a one-on-one meeting](https://knowyourteam.com/blog/2018/01/11/the-8-best-questions-to-ask-during-a-one-on-one-meeting/)
 
 ## Skip Level Meetings
-**Purpose:** To understand better how your managers are performing and to learn more about/further support your team members. _(edit this wording)_
+**Purpose:** To help your managers become better bosses, build a rapport with your team members, and get organizational/team feedback to improve the work environment
+
+To help each of your managers become better bosses and make sure people on their team feel comfortable giving feedback directly while building trust and working to improve the work environment.
 
 **Brief Description:**  
-The first cousin to the 1-1 is the skip-level meeting. I was first introduced to this concept when reading Camille Fournier's book ["The Manager's Path"](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
+When you are a manager of managers it is important to understand:
+- How your managers are performing?
+- How people are doing under your managers?
+- What do people think/feel about the organization?
+- Are there any process/performance issues that are being "managed up", which you do not have insight to?
 
-When you are a manager of managers it is important to understand
-- How your managers are performing
-- How people are doing under your managers
-- Are there any process/performance issues that are being "managed up", which you do not have insight to
+If you have every asked one of these - or a related question - then welcome to the skip level meeting!
+
+The first cousin to the 1-1 is the skip-level meeting. I find the skip level one-one has a few key goals:
 
 For skip level meetings you meet with the direct reports of your managers. The objectives and structure of this meeting is analogous to the weekly 1-1.  
 
-**Agenda and topics:**
-- TBD
+When gathering feedback, there are few key points to highlight
+- Ensure safety and anonymity - team members must be able to speak with minds without fear of retribution
+- Tell your managers you are having them
+- Work with your managers to inform their direct reports you will be conducting these meetings
+- Plan ahead to schedule these meetings If you have a large team you will have to spread these meetings out.  At times I have also done group skip level meetings and brought a team of a manager's direct reports to lunch to chat about the organization and areas in which we can improve.
+
+> Skip Level Meetings are an invaluable tool that helps you keep a pulse on the organization with the ultimate goal to make things better.
+
+**Agenda and topics**:
+  - The agenda is driven by the direct report.
+    - As a manager come prepared with questions; take notes, keep promises, and follow up
+  - Topics include: priorities, roadblocks, accomplishments, frustrations, feedback, and what is "top of mind" for your direct report; it is _not_ a status update
+  - Note: this is not a "witch-hunt" or "gotcha" meeting, the intent is to utilize these meetings to improve the overall organization
 
 **Frequency:**: monthly, quarterly
 
 **Meeting Length:** 30-60 minutes
 
 **Additional Resources:**
-- TBD
+- ["The Manager's Path"](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
+- [Radical Candor](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1427283125)
+- [Skip Level one-on-ones](https://getlighthouse.com/blog/skip-level-meetings-one-on-ones)
+- [Skip Level meeting questions](https://getlighthouse.com/blog/skip-level-meeting-questions-managers-leadership)
 
 ## Three month catch up
 **Purpose:** To conduct an informal "mini-review" of the employee's first three months at the organization to better understand strengths, areas of improvement, and what this person has liked/disliked over the first few months. A "level-set".
