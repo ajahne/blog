@@ -57,33 +57,37 @@ Lastly, this is for my past self.  These are the meetings I wish I knew about - 
 So yeah...everyone :)
 
 ## One-on-ones
-**Purpose:** To Provide support, coaching, and candor to help your teammate succeed and excel.
+**Purpose:** To provide support, coaching, and candor that helps your direct report grow, succeed, and excel.
 
-**Brief Description**  
-1-1s are the most important meeting to have. They help us stay connected with members of our team, understanding what is going well, what's not going well, what we can improve on and more. I have found that these meetings have helped me and my direct reports by giving each of us insight into what makes the other tick. How to better communicate with, support, and listen to your direct reports is fundamental to being a good leader.
+**Brief Overview**  
+One-on-ones (i.e. 1-1s) are the most valuable tool in your management utility belt and the most essential meeting to have with your direct report. They help you stay connected with members of your team, understand what is going well, what's not, what can be improved, and more.
 
-1-1s provide a chance for you to get to know the people you work with better. It is easy to forget during the grind of delivering that we are all human. We have hopes, dreams, fears, passions, and experiences that help shape who we are. It is paramount to understand how to best work together.
+Furthermore, these meetings help you remove roadblocks, coach, mentor, and develop your people - empowering them to become the most bad-ass versions of themselves!  
 
-In that context, 1-1s must be more than just a status update or a rundown of the weeks tasks. While that is fine on occasion, these types of discussions must focus on more fundamental areas. What makes this person excited? What motivates them and even more importantly, what type of behaviors might de-motivate them.
+Yeah, these meetings are essential.
 
-1-1s are the lifeblood of an open, healthy, and communicative working relationship. The other meetings outlined in this list flow out of this one.  If you are having productive 1-1s it will make the other meetings flow smoother.
+One-on-ones help us empathize with and better understand our direct reports. Through one-on-ones we can gain informal feedback and address morale issues, while ensuring better engagement, productivity, and reduced turnover.
+
+> Conducting effective one-on-ones is the single most important investment you can make in your team.
+
+One-on-ones are the lifeblood of an open, healthy, communicative, safe, and effective working relationship. One-on-ones are for the employee, it is _their_ meeting. Listen, ask questions, and be present. Conduct them in private and ensure a safe space. The other meetings outlined in this article flow out of this one.  If you are having great one-on-ones it will make the other meetings that much more productive.
 
 **Agenda and topics**:
-  - The agenda is driven by the direct report
-  - Priorities, roadblocks, feedback,
-  - It is _not_ a status update
+  - The agenda is driven by the direct report.
+    - Here is a great link to share with your direct reports on [preparing for an effective one-on-one with your manager](https://knowyourteam.com/blog/2018/01/03/7-ways-to-prepare-for-an-effective-one-on-one-meeting-with-your-manager/)
+    - As a manager come prepared with questions; take notes, keep promises, and follow up
+  - Topics include: priorities, roadblocks, accomplishments, frustrations, feedback; it is _not_ a status update
 
-**Frequency**: weekly  
+**Frequency**: weekly, bi-weekly (based on [task relevant maturity](https://getlighthouse.com/blog/management-concept/))
 
 **Meeting Length**: 30-60 minutes  
 
 **Additional Resources**:
-- One-on-one Do's and Don'ts
 - Questions for our first 1:1
+- One-on-one Do's and Don'ts
 - Working the weekly 1-1
 - One-on-one resources
 - One-on-one questions
-- To Share with your direct report: "7 ways to prepare for an effective one-on-one meeting with your manager"
 
 ## Skip Level Meetings
 **Purpose:** To understand better how your managers are performing and to learn more about/further support your team members. _(edit this wording)_
@@ -172,7 +176,7 @@ But wait, I hear you saying, what if their career goals don't align with the pos
 
 Whoa, whoa, whoa. If that dissonance exists, it exists independent of this meeting. Wouldn't it be great to acknowledge any dissonance before this person is demotivated or worse and starts looking for (or actually takes) another opportunity?
 
-I believe our role as managers is to help each member of our team be the most awesome version of themselves and support them on this journey. Career Conversations are a critical tool that helps get us there. 
+I believe our role as managers is to help each member of our team be the most awesome version of themselves and support them on this journey. Career Conversations are a critical tool that helps get us there.
 
 Career conversations
 -	Career conversations are ongoing discussions that help you identify your direct reports professional goals and the steps needed to achieve them.
@@ -183,11 +187,11 @@ Career conversations
 
 
 **Agenda and topics:**
-- Conduct three converations twice a year 
+- Conduct three converations twice a year
   - Meeting One: Life Story
   - Meeting Two: Dreams
   - Meeting Three: Career Action Plan
-- In subsequent meetings (i.e. 6-9 months later) I focus on the dreams and ensuring we are tracking accurately on our Career Action Plan.  Using the goal reviews meeting is a great way to do this as well. 
+- In subsequent meetings (i.e. 6-9 months later) I focus on the dreams and ensuring we are tracking accurately on our Career Action Plan.  Using the goal reviews meeting is a great way to do this as well.
 
 **Frequency:** Every 6 months
 
