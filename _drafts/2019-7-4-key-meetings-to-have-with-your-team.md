@@ -83,11 +83,11 @@ One-on-ones are the lifeblood of an open, healthy, communicative, safe, and effe
 **Meeting Length**: 30-60 minutes  
 
 **Additional Resources**:
-- Questions for our first 1:1
-- One-on-one Do's and Don'ts
-- Working the weekly 1-1
-- One-on-one resources
-- One-on-one questions
+- [Questions for our first 1:1](https://larahogan.me/blog/first-one-on-one-questions/)
+- One-on-one meeting [Dos](https://ajahne.github.io/blog/leadership/2018/09/29/one-on-one-meeting-dos-and-donts-part1.html) and [Don'ts](https://ajahne.github.io/blog/leadership/2018/10/08/one-on-one-meeting-dos-and-donts-part2.html)
+- [Working the weekly 1:1](http://eleganthack.com/working-the-weekly-11/)
+- [One-on-one resources](https://github.com/ajahne/one-on-ones)
+- [The 8 best questions to ask during a one-on-one meeting](https://knowyourteam.com/blog/2018/01/11/the-8-best-questions-to-ask-during-a-one-on-one-meeting/)
 
 ## Skip Level Meetings
 **Purpose:** To understand better how your managers are performing and to learn more about/further support your team members. _(edit this wording)_
