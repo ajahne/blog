@@ -60,23 +60,24 @@ So yeah...everyone :)
 **Purpose:** To provide support, coaching, and candor that helps your direct report grow, succeed, and excel.
 
 **Brief Overview**  
-One-on-ones (i.e. 1-1s) are the most valuable tool in your management utility belt and the most essential meeting to have with your direct report. They help you stay connected with members of your team, understand what is going well, what's not, what can be improved, and more.
-
-Furthermore, these meetings help you remove roadblocks, coach, mentor, and develop your people - empowering them to become the most bad-ass versions of themselves!  
+One-on-ones (i.e. 1-1s) are the most valuable tool in your management utility belt and the most essential meeting to have with your direct report. These meetings help you remove roadblocks, coach, mentor, and develop your people - empowering them to become the most bad-ass versions of themselves!  
 
 Yeah, these meetings are essential.
 
-One-on-ones help us empathize with and better understand our direct reports. Through one-on-ones we can gain informal feedback and address morale issues, while ensuring better engagement, productivity, and reduced turnover.
+Fundamentally, one-on-ones (as with every meeting outlined) are for the employee, it is _their_ meeting. Listen, ask questions, and be present. Conduct them in private and ensure a safe space.
+
+One-on-ones help us empathize, connect with, and better understand our direct reports - creating an enriched working environment and enhanced sense of belonging. Through one-on-ones we can also gain informal feedback and address morale issues, while ensuring better engagement, productivity, and reduced turnover.
 
 > Conducting effective one-on-ones is the single most important investment you can make in your team.
 
-One-on-ones are the lifeblood of an open, healthy, communicative, safe, and effective working relationship. One-on-ones are for the employee, it is _their_ meeting. Listen, ask questions, and be present. Conduct them in private and ensure a safe space. The other meetings outlined in this article flow out of this one.  If you are having great one-on-ones it will make the other meetings that much more productive.
+One-on-ones are the lifeblood of an open, healthy, and effective working relationship. The other meetings outlined in this article flow out of this one.  If you are having great one-on-ones it will make the other meetings that much more productive!
+
 
 **Agenda and topics**:
   - The agenda is driven by the direct report.
     - Here is a great link to share with your direct reports on [preparing for an effective one-on-one with your manager](https://knowyourteam.com/blog/2018/01/03/7-ways-to-prepare-for-an-effective-one-on-one-meeting-with-your-manager/)
     - As a manager come prepared with questions; take notes, keep promises, and follow up
-  - Topics include: priorities, roadblocks, accomplishments, frustrations, feedback; it is _not_ a status update
+  - Topics include: priorities, roadblocks, accomplishments, frustrations, feedback, and what is "top of mind" for your direct report; it is _not_ a status update
 
 **Frequency**: weekly, bi-weekly (based on [task relevant maturity](https://getlighthouse.com/blog/management-concept/))
 
