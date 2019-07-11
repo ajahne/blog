@@ -24,6 +24,8 @@ header:
 ## Purpose aka why am I writing this
 The purpose of this article is to provide an introduction to - and a set of resources for - key meetings that managers should have with members of their team.
 
+When I first started managing, I had no idea what meetings I was supposed to conduct with my staff.  In part because I was at a smaller organization and we were inventing processes on the fly and also because I did not have a manager who conducted or introduced me to these meetings.  I learned about these meetings through peers in other organizations, network events, mentors, and reading. A
+
 Each meeting breakdown contains important details, including:
 - Meeting Name
 - Purpose
@@ -33,8 +35,6 @@ Each meeting breakdown contains important details, including:
 - Length of meeting
 - Template (if applicable)
 - Additional Resources
-
-Essentially we want to answer the "Who, What, When, Where, Why, and How" of each meeting.  Cool? Cool!
 
 ### What this article is and isn't
 Management cannot be boiled down to a few articles, slogans, and a TLDR.  With that said, this article is an introduction to key meetings we should be having as managers while providing additional resources.  Most of the information within this article is gathered from over 10 years of personal experience as a manager, learning from mentors, conversations with peers, and lots _(lots!)_ of reading.
@@ -71,7 +71,6 @@ One-on-ones help us empathize, connect with, and better understand our direct re
 > Conducting effective one-on-ones is the single most important investment you can make in your team.
 
 One-on-ones are the lifeblood of an open, healthy, and effective working relationship. The other meetings outlined in this article flow out of this one.  If you are having great one-on-ones it will make the other meetings that much more productive!
-
 
 **Agenda and topics**:
   - The agenda is driven by the direct report.
@@ -196,7 +195,6 @@ Whoa, whoa, whoa. If that dissonance exists, it exists independent of this meeti
 
 I believe our role as managers is to help each member of our team be the most awesome version of themselves and support them on this journey. Career Conversations are a critical tool that helps get us there.
 
-
 **Agenda and topics:**
 - Conduct three conversations twice a year
   - Meeting One: Life Story
@@ -217,23 +215,38 @@ I believe our role as managers is to help each member of our team be the most aw
 - [How to have career conversations with your employees](https://medium.com/fellowapp/want-to-be-a-great-manager-have-career-conversations-with-your-team-5e432dcdce86)
 
 ## Performance Reviews
-**Purpose:** Objective: reflect on performance from the last year.
+**Purpose:** To improve your direct report's performance
 
 **Brief Description:**  
+The performance review contains feedback from
+- you (the manager)
+- teammates/peers
+- anyone that reports to them (if they are a manager)
+- self-review
+
+As a manager, you consolidate and summarize the feedback
+
 Advice for managers:
 - give yourself plenty of time to write these reviews.  It will take time to gather feedback, speak to peers, review your notes, and draft the full review
 - keep notes throughout the year. When this person excels or performs below expectations on a task/goal/expectation make note of it.  When you receive feedback on this person from their peers or other managers, make note of it.
-- Have an example for each piece of feedback. Feedback without an example does not resonant and in my opinion should can come across like an opinion versus an objective observation.
+- Have a concrete example for each piece of feedback. Feedback without an example does not resonant and in my opinion should can come across like an opinion versus an objective observation.
+- don’t schedule back to back
+- give yourself enough time to conduct them
+- write it down, potentially separate review from compensation
+- schedule regular checkins (e.g. 1-1s, goal reviews, etc.) to ensure feedback is being addressed
 
 **Agenda and topics:**
-- TBD
+- Walk through the review (follow your company's standard documentation)
+- Discussion around strengths, accomplishments, areas of improvements
 
 **Frequency:** once a year
 
 **Meeting Length:** 60-90 minutes
 
 **Additional Resources:**
-- TBD
+- ["The Manager's Path"](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
+- [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
+- [Radical Candor by Kim Scott](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1427283125)
 
 ## Conclusion
 
