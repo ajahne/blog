@@ -91,38 +91,32 @@ One-on-ones are the lifeblood of an open, healthy, and effective working relatio
 - [The 8 best questions to ask during a one-on-one meeting](https://knowyourteam.com/blog/2018/01/11/the-8-best-questions-to-ask-during-a-one-on-one-meeting/)
 
 ## Skip Level Meetings
-**Purpose:** To help your managers become better bosses, build a rapport with your team members, and get organizational/team feedback to improve the work environment
-
-To help each of your managers become better bosses and make sure people on their team feel comfortable giving feedback directly while building trust and working to improve the work environment.
+**Purpose:** To help your managers become better bosses, build a rapport with your teammates, and get organizational/team feedback to improve the work environment.
 
 **Brief Description:**  
+> Skip Level Meetings are an invaluable tool that helps you keep a pulse on the organization with the ultimate goal to make things better.
+
 When you are a manager of managers it is important to understand:
 - How your managers are performing?
 - How people are doing under your managers?
 - What do people think/feel about the organization?
 - Are there any process/performance issues that are being "managed up", which you do not have insight to?
 
-If you have every asked one of these - or a related question - then welcome to the skip level meeting!
-
-The first cousin to the 1-1 is the skip-level meeting. I find the skip level one-one has a few key goals:
-
-For skip level meetings you meet with the direct reports of your managers. The objectives and structure of this meeting is analogous to the weekly 1-1.  
+If you have every asked one of these - or a related question - then welcome to the skip level meeting! For skip level meetings you meet with the direct reports of your managers with the goal of helping each of your managers become better bosses and make sure people on their team feel comfortable giving feedback directly. In addition you are building trust and working to improve the work environment.
 
 When gathering feedback, there are few key points to highlight
 - Ensure safety and anonymity - team members must be able to speak with minds without fear of retribution
 - Tell your managers you are having them
 - Work with your managers to inform their direct reports you will be conducting these meetings
-- Plan ahead to schedule these meetings If you have a large team you will have to spread these meetings out.  At times I have also done group skip level meetings and brought a team of a manager's direct reports to lunch to chat about the organization and areas in which we can improve.
-
-> Skip Level Meetings are an invaluable tool that helps you keep a pulse on the organization with the ultimate goal to make things better.
 
 **Agenda and topics**:
   - The agenda is driven by the direct report.
     - As a manager come prepared with questions; take notes, keep promises, and follow up
-  - Topics include: priorities, roadblocks, accomplishments, frustrations, feedback, and what is "top of mind" for your direct report; it is _not_ a status update
+  - The primary topic (goal) of this meeting is to obtain feedback about your managers, the organization, and/or team in general.
   - Note: this is not a "witch-hunt" or "gotcha" meeting, the intent is to utilize these meetings to improve the overall organization
 
-**Frequency:**: monthly, quarterly
+**Frequency:** monthly, quarterly
+- _Note: Plan ahead to schedule these meetings_ - If you have a large team you will have to spread these meetings out.  At times I have also conducted group skip level meetings and brought a team of one of my manager's direct reports to lunch to chat about the organization and areas in which we can improve.
 
 **Meeting Length:** 30-60 minutes
 
