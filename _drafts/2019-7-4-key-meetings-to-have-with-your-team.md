@@ -105,15 +105,15 @@ When you are a manager of managers it is important to understand:
 If you have every asked one of these - or a related question - then welcome to the skip level meeting! For skip level meetings you meet with the direct reports of your managers with the goal of helping each of your managers become better bosses and make sure people on their team feel comfortable giving feedback directly. In addition you are building trust and working to improve the work environment.
 
 When gathering feedback, there are few key points to highlight
-- Ensure safety and anonymity - team members must be able to speak with minds without fear of retribution
+- Ensure safety and anonymity - team members must be able to speak their minds without fear of retribution
 - Tell your managers you are having them
 - Work with your managers to inform their direct reports you will be conducting these meetings
 
 **Agenda and topics**:
   - The agenda is driven by the direct report.
     - As a manager come prepared with questions; take notes, keep promises, and follow up
-  - The primary topic (goal) of this meeting is to obtain feedback about your managers, the organization, and/or team in general.
-  - Note: this is not a "witch-hunt" or "gotcha" meeting, the intent is to utilize these meetings to improve the overall organization
+  - The primary topic/goal of this meeting is to obtain feedback about your managers, the organization, and/or team in general.
+  - **Note**: this is not a "witch-hunt" or "gotcha" meeting, the intent is to utilize these meetings to improve the overall organization
 
 **Frequency:** monthly, quarterly
 - _Note: Plan ahead to schedule these meetings_ - If you have a large team you will have to spread these meetings out.  At times I have also conducted group skip level meetings and brought a team of one of my manager's direct reports to lunch to chat about the organization and areas in which we can improve.
@@ -127,19 +127,17 @@ When gathering feedback, there are few key points to highlight
 - [Skip Level meeting questions](https://getlighthouse.com/blog/skip-level-meeting-questions-managers-leadership)
 
 ## Three month catch up
-**Purpose:** To conduct an informal "mini-review" of the employee's first three months at the organization to better understand strengths, areas of improvement, and what this person has liked/disliked over the first few months. A "level-set".
+**Purpose:** To conduct an informal "mini-review" of the employee's first three months at the organization to better understand strengths, areas of improvement, and what this person has liked/disliked over the first few months.
 
 **Brief Description:**  
 For new hires and especially junior engineers starting their first job, I have introduced a "three month catchup". This meeting provides the opportunity to sit down with a new employee in a more focused session. A developer starting their first job may.
 
 When things are going well this meeting helps to promote continued flow. When things are not going well it provides an opportunity to provide constructive feedback in a more formal manner. At times I have utilized meeting as a mini performance review. If you are conducting frequent one-on-ones (as I know you are) then this meetings will be pretty straight forward
 
-1-2 weeks before the meeting, I conduct a quick 10-15 minute overview discussion of the meeting. Where we go over the agenda and topics.
-
-When things are not going well I have used this meeting as a forum to focus on areas of improvements. It is important to address areas where someone is performing below expectation early and directly.
+1-2 weeks before the meeting, I conduct a quick 10-15 minute overview discussion of the meeting, where we go over the agenda and topics. This is an opportunity for your direct report to discuss in more detail than a standard 1-1 how the first three months of their job has been.  
 
 **Agenda and topics:**
-- Understand what this person has enjoyed and not enjoyed working on in the first three months
+- Understand what your direct report has enjoyed and not enjoyed working on in the first three months
 - Discuss strengths and areas of improvement. Start with self reflection, what does this person feel?
 - Outline goals for the next 9-12 months
 - See the [Meeting Template](https://github.com/ajahne/essential-manager-meetings/blob/master/templates/three-month-catch-up.md) for a detailed outline.
@@ -166,7 +164,7 @@ Maybe priorities changed throughout the year (they will) or maybe now a new stra
 **Agenda and topics:**
 - TBD
 
-**Frequency:** monthly (with more junior people or people new to their role), quarterly (with more senior/experienced staff)
+**Frequency:** monthly (with more junior people or people new to their role), quarterly (with more senior/experienced staff); use [task relevant maturity](https://getlighthouse.com/blog/management-concept/) as a guide.
 
 **Meeting Length:** 30-60 minutes (dependent on frequency). If monthly, 30 minutes. If quarterly, allocate more time as necessary.  
 
@@ -177,14 +175,20 @@ Maybe priorities changed throughout the year (they will) or maybe now a new stra
 **Purpose:** To better understand (and support) your direct report's motivations and career aspirations.
 
 **Brief Description:**  
-While performance reviews are backward looking, career development conversations are forward facing.
+Career conversations are ongoing discussions that help you identify your direct reports professional goals and the steps needed to achieve them.
+-	Twice a year
+-	Craft an 18 month plan
+-	Life story (past); Dreams (present); Career Action Plan
 
-Have you ever wondered the following questions (and if not, you should!)
-- what motivates you?
-- what are some career goals you have?
-- what inspired you to enter this field?
+> Performance Reviews are backward looking, Career Development Conversations are forward facing.
 
-Once we understand what motivates our people and what their goals are; we can help them achieve them.
+Have you ever wondered the following questions about your direct report _(and if not, you should!)_?
+- What motivates you?
+- What are some career goals you have?
+- What inspired you to enter this field?
+- What are your dreams?
+
+Once we understand what motivates our people and what their goals are, we can work together to achieve them.
 
 But wait, I hear you saying, what if their career goals don't align with the position or the company's trajectory? Won't asking about these goals create dissonance between this person and the organization?
 
@@ -192,20 +196,14 @@ Whoa, whoa, whoa. If that dissonance exists, it exists independent of this meeti
 
 I believe our role as managers is to help each member of our team be the most awesome version of themselves and support them on this journey. Career Conversations are a critical tool that helps get us there.
 
-Career conversations
--	Career conversations are ongoing discussions that help you identify your direct reports professional goals and the steps needed to achieve them.
--	Twice a year
--	Craft an 18 month plan
--	Life story (past); Dreams (present); Career Action Plan
-
-
 
 **Agenda and topics:**
-- Conduct three converations twice a year
+- Conduct three conversations twice a year
   - Meeting One: Life Story
   - Meeting Two: Dreams
   - Meeting Three: Career Action Plan
-- In subsequent meetings (i.e. 6-9 months later) I focus on the dreams and ensuring we are tracking accurately on our Career Action Plan.  Using the goal reviews meeting is a great way to do this as well.
+- _Note: In subsequent meetings (i.e. 6-9 months later) I focus on the dreams and ensuring we are tracking accurately on our Career Action Plan.  Using the goal reviews meeting is a great way to do this as well._
+- The goal of these meetings is to create an 18 month plan. During 1-1s and goal review meetings we can...you know...review how we are tracking towards are objective.  Only _after_ we have achieved the majority of our goals, do we begin adding more.   
 
 **Frequency:** Every 6 months
 
