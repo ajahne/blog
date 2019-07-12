@@ -11,6 +11,7 @@ header:
 # Outline
 - Purpose aka why am I writing this
 - Who is this for?
+- What this article is (and isn't)
 - Key meetings
   - [One-on-ones](#one-on-ones)
   - [Skip Level meeting](#skip-level-meetings)
@@ -22,9 +23,11 @@ header:
 - Additional Resources
 
 ## Purpose aka why am I writing this
-The purpose of this article is to provide an introduction to - and a set of resources for - key meetings that managers should have with members of their team.
+The purpose of this article is to provide an introduction to - and a set of resources for - key meetings that managers should have with members of their team, particularly those that report to them.
 
-When I first started managing, I had no idea what meetings I was supposed to conduct with my staff.  In part because I was at a smaller organization and we were inventing processes on the fly and also because I did not have a manager who conducted or introduced me to these meetings.  I learned about these meetings through peers in other organizations, network events, mentors, and reading. A
+When I first started managing, I had no idea what meetings I was supposed to conduct with my staff.  In part because I was at a smaller organization and we were inventing processes on the fly and also because I did not have a manager who conducted or introduced me to these meetings.  I learned about these meetings through peers in other organizations, networking, mentors, and reading. A lot of reading!
+
+So I writing this for my past self, first time managers, managers looking to improve, those looking for a refresher. I had not seen these key meetings outline in one place, so I decided to make it!
 
 Each meeting breakdown contains important details, including:
 - Meeting Name
@@ -36,12 +39,7 @@ Each meeting breakdown contains important details, including:
 - Template (if applicable)
 - Additional Resources
 
-### What this article is and isn't
-Management cannot be boiled down to a few articles, slogans, and a TLDR.  With that said, this article is an introduction to key meetings we should be having as managers while providing additional resources.  Most of the information within this article is gathered from over 10 years of personal experience as a manager, learning from mentors, conversations with peers, and lots _(lots!)_ of reading.
-
-So how should you use this article? Read about the meetings, check out the additional resources, and try it out. Experience is the best teacher!
-
-## Who is this for?
+### Who is this for?
 Anyone and everyone who wants to position their team members and teams for success!
 
 Wait? Seriously? Anyone _and_ everyone?
@@ -55,6 +53,12 @@ This is also for makers who are or who may be curious of the meetings they are i
 Lastly, this is for my past self.  These are the meetings I wish I knew about - and I wish I knew how to conduct - when I first became a manager!
 
 So yeah...everyone :)
+
+### What this article is and isn't
+Management cannot be boiled down to a few articles, slogans, and a TLDR.  With that said, this article is an introduction to key meetings we should be having as managers while providing additional resources.  Most of the information within this article is gathered from over 10 years of personal experience as a manager, learning from mentors, conversations with peers, and lots _(lots!)_ of reading.
+
+So how should you use this article? Read about the meetings, check out the additional resources, and try it out. Experience is the best teacher!
+
 
 ## One-on-ones
 **Purpose:** To provide support, coaching, and candor that helps your direct report grow, succeed, and excel.
