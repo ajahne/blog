@@ -34,7 +34,9 @@ Each meeting breakdown contains important details, including:
 - Template (if applicable)
 - Additional Resources
 
-Essentially we want to answer the "Who, What, When, Where, Why, and How" of each meeting.  Cool? Cool!
+> To fight meeting proliferation, I conduct these meetings during the scheduled one-on-one meeting time.
+
+So, for example, when you have a "goal review" meeting or a caree development converation this can (and should) be held during your standard one-on-one time. Another reason why the one-on-one meeting is the foundation.
 
 ### What this article is and isn't
 Management cannot be boiled down to a few articles, slogans, and a TLDR.  With that said, this article is an introduction to key meetings we should be having as managers while providing additional resources.  Most of the information within this article is gathered from over 10 years of personal experience as a manager, learning from mentors, conversations with peers, and lots _(lots!)_ of reading.
@@ -60,6 +62,8 @@ So yeah...everyone :)
 **Purpose:** To provide support, coaching, and candor that helps your direct report grow, succeed, and excel.
 
 **Brief Overview**  
+The reigning, defending, undefeated meeting of the (management) world! The one-on-one. Yeah, the champ is here!  
+
 One-on-ones (i.e. 1-1s) are the most valuable tool in your management utility belt and the most essential meeting to have with your direct report. These meetings help you remove roadblocks, coach, mentor, and develop your people - empowering them to become the most bad-ass versions of themselves!  
 
 Yeah, these meetings are essential.
@@ -71,7 +75,6 @@ One-on-ones help us empathize, connect with, and better understand our direct re
 > Conducting effective one-on-ones is the single most important investment you can make in your team.
 
 One-on-ones are the lifeblood of an open, healthy, and effective working relationship. The other meetings outlined in this article flow out of this one.  If you are having great one-on-ones it will make the other meetings that much more productive!
-
 
 **Agenda and topics**:
   - The agenda is driven by the direct report.
@@ -164,11 +167,14 @@ Maybe priorities changed throughout the year (they will) or maybe now a new stra
 **Purpose:** To better understand (and support) your direct report's motivations and career aspirations.
 
 **Brief Description:**  
+From Radical Candor
+ > Get to know each of your direct reports better, learn what their aspirations are, and plan how to help them achieve those dreams.
+
 While performance reviews are backward looking, career development conversations are forward facing.
 
-Have you ever wondered the following questions (and if not, you should!)
+Have you ever wondered the following about your teammates (and if not, you should!)
 - what motivates you?
-- what are some career goals you have?
+- what career goals do you have?
 - what inspired you to enter this field?
 
 Once we understand what motivates our people and what their goals are; we can help them achieve them.
@@ -179,24 +185,19 @@ Whoa, whoa, whoa. If that dissonance exists, it exists independent of this meeti
 
 I believe our role as managers is to help each member of our team be the most awesome version of themselves and support them on this journey. Career Conversations are a critical tool that helps get us there.
 
-Career conversations
--	Career conversations are ongoing discussions that help you identify your direct reports professional goals and the steps needed to achieve them.
--	Twice a year
--	Craft an 18 month plan
--	Life story (past); Dreams (present); Career Action Plan
-
-
+Career conversations are ongoing discussions that help you identify your direct reports professional goals and the steps needed to achieve them. Life story (past); Dreams (present); Career Action Plan
 
 **Agenda and topics:**
-- Conduct three converations twice a year
-  - Meeting One: Life Story
-  - Meeting Two: Dreams
-  - Meeting Three: Career Action Plan
-- In subsequent meetings (i.e. 6-9 months later) I focus on the dreams and ensuring we are tracking accurately on our Career Action Plan.  Using the goal reviews meeting is a great way to do this as well.
+- Conduct three ~60 minute conversations 2 weeks apart
+  - Meeting One: Life Story - take an hour to get to know your employees
+  - Meeting Two: Dreams - find their lighthouse, bring it into focus
+  - Meeting Three: Career Action Plan - lay out the beacons to the lighthouse
+- Use this [template]((https://github.com/ajahne/essential-manager-meetings/blob/master/templates/career-conversations.md)) as a guide to the three conversations and see the additional resources below for further details
+- Using the goal reviews meeting is a great way to ensure we are tracking accurately on our Career Action Plan.
 
-**Frequency:** Every 6 months
+**Frequency:** 3 conversations, approximately 2 weeks apart from each other
 
-**Meeting Length:** 60-90 minutes
+**Meeting Length:** 60 minutes (a total of about 180 minutes for all three meetings)
 
 **Additional Resources:**
 - [Radical Candor by Kim Scott](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1427283125)
@@ -204,6 +205,7 @@ Career conversations
 - [Three Powerful Conversations Managers Must Have To Develop Their People](https://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people)
 - [The Problem with Career Conversations (and how to improve them!)](https://www.radicalcandor.com/blog/problem-career-conversations)
 - [How to have career conversations with your employees](https://medium.com/fellowapp/want-to-be-a-great-manager-have-career-conversations-with-your-team-5e432dcdce86)
+- [Meeting Template](https://github.com/ajahne/essential-manager-meetings/blob/master/templates/career-conversations.md)
 
 ## Performance Reviews
 **Purpose:** Objective: reflect on performance from the last year.
