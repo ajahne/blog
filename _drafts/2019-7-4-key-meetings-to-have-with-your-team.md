@@ -11,6 +11,7 @@ header:
 # Outline
 - Purpose aka why am I writing this
 - Who is this for?
+- What this article is (and isn't)
 - Key meetings
   - [One-on-ones](#one-on-ones)
   - [Skip Level meeting](#skip-level-meetings)
@@ -22,7 +23,11 @@ header:
 - Additional Resources
 
 ## Purpose aka why am I writing this
-The purpose of this article is to provide an introduction to - and a set of resources for - key meetings that managers should have with members of their team.
+The purpose of this article is to provide an introduction to - and a set of resources for - key meetings that managers should have with members of their team, particularly those that report to them.
+
+When I first started managing, I had no idea what meetings I was supposed to conduct with my staff.  In part because I was at a smaller organization and we were inventing processes on the fly and also because I did not have a manager who conducted or introduced me to these meetings.  I learned about these meetings through peers in other organizations, networking, mentors, and reading. A lot of reading!
+
+So I writing this for my past self, first time managers, managers looking to improve, those looking for a refresher. I had not seen these key meetings outline in one place, so I decided to make it!
 
 Each meeting breakdown contains important details, including:
 - Meeting Name
@@ -57,6 +62,12 @@ This is also for makers who are or who may be curious of the meetings they are i
 Lastly, this is for my past self.  These are the meetings I wish I knew about - and I wish I knew how to conduct - when I first became a manager!
 
 So yeah...everyone :)
+
+### What this article is and isn't
+Management cannot be boiled down to a few articles, slogans, and a TLDR.  With that said, this article is an introduction to key meetings we should be having as managers while providing additional resources.  Most of the information within this article is gathered from over 10 years of personal experience as a manager, learning from mentors, conversations with peers, and lots _(lots!)_ of reading.
+
+So how should you use this article? Read about the meetings, check out the additional resources, and try it out. Experience is the best teacher!
+
 
 ## One-on-ones
 **Purpose:** To provide support, coaching, and candor that helps your direct report grow, succeed, and excel.
@@ -94,42 +105,53 @@ One-on-ones are the lifeblood of an open, healthy, and effective working relatio
 - [The 8 best questions to ask during a one-on-one meeting](https://knowyourteam.com/blog/2018/01/11/the-8-best-questions-to-ask-during-a-one-on-one-meeting/)
 
 ## Skip Level Meetings
-**Purpose:** To understand better how your managers are performing and to learn more about/further support your team members. _(edit this wording)_
+**Purpose:** To help your managers become better bosses, build a rapport with your teammates, and get organizational/team feedback to improve the work environment.
 
 **Brief Description:**  
-The first cousin to the 1-1 is the skip-level meeting. I was first introduced to this concept when reading Camille Fournier's book ["The Manager's Path"](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
+> Skip Level Meetings are an invaluable tool that helps you keep a pulse on the organization with the ultimate goal to make things better.
 
-When you are a manager of managers it is important to understand
-- How your managers are performing
-- How people are doing under your managers
-- Are there any process/performance issues that are being "managed up", which you do not have insight to
+When you are a manager of managers it is important to understand:
+- How your managers are performing?
+- How people are doing under your managers?
+- What do people think/feel about the organization?
+- Are there any process/performance issues that are being "managed up", which you do not have insight to?
 
-For skip level meetings you meet with the direct reports of your managers. The objectives and structure of this meeting is analogous to the weekly 1-1.  
+If you have every asked one of these - or a related question - then welcome to the skip level meeting! For skip level meetings you meet with the direct reports of your managers with the goal of helping each of your managers become better bosses and make sure people on their team feel comfortable giving feedback directly. In addition you are building trust and working to improve the work environment.
 
-**Agenda and topics:**
-- TBD
+When gathering feedback, there are few key points to highlight
+- Ensure safety and anonymity - team members must be able to speak their minds without fear of retribution
+- Tell your managers you are having them
+- Work with your managers to inform their direct reports you will be conducting these meetings
 
-**Frequency:**: monthly, quarterly
+**Agenda and topics**:
+  - The agenda is driven by the direct report.
+    - As a manager come prepared with questions; take notes, keep promises, and follow up
+  - The primary topic/goal of this meeting is to obtain feedback about your managers, the organization, and/or team in general.
+  - **Note**: this is not a "witch-hunt" or "gotcha" meeting, the intent is to utilize these meetings to improve the overall organization
+
+**Frequency:** monthly, quarterly
+- _Note: Plan ahead to schedule these meetings_ - If you have a large team you will have to spread these meetings out.  At times I have also conducted group skip level meetings and brought a team of one of my manager's direct reports to lunch to chat about the organization and areas in which we can improve.
 
 **Meeting Length:** 30-60 minutes
 
 **Additional Resources:**
-- TBD
+- ["The Manager's Path"](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
+- [Radical Candor](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1427283125)
+- [Skip Level one-on-ones](https://getlighthouse.com/blog/skip-level-meetings-one-on-ones)
+- [Skip Level meeting questions](https://getlighthouse.com/blog/skip-level-meeting-questions-managers-leadership)
 
 ## Three month catch up
-**Purpose:** To conduct an informal "mini-review" of the employee's first three months at the organization to better understand strengths, areas of improvement, and what this person has liked/disliked over the first few months. A "level-set".
+**Purpose:** To conduct an informal "mini-review" of the employee's first three months at the organization to better understand strengths, areas of improvement, and what this person has liked/disliked over the first few months.
 
 **Brief Description:**  
 For new hires and especially junior engineers starting their first job, I have introduced a "three month catchup". This meeting provides the opportunity to sit down with a new employee in a more focused session. A developer starting their first job may.
 
 When things are going well this meeting helps to promote continued flow. When things are not going well it provides an opportunity to provide constructive feedback in a more formal manner. At times I have utilized meeting as a mini performance review. If you are conducting frequent one-on-ones (as I know you are) then this meetings will be pretty straight forward
 
-1-2 weeks before the meeting, I conduct a quick 10-15 minute overview discussion of the meeting. Where we go over the agenda and topics.
-
-When things are not going well I have used this meeting as a forum to focus on areas of improvements. It is important to address areas where someone is performing below expectation early and directly.
+1-2 weeks before the meeting, I conduct a quick 10-15 minute overview discussion of the meeting, where we go over the agenda and topics. This is an opportunity for your direct report to discuss in more detail than a standard 1-1 how the first three months of their job has been.  
 
 **Agenda and topics:**
-- Understand what this person has enjoyed and not enjoyed working on in the first three months
+- Understand what your direct report has enjoyed and not enjoyed working on in the first three months
 - Discuss strengths and areas of improvement. Start with self reflection, what does this person feel?
 - Outline goals for the next 9-12 months
 - See the [Meeting Template](https://github.com/ajahne/essential-manager-meetings/blob/master/templates/three-month-catch-up.md) for a detailed outline.
@@ -156,7 +178,7 @@ Maybe priorities changed throughout the year (they will) or maybe now a new stra
 **Agenda and topics:**
 - TBD
 
-**Frequency:** monthly (with more junior people or people new to their role), quarterly (with more senior/experienced staff)
+**Frequency:** monthly (with more junior people or people new to their role), quarterly (with more senior/experienced staff); use [task relevant maturity](https://getlighthouse.com/blog/management-concept/) as a guide.
 
 **Meeting Length:** 30-60 minutes (dependent on frequency). If monthly, 30 minutes. If quarterly, allocate more time as necessary.  
 
@@ -200,23 +222,38 @@ Whoa, whoa, whoa. If that dissonance exists, it exists independent of these meet
 - [Meeting Template](https://github.com/ajahne/essential-manager-meetings/blob/master/templates/career-conversations.md)
 
 ## Performance Reviews
-**Purpose:** Objective: reflect on performance from the last year.
+**Purpose:** To improve your direct report's performance
 
 **Brief Description:**  
+The performance review contains feedback from
+- you (the manager)
+- teammates/peers
+- anyone that reports to them (if they are a manager)
+- self-review
+
+As a manager, you consolidate and summarize the feedback
+
 Advice for managers:
 - give yourself plenty of time to write these reviews.  It will take time to gather feedback, speak to peers, review your notes, and draft the full review
 - keep notes throughout the year. When this person excels or performs below expectations on a task/goal/expectation make note of it.  When you receive feedback on this person from their peers or other managers, make note of it.
-- Have an example for each piece of feedback. Feedback without an example does not resonant and in my opinion should can come across like an opinion versus an objective observation.
+- Have a concrete example for each piece of feedback. Feedback without an example does not resonant and in my opinion should can come across like an opinion versus an objective observation.
+- don’t schedule back to back
+- give yourself enough time to conduct them
+- write it down, potentially separate review from compensation
+- schedule regular checkins (e.g. 1-1s, goal reviews, etc.) to ensure feedback is being addressed
 
 **Agenda and topics:**
-- TBD
+- Walk through the review (follow your company's standard documentation)
+- Discussion around strengths, accomplishments, areas of improvements
 
 **Frequency:** once a year
 
 **Meeting Length:** 60-90 minutes
 
 **Additional Resources:**
-- TBD
+- ["The Manager's Path"](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
+- [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
+- [Radical Candor by Kim Scott](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1427283125)
 
 ## Conclusion
 
