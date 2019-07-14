@@ -16,7 +16,7 @@ header:
   - [Skip Level meeting](#skip-level-meetings)
   - [Three month catch up](#three-month-catch-up)
   - [Goal Reviews](#goal-reviews)
-  - [Career Development Conversation](#career-development-conversations)
+  - [Career Conversation](#career-conversations)
   - [Performance Review](#performance-reviews)
 - Conclusion
 - Additional Resources
@@ -163,29 +163,23 @@ Maybe priorities changed throughout the year (they will) or maybe now a new stra
 **Additional Resources:**
 - TBD
 
-## Career Development Conversations
+## Career Conversations
 **Purpose:** To better understand (and support) your direct report's motivations and career aspirations.
 
-**Brief Description:**  
-From Radical Candor
  > Get to know each of your direct reports better, learn what their aspirations are, and plan how to help them achieve those dreams.
 
-While performance reviews are backward looking, career development conversations are forward facing.
+**Brief Description:**  
+Career conversations are ongoing discussions that help you identify your direct reports professional goals and the steps needed to achieve them. The three conversations involve their life story (past), dreams (present), and developing a career action plan (now and beyond).
 
-Have you ever wondered the following about your teammates (and if not, you should!)
-- what motivates you?
-- what career goals do you have?
-- what inspired you to enter this field?
+Once we understand what motivates our people and what their goals are, we can help them achieve them.
 
-Once we understand what motivates our people and what their goals are; we can help them achieve them.
+> While performance reviews are backward looking, career development conversations are forward facing.
 
 But wait, I hear you saying, what if their career goals don't align with the position or the company's trajectory? Won't asking about these goals create dissonance between this person and the organization?
 
-Whoa, whoa, whoa. If that dissonance exists, it exists independent of this meeting. Wouldn't it be great to acknowledge any dissonance before this person is demotivated or worse and starts looking for (or actually takes) another opportunity?
+Whoa, whoa, whoa. If that dissonance exists, it exists independent of these meetings. Wouldn't it be great to acknowledge any dissonance before this person is demotivated or worse and starts looking for (or actually takes) another opportunity? Would't it be wonderful to better align their role and responsibilities with their motivations and dreams?
 
-I believe our role as managers is to help each member of our team be the most awesome version of themselves and support them on this journey. Career Conversations are a critical tool that helps get us there.
-
-Career conversations are ongoing discussions that help you identify your direct reports professional goals and the steps needed to achieve them. Life story (past); Dreams (present); Career Action Plan
+**I believe our role as managers is to help each member of our team be the most awesome version of themselves and support them on this journey**. Career Conversations are a critical tool that helps get us there.
 
 **Agenda and topics:**
 - Conduct three ~60 minute conversations 2 weeks apart
@@ -193,9 +187,9 @@ Career conversations are ongoing discussions that help you identify your direct 
   - Meeting Two: Dreams - find their lighthouse, bring it into focus
   - Meeting Three: Career Action Plan - lay out the beacons to the lighthouse
 - Use this [template]((https://github.com/ajahne/essential-manager-meetings/blob/master/templates/career-conversations.md)) as a guide to the three conversations and see the additional resources below for further details
-- Using the goal reviews meeting is a great way to ensure we are tracking accurately on our Career Action Plan.
+- _Note: Using the goal reviews meeting is a great way to ensure we are tracking accurately on our Career Action Plan._
 
-**Frequency:** 3 conversations, approximately 2 weeks apart from each other
+**Frequency:** 3 conversations, approximately 2 weeks apart from each other.
 
 **Meeting Length:** 60 minutes (a total of about 180 minutes for all three meetings)
 
