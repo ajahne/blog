@@ -16,7 +16,7 @@ header:
   - [Skip Level meeting](#skip-level-meetings)
   - [Three month catch up](#three-month-catch-up)
   - [Goal Reviews](#goal-reviews)
-  - [Career Conversation](#career-conversations)
+  - [Career Conversations](#career-conversations)
   - [Performance Review](#performance-reviews)
 - Conclusion
 - Additional Resources
@@ -36,7 +36,7 @@ Each meeting breakdown contains important details, including:
 
 > To fight meeting proliferation, I conduct these meetings during the scheduled one-on-one meeting time.
 
-So, for example, when you have a "goal review" meeting or a caree development converation this can (and should) be held during your standard one-on-one time. Another reason why the one-on-one meeting is the foundation.
+So, for example, when you have a "goal review" meeting or a career development conversation this can (and should) be held during your standard one-on-one time. Another reason why the one-on-one meeting is the foundation.
 
 ### What this article is and isn't
 Management cannot be boiled down to a few articles, slogans, and a TLDR.  With that said, this article is an introduction to key meetings we should be having as managers while providing additional resources.  Most of the information within this article is gathered from over 10 years of personal experience as a manager, learning from mentors, conversations with peers, and lots _(lots!)_ of reading.
@@ -164,12 +164,10 @@ Maybe priorities changed throughout the year (they will) or maybe now a new stra
 - TBD
 
 ## Career Conversations
-**Purpose:** To better understand (and support) your direct report's motivations and career aspirations.
-
- > Get to know each of your direct reports better, learn what their aspirations are, and plan how to help them achieve those dreams.
+**Purpose:** To further get to know your direct reports, learn their aspirations, and plan how to help them reach those dreams.
 
 **Brief Description:**  
-Career conversations are ongoing discussions that help you identify your direct reports professional goals and the steps needed to achieve them. The three conversations involve their life story (past), dreams (present), and developing a career action plan (now and beyond).
+Career conversations are ongoing discussions that help you identify your direct reports professional goals and the steps needed to achieve them. The three conversations involve their life story (past), dreams (present), and developing a career action plan (future).
 
 Once we understand what motivates our people and what their goals are, we can help them achieve them.
 
@@ -179,14 +177,14 @@ But wait, I hear you saying, what if their career goals don't align with the pos
 
 Whoa, whoa, whoa. If that dissonance exists, it exists independent of these meetings. Wouldn't it be great to acknowledge any dissonance before this person is demotivated or worse and starts looking for (or actually takes) another opportunity? Would't it be wonderful to better align their role and responsibilities with their motivations and dreams?
 
-**I believe our role as managers is to help each member of our team be the most awesome version of themselves and support them on this journey**. Career Conversations are a critical tool that helps get us there.
+**I believe our role as managers is to help each member of our team be the most awesome version of themselves and support them on this journey**. Career conversations are a critical tool that helps get us there.
 
 **Agenda and topics:**
 - Conduct three ~60 minute conversations 2 weeks apart
   - Meeting One: Life Story - take an hour to get to know your employees
   - Meeting Two: Dreams - find their lighthouse, bring it into focus
-  - Meeting Three: Career Action Plan - lay out the beacons to the lighthouse
-- Use this [template]((https://github.com/ajahne/essential-manager-meetings/blob/master/templates/career-conversations.md)) as a guide to the three conversations and see the additional resources below for further details
+  - Meeting Three: Career Action Plan - lay out the beacons to their lighthouse
+- Use this [template](https://github.com/ajahne/essential-manager-meetings/blob/master/templates/career-conversations.md) as a guide to the three conversations and see the additional resources below for further details
 - _Note: Using the goal reviews meeting is a great way to ensure we are tracking accurately on our Career Action Plan._
 
 **Frequency:** 3 conversations, approximately 2 weeks apart from each other.
@@ -194,9 +192,9 @@ Whoa, whoa, whoa. If that dissonance exists, it exists independent of these meet
 **Meeting Length:** 60 minutes (a total of about 180 minutes for all three meetings)
 
 **Additional Resources:**
+- [Three Powerful Conversations Managers Must Have To Develop Their People](https://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people)
 - [Radical Candor by Kim Scott](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1427283125)
 - Career Conversations from [radicalcandor.com](https://www.radicalcandor.com/blog/category/career-conversations)
-- [Three Powerful Conversations Managers Must Have To Develop Their People](https://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people)
 - [The Problem with Career Conversations (and how to improve them!)](https://www.radicalcandor.com/blog/problem-career-conversations)
 - [How to have career conversations with your employees](https://medium.com/fellowapp/want-to-be-a-great-manager-have-career-conversations-with-your-team-5e432dcdce86)
 - [Meeting Template](https://github.com/ajahne/essential-manager-meetings/blob/master/templates/career-conversations.md)
