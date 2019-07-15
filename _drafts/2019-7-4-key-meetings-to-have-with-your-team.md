@@ -222,31 +222,48 @@ Whoa, whoa, whoa. If that dissonance exists, it exists independent of these meet
 - [Meeting Template](https://github.com/ajahne/essential-manager-meetings/blob/master/templates/career-conversations.md)
 
 ## Performance Reviews
-**Purpose:** To improve your direct report's performance
+**Purpose:** To improve your direct report's performance.
 
 **Brief Description:**  
+The annual performance review is not a replacement for ongoing guidance, coaching, and feedback.
+
+So we are at the last essential meeting...and why did I put it last?  Well, because I believe this meeting, while important, is augmented and supported by the previously outlined meetings.  [Ongoing performance management](https://www.atiim.com/blog/what-is-ongoing-performance-management/) consists of frequent touch-bases (i.e. 1:1s), goal setting and review (e.g. career conversations and goal review)
+
+Some companies like Adobe, GE, and others, got rid of the performance review? So should we follow and just ditch it? Let's look beyond the headline and see that ongoing guidance and feedback at these companies has been
+
 The performance review contains feedback from
 - you (the manager)
 - teammates/peers
 - anyone that reports to them (if they are a manager)
 - self-review
 
+In some companies, performance reviews are a dying breed.
+
+Do not save up all your "feedback" for performance reviews. Practice radical candor (Care Deeply and challenge directly) to ensure you are providing ongoing guidance ()
+
 As a manager, you consolidate and summarize the feedback
 
 Advice for managers:
 - give yourself plenty of time to write these reviews.  It will take time to gather feedback, speak to peers, review your notes, and draft the full review
 - keep notes throughout the year. When this person excels or performs below expectations on a task/goal/expectation make note of it.  When you receive feedback on this person from their peers or other managers, make note of it.
-- Have a concrete example for each piece of feedback. Feedback without an example does not resonant and in my opinion should can come across like an opinion versus an objective observation.
-- don’t schedule back to back
-- give yourself enough time to conduct them
+- Have a concrete example for each piece of feedback. Feedback without an example does not resonant and in my opinion can come across like an opinion versus an objective observation.
+- don’t schedule these meetings back to back. When its perofmance review "season", I typically only schedule one in a day or if in the same day, spaced out by 4-5 hours.
+- give yourself enough time to conduct them, I typically set aside 60 minutes
 - write it down, potentially separate review from compensation
 - schedule regular checkins (e.g. 1-1s, goal reviews, etc.) to ensure feedback is being addressed
+
+Performance reviews are augmented through one-on-ones and goal reviews.
+Leverage one-on-ones before and after
+
+transparency and fairness
+
+Important to have rubric (e.g. career ladder)
 
 **Agenda and topics:**
 - Walk through the review (follow your company's standard documentation)
 - Discussion around strengths, accomplishments, areas of improvements
 
-**Frequency:** once a year
+**Frequency:** cadence is company culture dependent. Annual, semi-annual, or quarterly. A typical range is between once a quarter to once a year (once a year assumes other meetings are occurring regularly);
 
 **Meeting Length:** 60-90 minutes
 
@@ -254,7 +271,10 @@ Advice for managers:
 - ["The Manager's Path"](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 - [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
 - [Radical Candor by Kim Scott](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1427283125)
+- https://firstround.com/review/one-rubric-changed-boxs-engineering-performance-heres-how/
+- https://www.themuse.com/advice/a-firsttime-managers-guide-to-performance-reviews
 
 ## Conclusion
+Iterate on the meetings. Get feedback on the process, the meeting. These are living systems and should evolve with your organization and culture.
 
 ## Additional Resources
