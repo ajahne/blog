@@ -23,11 +23,11 @@ header:
 - Additional Resources
 
 ## Purpose aka why am I writing this
-The purpose of this article is to provide an introduction to - and a set of resources for - key meetings that managers should have with members of their team, particularly those that report to them.
+The purpose of this article is to provide an introduction to - and a set of resources for - key meetings that managers should have with members of their team - particularly those that report to them - to provide guidance, coaching, and support that helps them grow.
 
 When I first started managing, I had no idea what meetings I was supposed to conduct with my staff.  In part because I was at a smaller organization and we were inventing processes on the fly and also because I did not have a manager who conducted or introduced me to these meetings.  I learned about these meetings through peers in other organizations, networking, mentors, and reading. A lot of reading!
 
-So I writing this for my past self, first time managers, managers looking to improve, those looking for a refresher. I had not seen these key meetings outline in one place, so I decided to make it!
+So I'm writing this for my past self, first time managers, managers looking to improve, those looking for a refresher. I had not seen these key meetings outline in one place, so I decided to make it!
 
 Each meeting breakdown contains important details, including:
 - Meeting Name
@@ -44,7 +44,7 @@ Each meeting breakdown contains important details, including:
 So, for example, when you have a "goal review" meeting or a career development conversation this can (and should) be held during your standard one-on-one time. Another reason why the one-on-one meeting is the foundation.
 
 ### What this article is and isn't
-Management cannot be boiled down to a few articles, slogans, and a TLDR.  With that said, this article is an introduction to key meetings we should be having as managers while providing additional resources.  Most of the information within this article is gathered from over 10 years of personal experience as a manager, learning from mentors, conversations with peers, and lots _(lots!)_ of reading.
+Management cannot be boiled down to a few articles, slogans, and a TLDR.  With that said, this article is an introduction to key meetings we should be having as managers while providing additional resources.  Most of the information within this article is gathered from personal experience as a manager, learning from mentors, conversations with peers, and lots _(lots!)_ of reading.
 
 So how should you use this article? Read about the meetings, check out the additional resources, and try it out. Experience is the best teacher!
 
@@ -67,7 +67,6 @@ So yeah...everyone :)
 Management cannot be boiled down to a few articles, slogans, and a TLDR.  With that said, this article is an introduction to key meetings we should be having as managers while providing additional resources.  Most of the information within this article is gathered from over 10 years of personal experience as a manager, learning from mentors, conversations with peers, and lots _(lots!)_ of reading.
 
 So how should you use this article? Read about the meetings, check out the additional resources, and try it out. Experience is the best teacher!
-
 
 ## One-on-ones
 **Purpose:** To provide support, coaching, and candor that helps your direct report grow, succeed, and excel.
@@ -225,17 +224,13 @@ Whoa, whoa, whoa. If that dissonance exists, it exists independent of these meet
 **Purpose:** To improve your direct report's performance.
 
 **Brief Description:**  
-The annual performance review is not a replacement for ongoing guidance, coaching, and feedback.
+So we are at the last essential meeting...and why did I put it last?  Because it comes at the end of the year? Nah. Because I believe this meeting, while important, is augmented, supported by, and builds upon the previously outlined meetings.  [Ongoing performance management](https://www.atiim.com/blog/what-is-ongoing-performance-management/) consists of frequent touch-bases (e.g. 1:1s), goal setting and review (e.g. career conversations and goal review)
 
-So we are at the last essential meeting...and why did I put it last?  Well, because I believe this meeting, while important, is augmented, supported by, and builds upon the previously outlined meetings.  [Ongoing performance management](https://www.atiim.com/blog/what-is-ongoing-performance-management/) consists of frequent touch-bases (i.e. 1:1s), goal setting and review (e.g. career conversations and goal review)
+In some companies, performance reviews are a dying breed. Some companies like Adobe, GE, and others, got rid of the performance review, so should we follow and just ditch it? From my standpoint, no.  Performance reviews are critical.
 
-In some companies, performance reviews are a dying breed.
+I do not dismiss performance reviews out of hand. I have received performance reviews with feedback that has helped me grow significantly as a manager and leader. I have also given reviews that have helped people grow tremendously. I have also failed at them as well.
 
-A quick note, some companies like Adobe, GE, and others, got rid of the performance review, so should we follow and just ditch it? From my standpoint, no.  performance reviews are critical. Let's look beyond the headline and see that ongoing guidance and feedback at these companies has been reaplced by one-on-ones, OKRs, goal discussions, and the like. As an aside...were these companies _not_ doing one-on-ones? I digress.
-
-I do not dismiss performance reviews out of hand.  I have received performance reviews with feedback that has helped me grow significantly as a manager and leader. I have also given reviews that have helped people grow tremendously. I have also failed at them as well.
-
-Here is some advice / Advice for managers:
+With that in mind, here is some advice for conducting reviews:
 - give yourself plenty of time to write these reviews.  It will take time to gather feedback, speak to peers, review your notes, and draft the full review
 - keep notes throughout the year. When this person excels or performs below expectations on a task/goal/expectation make note of it.  When you receive feedback on this person from their peers or other managers, make note of it.
 - Have a concrete example for each piece of feedback. Feedback without an example does not resonant and in my opinion can come across like an opinion versus an objective observation.
@@ -244,30 +239,26 @@ Here is some advice / Advice for managers:
 - write it down, potentially separate review from compensation
 - schedule regular checkins (e.g. 1-1s, goal reviews, etc.) to ensure feedback is being addressed
 
-The performance review contains feedback from
-- you (the manager)
-- teammates/peers
-- anyone that reports to them (if they are a manager)
-- self-review
-
-As a manager, you consolidate and summarize the feedback
-
 Do not save up all your "feedback" for performance reviews. Practice [radical candor](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1427283125) (care deeply and challenge directly) to ensure you are providing ongoing guidance and support.
-
-Performance reviews are augmented through one-on-ones and goal reviews. Leverage one-on-ones before and after the meeting to help your people improve!
 
 Lastly, I find it is important to have rubric (e.g. career ladder) to support the growth of your people. This rubric ties directly into performance reviews and I have seen it used as parameter in the function of promotion and raises.
 
 **Agenda and topics:**
+- The performance review contains feedback from
+  - you (the manager)
+  - teammates/peers
+  - anyone that reports to them (if they are a manager)
+  - self-review
+  - As a manager, you consolidate and summarize the feedback
 - Walk through the review (follow your company's standard documentation)
-- Discussion around strengths, accomplishments, areas of improvements, goals
+- Have a discussion around strengths, accomplishments, areas of improvements, goals
 - An example set of questions may be
   - What areas of largest impact did you have on your projects, your team or the organization?
   - What are your key strengths?
   - What could you improve?
   - With Quick Self Assessment Rating: Unsatisfactory, Needs Improvement, Meets Expectations, Exceeds Expectations, Truly Exceptional
 
-**Frequency:** Annual, semi-annual, or quarterly. Cadence is dependent on company culture. For reference, at my current company, we conduct performance annually.
+**Frequency:** Annual, semi-annual, or quarterly. Cadence is dependent on company culture. For reference, at my current company, we conduct performance reviews annually.
 
 **Meeting Length:** 60-90 minutes
 
@@ -279,6 +270,7 @@ Lastly, I find it is important to have rubric (e.g. career ladder) to support th
 - https://www.themuse.com/advice/a-firsttime-managers-guide-to-performance-reviews
 - https://blog.gitprime.com/designing-performance-management-systems/
 - https://firstround.com/review/altschools-ceo-rebuilt-googles-performance-review-system-to-work-for-startups-here-it-is/
+- https://www.themuse.com/advice/9-things-you-should-tell-your-boss-at-your-next-performance-review
 
 ## Conclusion
 Still there?  Shout out to you!  You deserve a reward.  
@@ -290,7 +282,7 @@ You got this!
 Iterate on the meetings. Get feedback on the process, the meeting. These are living systems and should evolve with your organization and culture.
 
 
-P.S. If I missed anything, holla at me (literally if you need to). I appreciate and welcome your thoguhts.  I will be keeping this updated as a github readme. Let's build.
+P.S. If I missed anything, holla at me (literally if you need to). I appreciate and welcome your thoughts.  I will be keeping this updated as a github readme. Let's build.
 
 
 ## Additional Resources
