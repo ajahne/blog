@@ -119,7 +119,7 @@ When gathering feedback, there are few key points to highlight:
 **Overview:**  
 For new hires and especially junior engineers starting their first job, I have introduced a "three month catchup". This meeting provides the opportunity to sit down with a new employee in a more focused session.
 
-When things are going well this meeting helps to promote continued flow. When things are not going well it is an opportunity to provide constructive feedback in a more formal manner. At times I have utilized meeting as a "mini performance review". If you are conducting frequent one-on-ones (as I know you are!) then this meetings will be pretty straight forward with no surprises. However, I find it important to carve out time specifically for the employee to voice their thoughts on the new job/role in a more concentrated way.
+When things are going well this meeting helps to promote continued flow. When things are not going well it is an opportunity to provide constructive feedback in a more formal manner. At times I have utilized this meeting as a "mini performance review". If you are conducting frequent one-on-ones (as I know you are!) then this meetings will be pretty straight forward with no surprises. However, I find it important to carve out time specifically for the employee to voice their thoughts on the new job/role in a more concentrated way.
 
 One to two weeks before the meeting, I conduct a quick 10-15 minute overview discussion of the meeting, where we go over the agenda and topics. This is an opportunity for your direct report to discuss in more detail than a standard 1-1 how the first three months of their job have been.  
 
