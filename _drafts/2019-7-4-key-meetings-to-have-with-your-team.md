@@ -121,12 +121,12 @@ For new hires and especially junior engineers starting their first job, I have i
 
 When things are going well this meeting helps to promote continued flow. When things are not going well it is an opportunity to provide constructive feedback in a more formal manner. At times I have utilized meeting as a "mini performance review". If you are conducting frequent one-on-ones (as I know you are!) then this meetings will be pretty straight forward with no surprises. However, I find it important to carve out time specifically for the employee to voice their thoughts on the new job/role in a more concentrated way.
 
-One to two weeks before the meeting, I conduct a quick 10-15 minute overview discussion of the meeting, where we go over the agenda and topics. This is an opportunity for your direct report to discuss in more detail than a standard 1-1 how the first three months of their job has been.  
+One to two weeks before the meeting, I conduct a quick 10-15 minute overview discussion of the meeting, where we go over the agenda and topics. This is an opportunity for your direct report to discuss in more detail than a standard 1-1 how the first three months of their job have been.  
 
 **Agenda and topics:**
 - Understand what your direct report has enjoyed and not enjoyed working on in the first three months
 - Discuss strengths and areas of improvement. Start with self reflection, what does this person feel?
-- See the [Meeting Template](https://github.com/ajahne/essential-manager-meetings/blob/master/templates/three-month-catch-up.md) for a detailed outline.
+- See the [meeting template](https://github.com/ajahne/essential-manager-meetings/blob/master/templates/three-month-catch-up.md) for a detailed outline.
 
 **Frequency:** 1 time. Three months after start date with new hire
 
@@ -147,14 +147,14 @@ Has there ever been a disconnect between the goals you laid out and what the per
 
 Maybe priorities changed throughout the year (they will) or maybe now a new strategic initiative needs to be added to the roadmap (it will). Things that seemed so important in January may have turned irrelevant in June. How do you ensure alignment between the company vision and team goals with this person's personal aspirations and motivations?
 
-I have found the way to do this is to dedicate time specifically to review the agreed upon objectives, discuss the career action plan, and ensure we are properly tracking towards the goals.
+I have found the best way to do this is to dedicate time specifically to review the agreed upon objectives, discuss the career action plan, and ensure we are properly tracking towards the goals.
 
 **Agenda and topics:**
 - Review the current set of goals, have them self-review as well. How are they progressing toward their goals?
 - Recalibrate the career action plan as needed
   - Note: this is **not** about adding goals, but about ensuring we are supporting our people to reach their goals and dreams
   - Are the goals (S)pecific, (M)easurable, (A)ssignable, (R)elevant, (T)ime specific?
-- Update the action plan as needed to ensure they are reaching their goal. Some examples may include:
+- Update the action plan as needed to ensure they are reaching their goals. Some examples may include:
   - Do they need to spend more time coding? Remove unnecessary meetings.
   - Are their technical skills not growing as expected? Ensure code review! Share books, links, harder projects.
   - Is there too much on their plate? Remove roadblocks, help them with time management.
@@ -218,28 +218,28 @@ In some companies, performance reviews are a dying breed. Some companies like Ad
 I do not dismiss performance reviews out of hand. I have received performance reviews with feedback that has helped me grow significantly as a manager and leader. I have also given reviews that have helped people grow tremendously. I have also failed at them as well.
 
 With that in mind, here is some advice for conducting productive performance reviews:
-- Give yourself plenty of time to write these reviews.  It will take time to gather feedback, speak to peers, review your notes, and draft the full review
+- Give yourself plenty of time to write these reviews.  It will take time to gather feedback, speak to peers, review your notes, and draft the full review.
 - Keep notes throughout the year. When this person excels or performs below expectations on a task/goal/expectation make note of it.  When you receive feedback on this person from their peers or other managers, make note of it.
-- Have a concrete example for each piece of feedback. Feedback without an example does not resonant and in my opinion can come across like an opinion versus an objective observation.
+- Have a concrete example for each piece of feedback. Feedback without an example does not resonate and from my experience can come across like an opinion versus an objective observation.
 - Don’t schedule these meetings back to back. When its performance review "season", I typically only schedule one in a day or if in the same day, spaced out by 4-5 hours.
-- Give yourself enough time to conduct them, I typically set aside 60 minutes
-- Write it down, potentially separate review from compensation
-- Schedule regular checkins (e.g. 1-1s, goal reviews, etc.) to ensure feedback is being addressed
+- Give yourself enough time to conduct them, I typically set aside 60 minutes.
+- Write it down, potentially separate review from compensation.
+- Schedule regular checkins (e.g. 1-1s, goal reviews, etc.) to ensure feedback is being addressed.
 
 Do not save up all your "feedback" for performance reviews. Practice [radical candor](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1427283125) (care deeply and challenge directly) to ensure you are providing ongoing guidance and support.
 
 Lastly, I find it is important to have [a rubric](https://firstround.com/review/one-rubric-changed-boxs-engineering-performance-heres-how/) (e.g. career ladder) to support the growth of your people. This rubric ties directly into performance reviews and I have seen it used as parameter in the function of promotions and raises.
 
 **Agenda and topics:**
-- The performance review contains feedback from
-  - you (the manager)
-  - teammates/peers
-  - anyone that reports to them (if they are a manager)
-  - self-review
+- The performance review contains feedback from:
+  - You (the manager)
+  - Teammates/peers
+  - Anyone that reports to them (if they are a manager)
+  - Self-review
   - As a manager, you consolidate and summarize the feedback
 - Walk through the review (follow your company's standard documentation)
 - Have a discussion around strengths, accomplishments, areas of improvements, goals
-- An example set of questions may be
+- An example set of questions may be:
   - What areas of largest impact did you have on your projects, your team or the organization?
   - What are your key strengths?
   - What could you improve?
@@ -252,7 +252,7 @@ Lastly, I find it is important to have [a rubric](https://firstround.com/review/
 **Additional Resources:**
 - [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
 - [A first time manager's guide to performance reviews](https://www.themuse.com/advice/a-firsttime-managers-guide-to-performance-reviews)
-- [On Desenging performance management systems](https://blog.gitprime.com/designing-performance-management-systems/)
+- [On designing performance management systems](https://blog.gitprime.com/designing-performance-management-systems/)
 - [Google's performance review system rebuilt for startups](https://firstround.com/review/altschools-ceo-rebuilt-googles-performance-review-system-to-work-for-startups-here-it-is/)
 - [9 things you should tell your boss are your next performance review](https://www.themuse.com/advice/9-things-you-should-tell-your-boss-at-your-next-performance-review)
 - ["The Manager's Path"](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
