@@ -7,72 +7,49 @@ tags: meetings, 1-1, one-on-one, skip-level, performance review, career, managem
 header:
   image: assets/images/adult-communication-diversity-1181719.jpg
 ---
+When I first started managing, I had no idea what meetings I was supposed to conduct with my staff to help them grow.  In part because I was at a smaller organization and we were inventing processes on the fly and also because I did not have a manager who conducted or introduced me to these meetings.  I learned about these meetings through personal experience (e.g. trial and error), peers in other organizations, networking, mentors, and reading. A lot of reading!
 
-# Outline
-- Purpose aka why am I writing this
-- Who is this for?
-- What this article is (and isn't)
-- Key meetings
-  - [One-on-ones](#one-on-ones)
-  - [Skip Level meeting](#skip-level-meetings)
-  - [Three month catch up](#three-month-catch-up)
-  - [Goal Reviews](#goal-reviews)
-  - [Career Conversations](#career-conversations)
-  - [Performance Review](#performance-reviews)
-- Conclusion
-- Additional Resources
+I found myself asking, meeting should I have? how do I learn about my staff? How do I give feedback?
 
-## Purpose aka why am I writing this
-The purpose of this article is to provide an introduction to - and a set of resources for - key meetings that managers should have with members of their team - particularly those that report to them - to provide guidance, coaching, and support that helps them grow.
+> I've written this article to provide an introduction to - and a set of resources for - key meetings that managers should have with members of their team - particularly those that report to them - to provide guidance, feedback, coaching, and support that helps them grow.
 
-When I first started managing, I had no idea what meetings I was supposed to conduct with my staff.  In part because I was at a smaller organization and we were inventing processes on the fly and also because I did not have a manager who conducted or introduced me to these meetings.  I learned about these meetings through peers in other organizations, networking, mentors, and reading. A lot of reading!
-
-So I'm writing this for my past self, first time managers, managers looking to improve, those looking for a refresher. I had not seen these key meetings outline in one place, so I decided to make it!
-
-Each meeting breakdown contains important details, including:
-- Meeting Name
-- Purpose
-- Agenda and topics
-- Attendees
-- Frequency
-- Length of meeting
-- Template (if applicable)
-- Additional Resources
-
-> To fight meeting proliferation, I conduct these meetings during the scheduled one-on-one meeting time.
-
-So, for example, when you have a "goal review" meeting or a career development conversation this can (and should) be held during your standard one-on-one time. Another reason why the one-on-one meeting is the foundation.
-
-### What this article is and isn't
-Management cannot be boiled down to a few articles, slogans, and a TLDR.  With that said, this article is an introduction to key meetings we should be having as managers while providing additional resources.  Most of the information within this article is gathered from personal experience as a manager, learning from mentors, conversations with peers, and lots _(lots!)_ of reading.
-
-So how should you use this article? Read about the meetings, check out the additional resources, and try it out. Experience is the best teacher!
-
-## Who is this for?
+### Who is this article for?
 Anyone and everyone who wants to position their team members and teams for success!
 
 Wait? Seriously? Anyone _and_ everyone?
 
 Yup!
 
-This is for Managers who are looking for ways to connect further with their staff.  For first time managers learning the ropes. This is also for experienced managers who are looking for a refresher, a set of resources, or a guide that will help them train new managers.
+This is for managers who are looking for ways to connect further with their staff.  For first time managers learning the ropes. This is also for experienced managers who are looking for a refresher, a set of resources, or a guide that will help them train new managers.
 
-This is also for makers who are or who may be curious of the meetings they are in. This is also for the makers who are holding their managers accountable and/or a guide for makers to know what to expect from a good manager!
+This is for makers who are or who may be curious of the meetings they are in. This is also for the makers who are holding their managers accountable and/or a guide for makers to know what to expect from a good manager!
 
 Lastly, this is for my past self.  These are the meetings I wish I knew about - and I wish I knew how to conduct - when I first became a manager!
 
 So yeah...everyone :)
 
 ### What this article is and isn't
-Management cannot be boiled down to a few articles, slogans, and a TLDR.  With that said, this article is an introduction to key meetings we should be having as managers while providing additional resources.  Most of the information within this article is gathered from over 10 years of personal experience as a manager, learning from mentors, conversations with peers, and lots _(lots!)_ of reading.
+Management cannot be boiled down to a few articles, slogans, and a TLDR.  With that said, this article is an introduction to key meetings we should be having as managers while providing additional resources to help you learn more.   
 
-So how should you use this article? Read about the meetings, check out the additional resources, and try it out. Experience is the best teacher!
+**So how should you use this article?** Read about the meetings, check out the additional resources, and try it out. [Experience is the best teacher](https://youtu.be/Ucvta7xDo_4?t=88)!
+
+## The Key Meetings
+  - [One-on-ones](#one-on-ones)
+  - [Skip Level meeting](#skip-level-meetings)
+  - [Three month catch up*](#three-month-catch-up)
+  - [Goal Reviews](#goal-reviews)
+  - [Career Conversations](#career-conversations)
+  - [Performance Review](#performance-reviews)
+
+> To fight meeting proliferation, I conduct these meetings during the scheduled one-on-one meeting time.
+
+So, for example, when you have a "goal review" meeting or a "career development conversation" this can (and should) be held during your standard one-on-one time. Another reason why the one-on-one meeting is the foundation.
 
 ## One-on-ones
 **Purpose:** To provide support, coaching, and candor that helps your direct report grow, succeed, and excel.
 
 **Brief Overview**  
-The reigning, defending, undefeated meeting of the (management) world! The one-on-one. Yeah, the champ is here!  
+The reigning, defending, undefeated meeting of the (management) world! The one-on-one. Yeah, [the champ is here](https://www.youtube.com/watch?v=4Nz3DL6EXtQ)!  
 
 One-on-ones (i.e. 1-1s) are the most valuable tool in your management utility belt and the most essential meeting to have with your direct report. These meetings help you remove roadblocks, coach, mentor, and develop your people - empowering them to become the most bad-ass versions of themselves!  
 
@@ -113,9 +90,9 @@ When you are a manager of managers it is important to understand:
 - How your managers are performing?
 - How people are doing under your managers?
 - What do people think/feel about the organization?
-- Are there any process/performance issues that are being "managed up", which you do not have insight to?
+- Are there any process/performance issues that are being "managed up", which you do not have insight into?
 
-If you have every asked one of these - or a related question - then welcome to the skip level meeting! For skip level meetings you meet with the direct reports of your managers with the goal of helping each of your managers become better bosses and make sure people on their team feel comfortable giving feedback directly. In addition you are building trust and working to improve the work environment.
+If you have every asked one of these - or related - questions, then welcome to the skip level meeting! **For skip level meetings you meet with the direct reports of your managers with the goal of helping each of your managers become better bosses** and make sure people on their team feel comfortable giving feedback directly. In addition, you are building trust and working to improve the work environment.
 
 When gathering feedback, there are few key points to highlight
 - Ensure safety and anonymity - team members must be able to speak their minds without fear of retribution
@@ -143,11 +120,11 @@ When gathering feedback, there are few key points to highlight
 **Purpose:** To conduct an informal "mini-review" of the employee's first three months at the organization to better understand strengths, areas of improvement, and what this person has liked/disliked over the first few months.
 
 **Brief Description:**  
-For new hires and especially junior engineers starting their first job, I have introduced a "three month catchup". This meeting provides the opportunity to sit down with a new employee in a more focused session. A developer starting their first job may.
+For new hires and especially junior engineers starting their first job, I have introduced a "three month catchup". This meeting provides the opportunity to sit down with a new employee in a more focused session.
 
-When things are going well this meeting helps to promote continued flow. When things are not going well it provides an opportunity to provide constructive feedback in a more formal manner. At times I have utilized meeting as a mini performance review. If you are conducting frequent one-on-ones (as I know you are) then this meetings will be pretty straight forward
+When things are going well this meeting helps to promote continued flow. When things are not going well it provides an opportunity to provide constructive feedback in a more formal manner. At times I have utilized meeting as a "mini performance review". If you are conducting frequent one-on-ones (as I know you are!) then this meetings will be pretty straight forward with no surprises. However, I find it important to carve out time specifically for the employee to voice their thoughts on the new job/role in a more concentrated way.
 
-1-2 weeks before the meeting, I conduct a quick 10-15 minute overview discussion of the meeting, where we go over the agenda and topics. This is an opportunity for your direct report to discuss in more detail than a standard 1-1 how the first three months of their job has been.  
+One to two weeks before the meeting, I conduct a quick 10-15 minute overview discussion of the meeting, where we go over the agenda and topics. This is an opportunity for your direct report to discuss in more detail than a standard 1-1 how the first three months of their job has been.  
 
 **Agenda and topics:**
 - Understand what your direct report has enjoyed and not enjoyed working on in the first three months
@@ -168,21 +145,35 @@ When things are going well this meeting helps to promote continued flow. When th
 **Brief Description:**  
 Having a performance review is only one component of meeting goals.
 
-Have you ever had a conducted a performance review where you set up shiny new goals for the upcoming year only to never review them again until the next performance review?
+Have you ever had a conducted a performance review where you set up shiny new goals for the upcoming year only to never review them again until the next performance review? What about the career conversions where you outlined that amazing 18 month plan?
 
 Has there ever been a disconnect between the goals you laid out and what the person actually worked on?
 
-Maybe priorities changed throughout the year (they will) or maybe now a new strategic initiative needs to be added to the roadmap (it will). Things that seemed so important in January may have turned irrelevant in June. How do you ensure alignment between the company vision, team goals with this person's personal goals and motivations?
+Maybe priorities changed throughout the year (they will) or maybe now a new strategic initiative needs to be added to the roadmap (it will). Things that seemed so important in January may have turned irrelevant in June. How do you ensure alignment between the company vision and team goals with this person's personal aspirations and motivations?
+
+I have found the way to do this is to dedicate time specifically to review the goals, to discuss the career action plan, and ensure we are
 
 **Agenda and topics:**
-- TBD
+- Review the current set of goals, have them self-review as well. How are they progressing toward their goals?
+- Recalibrate the career action plan as needed
+  - Note: this is _not_ about adding goals, but about ensuring we are supporting our people to reach their goals and dreams
+  - Are the goals (S)pecific, (M)easurable, (A)ssignable, (R)elevant, (T)ime specific?
+- Update the action plan as needed to ensure they are reaching their goal. Some examples may include:
+  - Do they need to spend more time coding? Remove unnecessary meetings.
+  - Are their technical skills not growing as expected? Ensure code review! Share books, links, harder projects
+  - Is there too much on their plate? Help them with time management.
+  - Have they not had a chance to lead a project as expected? Be sure to carve one out, delegate one of yours!
+  - Have they not had an opportunity to build their network? Find some meetups to share with them, introduce them to additional mentors  
+  - What are they doing to help themselves improve and grow?
 
 **Frequency:** monthly (with more junior people or people new to their role), quarterly (with more senior/experienced staff); use [task relevant maturity](https://getlighthouse.com/blog/management-concept/) as a guide.
 
 **Meeting Length:** 30-60 minutes (dependent on frequency). If monthly, 30 minutes. If quarterly, allocate more time as necessary.  
 
 **Additional Resources:**
-- TBD
+- [Making Sure Your Employees Succeed](https://hbr.org/2011/02/making-sure-your-employees-suc)
+- [7-tips-for-effective-employee-goal-setting](https://www.paychex.com/articles/human-resources/7-tips-for-effective-employee-goal-setting)
+- [SMART goals](https://blog.impraise.com/360-feedback/smart-goals-in-the-workplace-what-how-and-why-performance-review)
 
 ## Career Conversations
 **Purpose:** To further get to know your direct reports, learn their aspirations, and plan how to help them reach those dreams.
@@ -286,3 +277,4 @@ P.S. If I missed anything, holla at me (literally if you need to). I appreciate 
 
 
 ## Additional Resources
+- https://www.forbes.com/sites/forbescoachescouncil/2017/09/06/three-conversations-every-manager-should-be-having-with-their-employees/#7a13315279b4
