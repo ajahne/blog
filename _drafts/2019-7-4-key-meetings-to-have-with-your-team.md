@@ -227,9 +227,22 @@ Whoa, whoa, whoa. If that dissonance exists, it exists independent of these meet
 **Brief Description:**  
 The annual performance review is not a replacement for ongoing guidance, coaching, and feedback.
 
-So we are at the last essential meeting...and why did I put it last?  Well, because I believe this meeting, while important, is augmented and supported by the previously outlined meetings.  [Ongoing performance management](https://www.atiim.com/blog/what-is-ongoing-performance-management/) consists of frequent touch-bases (i.e. 1:1s), goal setting and review (e.g. career conversations and goal review)
+So we are at the last essential meeting...and why did I put it last?  Well, because I believe this meeting, while important, is augmented, supported by, and builds upon the previously outlined meetings.  [Ongoing performance management](https://www.atiim.com/blog/what-is-ongoing-performance-management/) consists of frequent touch-bases (i.e. 1:1s), goal setting and review (e.g. career conversations and goal review)
 
-Some companies like Adobe, GE, and others, got rid of the performance review? So should we follow and just ditch it? Let's look beyond the headline and see that ongoing guidance and feedback at these companies has been
+In some companies, performance reviews are a dying breed.
+
+A quick note, some companies like Adobe, GE, and others, got rid of the performance review, so should we follow and just ditch it? From my standpoint, no.  performance reviews are critical. Let's look beyond the headline and see that ongoing guidance and feedback at these companies has been reaplced by one-on-ones, OKRs, goal discussions, and the like. As an aside...were these companies _not_ doing one-on-ones? I digress.
+
+I do not dismiss performance reviews out of hand.  I have received performance reviews with feedback that has helped me grow significantly as a manager and leader. I have also given reviews that have helped people grow tremendously. I have also failed at them as well.
+
+Here is some advice / Advice for managers:
+- give yourself plenty of time to write these reviews.  It will take time to gather feedback, speak to peers, review your notes, and draft the full review
+- keep notes throughout the year. When this person excels or performs below expectations on a task/goal/expectation make note of it.  When you receive feedback on this person from their peers or other managers, make note of it.
+- Have a concrete example for each piece of feedback. Feedback without an example does not resonant and in my opinion can come across like an opinion versus an objective observation.
+- don’t schedule these meetings back to back. When its performance review "season", I typically only schedule one in a day or if in the same day, spaced out by 4-5 hours.
+- give yourself enough time to conduct them, I typically set aside 60 minutes
+- write it down, potentially separate review from compensation
+- schedule regular checkins (e.g. 1-1s, goal reviews, etc.) to ensure feedback is being addressed
 
 The performance review contains feedback from
 - you (the manager)
@@ -237,33 +250,24 @@ The performance review contains feedback from
 - anyone that reports to them (if they are a manager)
 - self-review
 
-In some companies, performance reviews are a dying breed.
-
-Do not save up all your "feedback" for performance reviews. Practice radical candor (Care Deeply and challenge directly) to ensure you are providing ongoing guidance ()
-
 As a manager, you consolidate and summarize the feedback
 
-Advice for managers:
-- give yourself plenty of time to write these reviews.  It will take time to gather feedback, speak to peers, review your notes, and draft the full review
-- keep notes throughout the year. When this person excels or performs below expectations on a task/goal/expectation make note of it.  When you receive feedback on this person from their peers or other managers, make note of it.
-- Have a concrete example for each piece of feedback. Feedback without an example does not resonant and in my opinion can come across like an opinion versus an objective observation.
-- don’t schedule these meetings back to back. When its perofmance review "season", I typically only schedule one in a day or if in the same day, spaced out by 4-5 hours.
-- give yourself enough time to conduct them, I typically set aside 60 minutes
-- write it down, potentially separate review from compensation
-- schedule regular checkins (e.g. 1-1s, goal reviews, etc.) to ensure feedback is being addressed
+Do not save up all your "feedback" for performance reviews. Practice [radical candor](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1427283125) (care deeply and challenge directly) to ensure you are providing ongoing guidance and support.
 
-Performance reviews are augmented through one-on-ones and goal reviews.
-Leverage one-on-ones before and after
+Performance reviews are augmented through one-on-ones and goal reviews. Leverage one-on-ones before and after the meeting to help your people improve!
 
-transparency and fairness
-
-Important to have rubric (e.g. career ladder)
+Lastly, I find it is important to have rubric (e.g. career ladder) to support the growth of your people. This rubric ties directly into performance reviews and I have seen it used as parameter in the function of promotion and raises.
 
 **Agenda and topics:**
 - Walk through the review (follow your company's standard documentation)
-- Discussion around strengths, accomplishments, areas of improvements
+- Discussion around strengths, accomplishments, areas of improvements, goals
+- An example set of questions may be
+  - What areas of largest impact did you have on your projects, your team or the organization?
+  - What are your key strengths?
+  - What could you improve?
+  - With Quick Self Assessment Rating: Unsatisfactory, Needs Improvement, Meets Expectations, Exceeds Expectations, Truly Exceptional
 
-**Frequency:** cadence is company culture dependent. Annual, semi-annual, or quarterly. A typical range is between once a quarter to once a year (once a year assumes other meetings are occurring regularly);
+**Frequency:** Annual, semi-annual, or quarterly. Cadence is dependent on company culture. For reference, at my current company, we conduct performance annually.
 
 **Meeting Length:** 60-90 minutes
 
@@ -273,8 +277,20 @@ Important to have rubric (e.g. career ladder)
 - [Radical Candor by Kim Scott](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1427283125)
 - https://firstround.com/review/one-rubric-changed-boxs-engineering-performance-heres-how/
 - https://www.themuse.com/advice/a-firsttime-managers-guide-to-performance-reviews
+- https://blog.gitprime.com/designing-performance-management-systems/
+- https://firstround.com/review/altschools-ceo-rebuilt-googles-performance-review-system-to-work-for-startups-here-it-is/
 
 ## Conclusion
+Still there?  Shout out to you!  You deserve a reward.  
+
+I wrote this for members of my team who are becoming managers and I don't want them to stumble into the same holes that I did.  They will stumble, just don't fall into the holes I did.  Take this information, grow, learn and continue to push yourself.
+
+You got this!
+
 Iterate on the meetings. Get feedback on the process, the meeting. These are living systems and should evolve with your organization and culture.
+
+
+P.S. If I missed anything, holla at me (literally if you need to). I appreciate and welcome your thoguhts.  I will be keeping this updated as a github readme. Let's build.
+
 
 ## Additional Resources
