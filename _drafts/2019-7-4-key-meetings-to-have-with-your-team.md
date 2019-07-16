@@ -108,7 +108,7 @@ When gathering feedback, there are few key points to highlight:
 **Meeting Length:** 30-60 minutes
 
 **Additional Resources:**
-- ["The Manager's Path"](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
+- [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 - [Radical Candor](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1427283125)
 - [Skip Level one-on-ones](https://getlighthouse.com/blog/skip-level-meetings-one-on-ones)
 - [Skip Level meeting questions](https://getlighthouse.com/blog/skip-level-meeting-questions-managers-leadership)
@@ -183,7 +183,7 @@ Once we understand what motivates our people and what their goals are, we can he
 
 But wait, I hear you saying, what if their career goals don't align with the position or the company's trajectory? Won't asking about these goals create dissonance between this person and the organization?
 
-Whoa, whoa, whoa! If that dissonance exists, it exists independent of these meetings. Wouldn't it be great to acknowledge any dissonance before this person is demotivated or worse and starts looking for (or actually takes) another opportunity? Would't it be wonderful to better align their role and responsibilities with their motivations and dreams?
+Whoa, whoa, whoa! If that dissonance exists, it exists independent of these meetings. Wouldn't it be great to acknowledge any dissonance before this person is demotivated or worse and starts looking for (or actually takes) another opportunity? Wouldn't it be wonderful to better align their role and responsibilities with their motivations and dreams?
 
 **I believe our role as managers is to help each member of our team be the most awesome version of themselves and support them on this journey**. Career conversations are a critical tool that helps get us there.
 
@@ -211,7 +211,7 @@ Whoa, whoa, whoa! If that dissonance exists, it exists independent of these meet
 **Purpose:** To improve your direct report's performance.
 
 **Overview:**  
-So we are at the last essential meeting...and why did I put it last?  Because it comes at the end of the year? Nah. Because I believe this meeting, while important, is augmented, supported by, and builds upon the previously outlined meetings.  [Ongoing performance management](https://www.atiim.com/blog/what-is-ongoing-performance-management/) consists of frequent touch-bases (e.g. 1:1s), goal setting and review (e.g. career conversations and goal reviews)
+So we are at the last essential meeting...and why did I put it last?  Because it comes at the end of the year? Nah. Because I believe this meeting, while important, is augmented, supported by, and builds upon the previously outlined meetings.  [Ongoing performance management](https://www.atiim.com/blog/what-is-ongoing-performance-management/) consists of frequent touch-bases (e.g. 1:1s), guidance, and review (e.g. career conversations and goal reviews).
 
 In some companies, performance reviews are a dying breed. Some companies like Adobe, GE, and others, [got rid of the performance review](https://getlighthouse.com/blog/get-rid-of-the-performance-review/), so should we follow and just ditch it? From my standpoint, no.  Performance reviews are critical.
 
@@ -224,9 +224,9 @@ With that in mind, here is some advice for conducting productive performance rev
 - Don’t schedule these meetings back to back. When its performance review "season", I typically only schedule one in a day or if in the same day, spaced out by 4-5 hours.
 - Give yourself enough time to conduct them, I typically set aside 60 minutes.
 - Write it down, potentially separate review from compensation.
-- Schedule regular checkins (e.g. 1-1s, goal reviews, etc.) to ensure feedback is being addressed.
+- Schedule regular check ins (e.g. 1-1s, goal reviews, etc.) to ensure feedback is being addressed.
 
-Do not save up all your "feedback" for performance reviews. Practice [radical candor](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1427283125) (care deeply and challenge directly) to ensure you are providing ongoing guidance and support.
+Do not save up all your "feedback" for performance reviews. Practice [radical candor](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1427283125) (care personally and challenge directly) to ensure you are providing ongoing guidance and support.
 
 Lastly, I find it is important to have [a rubric](https://firstround.com/review/one-rubric-changed-boxs-engineering-performance-heres-how/) (e.g. career ladder) to support the growth of your people. This rubric ties directly into performance reviews and I have seen it used as parameter in the function of promotions and raises.
 
@@ -255,7 +255,7 @@ Lastly, I find it is important to have [a rubric](https://firstround.com/review/
 - [On designing performance management systems](https://blog.gitprime.com/designing-performance-management-systems/)
 - [Google's performance review system rebuilt for startups](https://firstround.com/review/altschools-ceo-rebuilt-googles-performance-review-system-to-work-for-startups-here-it-is/)
 - [9 things you should tell your boss are your next performance review](https://www.themuse.com/advice/9-things-you-should-tell-your-boss-at-your-next-performance-review)
-- ["The Manager's Path"](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
+- [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 - [Radical Candor by Kim Scott](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1427283125)
 
 ## Conclusion
@@ -267,11 +267,11 @@ You got this!
 
 Iterate on the meetings. Get feedback on the process, the meeting. These are living systems and should evolve with your organization and culture.
 
-P.S. If I missed anything, holla at me (literally if you need to). I appreciate and welcome your thoughts.  I will be keeping this updated as a github readme. Let's build.
+P.S. If I missed anything, holla at me (literally if you need to). I appreciate and welcome your thoughts.  I will be keeping this updated as a GitHub readme. Let's build.
 
 ## Additional Resources
 - [Three conversations every manager should be having with their employees]( https://www.forbes.com/sites/forbescoachescouncil/2017/09/06/three-conversations-every-manager-should-be-having-with-their-employees/#7a13315279b4)
 - Books referenced throughout this piece
-  - ["The Manager's Path"](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
+  - [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
   - [Radical Candor by Kim Scott](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1427283125)
   - [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
