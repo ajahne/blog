@@ -11,21 +11,6 @@ When I first started managing, I had no idea what meetings I was supposed to con
 
 > I've written this article to provide an introduction to - and a set of resources for - key meetings that managers should have with members of their team - particularly those that report to them - to provide guidance, feedback, coaching, and support that helps them grow.
 
-### Who is this article for?
-Anyone and everyone who wants to position their team members and teams for success!
-
-Wait? Seriously? Anyone _and_ everyone?
-
-Yup!
-
-This is for managers who are looking for ways to connect further with their staff.  For first time managers learning the ropes. This is also for experienced managers who are looking for a refresher, a set of resources, or a guide that will help them train new managers.
-
-This is for makers who are or who may be curious of the meetings they are in. This is also for the makers who are holding their managers accountable and/or a guide for makers to know what to expect from a good manager!
-
-Lastly, this is for my past self.  These are the meetings I wish I knew about - and knew how to conduct - when I first became a manager!
-
-So yeah...everyone :)
-
 ### What this article is and isn't
 Management cannot be boiled down to a few articles, slogans, and a TLDR.  With that said, this article is an _**introduction**_ to key meetings we should be having as managers while providing additional resources to help you learn more.   
 
@@ -47,7 +32,7 @@ So, for example, when you have a "goal review" meeting or a "career development 
 **Purpose:** To provide support, coaching, and candor that helps your direct report grow, succeed, and excel.
 
 **Overview:**  
-The reigning, defending, undefeated meeting of the (management) world! The one-on-one. Yeah, [the champ is here](https://www.youtube.com/watch?v=4Nz3DL6EXtQ)!  
+The reigning, defending, undefeated meeting of the (management) world! The one-on-one. Yeah, [the champ is here](https://www.youtube.com/watch?v=4Nz3DL6EXtQ)!
 
 One-on-ones (i.e. 1-1s) are the most valuable tool in your management utility belt and the most essential meeting to have with your direct report. These meetings help you remove roadblocks, coach, mentor, and develop your people - empowering them to become the most bad-ass versions of themselves!  
 
@@ -136,6 +121,8 @@ One to two weeks before the meeting, I conduct a quick 10-15 minute overview dis
 - [Meeting Template](https://github.com/ajahne/essential-manager-meetings/blob/master/templates/three-month-catch-up.md)
 
 ## Goal Reviews
+![]({{site.baseurl}}/assets/images/management-meetings-smart-goals.jpg)
+
 **Purpose:** To review your direct report's current goals and ensure they are accurately tracking towards them.
 
 **Overview:**  
@@ -210,6 +197,8 @@ Whoa, whoa, whoa! If that dissonance exists, it exists independent of these meet
 ## Performance Reviews
 **Purpose:** To improve your direct report's performance.
 
+![]({{site.baseurl}}/assets/images/management-meeting-dilbert-performance-review.jpg)
+
 **Overview:**  
 So we are at the last essential meeting...and why did I put it last?  Because it comes at the end of the year? Nah. Because I believe this meeting, while important, is augmented, supported by, and builds upon the previously outlined meetings.  [Ongoing performance management](https://www.atiim.com/blog/what-is-ongoing-performance-management/) consists of frequent touch-bases (e.g. 1:1s), guidance, and review (e.g. career conversations and goal reviews).
 
@@ -259,19 +248,27 @@ Lastly, I find it is important to have [a rubric](https://firstround.com/review/
 - [Radical Candor by Kim Scott](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1427283125)
 
 ## Conclusion
-Still there?  Shout out to you!  You deserve a reward.  
+Still there?  Shout out to you!  Well done!
 
-I wrote this for members of my team who are becoming managers and I don't want them to stumble into the same holes that I did.  They will stumble, just don't fall into the holes I did.  Take this information, grow, learn and continue to push yourself.
+![](https://media.giphy.com/media/9uoYC7cjcU6w8/giphy.gif)
+
+We now have a better sense of the key meetings we must have with our people to help them grow.
+
+This article is just the start.  Just the introduction to the journey.  We have the tools we need, however we must continue to improve and iterate on these meetings. Get feedback on the process, get feedback on the meetings you conduct. These are living systems and should evolve with your organization and culture.
+
+> The primary objective is to support all of our people in becoming the most awesome and amazing version of themselves!
+
+Keep building, keep pushing, and keep learning!
 
 You got this!
 
-Iterate on the meetings. Get feedback on the process, the meeting. These are living systems and should evolve with your organization and culture.
-
-P.S. If I missed anything, holla at me (literally if you need to). I appreciate and welcome your thoughts.  I will be keeping this updated as a GitHub readme. Let's build.
+P.S. If I missed anything, holla at me (literally, if you need to). I appreciate and welcome your thoughts.  I will be keeping this updated as a GitHub readme. Let's build.
 
 ## Additional Resources
+Please note that most of these are referenced above, however the most referenced ones are re-referenced below :)
+- [Essential Meeting Templates](https://github.com/ajahne/essential-manager-meetings/tree/master/templates)
 - [Three conversations every manager should be having with their employees]( https://www.forbes.com/sites/forbescoachescouncil/2017/09/06/three-conversations-every-manager-should-be-having-with-their-employees/#7a13315279b4)
-- Books referenced throughout this piece
+- Books
   - [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
   - [Radical Candor by Kim Scott](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1427283125)
   - [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
