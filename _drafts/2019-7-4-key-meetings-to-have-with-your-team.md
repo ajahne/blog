@@ -9,7 +9,7 @@ header:
 ---
 When I first started managing, I had no idea what meetings I was supposed to conduct with my staff to help them grow.  In part because I was at a smaller organization and we were inventing processes on the fly and also because I did not have a manager who conducted or introduced me to these meetings.  I learned about these meetings through personal experience (e.g. trial and error), peers in other organizations, networking, mentors, and reading. A lot of reading!
 
-> I've written this article to provide an introduction to - and a set of resources for - key meetings that managers should have with members of their team - particularly those that report to them - to provide guidance, feedback, coaching, and support that helps them grow.
+> I've written this article to provide an introduction to - and a set of resources for - key meetings that managers should have with members of their team, particularly those that report to them, to provide guidance, feedback, coaching, and support that helps them grow.
 
 ### What this article is and isn't
 Management cannot be boiled down to a few articles, slogans, and a TLDR.  With that said, this article is an _**introduction**_ to key meetings we should be having as managers while providing additional resources to help you learn more.   
@@ -23,6 +23,8 @@ Management cannot be boiled down to a few articles, slogans, and a TLDR.  With t
   - [Goal Reviews](#goal-reviews)
   - [Career Conversations](#career-conversations)
   - [Performance Reviews](#performance-reviews)
+
+For each meeting I highlight its purpose, provide an overview, outline key details, and share some additional resources to help you learn more.
 
 > To fight meeting proliferation, I conduct these meetings during the scheduled one-on-one meeting time.
 
@@ -195,9 +197,9 @@ Whoa, whoa, whoa! If that dissonance exists, it exists independent of these meet
 - [Meeting Template](https://github.com/ajahne/essential-manager-meetings/blob/master/templates/career-conversations.md)
 
 ## Performance Reviews
-**Purpose:** To improve your direct report's performance.
-
 ![]({{site.baseurl}}/assets/images/management-meeting-dilbert-performance-review.jpg)
+
+**Purpose:** To improve your direct report's performance.
 
 **Overview:**  
 So we are at the last essential meeting...and why did I put it last?  Because it comes at the end of the year? Nah. Because I believe this meeting, while important, is augmented, supported by, and builds upon the previously outlined meetings.  [Ongoing performance management](https://www.atiim.com/blog/what-is-ongoing-performance-management/) consists of frequent touch-bases (e.g. 1:1s), guidance, and review (e.g. career conversations and goal reviews).
