@@ -254,7 +254,7 @@ Still there?  Shout out to you!  Well done!
 
 We now have a better sense of the key meetings we must have with our people to help them grow.
 
-This article is just the start.  Just the introduction to the journey.  We have the tools we need, however we must continue to improve and iterate on these meetings. Get feedback on the process, get feedback on the meetings you conduct. These are living systems and should evolve with your organization and culture.
+This article is just the start.  Just the introduction to the journey.  We have the tools we need, however we must continue to improve and iterate on these meetings. [Get feedback]({{ site.baseurl }}{% post_url 2019-2-28-getting-feedback-as-a-manager %}) on the process, get feedback on the meetings you conduct. These are living systems and should evolve with your organization and culture.
 
 > The primary objective is to support all of our people in becoming the most awesome and amazing version of themselves!
 
