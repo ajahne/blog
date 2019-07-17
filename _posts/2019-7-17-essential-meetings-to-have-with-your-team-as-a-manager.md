@@ -130,11 +130,11 @@ One to two weeks before the meeting, I conduct a quick 10-15 minute overview dis
 **Overview:**  
 Having a performance review is only one component of meeting goals.
 
-Have you ever had a conducted a performance review where you set up shiny new goals for the upcoming year only to never review them again until the next performance review? What about the career conversions where you outlined that amazing 18 month plan, but haven't discussed it since?
+Have you ever had a performance review where you set up shiny new goals for the upcoming year only to never review them again until the next performance review? What about the career conversions where you outlined that amazing 18 month plan, but haven't discussed it since?
 
 Has there ever been a disconnect between the goals you laid out and what the person actually worked on?
 
-Maybe priorities changed throughout the year (they will) or maybe now a new strategic initiative needs to be added to the roadmap (it will). Things that seemed so important in January may have turned irrelevant in June. How do you ensure alignment between the company vision and team goals with this person's personal aspirations and motivations?
+Maybe priorities changed throughout the year (they will) or maybe now a new strategic initiative needs to be added to the roadmap (it will). Things that seemed so important in January may have turned irrelevant in June. How do you ensure alignment between the company vision and team goals with your direct report's personal aspirations and motivations?
 
 I have found the best way to do this is to dedicate time specifically to review the agreed upon objectives, discuss the career action plan, and ensure we are properly tracking towards the goals.
 
@@ -142,7 +142,7 @@ I have found the best way to do this is to dedicate time specifically to review 
 - Review the current set of goals, have them self-review as well. How are they progressing toward their goals?
 - Recalibrate the career action plan as needed
   - Note: this is **not** about adding goals, but about ensuring we are supporting our people to reach their goals and dreams
-  - Are the goals (S)pecific, (M)easurable, (A)ssignable, (R)elevant, (T)ime specific?
+  - Are the goals (S)pecific, (M)easurable, (A)chievable , (R)elevant, (T)ime specific?
 - Update the action plan as needed to ensure they are reaching their goals. Some examples may include:
   - Do they need to spend more time coding? Remove unnecessary meetings.
   - Are their technical skills not growing as expected? Ensure code review! Share books, links, harder projects.
@@ -158,7 +158,7 @@ I have found the best way to do this is to dedicate time specifically to review 
 **Additional Resources:**
 - [Making Sure Your Employees Succeed](https://hbr.org/2011/02/making-sure-your-employees-suc)
 - [7-tips-for-effective-employee-goal-setting](https://www.paychex.com/articles/human-resources/7-tips-for-effective-employee-goal-setting)
-- [SMART goals](https://blog.impraise.com/360-feedback/smart-goals-in-the-workplace-what-how-and-why-performance-review)
+- [How to write SMART goals](https://www.atlassian.com/blog/productivity/how-to-write-smart-goals)
 
 ## Career Conversations
 **Purpose:** To further get to know your direct reports, learn their aspirations, and plan how to help them reach those dreams.
@@ -181,7 +181,7 @@ Whoa, whoa, whoa! If that dissonance exists, it exists independent of these meet
   - Meeting One: Life Story - take an hour to get to know your employees
   - Meeting Two: Dreams - find their lighthouse, bring it into focus
   - Meeting Three: Career Action Plan - lay out the beacons to their lighthouse
-- Use this [template](https://github.com/ajahne/essential-manager-meetings/blob/master/templates/career-conversations.md) as a guide to the three conversations and see the additional resources below for further details
+- Use this [template](https://github.com/ajahne/essential-manager-meetings/blob/master/templates/career-conversations.md) as a guide to the three conversations and see the additional resources below for further details.
 - _Note: Using the goal reviews meeting is a great way to ensure we are tracking accurately on our Career Action Plan._
 
 **Frequency:** 3 conversations, approximately 2 weeks apart from each other.
@@ -214,7 +214,7 @@ With that in mind, here is some advice for conducting productive performance rev
 - Have a concrete example for each piece of feedback. Feedback without an example does not resonate and from my experience can come across like an opinion versus an objective observation.
 - Don’t schedule these meetings back to back. When its performance review "season", I typically only schedule one in a day or if in the same day, spaced out by 4-5 hours.
 - Give yourself enough time to conduct them, I typically set aside 60 minutes.
-- Write it down, potentially separate review from compensation.
+- Potentially separate the review from compensation discussions.
 - Schedule regular check ins (e.g. 1-1s, goal reviews, etc.) to ensure feedback is being addressed.
 
 Do not save up all your "feedback" for performance reviews. Practice [radical candor](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1427283125) (care personally and challenge directly) to ensure you are providing ongoing guidance and support.
