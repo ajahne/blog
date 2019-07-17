@@ -5,7 +5,7 @@ date:  2019-7-4 9:05:00 -0400
 categories: leadership
 tags: meetings, 1-1, one-on-one, skip-level, performance review, career, management
 header:
-  image: assets/images/adult-communication-diversity-1181719.jpg
+  image: assets/images/management-meeting-header.jpg
 ---
 When I first started managing, I had no idea what meetings I was supposed to conduct with my staff to help them grow.  In part because I was at a smaller organization and we were inventing processes on the fly and also because I did not have a manager who conducted or introduced me to these meetings.  I learned about these meetings through personal experience (e.g. trial and error), peers in other organizations, networking, mentors, and reading. A lot of reading!
 
