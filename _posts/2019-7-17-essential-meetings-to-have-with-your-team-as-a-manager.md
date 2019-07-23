@@ -81,7 +81,7 @@ When you are a manager of managers it is important to understand:
 - What do people think/feel about the organization?
 - Are there any process/performance issues that are being "managed up", which you do not have insight into?
 
-If you have every asked one of these - or related - questions, then welcome to the skip level meeting! **For skip level meetings you meet with the direct reports of your managers with the goal of helping each of your managers become better bosses** and make sure people on their team feel comfortable giving feedback directly. In addition, you are building trust and working to improve the work environment.
+If you have ever asked one of these - or related - questions, then welcome to the skip level meeting! **For skip level meetings you meet with the direct reports of your managers with the goal of helping each of your managers become better bosses** and make sure people on their team feel comfortable giving feedback directly. In addition, you are building trust and working to improve the work environment.
 
 When gathering feedback, there are few key points to highlight:
 - Ensure safety and anonymity - team members must be able to speak their minds without fear of retribution
