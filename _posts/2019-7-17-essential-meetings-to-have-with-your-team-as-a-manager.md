@@ -16,7 +16,7 @@ Management cannot be boiled down to a few articles, slogans, and a TLDR.  With t
 
 **So how should you use this article?** Read about the meetings, check out the additional resources, and try it out. [Experience is the best teacher](https://youtu.be/Ucvta7xDo_4?t=87)!
 
-## The Key Meetings
+## The Essential Meetings
   - [One-on-ones](#one-on-ones)
   - [Skip Level meetings](#skip-level-meetings)
   - [Goal Reviews](#goal-reviews)
@@ -27,12 +27,12 @@ For each meeting I highlight its purpose, provide an overview, outline key detai
 
 > To fight meeting proliferation, I conduct these meetings during the scheduled one-on-one meeting time.
 
-So, for example, when you have a "goal review" meeting or a "career development conversation" this can (and should) be held during your standard one-on-one time. Another reason why the one-on-one meeting is the foundation. The graphic below highlights an illustrative calendar for the year.
-
 <figure>
     <a href="/blog/assets/images/management-meeting-calendar.jpg"><img src="/blog/assets/images/management-meeting-calendar.jpg"></a>
     <figcaption>An "essential meeting" calendar</figcaption>
 </figure>
+
+So, for example, when you have a "goal review" meeting or a "career development conversation" this can (and should) be held during your standard one-on-one time. Another reason why the one-on-one meeting is the foundation. 
 
 ## One-on-ones
 **Purpose:** To provide support, coaching, and candor that helps your direct report grow, succeed, and excel.
