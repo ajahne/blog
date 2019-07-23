@@ -28,7 +28,12 @@ For each meeting I highlight its purpose, provide an overview, outline key detai
 
 > To fight meeting proliferation, I conduct these meetings during the scheduled one-on-one meeting time.
 
-So, for example, when you have a "goal review" meeting or a "career development conversation" this can (and should) be held during your standard one-on-one time. Another reason why the one-on-one meeting is the foundation.
+So, for example, when you have a "goal review" meeting or a "career development conversation" this can (and should) be held during your standard one-on-one time. Another reason why the one-on-one meeting is the foundation. The graphic below highlights an illustrative calendar for the year.
+
+<figure>
+    <a href="/blog/assets/images/management-meeting-calendar.jpg"><img src="/blog/assets/images/management-meeting-calendar.jpg"></a>
+    <figcaption>An "essential meeting" calendar</figcaption>
+</figure>
 
 ## One-on-ones
 **Purpose:** To provide support, coaching, and candor that helps your direct report grow, succeed, and excel.
