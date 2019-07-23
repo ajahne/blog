@@ -19,7 +19,6 @@ Management cannot be boiled down to a few articles, slogans, and a TLDR.  With t
 ## The Key Meetings
   - [One-on-ones](#one-on-ones)
   - [Skip Level meetings](#skip-level-meetings)
-  - [Three month catch up](#three-month-catch-up)
   - [Goal Reviews](#goal-reviews)
   - [Career Conversations](#career-conversations)
   - [Performance Reviews](#performance-reviews)
@@ -104,28 +103,6 @@ When gathering feedback, there are few key points to highlight:
 - [Radical Candor](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1427283125)
 - [Skip Level one-on-ones](https://getlighthouse.com/blog/skip-level-meetings-one-on-ones)
 - [Skip Level meeting questions](https://getlighthouse.com/blog/skip-level-meeting-questions-managers-leadership)
-
-## Three month catch up
-**Purpose:** To conduct an informal "mini-review" of the employee's first three months at the organization to better understand strengths, areas of improvement, and what this person has liked/disliked over the first few months.
-
-**Overview:**  
-For new hires and especially junior engineers starting their first job, I have introduced a "three month catchup". This meeting provides the opportunity to sit down with a new employee in a more focused session.
-
-When things are going well this meeting helps to promote continued flow. When things are not going well it is an opportunity to provide constructive feedback in a more formal manner. At times I have utilized this meeting as a "mini performance review". If you are conducting frequent one-on-ones (as I know you are!) then this meetings will be pretty straight forward with no surprises. However, I find it important to carve out time specifically for the employee to voice their thoughts on the new job/role in a more concentrated way.
-
-One to two weeks before the meeting, I conduct a quick 10-15 minute overview discussion of the meeting, where we go over the agenda and topics. This is an opportunity for your direct report to discuss in more detail than a standard 1-1 how the first three months of their job have been.  
-
-**Agenda and topics:**
-- Understand what your direct report has enjoyed and not enjoyed working on in the first three months
-- Discuss strengths and areas of improvement. Start with self reflection, what does this person feel?
-- See the [meeting template](https://github.com/ajahne/essential-manager-meetings/blob/master/templates/three-month-catch-up.md) for a detailed outline.
-
-**Frequency:** 1 time. Three months after start date with new hire
-
-**Meeting Length:** 45 minutes
-
-**Additional Resources:**
-- [Meeting Template](https://github.com/ajahne/essential-manager-meetings/blob/master/templates/three-month-catch-up.md)
 
 ## Goal Reviews
 ![]({{site.baseurl}}/assets/images/management-meetings-smart-goals.jpg)
