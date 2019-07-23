@@ -14,7 +14,7 @@ When I first started managing, I had no idea what meetings I was supposed to con
 ### What this article is and isn't
 Management cannot be boiled down to a few articles, slogans, and a TLDR.  With that said, this article is an _**introduction**_ to key meetings we should be having as managers while providing additional resources to help you learn more.   
 
-**So how should you use this article?** Read about the meetings, check out the additional resources, and try it out. [Experience is the best teacher](https://youtu.be/Ucvta7xDo_4?t=88)!
+**So how should you use this article?** Read about the meetings, check out the additional resources, and try it out. [Experience is the best teacher](https://youtu.be/Ucvta7xDo_4?t=87)!
 
 ## The Key Meetings
   - [One-on-ones](#one-on-ones)
@@ -238,7 +238,7 @@ Still there?  Shout out to you!  Well done!
 
 We now have a better sense of the key meetings we must have with our people to help them grow.
 
-This article is just the start.  Just the introduction to the journey.  We have the tools we need, however we must continue to improve and iterate on these meetings. [Get feedback]({{ site.baseurl }}{% post_url 2019-2-28-getting-feedback-as-a-manager %}) on the process, get feedback on the meetings you conduct. **These are living systems and should evolve with your organization and culture**. Find your voice, find your rhythm, and figure out what works best for you and your team! 
+This article is just the start.  Just the introduction to the journey.  We have the tools we need, however we must continue to improve and iterate on these meetings. [Get feedback]({{ site.baseurl }}{% post_url 2019-2-28-getting-feedback-as-a-manager %}) on the process, get feedback on the meetings you conduct. **These are living systems and should evolve with your organization and culture**. Find your voice, find your rhythm, and figure out what works best for you and your team!
 
 > The primary objective is to support all of our people in becoming the most awesome and amazing version of themselves!
 
@@ -254,5 +254,5 @@ Please note that most of these are referenced above, however the most referenced
 - [Three conversations every manager should be having with their employees]( https://www.forbes.com/sites/forbescoachescouncil/2017/09/06/three-conversations-every-manager-should-be-having-with-their-employees/#7a13315279b4)
 - Books
   - [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
-  - [Radical Candor by Kim Scott](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1427283125)
+  - [Radical Candor](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1427283125)
   - [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
