@@ -19,8 +19,8 @@ Management cannot be boiled down to a few articles, slogans, and a TLDR.  With t
 ## The Essential Meetings
   - [One-on-ones](#one-on-ones)
   - [Skip Level meetings](#skip-level-meetings)
-  - [Goal Reviews](#goal-reviews)
   - [Career Conversations](#career-conversations)
+  - [Goal Reviews](#goal-reviews)
   - [Performance Reviews](#performance-reviews)
 
 For each meeting I highlight its purpose, provide an overview, outline key details, and share some additional resources to help you learn more.
@@ -32,7 +32,7 @@ For each meeting I highlight its purpose, provide an overview, outline key detai
     <figcaption>An "essential meeting" calendar</figcaption>
 </figure>
 
-So, for example, when you have a "goal review" meeting or a "career development conversation" this can (and should) be held during your standard one-on-one time. Another reason why the one-on-one meeting is the foundation. 
+So, for example, when you have a "goal review" meeting or a "career development conversation" this can (and should) be held during your standard one-on-one time. Another reason why the one-on-one meeting is the foundation.
 
 ## One-on-ones
 **Purpose:** To provide support, coaching, and candor that helps your direct report grow, succeed, and excel.
@@ -104,44 +104,6 @@ When gathering feedback, there are few key points to highlight:
 - [Skip Level one-on-ones](https://getlighthouse.com/blog/skip-level-meetings-one-on-ones)
 - [Skip Level meeting questions](https://getlighthouse.com/blog/skip-level-meeting-questions-managers-leadership)
 
-## Goal Reviews
-![]({{site.baseurl}}/assets/images/management-meetings-smart-goals.jpg)
-
-**Purpose:** To review your direct report's current goals and ensure they are accurately tracking towards them.
-
-**Overview:**  
-Having a performance review is only one component of meeting goals.
-
-Have you ever had a performance review where you set up shiny new goals for the upcoming year only to never review them again until the next performance review? What about the career conversions where you outlined that amazing 18 month plan, but haven't discussed it since?
-
-Has there ever been a disconnect between the goals you laid out and what the person actually worked on?
-
-Maybe priorities changed throughout the year (they will) or maybe now a new strategic initiative needs to be added to the roadmap (it will). Things that seemed so important in January may have turned irrelevant in June. How do you ensure alignment between the company vision and team goals with your direct report's personal aspirations and motivations?
-
-I have found the best way to do this is to dedicate time specifically to review the agreed upon objectives, discuss the career action plan, and ensure we are properly tracking towards the goals.
-
-**Agenda and topics:**
-- Review the current set of goals, have them self-review as well. How are they progressing toward their goals?
-- Recalibrate the career action plan as needed
-  - Note: this is **not** about adding goals, but about ensuring we are supporting our people to reach their goals and dreams
-  - Are the goals (S)pecific, (M)easurable, (A)chievable , (R)elevant, (T)ime specific?
-- Update the action plan as needed to ensure they are reaching their goals. Some examples may include:
-  - Do they need to spend more time coding? Remove unnecessary meetings.
-  - Are their technical skills not growing as expected? Ensure code review! Share books, links, harder projects.
-  - Is there too much on their plate? Remove roadblocks, help them with time management.
-  - Have they not had a chance to lead a project as expected? Be sure to carve one out, delegate one of yours!
-  - Have they not had an opportunity to build their network? Find some meetups to share with them, introduce them to additional mentors.  
-  - What are they doing to help themselves improve and grow?
-
-**Frequency:** monthly (with more junior people or people new to their role), quarterly (with more senior/experienced staff); use [task relevant maturity](https://getlighthouse.com/blog/management-concept/) as a guide.
-
-**Meeting Length:** 30-60 minutes (dependent on frequency). If monthly, 30 minutes. If quarterly, allocate more time as necessary.  
-
-**Additional Resources:**
-- [Making Sure Your Employees Succeed](https://hbr.org/2011/02/making-sure-your-employees-suc)
-- [7-tips-for-effective-employee-goal-setting](https://www.paychex.com/articles/human-resources/7-tips-for-effective-employee-goal-setting)
-- [How to write SMART goals](https://www.atlassian.com/blog/productivity/how-to-write-smart-goals)
-
 ## Career Conversations
 **Purpose:** To further get to know your direct reports, learn their aspirations, and plan how to help them reach those dreams.
 
@@ -177,6 +139,40 @@ Whoa, whoa, whoa! If that dissonance exists, it exists independent of these meet
 - [The Problem with Career Conversations (and how to improve them!)](https://www.radicalcandor.com/blog/problem-career-conversations)
 - [How to have career conversations with your employees](https://medium.com/fellowapp/want-to-be-a-great-manager-have-career-conversations-with-your-team-5e432dcdce86)
 - [Meeting Template](https://github.com/ajahne/essential-manager-meetings/blob/master/templates/career-conversations.md)
+
+## Goal Reviews
+![]({{site.baseurl}}/assets/images/management-meetings-smart-goals.jpg)
+
+**Purpose:** To review your direct report's current goals and ensure they are accurately tracking towards them.
+
+**Overview:**  
+Have you ever had a performance review where you set up shiny new goals for the upcoming year only to never review them again until the _next_ performance review? What about the career conversions where you outlined that amazing 18 month plan, but haven't discussed it since?
+
+Maybe priorities changed throughout the year (they will) or maybe now a new strategic initiative needs to be added to the roadmap (it will). Things that seemed so important in January may have turned irrelevant in June. How do you ensure alignment between the company vision and team goals with your direct report's personal aspirations and motivations?
+
+I have found the best way to do this is to dedicate time specifically to review the agreed upon objectives, discuss the career action plan, and ensure we are properly tracking towards the goals.
+
+**Agenda and topics:**
+- Review the current set of goals, have your direct report self-review as well. How are they progressing toward their goals?
+- Recalibrate the career action plan as needed
+  - Note: this is **not** about adding goals, but about ensuring we are supporting our people to reach their goals and dreams
+  - Are the goals (S)pecific, (M)easurable, (A)chievable , (R)elevant, (T)ime specific?
+- Update the action plan as needed to ensure they are reaching their goals. Some examples may include:
+  - Do they need to spend more time coding? Remove unnecessary meetings.
+  - Are their technical skills not growing as expected? Ensure code review! Share books, links, harder projects.
+  - Is there too much on their plate? Remove roadblocks, help them with time management.
+  - Have they not had a chance to lead a project as expected? Be sure to carve one out, delegate one of yours!
+  - Have they not had an opportunity to build their network? Find some meetups to share with them, introduce them to additional mentors.  
+  - What are they doing to help themselves improve and grow?
+
+**Frequency:** monthly (with more junior people or people new to their role), quarterly (with more senior/experienced staff); use [task relevant maturity](https://getlighthouse.com/blog/management-concept/) as a guide.
+
+**Meeting Length:** 30-60 minutes (dependent on frequency). If monthly, 30 minutes. If quarterly, allocate more time as necessary.  
+
+**Additional Resources:**
+- [Making Sure Your Employees Succeed](https://hbr.org/2011/02/making-sure-your-employees-suc)
+- [7-tips-for-effective-employee-goal-setting](https://www.paychex.com/articles/human-resources/7-tips-for-effective-employee-goal-setting)
+- [How to write SMART goals](https://www.atlassian.com/blog/productivity/how-to-write-smart-goals)
 
 ## Performance Reviews
 ![]({{site.baseurl}}/assets/images/management-meeting-dilbert-performance-review.jpg)
@@ -245,8 +241,6 @@ This article is just the start.  Just the introduction to the journey.  We have 
 Keep building, keep pushing, and keep learning!
 
 You got this!
-
-P.S. If I missed anything, holla at me (literally, if you need to). I appreciate and welcome your thoughts.  I will be keeping this updated as a GitHub readme. Let's build.
 
 ## Additional Resources
 Please note that most of these are referenced above, however the most referenced ones are re-referenced below :)
