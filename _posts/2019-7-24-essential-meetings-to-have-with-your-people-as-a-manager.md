@@ -1,9 +1,9 @@
 ---
 layout: single
 title:  "Essential Meetings to Have With Your People as a Manager"
-date:  2019-7-17 14:10:00 -0400
+date:  2019-7-24 18:30:00 -0400
 categories: leadership
-tags: meetings, 1-1, one-on-one, skip-level, performance review, career, management
+tags: meetings, 1-1, one-on-one, skip-level, performance review, career, management, leadership
 header:
   image: assets/images/management-meeting-header.jpg
 ---
