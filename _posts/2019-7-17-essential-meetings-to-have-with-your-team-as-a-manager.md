@@ -255,4 +255,4 @@ Please note that most of these are referenced above, however the most referenced
   - [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
 
 ---
-_Many thanks for Cathy Dang, Qi Ming He, Kelvin Lok, Ariana Chang, and Harris Liu for reviewing this post!_
+_Many thanks to Cathy Dang, Qi Ming He, Kelvin Lok, Ariana Chang, and Harris Liu for reviewing this post!_
