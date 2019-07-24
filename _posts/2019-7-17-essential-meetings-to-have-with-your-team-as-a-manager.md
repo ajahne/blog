@@ -68,8 +68,8 @@ One-on-ones are the lifeblood of an open, healthy, and effective working relatio
 - [Questions for our first 1:1](https://larahogan.me/blog/first-one-on-one-questions/)
 - One-on-one meeting [dos](https://ajahne.github.io/blog/leadership/2018/09/29/one-on-one-meeting-dos-and-donts-part1.html) and [don'ts](https://ajahne.github.io/blog/leadership/2018/10/08/one-on-one-meeting-dos-and-donts-part2.html)
 - [Working the weekly 1:1](http://eleganthack.com/working-the-weekly-11/)
-- [One-on-one resources](https://github.com/ajahne/one-on-ones)
 - [The 8 best questions to ask during a one-on-one meeting](https://knowyourteam.com/blog/2018/01/11/the-8-best-questions-to-ask-during-a-one-on-one-meeting/)
+- [One-on-one resources](https://github.com/ajahne/one-on-ones)
 
 ## Skip Level Meetings
 **Purpose:** To help your managers become better bosses, build a rapport with your teammates, and get organizational/team feedback to improve the work environment.
@@ -78,8 +78,8 @@ One-on-ones are the lifeblood of an open, healthy, and effective working relatio
 > Skip Level Meetings are an invaluable tool that helps you keep a pulse on the organization with the ultimate goal to make things better.
 
 When you are a manager of managers it is important to understand:
-- How your managers are performing?
-- How people are doing under your managers?
+- How are your managers performing?
+- How are people doing under your managers?
 - What do people think/feel about the organization?
 - Are there any process/performance issues that are being "managed up", which you do not have insight into?
 
@@ -110,7 +110,7 @@ When gathering feedback, there are few key points to highlight:
 **Purpose:** To further get to know your direct reports, learn their aspirations, and plan how to help them reach those dreams.
 
 **Overview:**  
-Career conversations are ongoing discussions that help you identify your direct reports professional goals and the steps needed to achieve them. The three conversations involve their life story (past), dreams (present), and developing a career action plan (future).
+Career conversations are ongoing discussions that help you identify your direct report's professional goals and the steps needed to achieve them. The three conversations involve their life story (past), dreams (present), and developing a career action plan (future).
 
 Once we understand what motivates our people and what their goals are, we can help them achieve them.
 
@@ -148,7 +148,7 @@ Whoa, whoa, whoa! If that dissonance exists, it exists independent of these meet
 **Purpose:** To review your direct report's current goals and ensure they are accurately tracking towards them.
 
 **Overview:**  
-Have you ever had a performance review where you set up shiny new goals for the upcoming year only to never review them again until the _next_ performance review? What about the career conversions where you outlined that amazing 18 month plan, but haven't discussed it since?
+Have you ever had a performance review where you set up shiny new goals for the upcoming year only to never review them again until the _next_ performance review? What about the career conversations where you outlined that amazing 18 month plan, but haven't discussed it since?
 
 Maybe priorities changed throughout the year (they will) or maybe now a new strategic initiative needs to be added to the roadmap (it will). Things that seemed so important in January may have turned irrelevant in June. How do you ensure alignment between the company vision and team goals with your direct report's personal aspirations and motivations?
 
@@ -178,6 +178,7 @@ I have found the best way to do this is to dedicate time specifically to review 
 
 ## Performance Reviews
 ![]({{site.baseurl}}/assets/images/management-meeting-dilbert-performance-review.jpg)
+_do not be this manager!_
 
 **Purpose:** To improve your direct report's performance.
 
@@ -197,7 +198,7 @@ With that in mind, here is some advice for conducting productive performance rev
 - Potentially separate the review from compensation discussions.
 - Schedule regular check ins (e.g. 1-1s, goal reviews, etc.) to ensure feedback is being addressed.
 
-Do not save up all your "feedback" for performance reviews. Practice [radical candor](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1427283125) (care personally and challenge directly) to ensure you are providing ongoing guidance and support.
+Do not save up all your "feedback" for performance reviews. Practice [radical candor](https://www.radicalcandor.com/) (care personally and challenge directly) to ensure you are providing ongoing guidance and support.
 
 Lastly, I find it is important to have [a rubric](https://firstround.com/review/one-rubric-changed-boxs-engineering-performance-heres-how/) (e.g. career ladder) to support the growth of your people. This rubric ties directly into performance reviews and I have seen it used as parameter in the function of promotions and raises.
 
@@ -207,14 +208,14 @@ Lastly, I find it is important to have [a rubric](https://firstround.com/review/
   - Teammates/peers
   - Anyone that reports to them (if they are a manager)
   - Self-review
-  - As a manager, you consolidate and summarize the feedback
+- As a manager, you consolidate and summarize the feedback
 - Walk through the review (follow your company's standard documentation)
 - Have a discussion around strengths, accomplishments, areas of improvements, goals
 - An example set of questions may be:
   - What areas of largest impact did you have on your projects, your team or the organization?
   - What are your key strengths?
   - What could you improve?
-  - With Quick Self Assessment Rating: Unsatisfactory, Needs Improvement, Meets Expectations, Exceeds Expectations, Truly Exceptional
+  - With a quick self assessment rating: Unsatisfactory, Needs Improvement, Meets Expectations, Exceeds Expectations, Truly Exceptional
 
 **Frequency:** Annual, semi-annual, or quarterly. Cadence is dependent on company culture. For reference, at my current company, we conduct performance reviews annually.
 
