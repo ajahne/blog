@@ -128,7 +128,7 @@ Whoa, whoa, whoa! If that dissonance exists, it exists independent of these meet
   - Meeting Two: Dreams - find their lighthouse, bring it into focus
   - Meeting Three: Career Action Plan - lay out the beacons to their lighthouse
 - Use this [template](https://github.com/ajahne/essential-manager-meetings/blob/master/templates/career-conversations.md) as a guide to the three conversations and see the additional resources below for further details.
-- _Note: Using the goal reviews meeting is a great way to ensure we are tracking accurately on our Career Action Plan._
+- _Note: Using the goal review meeting is a great way to ensure we are tracking accurately on our Career Action Plan._
 
 **Frequency:** 3 conversations, approximately 2 weeks apart from each other.
 
@@ -136,7 +136,7 @@ Whoa, whoa, whoa! If that dissonance exists, it exists independent of these meet
 
 **Additional Resources:**
 - [Three Powerful Conversations Managers Must Have To Develop Their People](https://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people)
-- [Radical Candor by Kim Scott](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1427283125)
+- [Radical Candor](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1427283125)
 - Career Conversations from [radicalcandor.com](https://www.radicalcandor.com/blog/category/career-conversations)
 - [The Problem with Career Conversations (and how to improve them!)](https://www.radicalcandor.com/blog/problem-career-conversations)
 - [How to have career conversations with your employees](https://medium.com/fellowapp/want-to-be-a-great-manager-have-career-conversations-with-your-team-5e432dcdce86)
@@ -178,12 +178,12 @@ I have found the best way to do this is to dedicate time specifically to review 
 
 ## Performance Reviews
 ![]({{site.baseurl}}/assets/images/management-meeting-dilbert-performance-review.jpg)
-_do not be this manager!_
+_(do not be this manager!)_
 
 **Purpose:** To improve your direct report's performance.
 
 **Overview:**  
-So we are at the last essential meeting...and why did I put it last?  Because it comes at the end of the year? Nah. Because I believe this meeting, while important, is augmented, supported by, and builds upon the previously outlined meetings.  [Ongoing performance management](https://www.atiim.com/blog/what-is-ongoing-performance-management/) consists of frequent touch-bases (e.g. 1:1s), guidance, and review (e.g. career conversations and goal reviews).
+So we are at the last essential meeting...and why did I put it last?  Because it comes at the end of the year? Nah. Because I believe this meeting, while important, is augmented, supported by, and builds upon the previously outlined meetings.  [Ongoing performance management](https://www.atiim.com/blog/what-is-ongoing-performance-management/) consists of frequent touch-bases (e.g. one-on-ones), guidance, and review (e.g. career conversations and goal reviews).
 
 In some companies, performance reviews are a dying breed. Some companies like Adobe, GE, and others, [got rid of the performance review](https://getlighthouse.com/blog/get-rid-of-the-performance-review/), so should we follow and just ditch it? From my standpoint, no.  Performance reviews are critical.
 
@@ -196,7 +196,7 @@ With that in mind, here is some advice for conducting productive performance rev
 - Don’t schedule these meetings back to back. When its performance review "season", I typically only schedule one in a day or if in the same day, spaced out by 4-5 hours.
 - Give yourself enough time to conduct them, I typically set aside 60 minutes.
 - Potentially separate the review from compensation discussions.
-- Schedule regular check ins (e.g. 1-1s, goal reviews, etc.) to ensure feedback is being addressed.
+- Schedule regular check ins (e.g. one-on-ones, goal reviews, etc.) to ensure feedback is being addressed.
 
 Do not save up all your "feedback" for performance reviews. Practice [radical candor](https://www.radicalcandor.com/) (care personally and challenge directly) to ensure you are providing ongoing guidance and support.
 
@@ -228,7 +228,7 @@ Lastly, I find it is important to have [a rubric](https://firstround.com/review/
 - [Google's performance review system rebuilt for startups](https://firstround.com/review/altschools-ceo-rebuilt-googles-performance-review-system-to-work-for-startups-here-it-is/)
 - [9 things you should tell your boss are your next performance review](https://www.themuse.com/advice/9-things-you-should-tell-your-boss-at-your-next-performance-review)
 - [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
-- [Radical Candor by Kim Scott](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1427283125)
+- [Radical Candor](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1427283125)
 
 ## Conclusion
 Still there?  Shout out to you!  Well done!
@@ -253,3 +253,6 @@ Please note that most of these are referenced above, however the most referenced
   - [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
   - [Radical Candor](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1427283125)
   - [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
+
+---
+_Many thanks for Cathy Dang, Qi Ming He, Kelvin Lok, Ariana Chang, and Harris Liu for reviewing this post!_
