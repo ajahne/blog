@@ -7,12 +7,14 @@ tags: meetings, 1-1, one-on-one, skip-level, performance review, career, managem
 header:
   image: assets/images/management-meeting-header.jpg
 ---
-When I first started managing, I had no idea what meetings I was supposed to conduct with my staff to help them grow.  In part because I was at a smaller organization and we were inventing processes on the fly and also because I did not have a manager who conducted or introduced me to these meetings.  I learned about these meetings through personal experience (e.g. trial and error), peers in other organizations, networking, mentors, and reading. A lot of reading!
+When I first started managing, I had no idea what meetings I was supposed to conduct with my staff to help them grow.  In part because I was at a smaller organization and we were inventing processes on the fly and also because I did not have a manager who conducted or introduced me to these meetings.  I learned about these meetings through years of experience, peers in other organizations, networking, mentors, and reading. A lot of reading!
 
-> I've written this article to provide an introduction to - and a set of resources for - key meetings that managers should have with members of their team, particularly those that report to them, to provide guidance, feedback, coaching, and support that helps them grow.
+I've written this article to provide an introduction to - and a set of resources for - essential meetings that managers should have with their people to provide guidance, feedback, coaching, and support that helps them grow.
+
+_These are the meetings I wish I knew about - and knew how to conduct - when I first became a manager._
 
 ### What this article is and isn't
-Management cannot be boiled down to a few articles, slogans, and a TLDR.  With that said, this article is an _**introduction**_ to key meetings we should be having as managers while providing additional resources to help you learn more.   
+Management cannot be boiled down to a few articles, slogans, and a TLDR.  Management is comprehensive. It is not piecemeal. It takes an array of alchemy to build a strong team. With that said, this article is an _**introduction**_ to key meetings we should be having as managers while providing additional resources to help you learn more.   
 
 **So how should you use this article?** Read about the meetings, check out the additional resources, and try it out. [Experience is the best teacher](https://youtu.be/Ucvta7xDo_4?t=87)!
 
