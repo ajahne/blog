@@ -30,3 +30,4 @@ One to two weeks before the meeting, I conduct a quick 10-15 minute overview dis
 
 **Additional Resources:**
 - [Meeting Template](https://github.com/ajahne/essential-manager-meetings/blob/master/templates/three-month-catch-up.md)
+- [Essential Meetings to Have with Your People as a Manager]({{ site.baseurl }}{% post_url 2019-7-24-essential-meetings-to-have-with-your-people-as-a-manager %})
