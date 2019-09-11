@@ -5,7 +5,7 @@ date:  2019-9-9 12:42:00 -0400
 categories: javascript
 tags: javascript, clean code, programming, books, refactoring
 header:
-  image: assets/images/IMG_1783.jpg
+  image: assets/images/refactoring-header-most-referenced-refactorings.jpg
 ---
 
 # Outline
