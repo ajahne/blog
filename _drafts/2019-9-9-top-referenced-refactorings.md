@@ -50,3 +50,11 @@ Ok, Ajahne, enough talking (typing). What did you find?
 Well I knew the king of the land was (and is) "Extract Function". If there is _one_ refactoring you learn, let it be this one!
 
 So, my original hypothese was that the following 5 refactorings would be referenced the most
+
+**All the refactorings**
+
+![]({{site.baseurl}}/assets/images/refactoring-charts/refactoring-top-10-references.jpg)
+
+![]({{site.baseurl}}/assets/images/refactoring-charts/refactoring-all-references.jpg)
+
+![]({{site.baseurl}}/assets/images/refactoring-charts/refactoring-top-five.jpg)
