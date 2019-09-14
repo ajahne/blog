@@ -8,7 +8,7 @@ header:
   image: assets/images/refactoring-header-most-referenced-refactorings.jpg
 ---
 
-# Outline
+# Outline - pop (purpose, outcome, process)
 - Intro
 - Purpose, why am I doing this?
 - Takeaways: what did I learn?
@@ -86,3 +86,104 @@ Chart.js has a function that returns then base64 encoded string. Once I have tha
 Once I had this image, right click, save as, and voila, charts! Whoa, no code for that you say? Nah, not at this time, this pet project already turned into a tiger, soon to be a Tetsuo, so I will enhance as times goes on. Version 1 my friends!
 
 There are a few manual steps that I am looking to automate in future versions. However, small batches and king.
+
+Key points
+- used pdf.js to read the file into memory
+- save down the pdf to a text file
+- read the text file into memory with node.js
+- create a data structure based on the first page of Refactoring (note in the hardcover version of the book, all refactorings are listed with their corresponding page number). Note,I saved this down as a json file.
+- used regex to find the references (based on the json information)
+- saved the references as a data file
+- use chart.js to plot the data
+
+
+## How I got the data
+
+Refactoring
+```json
+{
+  "Change Function Declaration": "124",
+  "Change Reference to Value": "252",
+  "Change Value to Reference": "256",
+  "Collapse Hierarchy": "380",
+  "Combine Functions into Class": "144",
+  "Combine Functions into Transform": "149",
+  "Consolidate Conditional Expression": "263",
+  "Decompose Conditional": "260",
+  "Encapsulate Collection": "170",
+  "Encapsulate Record": "162",
+  "Encapsulate Variable": "132",
+  "Extract Class": "182",
+  "Extract Function": "106",
+  "Extract Superclass": "375",
+  "Extract Variable": "119",
+  "Hide Delegate": "189",
+  "Inline Class": "186",
+  "Inline Function": "115",
+  "Inline Variable": "123",
+  "Introduce Assertion": "302",
+  "Introduce Parameter Object": "140",
+  "Introduce Special Case": "289",
+  "Move Field": "207",
+  "Move Function": "198",
+  "Move Statements into Function": "213",
+  "Move Statements to Callers": "217",
+  "Parameterize Function": "310",
+  "Preserve Whole Object": "319",
+  "Pull Up Constructor Body": "355",
+  "Pull Up Field": "353",
+  "Pull Up Method": "350",
+  "Push Down Field": "361",
+  "Push Down Method": "359",
+  "Remove Dead Code": "237",
+  "Remove Flag Argument": "314",
+  "Remove Middle Man": "192",
+  "Remove Setting Method": "331",
+  "Remove Subclass": "369",
+  "Rename Field": "244",
+  "Rename Variable": "137",
+  "Replace Command with Function": "344",
+  "Replace Conditional with Polymorphism": "272",
+  "Replace Constructor with Factory Function": "334",
+  "Replace Derived Variable with Query": "248",
+  "Replace Function with Command": "337",
+  "Replace Inline Code with Function": "222",
+  "Replace Loop with Pipeline": "231",
+  "Replace Nested Conditional with Guard Clauses": "266",
+  "Replace Parameter with Query": "334",
+  "Replace Primitive with Object": "174",
+  "Replace Query with Parameter": "327",
+  "Replace Subclass with Delegate": "381",
+  "Replace Superclass with Delegate": "399",
+  "Replace Temp with Query": "178",
+  "Replace Type Code with Subclasses": "362",
+  "Separate Query from Modifier": "306",
+  "Slide Statements": "223",
+  "Split Loop": "227",
+  "Split Phase": "154",
+  "Split Variable": "240",
+  "Substitute Algorithm": "195"
+}
+```
+
+```javascript
+function createListOfRefactorings(data) {
+  const pageNumbers = getRefactoringPageNumbers();
+  const refactorings = [];
+  for (let key in pageNumbers) {
+    let re = new RegExp('\\(' + pageNumbers[key] + '\\)', 'ig');
+    refactorings.push({
+      name: key,
+      page: pageNumbers[key],
+      references: data.match(re).length
+    });
+    // console.log(`"${key}" is referenced ${data.match(re).length} times.`);
+  }
+  // console.log(`Number of Refactorings ${length}`);
+  return refactorings;
+}
+```
+
+
+## Additional Resources
+- [Source Code](https://github.com/ajahne/refactoring-references)
