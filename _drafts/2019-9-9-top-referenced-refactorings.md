@@ -28,12 +28,12 @@ header:
 ## Intro
 Refactoring is one the best programming books I have read. Full stop!  I have used this book to train and coach developers on my team.  I have used this book to make my programs and code better. Similar to pragmattic proggrammer, clean code, and others, this book helped me level up as an engineer. I've recommended this book to junior and senior developers a like.  
 
-If you are an experienced engineer, many of the techniques in the book you may already used. Some are similar to things we may have read in clean code, etc. However, this book gave me a vocabulary, the words need to describe what I was doing as well as the how. In turn I could more easily coach members of my team on these techniquest.  I highly encourage you to copy this book!
+If you are an experienced engineer, many of the techniques in the book you may already used. Some are similar to things we may have read in clean code, etc. However, this book gave me a vocabulary, the words need to describe what I was doing as well as the how. In turn I could more easily coach members of my team on these techniques.  I highly encourage you to cop this book!
 
 ## Purpose aka why did I do this
-I wanted to plot the most referenced refactorings from Martin Fowler's book.  Why? Because I wanted to understand which refactorings were mentioned the most often.  Almost every refactoring listed in the book depends upon another refactoring. For example..."blah" referances "foo", "bar", and "baz"!
+I wanted to plot the most referenced refactorings from Martin Fowler's book.  Why? Because I wanted to understand which refactorings were mentioned most often.  Almost every refactoring listed in the book depends upon another refactoring. For example..."blah" references "foo", "bar", and "baz"!
 
-After reading the book, I had my list of fundamental refactorings, key techniques that I used in my own code and coached peers and junior developers on (through code review, etc.). However, what if I was missing something? What if there was a refactoring that I glossed over, but was referenced numerous times as a "prerequstie" for others that I should take a second look at.
+After reading the book, I had my list of fundamental refactorings, key techniques that I used in my own code and coached peers and junior developers on (through code review, etc.). However, what if I was missing something? What if there was a refactoring that I glossed over, but was referenced numerous times as a "prerequisite" for others that I should take a second look at.
 
 Additionally, maybe I could gleam a bit of what Martin finds important or references the most.
 
@@ -71,7 +71,7 @@ Over 60 refactorings
 First I needed to convert the pdf to text so I could read the information. My idea was to covert it to text (ie a string) and perform a series regexes on the string to obtain the number of times a particular match was found.
 
 A few things to note
-I did just search for the string of a refactoring, but the actual page number string that it appears on.  This was too avoid references to the refactoring that occurs in its done chapter. For example, if I were to search for “extract function” then I would get all of the references including those on pages x-n. I don’t want to include those. What I noticed is that Martin references the refactoring plus it’s page number (eg (106)) when on referfacorinfg refers to another. Based on this all of my searches are the refactoring PLUS the page number.
+I did just search for the string of a refactoring, but the actual page number string that it appears on.  This was too avoid references to the refactoring that occurs in its done chapter. For example, if I were to search for “extract function” then I would get all of the references including those on pages x-n. I don’t want to include those. What I noticed is that Martin references the refactoring plus it’s page number (eg (106)) when one refactoring refers to another. Based on this all of my searches are the refactoring PLUS the page number.
 
 One I found the information, I needed to double check a few of my results. To do this, yep you guessed it, I manually counted a few (whew!). I also used my IDE to search on the text file generated from pdf.js to see if my logic was correct.
 
@@ -88,18 +88,47 @@ Once I had this image, right click, save as, and voila, charts! Whoa, no code fo
 There are a few manual steps that I am looking to automate in future versions. However, small batches and king.
 
 Key points
-- used pdf.js to read the file into memory
-- save down the pdf to a text file
-- read the text file into memory with node.js
-- create a data structure based on the first page of Refactoring (note in the hardcover version of the book, all refactorings are listed with their corresponding page number). Note,I saved this down as a json file.
-- used regex to find the references (based on the json information)
-- saved the references as a data file
-- use chart.js to plot the data
 
+### Use pdf.js to read the file into memory
+you can find the full source [here](https://github.com/ajahne/refactoring-references/blob/master/src/pdf/refactoring/parse-refactoring.js). My code is heavily inspired by the pdf.js example of [getinfo.js](https://github.com/mozilla/pdf.js/blob/master/examples/node/getinfo.js).
 
-## How I got the data
+One important change I made was to handle newlines and spaces:
 
-Refactoring
+```javascript
+return page.getTextContent({normalizeWhitespace:true}).then(function (content) {
+  // Content contains lots of information about the text layout and
+  // styles, but we need only strings at the moment
+  const strings = content.items.map(function(item, index, array) {
+    //.transform[5] is the y position of the current line
+    //if a new "y", then its a new line, so add newline character
+    let str = item.str;
+    if (index > 0 && item.transform[5] !== array[index-1].transform[5]) {
+      str = '\n' + str;
+    }
+    return str;
+  });
+//...more code, promises, etc.
+});
+```
+
+Important to note in the above code is we want to ensure we are adding a new line character at the appropriate place. If we do not do this, lines will jumble together and make it harder for us to utilize our regex expressions later. We also normalize the white space, which according to the source
+
+> replaces all occurrences of whitespace with standard spaces (0x20).
+
+This helped both in programming and manual testing (e.g. ctrl+f in an ide) double check certain functionality.
+
+### Save down the pdf to a text file
+```javascript
+fs.writeFile(outputFile, textContent, (err) => {
+  if (err) throw err;
+  console.log('file written');
+});
+```
+
+### create a data structure based on the first page of Refactoring
+- In the hardcover version of the book, all refactorings are listed with their corresponding page number). Note,I saved this down as a [json file](https://github.com/ajahne/refactoring-references/blob/master/src/regex/data/refactoring-page-numbers.json).
+
+*refactoring-page-numbers.json*
 ```json
 {
   "Change Function Declaration": "124",
@@ -166,6 +195,65 @@ Refactoring
 }
 ```
 
+
+### Read the text file into memory with node.js
+```javascript
+const file = '../pdf/assets/refactoring.txt';
+...
+...
+
+fs.readFile(file, 'utf8', (err, data) => {
+  if (err) throw err;
+  const refactorings = createListOfRefactorings(data);
+  sort(refactorings);
+  createDataForChart(refactorings);
+  writeRawData(refactorings);
+});
+```
+
+This is the most straightforward piece and shows how I like to make my entry functions a TLDR. We can see what is data place. The `file` is the `refactoring.txt` which we saved down with our pdf module.
+
+`createListOfRefactorings` makes an array of objects for each refactorig with its name, page number, and the number of references. You can find the full data set [here](https://github.com/ajahne/refactoring-references/blob/master/src/regex/data/refactorings-references-in-descending-order.json), below is a snippet of the results
+```javascript
+[
+ {
+  "name": "Extract Function",
+  "page": "106",
+  "references": 85
+ },
+ {
+  "name": "Change Function Declaration",
+  "page": "124",
+  "references": 45
+ },
+ {
+  "name": "Inline Function",
+  "page": "115",
+  "references": 34
+ },
+ {
+  "name": "Move Function",
+  "page": "198",
+  "references": 32
+ },
+ {
+  "name": "Inline Variable",
+  "page": "123",
+  "references": 18
+ },
+
+ //...more records
+
+ {
+  "name": "Replace Nested Conditional with Guard Clauses",
+  "page": "266",
+  "references": 1
+ }
+]
+```
+
+## To obtain this information, we use regex.
+The `data` is the in memory text file of the refactoring book as a string.
 ```javascript
 function createListOfRefactorings(data) {
   const pageNumbers = getRefactoringPageNumbers();
@@ -177,12 +265,56 @@ function createListOfRefactorings(data) {
       page: pageNumbers[key],
       references: data.match(re).length
     });
-    // console.log(`"${key}" is referenced ${data.match(re).length} times.`);
   }
-  // console.log(`Number of Refactorings ${length}`);
   return refactorings;
 }
 ```
+
+```javascript
+let re = new RegExp('\\(' + pageNumbers[key] + '\\)', 'ig');
+```
+
+This above line is the meat, which searches the entire file (e.g. 'g') and is case insensitive (e.g. "i"), where `pageNumbers[key]` would be 106, in the case of "Extract Function". As we loop through we push each object onto our array of refactorings and return the result.
+
+Once we have the refactorings, we can save this information to a file as seen [here](https://github.com/ajahne/refactoring-references/blob/master/src/regex/data/refactorings-references-in-descending-order.json)
+
+However, this is not the way chart.js needs the data structured.
+
+whew...still with me?  
+
+Look if you are fading, I feel you!  I thought this would be a quick project and yo, did it get involved!  Water break...stretch...cool?  We back
+
+### Use chart.js to plot the data
+Ok, so Chart.js needs an array of labels (e.g. the names of all Refactorings) and the data to plot (e.g. the number of references). I simply converted one data structure to the other
+
+
+And ended up with the following
+```javascript
+{
+ "labels": [
+  "Extract Function",
+  "Change Function Declaration",
+  "Inline Function",
+  "Move Function",
+  "Inline Variable",
+  //...edited for brevity...
+ ],
+ "data": [
+  85,
+  45,
+  34,
+  32,
+  18,
+  //...edited for brevity...
+ ]
+}
+
+This we could now plug into chart.js and voila...CHARTS!!!!
+
+```
+
+## Conclusion
+
 
 
 ## Additional Resources
