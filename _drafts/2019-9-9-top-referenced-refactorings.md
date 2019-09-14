@@ -8,33 +8,14 @@ header:
   image: assets/images/refactoring-header-most-referenced-refactorings.jpg
 ---
 
-# Outline - pop (purpose, outcome, process)
-- Intro
-- Purpose, why am I doing this?
-- Takeaways: what did I learn?
-- How did I do it
-  - used PDF.js to read the file into memory
-  - saved down the pdf to a text file
-  - read the text file into memory with node.js
-  - used regex to find the references
-  - saved the references as a data file
-  - used chart.js to plot the data
-- Links to refactorings
-  - Should I write about extract function?
-- How can you use this data
-- Conclusion
-- Additional resources
+[Refactoring (2nd Edition) by Martin Fowler](http://www.informit.com/store/refactoring-improving-the-design-of-existing-code-9780134757711) is one the *best* programming books I have read. Full stop.  I have utilized this book to train and coach developers on my team, improve the design of my code, and grow as a professional. Similar to [Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X), [Clean Code](), and others, this book helped me level up as an engineer.
 
-[Refactoring (2nd Edition) by Martin Fowler](http://www.informit.com/store/refactoring-improving-the-design-of-existing-code-9780134757711) is one the *best* programming books I have read. Full stop.  I have utilized this book to train and coach developers on my team, make my programs and code better, and grow as a professional. Similar to [Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X), [Clean Code](), and others, this book helped me level up as an engineer.
+## Purpose aka why did I do this?
+I wanted to plot Martin's _(yep, we on a first name basis)_ most referenced refactorings. Why? Because I wanted to understand which refactorings were mentioned most often.  Almost every refactoring listed in the book depends upon another refactoring. For example "Extract Function" mentions "Split Variable (240)" and "Replace Temp with Query (178)". While I may utilize "Extract Function" often, could I improve the design of my code by better understanding those other two refactorings?
 
-If you are an experienced engineer, many of the techniques in the book you may already used. However, this book gave me the vocabulary, the words needed to describe _what_ I was doing as well as the _how_. In turn, I could more easily coach members of my team on these techniques.  
+After reading the book, I had my list of fundamental refactorings, key techniques that I used in my own code and coached peers, senior engineers, and junior developers on (through code reviews, pair programming, etc.). However, what if I was missing something? What if there was a refactoring that I glossed over, but was referenced numerous times as a "prerequisite" for others that I should take a second look at. For example, after crunching the numbers I want to revisit "Replace Conditional with Polymorphism".
 
-## Purpose aka why did I do this
-I wanted to plot Martin's _(yep, we on a first name basis)_ most referenced refactorings. Why? Because I wanted to understand which refactorings were mentioned most often.  Almost every refactoring listed in the book depends upon another refactoring. For example..."blah" references "foo", "bar", and "baz"!
-
-After reading the book, I had my list of fundamental refactorings, key techniques that I used in my own code and coached peers and junior developers on (through code reviews, pair programming, etc.). However, what if I was missing something? What if there was a refactoring that I glossed over, but was referenced numerous times as a "prerequisite" for others that I should take a second look at.
-
-Maybe I could gleam a bit of what Martin finds important or references the most.Furthermore, could this information help me recommended to peers and other engineers certain refactorings to check out or "start with first". Martin tells the reader to [read the first 100 pages]({{ site.baseurl }}{% post_url 2019-3-29-refactoring-by-martin-fowler-chapter-notes %}), then skim the refactorings.  OK, but is there anything I should _skim_ a little bit more?
+Furthermore, maybe I could gleam a bit of what Martin finds important or references the most. Could this information help me recommended to peers and other engineers certain refactorings to check out or "start with first". Martin tells the reader to [read the first 100 pages]({{ site.baseurl }}{% post_url 2019-3-29-refactoring-by-martin-fowler-chapter-notes %}), then skim the refactorings.  OK, but is there anything I should _skim_ a little bit more?
 
 Lastly, I wanted to experiment with [Chart.js](https://www.chartjs.org) and [PDF.js](pdfjs). I had this idea of plotting the data and needed to see if I could do it.  A new opportunity, a new thing to learn, you know us engineers, we like that new and shiny. So, let's [shine](https://youtu.be/wuw6Xu9ZARU?t=40)!
 
@@ -47,47 +28,45 @@ Graph time!
 **The top 10**
 ![]({{site.baseurl}}/assets/images/refactoring-charts/refactoring-top-10.png)
 
-
-<!-- ![]({{site.baseurl}}/assets/images/refactoring-charts/refactoring-top-10-h.png) -->
 **The top 25**
-<figure>
+![]({{site.baseurl}}/assets/images/refactoring-charts/refactoring-top-25.png)
+
+<!-- <figure>
     <a href="/blog/assets/images/refactoring-charts/refactoring-top-25.png"><img src="/blog/assets/images/refactoring-charts/refactoring-top-25.png"></a>
     <figcaption>All the refactorings plotted, click to enlarge</figcaption>
-</figure>
+</figure> -->
 
 
-_Please note that there are over 60 refactorings and plotting all of those barely fits (legibly) on the screen.  To see the full data set, you can check out the code here._
+_Please note that there are over 60 refactorings and plotting all of those barely fits (legibly) on the screen.  To see the full data set, please [check out the code](https://github.com/ajahne/refactoring-references)._
 
 ## So what does this data tell us?
-Well I knew the king of the land was (and is) "Extract Function". If there is _one_ refactoring you learn, let it be this one! It is referenced almost twice as much (85) as the next refactoring "Change Function Declaration" (45). Additionally, it is the building block for numerous refactorings.
+Well I knew the king of the land was (and is) "Extract Function". If there is _one_ refactoring you learn, let it be this one! It is referenced almost twice as much (85) as the next refactoring "Change Function Declaration" (45). It is the building block for numerous refactorings.
 
-Additionally, techniques related to refactoring functions are highly referenced. As we know, functions are an essential building block of our programs, so it makes intuitive sense that these refacttorings would rate highly. While this was insightful, I did not think four out of the top five would be related to functions!
+Additionally, techniques related to refactoring functions are highly referenced. As we know, functions are an essential building block of our programs, so it makes intuitive sense that these refactorings would rate highly. While this was insightful, I did not think four out of the top five would be related to functions!
 
 So, my original hypothesis was that the following 5 refactorings would be referenced the most
 
-> Extract Function
-Move Function
-Extract Variable
-Inline Function
-Rename Variable
-
+> Extract Function  
+> Move Function  
+> Extract Variable  
+> Inline Function  
+> Rename Variable
 
 So yeah...I was off!
 
-
 In short, I hypothesized that there would be more references to refactorings related to variables and classes. And _this_ is why we do the experiment!
 
-Another thing that surprised me about this data is that certain refactorin
+Now, because a refactoring is mentioned more than another does that make it more _important_?  No.  While "Extract Function" is essential, there are additional refactorings such as "Rename Variable", "Replace Temp with Query", and "Decompose Conditional" that are fundamental to make cleaner, more maintainable, and economic code.
 
-Now, because a refactoring is mentioned more than another does that make it more _important_?  No.  While Extract Function is essential, there are additional refactorings such as Remove Dead Code, Replace Temp with Query, and Decompose Conditional that are fundamental to make cleaner, more maintainable, and economic code.
+# Part 2: How the deed was done.
 
 ## My initial thoughts and high level ideas
 There are over 60 refactorings mentioned within the book and over 400 pages! Where to begin?
 
 First I needed to convert the book (i.e. pdf) to text so I could read the information programmatically. My idea was to convert it to text (e.g a string) and perform a series regular expressions on the string to obtain the number of times a particular snippet (i.e. match) was found.
 
-_A quick note
-I did not just search for the string of a refactoring, but the actual **page number** string that it appears on.  This was too avoid references to the refactoring that occurs in its own chapter. For example, if I were to search for "Extract Function" then I would get all of the references including those on pages x-n. I don’t want to include those. What I noticed is that Martin references the refactoring plus it’s page number (e.g. "(106)"") when one refactoring refers to another. Based on this, all of my searches are the refactoring PLUS the page number._
+_A quick note:
+I did not just search for the string of a refactoring, but the actual **page number** string that it appears on.  This was to avoid references to the refactoring that occurs in its own chapter. For example, if I were to search for "Extract Function" then I would get all of the references including those it own section, potentially skewing the data! I don’t want to include those. What I noticed is that Martin references the refactoring plus it’s page number (e.g. "(106)") when one refactoring refers to another. Based on this, all of my searches are based on the page number of the refactoring._
 
 Once I found the information, I needed to double check a few of my results. To do this, yep you guessed it, I manually counted a few (whew!). I also used my IDE to search on the text file generated from PDF.js to see if my logic was correct.
 
@@ -98,6 +77,7 @@ I was inspired by an article that was like “hey have charts in your post” an
 Hmmmm? A dilemma.
 
 Chart.js has a function that returns the base64 encoded string. Once I have that I could create an image like so:
+
 ```javascript
 chart.toBase64Image();
 ```
@@ -212,7 +192,6 @@ fs.writeFile(outputFile, textContent, (err) => {
   "Substitute Algorithm": "195"
 }
 ```
-
 
 ### Read the text file into memory with node.js
 ```javascript
@@ -332,8 +311,10 @@ This we could now plug into chart.js and voila...CHARTS!!!!
 ```
 
 ## Conclusion
-
+Refactoring is an essential read.  If you are an experienced engineer, many of the techniques in the book you may already used. However, this book gave me the vocabulary, the words needed to describe _what_ I was doing as well as the _how_. In turn, I could more easily coach members of my team on these techniques.  
 
 
 ## Additional Resources
 - [Source Code](https://github.com/ajahne/refactoring-references)
+- [Refactoring: The First 100 pages]({{ site.baseurl }}{% post_url 2019-3-29-refactoring-by-martin-fowler-chapter-notes %})
+- [Chart.js](https://www.chartjs.org) and [PDF.js](pdfjs).
