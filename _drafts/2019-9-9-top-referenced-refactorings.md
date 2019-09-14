@@ -13,7 +13,7 @@ header:
 - Purpose, why am I doing this?
 - Takeaways: what did I learn?
 - How did I do it
-  - used pdf.js to read the file into memory
+  - used PDF.js to read the file into memory
   - saved down the pdf to a text file
   - read the text file into memory with node.js
   - used regex to find the references
@@ -25,21 +25,20 @@ header:
 - Conclusion
 - Additional resources
 
-## Intro
-Refactoring is one the best programming books I have read. Full stop!  I have used this book to train and coach developers on my team.  I have used this book to make my programs and code better. Similar to pragmattic proggrammer, clean code, and others, this book helped me level up as an engineer. I've recommended this book to junior and senior developers a like.  
+[Refactoring (2nd Edition) by Martin Fowler](http://www.informit.com/store/refactoring-improving-the-design-of-existing-code-9780134757711) is one the *best* programming books I have read. Full stop.  I have utilized this book to train and coach developers on my team, make my programs and code better, and grow as a professional. Similar to [Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X), [Clean Code](), and others, this book helped me level up as an engineer. I've recommended this book to junior and senior developers alike.  
 
-If you are an experienced engineer, many of the techniques in the book you may already used. Some are similar to things we may have read in clean code, etc. However, this book gave me a vocabulary, the words need to describe what I was doing as well as the how. In turn I could more easily coach members of my team on these techniques.  I highly encourage you to cop this book!
+If you are an experienced engineer, many of the techniques in the book you may already used. Some are similar to things we may have read in clean code, etc. However, this book gave me a vocabulary, the words need to describe _what_ I was doing as well as the _how_. In turn, I could more easily coach members of my team on these techniques.  I highly encourage you to cop this book!
 
 ## Purpose aka why did I do this
-I wanted to plot the most referenced refactorings from Martin Fowler's book.  Why? Because I wanted to understand which refactorings were mentioned most often.  Almost every refactoring listed in the book depends upon another refactoring. For example..."blah" references "foo", "bar", and "baz"!
+I wanted to plot Martin's _(yep, we on a first name basis)_ most referenced refactorings. Why? Because I wanted to understand which refactorings were mentioned most often.  Almost every refactoring listed in the book depends upon another refactoring. For example..."blah" references "foo", "bar", and "baz"!
 
-After reading the book, I had my list of fundamental refactorings, key techniques that I used in my own code and coached peers and junior developers on (through code review, etc.). However, what if I was missing something? What if there was a refactoring that I glossed over, but was referenced numerous times as a "prerequisite" for others that I should take a second look at.
+After reading the book, I had my list of fundamental refactorings, key techniques that I used in my own code and coached peers and junior developers on (through code reviews, pair programming, etc.). However, what if I was missing something? What if there was a refactoring that I glossed over, but was referenced numerous times as a "prerequisite" for others that I should take a second look at.
 
 Additionally, maybe I could gleam a bit of what Martin finds important or references the most.
 
 Lastly, could this help me recommended to peers and other engineers certain refactorings to check out or "start with first". Martin tells the reader to read the first 100 pages, then skim the refactorings.  OK, but is there anything I should skim a little bit more?
 
-Also, I wanted to try out chart.js and pdf.js. I wanted to try something new and see if I could do this.  A new opportunity, a new thing to learn, you know us engineers, we like that new and shiny. So, let's shine!
+Also, I wanted to try out [Chart.js](https://www.chartjs.org) and [PDF.js](pdfjs). I wanted to try something new and see if I could do this.  A new opportunity, a new thing to learn, you know us engineers, we like that new and shiny. So, let's shine!
 
 Graph time!
 
@@ -65,32 +64,34 @@ So, my original hypothese was that the following 5 refactorings would be referen
 </figure>
 
 
-## Other things that I wrote
-Over 60 refactorings
+## My initial thoughts and high level ideas
+There are over 60 refactorings mentioned within the book and over 400 pages! Where to begin?
 
-First I needed to convert the pdf to text so I could read the information. My idea was to covert it to text (ie a string) and perform a series regexes on the string to obtain the number of times a particular match was found.
+First I needed to convert the book (i.e. pdf) to text so I could read the information programmatically. My idea was to covert it to text (e.g a string) and perform a series regular expression on the string to obtain the number of times a particular snippet (i.e. match) was found.
 
-A few things to note
-I did just search for the string of a refactoring, but the actual page number string that it appears on.  This was too avoid references to the refactoring that occurs in its done chapter. For example, if I were to search for “extract function” then I would get all of the references including those on pages x-n. I don’t want to include those. What I noticed is that Martin references the refactoring plus it’s page number (eg (106)) when one refactoring refers to another. Based on this all of my searches are the refactoring PLUS the page number.
+_A quick note note
+I did not just search for the string of a refactoring, but the actual page number string that it appears on.  This was too avoid references to the refactoring that occurs in its own chapter. For example, if I were to search for "Extract Function" then I would get all of the references including those on pages x-n. I don’t want to include those. What I noticed is that Martin references the refactoring plus it’s page number (e.g. "(106)"") when one refactoring refers to another. Based on this, all of my searches are the refactoring PLUS the page number._
 
-One I found the information, I needed to double check a few of my results. To do this, yep you guessed it, I manually counted a few (whew!). I also used my IDE to search on the text file generated from pdf.js to see if my logic was correct.
+Once I found the information, I needed to double check a few of my results. To do this, yep you guessed it, I manually counted a few (whew!). I also used my IDE to search on the text file generated from PDF.js to see if my logic was correct.
 
-Once I had my information I needed to create the data structure needed for chart.js. With that I could being plotting my data.
+Next, I needed to create the data structure needed for chart.js. With that I could being plotting my data.
 
 I was inspired by an article that was like “hey have charts in your post” and I wanted that, so I made it. Chart.js is very easy to make charts with. However, ya boy needed images.
 
 Hmmmm? A dilemma.
 
-Chart.js has a function that returns then base64 encoded string. Once I have that I could create an image like so:
+Chart.js has a function that returns the base64 encoded string. Once I have that I could create an image like so:
+```javascript
+chart.toBase64Image();
+```
 
+## Algorithm, process, and code breakdown
 Once I had this image, right click, save as, and voila, charts! Whoa, no code for that you say? Nah, not at this time, this pet project already turned into a tiger, soon to be a Tetsuo, so I will enhance as times goes on. Version 1 my friends!
 
-There are a few manual steps that I am looking to automate in future versions. However, small batches and king.
+There are a few manual steps that I am looking to automate in future versions. However, small batches are king!
 
-Key points
-
-### Use pdf.js to read the file into memory
-you can find the full source [here](https://github.com/ajahne/refactoring-references/blob/master/src/pdf/refactoring/parse-refactoring.js). My code is heavily inspired by the pdf.js example of [getinfo.js](https://github.com/mozilla/pdf.js/blob/master/examples/node/getinfo.js).
+### Use PDF.js to read the file into memory
+you can find the full source [here](https://github.com/ajahne/refactoring-references/blob/master/src/pdf/refactoring/parse-refactoring.js). My code is heavily inspired by the PDF.js example of [getinfo.js](https://github.com/mozilla/PDF.js/blob/master/examples/node/getinfo.js).
 
 One important change I made was to handle newlines and spaces:
 
