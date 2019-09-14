@@ -53,8 +53,36 @@ So, my original hypothese was that the following 5 refactorings would be referen
 
 **All the refactorings**
 
-![]({{site.baseurl}}/assets/images/refactoring-charts/refactoring-top-10-references.jpg)
+![]({{site.baseurl}}/assets/images/refactoring-charts/refactoring-top-five-labeled.jpg)
 
-![]({{site.baseurl}}/assets/images/refactoring-charts/refactoring-all-references.jpg)
+![]({{site.baseurl}}/assets/images/refactoring-charts/refactoring-top-10.png)
 
-![]({{site.baseurl}}/assets/images/refactoring-charts/refactoring-top-five.jpg)
+![]({{site.baseurl}}/assets/images/refactoring-charts/refactoring-top-10-h.png)
+
+<figure>
+    <a href="/blog/assets/images/refactoring-charts/refactoring-top-25.png"><img src="/blog/assets/images/refactoring-charts/refactoring-top-25.png"></a>
+    <figcaption>All the refactorings plotted, click to enlarge</figcaption>
+</figure>
+
+
+## Other things that I wrote
+Over 60 refactorings
+
+First I needed to convert the pdf to text so I could read the information. My idea was to covert it to text (ie a string) and perform a series regexes on the string to obtain the number of times a particular match was found.
+
+A few things to note
+I did just search for the string of a refactoring, but the actual page number string that it appears on.  This was too avoid references to the refactoring that occurs in its done chapter. For example, if I were to search for “extract function” then I would get all of the references including those on pages x-n. I don’t want to include those. What I noticed is that Martin references the refactoring plus it’s page number (eg (106)) when on referfacorinfg refers to another. Based on this all of my searches are the refactoring PLUS the page number.
+
+One I found the information, I needed to double check a few of my results. To do this, yep you guessed it, I manually counted a few (whew!). I also used my IDE to search on the text file generated from pdf.js to see if my logic was correct.
+
+Once I had my information I needed to create the data structure needed for chart.js. With that I could being plotting my data.
+
+I was inspired by an article that was like “hey have charts in your post” and I wanted that, so I made it. Chart.js is very easy to make charts with. However, ya boy needed images.
+
+Hmmmm? A dilemma.
+
+Chart.js has a function that returns then base64 encoded string. Once I have that I could create an image like so:
+
+Once I had this image, right click, save as, and voila, charts! Whoa, no code for that you say? Nah, not at this time, this pet project already turned into a tiger, soon to be a Tetsuo, so I will enhance as times goes on. Version 1 my friends!
+
+There are a few manual steps that I am looking to automate in future versions. However, small batches and king.
