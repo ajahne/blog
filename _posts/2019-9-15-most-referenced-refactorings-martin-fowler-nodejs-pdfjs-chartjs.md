@@ -41,11 +41,6 @@ Graph time!
 **The top 25**
 ![]({{site.baseurl}}/assets/images/refactoring-charts/refactoring-top-25.png)
 
-<!-- <figure>
-    <a href="/blog/assets/images/refactoring-charts/refactoring-top-25.png"><img src="/blog/assets/images/refactoring-charts/refactoring-top-25.png"></a>
-    <figcaption>All the refactorings plotted, click to enlarge</figcaption>
-</figure> -->
-
 
 _Please note that there are over 60 refactorings and plotting all of those barely fits (legibly) on the screen.  To see the full data set, please [check out the code](https://github.com/ajahne/refactoring-references)._
 
