@@ -74,6 +74,7 @@ Now, because a refactoring is mentioned more than another does that make it more
 Now that we've discussed the data, how did we do it?
 
 # Part 2: How the deed was done.
+In this section I outline my algorithm, process, and pieces of the code that brought this to fruition. My intent is to provide insight into some of the more nuanced elements of developing this project that will hopefully help you when/if you try out these tools or embark upon your own endeavor. All the code for this project can be viewed [here](https://github.com/ajahne/refactoring-references).
 
 ## My initial thoughts and high level ideas
 There are over 60 refactorings mentioned within the book and over 450 pages! Where to begin?
@@ -84,18 +85,19 @@ _A quick note:
 I did not just search for the string of a refactoring, but the actual **page number** that it appears on.  This was to avoid references to the refactoring that occurs in its own chapter. For example, if I were to search for "Extract Function" then I would get all of the references including those in its own section, potentially skewing the data! I do not want to include those. What I noticed is that Martin references the refactoring plus it’s page number (e.g. "(106)") when one refactoring refers to another. Based on this, all of my searches are based on the page number of the refactoring._
 
 ## Algorithm, process, and code breakdown
-- [Create a data structure with the list of refactorings and page numbers](#create-a-data-structure-based-on-the-first-page-of-refactoring)
-- [Use PDF.js to read the pdf book into memory](use-pdf-js-to-read-the-file-into-memory)
-- Save the text in the pdf to a file
-- Read the text file into memory with Node.js
-- Use regular expressions to find the references (based on the list of refactorings and page numbers)
-- Save the references as a data file
-- Use Chart.js to plot the data
-- Save charts as images
+- [Prerequisite: Create a data structure with the list of refactorings and page numbers](#create-a-data-structure-based-on-the-first-page-of-refactoring)
+- [Use PDF.js to read the pdf book into memory](#use-pdf-js-to-read-the-file-into-memory)
+- [Save the text in the pdf to a file](#save-the-text-in-the-pdf-to-a-file)
+- [Read the text file into memory with Node.js](#read-the-text-file-into-memory-with-nodejs)
+- [Use regular expressions to find the references (based on the list of refactorings and page numbers)](Use regular expression to find the references)
+- [Save the references as a data file](#save-the-references-as-a-data-file)
+- [Use Chart.js to plot the data](#use-chartjs-to-plot-the-data)
+- [Save charts as images](#save-charts-as-images)
+- Get some sleep!
 
 
 ### Create a data structure based on the first page of Refactoring
-In the hardcover version of the book, all refactorings are listed with their corresponding page number). Note, I saved this down as a [json file](https://github.com/ajahne/refactoring-references/blob/master/src/regex/data/refactoring-page-numbers.json). This information is later used for the regular expressions to find the number of references
+In the hardcover version of the book, all refactorings are listed with their corresponding page number. I saved this information as a [json file](https://github.com/ajahne/refactoring-references/blob/master/src/regex/data/refactoring-page-numbers.json) and used it for the regular expressions to find the number of references.
 
 *refactoring-page-numbers.json*
 ```json
@@ -186,7 +188,7 @@ return page.getTextContent({normalizeWhitespace:true}).then(function (content) {
 });
 ```
 
-Important to note in the above code is we want to ensure we are adding a new line character at the appropriate place. If we do not do this, lines will jumble together and make it harder for us to utilize our regular expressions later. We also normalize the white space, which according to the source
+Important to note in the snippet, is that we want to ensure we are adding a new line character at the appropriate place. If we do not do this, lines will jumble together and make it harder for us to utilize our regular expressions later. We also normalize the white space, which according to the source
 
 > replaces all occurrences of whitespace with standard spaces (0x20).
 
@@ -337,7 +339,7 @@ Once I had this image, right click, save as, and boom, charts! Whoa, no code for
 ## Conclusion
 [Refactoring is an essential read]({{ site.baseurl }}{% post_url 2019-3-29-refactoring-by-martin-fowler-chapter-notes %}).  If you are an experienced engineer, many of the techniques in the book you may already used. However, this book gave me the vocabulary, the words needed to describe _what_ I was doing as well as the _how_. In turn, I could more easily coach members of my team on these techniques.  
 
-Given my passion for this book and how I saw the lessons it outlined positively impact my team, I wanted to dive it and determine which refactorings were most often referenced. We did that, onbtained the data all while trying out new libraries, making pretty graphs, and experimented with modern techniques. Definitely check out the code, explore refactoring, and continue to push!
+Given my passion for this book and how I saw the lessons it outlined positively impact my team, I wanted to dive it and determine which refactorings were most often referenced. So yeah, we did that! We obtained and plotted the data all while trying out new libraries, making pretty graphs, and experimented with modern techniques. Definitely [check out the code](https://github.com/ajahne/refactoring-references), explore refactoring, and continue to push!
 
 Happy coding, happy learning, and keep leveling up!  
 
