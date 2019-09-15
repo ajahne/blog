@@ -41,7 +41,6 @@ Graph time!
 **The top 25**
 ![]({{site.baseurl}}/assets/images/refactoring-charts/refactoring-top-25.png)
 
-
 _Please note that there are over 60 refactorings and plotting all of those barely fits (legibly) on the screen.  To see the full data set, please [check out the code](https://github.com/ajahne/refactoring-references)._
 
 ## So what does this data tell us?
@@ -49,7 +48,7 @@ Well I knew the king of the land was (and is) "Extract Function". If there is _o
 
 Additionally, techniques related to refactoring functions are highly referenced. As we know, functions are an essential building block of our programs, so it makes intuitive sense that these refactorings would rate highly. While this was insightful, I did not think four out of the top five would be related to functions!
 
-Not only are the first four refactorings related to functions, but there is also a bit of a drop after these four. The top four are each mentioned almost twice as much as the 5th most referenced refactoring ("Inline Variable"), which is the first non-function related refactactoring.
+Not only are the first four refactorings related to functions, but there is also a bit of a drop after these four. The top four are each mentioned almost twice as much as the 5th most referenced refactoring ("Inline Variable"), which is the first non-function related refactoring.
 
 My original hypothesis was that the following refactorings would be referenced the most:
 
