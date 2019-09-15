@@ -86,10 +86,10 @@ I did not just search for the string of a refactoring, but the actual **page num
 
 ## Algorithm, process, and code breakdown
 - [Prerequisite: Create a data structure with the list of refactorings and page numbers](#create-a-data-structure-based-on-the-first-page-of-refactoring)
-- [Use PDF.js to read the pdf book into memory](#use-pdf-js-to-read-the-file-into-memory)
+- [Use PDF.js to read the pdf book into memory](#use-pdfjs-to-read-the-file-into-memory)
 - [Save the text in the pdf to a file](#save-the-text-in-the-pdf-to-a-file)
 - [Read the text file into memory with Node.js](#read-the-text-file-into-memory-with-nodejs)
-- [Use regular expressions to find the references (based on the list of refactorings and page numbers)](Use regular expression to find the references)
+- [Use regular expressions to find the references (based on the list of refactorings and page numbers)](#use-regular-expression-to-find-the-references)
 - [Save the references as a data file](#save-the-references-as-a-data-file)
 - [Use Chart.js to plot the data](#use-chartjs-to-plot-the-data)
 - [Save charts as images](#save-charts-as-images)
@@ -219,7 +219,7 @@ fs.readFile(file, 'utf8', (err, data) => {
 
 This is the most straightforward piece and shows how I like to make my entry point "TL;DR". The `file` is the `refactoring.txt` which we saved down with our pdf module.
 
-## Use regular expression to find the references
+### Use regular expression to find the references
 Now that we have read the file, we can now search it for instances of each refactoring. The `data` is the in memory text file of the refactoring book as a string.
 ```javascript
 function createListOfRefactorings(data) {
@@ -313,7 +313,7 @@ Ok, so Chart.js needs an array of labels (e.g. the names of all refactorings) an
 
 This we could now plug into chart.js and voila...[CHARTS!!!!](#the-results-aka-them-charts)
 
-### Chart Images
+### Save charts as images
 I was inspired by an article that was like “hey have charts in your post” and I wanted that, so I made it. Chart.js is very easy to make charts with. However, ya boy needed pretty pictures for the blog.
 
 Hmmmm? A dilemma.
@@ -337,9 +337,9 @@ const createImage = (chart, width=350, height=350) => {
 Once I had this image, right click, save as, and boom, charts! Whoa, no code for that you say? Nah, not at this time, this pet project already turned into a tiger, soon to be a titan, so I will enhance as times goes on. Version 1 my friends!
 
 ## Conclusion
-[Refactoring is an essential read]({{ site.baseurl }}{% post_url 2019-3-29-refactoring-by-martin-fowler-chapter-notes %}).  If you are an experienced engineer, many of the techniques in the book you may already used. However, this book gave me the vocabulary, the words needed to describe _what_ I was doing as well as the _how_. In turn, I could more easily coach members of my team on these techniques.  
+[Refactoring is an essential read]({{ site.baseurl }}{% post_url 2019-3-29-refactoring-by-martin-fowler-chapter-notes %}).  If you are an experienced engineer, many of the techniques in the book you may have already used. However, this book gave me the vocabulary, the words needed to describe _what_ I was doing as well as the _how_. In turn, I could more easily coach members of my team on these techniques.  
 
-Given my passion for this book and how I saw the lessons it outlined positively impact my team, I wanted to dive it and determine which refactorings were most often referenced. So yeah, we did that! We obtained and plotted the data all while trying out new libraries, making pretty graphs, and experimented with modern techniques. Definitely [check out the code](https://github.com/ajahne/refactoring-references), explore refactoring, and continue to push!
+Given my passion for this book and how I saw the lessons it outlined positively impact my team, I wanted to dive it and determine which refactorings were most often referenced. So yeah, we did that! We obtained and plotted the data all while trying out new libraries, making pretty graphs, and experimenting with modern techniques. Definitely [check out the code](https://github.com/ajahne/refactoring-references), explore refactoring, and continue to push!
 
 Happy coding, happy learning, and keep leveling up!  
 
