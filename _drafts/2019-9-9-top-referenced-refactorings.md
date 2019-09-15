@@ -8,7 +8,7 @@ header:
   image: assets/images/refactoring-header-most-referenced-refactorings.jpg
 ---
 
-[Refactoring (2nd Edition) by Martin Fowler](http://www.informit.com/store/refactoring-improving-the-design-of-existing-code-9780134757711) is one the *best* programming books I have read. Full stop. I have utilized this book to train and coach developers on my team, improve the design of my code, and grow as a professional. Similar to [Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X), [Clean Code](), and others, this book helped me level up as an engineer.
+[Refactoring (2nd Edition) by Martin Fowler](http://www.informit.com/store/refactoring-improving-the-design-of-existing-code-9780134757711) is one the *best* programming books I have read. Full stop. I have utilized this book to train and coach developers on my team, improve the design of my code, and grow as a professional. Similar to [Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X), [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), and others, this book helped me level up as an engineer.
 
 After reading the book, I wanted to ascertain which refactorings Martin _(yep, we on a first name basis)_ referenced the most.
 
@@ -20,7 +20,7 @@ After reading the book, I had my list of fundamental refactorings, key technique
 
 Furthermore, maybe I could gleam a bit of what Martin finds important or uses the most. Could this information help me recommended to peers and other engineers certain refactorings to check out or "start with first". Martin tells the reader to [read the first 100 pages]({{ site.baseurl }}{% post_url 2019-3-29-refactoring-by-martin-fowler-chapter-notes %}), then skim the refactorings.  OK, but is there anything I should _skim_ a little bit more?
 
-Lastly, I wanted to experiment with [Chart.js](https://www.chartjs.org) and [PDF.js](pdfjs). to plot the data.  A new opportunity, a new thing to learn, you know us engineers, we like that new and shiny. So, let's [shine](https://youtu.be/wuw6Xu9ZARU?t=40)!
+Lastly, I wanted to experiment with [Chart.js](https://www.chartjs.org) and [PDF.js](https://mozilla.github.io/pdf.js/). to plot the data.  A new opportunity, a new thing to learn, you know us engineers, we like that new and shiny. So, let's [shine](https://youtu.be/wuw6Xu9ZARU?t=40)!
 
 Graph time!
 
@@ -283,8 +283,6 @@ This above line is the meat, which searches the entire file (e.g. 'g') and is ca
 ]
 ```
 
-Once we have the refactorings, we can save this information to a file as seen [here](https://github.com/ajahne/refactoring-references/blob/master/src/regex/data/refactorings-references-in-descending-order.json)
-
 However, this is not the way chart.js needs the data structured.
 
 ### Use Chart.js to plot the data
@@ -346,4 +344,4 @@ Happy coding, happy learning, and keep leveling up!
 ## Additional Resources
 - [Source Code](https://github.com/ajahne/refactoring-references)
 - [Refactoring: The First 100 pages]({{ site.baseurl }}{% post_url 2019-3-29-refactoring-by-martin-fowler-chapter-notes %})
-- [Chart.js](https://www.chartjs.org) and [PDF.js](pdfjs).
+- [Chart.js](https://www.chartjs.org) and [PDF.js](https://mozilla.github.io/pdf.js/).
