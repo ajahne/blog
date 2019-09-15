@@ -1,9 +1,9 @@
 ---
 layout: single
-title:  "The Most Referenced Refactorings"
-date:  2019-9-9 12:42:00 -0400
+title:  "Plotting the most referenced Refactorings with Node.js, PDF.js, and Chart.js"
+date:  2019-9-15 7:07:00 -0400
 categories: javascript
-tags: javascript, clean code, programming, books, refactoring
+tags: javascript, clean code, programming, books, refactoring, martin fowler
 header:
   image: assets/images/refactoring-header-most-referenced-refactorings.jpg
 ---
