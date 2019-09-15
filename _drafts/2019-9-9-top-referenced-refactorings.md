@@ -24,7 +24,7 @@ Lastly, I wanted to experiment with [Chart.js](https://www.chartjs.org) and [PDF
 
 Graph time!
 
-## Outline
+## Sections
 - [The Results aka Them Charts!](#the-results-aka-them-charts)
   - [What the data tells us](#so-what-does-this-data-tell-us)
 - [Algorithm and Process (How the deed was done)](#part-2-how-the-deed-was-done)
@@ -62,7 +62,7 @@ My original hypothesis was that the following refactorings would be referenced t
 > Move Function  
 > Extract Variable  
 > Inline Function  
-> Rename Variable
+> Rename Variable  
 > Combine Function into Class
 
 So yeah...I was off!
@@ -81,21 +81,21 @@ There are over 60 refactorings mentioned within the book and over 450 pages! Whe
 My idea was to convert the book (i.e. pdf) to text (e.g a string) and perform a series regular expressions on the string to obtain the number of times a particular snippet (i.e. match) was found. Once I had the number of times a refactoring was mentioned, I would then plot this data!
 
 _A quick note:
-I did not just search for the string of a refactoring, but the actual **page number** that it appears on.  This was to avoid references to the refactoring that occurs in its own chapter. For example, if I were to search for "Extract Function" then I would get all of the references including those it own section, potentially skewing the data! I don’t want to include those. What I noticed is that Martin references the refactoring plus it’s page number (e.g. "(106)") when one refactoring refers to another. Based on this, all of my searches are based on the page number of the refactoring._
+I did not just search for the string of a refactoring, but the actual **page number** that it appears on.  This was to avoid references to the refactoring that occurs in its own chapter. For example, if I were to search for "Extract Function" then I would get all of the references including those in its own section, potentially skewing the data! I do not want to include those. What I noticed is that Martin references the refactoring plus it’s page number (e.g. "(106)") when one refactoring refers to another. Based on this, all of my searches are based on the page number of the refactoring._
 
 ## Algorithm, process, and code breakdown
 - [Create a data structure with the list of refactorings and page numbers](#create-a-data-structure-based-on-the-first-page-of-refactoring)
-- Use PDF.js to read the pdf book into memory
-- Save the pdf to a text file
+- [Use PDF.js to read the pdf book into memory](use-pdf-js-to-read-the-file-into-memory)
+- Save the text in the pdf to a file
 - Read the text file into memory with Node.js
-- Use regular expressions to find the references (based on the file described above)
+- Use regular expressions to find the references (based on the list of refactorings and page numbers)
 - Save the references as a data file
 - Use Chart.js to plot the data
 - Save charts as images
 
 
 ### Create a data structure based on the first page of Refactoring
-In the hardcover version of the book, all refactorings are listed with their corresponding page number). Note, I saved this down as a [json file](https://github.com/ajahne/refactoring-references/blob/master/src/regex/data/refactoring-page-numbers.json). This information is later used
+In the hardcover version of the book, all refactorings are listed with their corresponding page number). Note, I saved this down as a [json file](https://github.com/ajahne/refactoring-references/blob/master/src/regex/data/refactoring-page-numbers.json). This information is later used for the regular expressions to find the number of references
 
 *refactoring-page-numbers.json*
 ```json
@@ -164,7 +164,7 @@ In the hardcover version of the book, all refactorings are listed with their cor
 }
 ```
 
-### Use PDF.js to read the file into memory...
+### Use PDF.js to read the file into memory
 You can find the full source [here](https://github.com/ajahne/refactoring-references/blob/master/src/pdf/refactoring/parse-refactoring.js). My code is heavily inspired by the PDF.js example of [getinfo.js](https://github.com/mozilla/PDF.js/blob/master/examples/node/getinfo.js).
 
 One important change I made was to handle newlines and spaces:
@@ -192,7 +192,7 @@ Important to note in the above code is we want to ensure we are adding a new lin
 
 This helped both in programming and automated/manual testing (e.g. ctrl+f in an IDE) to double check our logic.
 
-###..then Save the pdf to a text file
+### Save the text in the pdf to a file
 ```javascript
 //textContent is the pdf as text
 //outputFile, e.g. 'refactoring.txt`
@@ -204,8 +204,7 @@ fs.writeFile(outputFile, textContent, (err) => {
 ### Read the text file into memory with Node.js
 ```javascript
 const file = '../pdf/assets/refactoring.txt';
-...
-...
+//additional code removed for brevity
 
 fs.readFile(file, 'utf8', (err, data) => {
   if (err) throw err;
@@ -216,10 +215,10 @@ fs.readFile(file, 'utf8', (err, data) => {
 });
 ```
 
-This is the most straightforward piece and shows how I like to make my entry functions a TL;DR. The `file` is the `refactoring.txt` which we saved down with our pdf module.
+This is the most straightforward piece and shows how I like to make my entry point "TL;DR". The `file` is the `refactoring.txt` which we saved down with our pdf module.
 
 ## Use regular expression to find the references
-The `data` is the in memory text file of the refactoring book as a string.
+Now that we have read the file, we can now search it for instances of each refactoring. The `data` is the in memory text file of the refactoring book as a string.
 ```javascript
 function createListOfRefactorings(data) {
   const pageNumbers = getRefactoringPageNumbers();
@@ -243,7 +242,7 @@ let re = new RegExp('\\(' + pageNumbers[key] + '\\)', 'ig');
 This above line is the meat, which searches the entire file (e.g. 'g') and is case insensitive (e.g. "i"), where `pageNumbers[key]` would be 106, in the case of "Extract Function". As we loop through we push each object onto our array of refactorings and return the result.
 
 ### Save the references as a data file
-`createListOfRefactorings` makes an array of objects for each refactoring with its name, page number, and the number of references. You can find the full data set [here](https://github.com/ajahne/refactoring-references/blob/master/src/regex/data/refactorings-references-in-descending-order.json), below is a snippet of the results
+`createListOfRefactorings` makes an array of objects for each refactoring with its name, page number, and the number of times it was referenced. You can find the full data set [here](https://github.com/ajahne/refactoring-references/blob/master/src/regex/data/refactorings-references-in-descending-order.json), below is a snippet of the results:
 ```javascript
 [
  {
@@ -284,16 +283,10 @@ This above line is the meat, which searches the entire file (e.g. 'g') and is ca
 
 Once we have the refactorings, we can save this information to a file as seen [here](https://github.com/ajahne/refactoring-references/blob/master/src/regex/data/refactorings-references-in-descending-order.json)
 
-This is done from `createDataForChart(refactorings)` with simply uses the `fs` module to write this data structure to a file.
-
 However, this is not the way chart.js needs the data structured.
 
-whew...still with me?  
-
-Look if you are fading, I feel you!  I thought this would be a quick project and yo, did it get involved!  Water break...stretch...cool?  We back.
-
 ### Use Chart.js to plot the data
-Ok, so Chart.js needs an array of labels (e.g. the names of all Refactorings) and the data to plot (e.g. the number of references). I simply converted one data structure to the other and ended up with the following
+Ok, so Chart.js needs an array of labels (e.g. the names of all refactorings) and the data to plot (e.g. the number of references). I simply converted one data structure to the other and ended up with the following
 ```javascript
 {
  "labels": [
@@ -329,10 +322,24 @@ Chart.js has a function that returns the base64 encoded string. Once I have that
 chart.toBase64Image();
 ```
 
-Once I had this image, right click, save as, and boom, charts! Whoa, no code for that you say? Nah, not at this time, this pet project already turned into a tiger, soon to be a Tetsuo, so I will enhance as times goes on. Version 1 my friends!
+And then built a function to dynamically make an image
+```javascript
+const createImage = (chart, width=350, height=350) => {
+  const data = chart.toBase64Image();
+  const image = new Image(width, height);
+  image.src = data;
+  document.body.appendChild(image);
+}
+```
+
+Once I had this image, right click, save as, and boom, charts! Whoa, no code for that you say? Nah, not at this time, this pet project already turned into a tiger, soon to be a titan, so I will enhance as times goes on. Version 1 my friends!
 
 ## Conclusion
 [Refactoring is an essential read]({{ site.baseurl }}{% post_url 2019-3-29-refactoring-by-martin-fowler-chapter-notes %}).  If you are an experienced engineer, many of the techniques in the book you may already used. However, this book gave me the vocabulary, the words needed to describe _what_ I was doing as well as the _how_. In turn, I could more easily coach members of my team on these techniques.  
+
+Given my passion for this book and how I saw the lessons it outlined positively impact my team, I wanted to dive it and determine which refactorings were most often referenced. We did that, onbtained the data all while trying out new libraries, making pretty graphs, and experimented with modern techniques. Definitely check out the code, explore refactoring, and continue to push!
+
+Happy coding, happy learning, and keep leveling up!  
 
 ## Additional Resources
 - [Source Code](https://github.com/ajahne/refactoring-references)
