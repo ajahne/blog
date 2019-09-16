@@ -41,7 +41,7 @@ Graph time!
 **The top 25**
 ![]({{site.baseurl}}/assets/images/refactoring-charts/refactoring-top-25.png)
 
-_Please note that there are over 60 refactorings and plotting all of those barely fits (legibly) on the screen.  To see the full data set, please [check out the code](https://github.com/ajahne/refactoring-references)._
+_Please note that there are over 60 refactorings and plotting all of those barely fits (legibly) on the screen.  To see the full data set, click [here](https://github.com/ajahne/refactoring-references/blob/master/src/regex/data/refactorings-references-in-descending-order.json)._
 
 ## So what does this data tell us?
 Well I knew the king of the land was (and is) "Extract Function". If there is _one_ refactoring you learn, let it be this one! It is referenced almost twice as much (85) as the next refactoring "Change Function Declaration" (45). It is the building block for numerous refactorings.
