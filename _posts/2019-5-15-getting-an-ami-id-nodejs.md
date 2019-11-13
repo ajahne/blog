@@ -2,7 +2,7 @@
 layout: single
 title:  "Getting an AMI ImageId with Node.js"
 date:   2019-5-15 2:15:00 -04:00
-categories: javascript
+categories: javascript AWS
 tags: javascript node nodejs aws ami amazon ec2
 header:
   image: assets/images/get-aws-ami-id-nodejs-header.jpg

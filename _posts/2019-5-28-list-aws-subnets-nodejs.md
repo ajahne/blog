@@ -2,7 +2,7 @@
 layout: single
 title:  "List AWS Subnets with Node.js"
 date:   2019-5-28 10:00:00 -04:00
-categories: javascript
+categories: javascript AWS
 tags: javascript node nodejs aws amazon ec2 subnet subnets subnetid ami cloud
 header:
   image: assets/images/list-aws-subnets-with-nodejs-header.jpg
