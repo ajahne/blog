@@ -80,3 +80,17 @@ console.log(dedup(a)) //[1,2,3,4,5]
 console.log(dedup(b)) //[2,3,1,7,5,4,9,14]
 console.log(dedup(c)) //[5,2,3,1,7,8]
 ```
+
+### Removing duplicates using a Set
+```javascript
+const array = [1,1,2,3,3,4,4,5,5];
+const set = new Set(a);
+const uniqueArray = [...set];
+console.log(uniqueArray);
+```
+
+you can then one line this as
+```javascript
+const unique = [...new Set(array)];
+console.log(unique)
+```
