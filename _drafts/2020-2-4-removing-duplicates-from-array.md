@@ -5,7 +5,7 @@ date:   2020-2-4 12:19:00 -0500
 categories: javascript
 tags: javascript, js, array
 header:
-  image: /assets/images/20-for-20-header.jpg
+  image: /assets/images/remove-duplicates-header.jpg
 ---
 
 ## Outline
