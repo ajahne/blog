@@ -94,3 +94,47 @@ you can then one line this as
 const unique = [...new Set(array)];
 console.log(unique)
 ```
+
+
+### Removing duplicates using Array.filter()
+```javascript
+function dedup_filter(a) {
+  const map = {};
+
+  function isUnique(element) {
+    if (map[element]) {
+      return false
+    } else {
+      map[element] = true;
+      return true;
+    }
+  }
+  return a.filter(isUnique);
+}
+
+function dedup_filter_inline(a) {
+  const map = {};
+  // return a.filter(isUnique);
+  return a.filter(element => {
+    if (map[element]) {
+      return false
+    } else {
+      map[element] = true;
+      return true;
+    }
+  });
+}
+
+const a = [1,1,2,3,3,4,4,5,5];
+const b = [2,3,3,1,2,7,5,5,4,9,4,14];
+const c = [5,2,3,2,5,5,1,7,2,1,5,8];
+
+console.log(dedup_filter(a)) //[1,2,3,4,5]
+console.log(dedup_filter(b)) //[2,3,1,7,5,4,9,14]
+console.log(dedup_filter(c)) //[5,2,3,1,7,8]
+
+console.log();
+console.log(dedup_filter_inline(a)) //[1,2,3,4,5]
+console.log(dedup_filter_inline(b)) //[2,3,1,7,5,4,9,14]
+console.log(dedup_filter_inline(c)) //[5,2,3,1,7,8]
+```
