@@ -26,7 +26,7 @@ While preparing for interviews as a manager I needed to excel at programming, pe
 
 Interviewing is hard. Interviewing as a manager can be additionally difficult: As a manager we must be excellent at people management, technical leadership, execution, system design, and programming all at once. Remember we are not _just_ managers, but _engineering_ managers. Staying technical is a constant challenge in our field and can be even more challengeing when your "day job", does not include even a _byte_ of coding :). Whether managers should code or not is of great debate, yet regardless, managers are expected to if not be currently proficient, show that at one point they were a blackbelt ninja wizard (yes, I am being sarcastic).
 
-The implication? The vast majority of job interviews as a manager will include a programming question or set of questions. This may be conducted in the initial phone screen, a take home leetcode / hackerrank test, during a dedicated portion of the interview loop, or all of the above. 
+The implication? The vast majority of job interviews as a manager will include a programming question or set of questions. This may be conducted in the initial phone screen, a take home leetcode / hackerrank test, during a dedicated portion of the interview loop, or all of the above.
 
 So to knock the rust off, I have gone back into the dojo, sharpened my katanas, and tightened my gi (it still fits, if a little tight around the waist).
 
@@ -37,24 +37,26 @@ Let's get to it!
 ## Remove Duplicates
 From the book "Programming Interviews Exposed"
 
+So how might we
+
 ### Brute Force O(n^2)
 
 ```javascript
-function removeDuplicates(in_arr) {
-  const out_arr = [];
-  for (let i = 0; i < in_arr.length; i++) {
+function removeDuplicates(array) {
+  const result = [];
+  for (let i = 0; i < array.length; i++) {
     let exists = false;
-    for (j = 0; j < out_arr.length; j++) {
-      if (in_arr[i] === out_arr[j]) {
+    for (j = 0; j < result.length; j++) {
+      if (array[i] === result[j]) {
         exists = true;
         break;
       }
     }
     if (!exists) {
-      out_arr.push(in_arr[i]);
+      result.push(array[i]);
     }
   }
-  return out_arr;
+  return result;
 }
 ```
 
