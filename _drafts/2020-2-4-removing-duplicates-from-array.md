@@ -138,3 +138,18 @@ console.log(dedup_filter_inline(a)) //[1,2,3,4,5]
 console.log(dedup_filter_inline(b)) //[2,3,1,7,5,4,9,14]
 console.log(dedup_filter_inline(c)) //[5,2,3,1,7,8]
 ```
+
+### Removing duplicates using Array.filter() with Array.indexOf()
+```javascript
+function dedup_filter_indexOf(a) {
+  return a.filter((element, index) => a.indexOf(element) === index);
+}
+
+const a = [1,1,2,3,3,4,4,5,5];
+const b = [2,3,3,1,2,7,5,5,4,9,4,14];
+const c = [5,2,3,2,5,5,1,7,2,1,5,8];
+
+console.log(dedup_filter_indexOf(a)) //[1,2,3,4,5]
+console.log(dedup_filter_indexOf(b)) //[2,3,1,7,5,4,9,14]
+console.log(dedup_filter_indexOf(c)) //[5,2,3,1,7,8]
+```
