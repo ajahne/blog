@@ -3,7 +3,7 @@ layout: single
 title:  'How to Remove Duplicates from an Array in JavaScript'
 date:   2020-2-4 12:19:00 -0500
 categories: javascript
-tags: javascript, js, array
+tags: javascript, js, array, duplicate, algorithms, interview, interview questions
 header:
   image: /assets/images/remove-duplicates-header.jpg
 ---
