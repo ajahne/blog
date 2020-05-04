@@ -7,7 +7,7 @@ tags: javascript, js, array
 header:
   image: /assets/images/remove-duplicates-header.jpg
 ---
-As I prepare to interview for a wide array (_pun intended_) of engineering leadership and management positions, I have extensively practiced numerous programming problems and system design questions. A standard interview question is the classic "remove duplicates from an array" problem. This may be asked in a phone screen, online, or during an on-site. While many tech companies may _not_ ask this specific question, it is a great practice interview problem that can help grow [our time complexity understanding](https://www.interviewcake.com/article/java/big-o-notation-time-and-space-complexity) and further enhance our programming proficiency.
+As I prepare to interview for a wide array (_heh_) of engineering leadership and management positions, I have practiced numerous programming problems and system design questions. A standard interview question that I have encountered multiple times in this journey is the classic "remove duplicates from an array" problem. This may be asked in a phone screen, online, or during an on-site. While many tech companies may _not_ ask this specific question, it is a great practice interview problem that can help grow [our time complexity understanding](https://www.interviewcake.com/article/java/big-o-notation-time-and-space-complexity) and further enhance our programming proficiency.
 
 ## Table of Contents
 - The Remove Duplicates Problem
@@ -84,7 +84,7 @@ removeDuplicates(duplicates); //[ 5, 2, 3, 1, 7, 8 ]
 This is a [brute force](https://www.quora.com/What-is-brute-force-in-programming) solution with a O(n<sup>2</sup>) time complexity. This algorithm's time complexity stems from the fact that we are looping through two arrays. Can we get to this to linear time, i.e. O(n)? Yes we can, by using a hash-map!
 
 ## Remove Duplicates using a hash-map
-In our brute force solution, we loop through the array twice, what if we were to loop through just once? We can do this if we use an object to keep track of key value pairs, i.e. our "hash-map". The "key" is the element in the array, and the value is true or falsy. This map keeps track of whether we have previously added the current element to our `result` array or not.
+In our brute force solution, we loop through the array twice, what if we were to loop through just once? We can do this if we use an object to keep track of key value pairs, i.e. our "hash-map". The "key" is the element in the array, and the "value" is true or falsy. This map keeps track of whether we have previously added the current element to our `result` array or not.
 ```javascript
 function removeDuplicates(array) {
   const result = [];
@@ -145,11 +145,11 @@ Bet, [let me upgrade you](https://www.youtube.com/watch?v=6nr8hPnZfMU)!
 My preferred method of removing duplicates from an array is to use a `Set`. By definition, a set can only contain unique values, so it is the perfect data structure to solve this problem.
 ```javascript
 const array = [1,1,2,3,3,4,4,5,5];
-const set = new Set(a);
+const set = new Set(array);
 const uniqueArray = [...set];
 console.log(uniqueArray);
 ```
-What we do in the above code is create an Array, make a new Set using our array as an initial parameter to the Set's constructor, and then use the spread operator to transform our set into an Array.
+What we do in the above code is create an array, make a new Set using our array as an initial parameter to the Set's constructor, and then use the spread operator to transform our set into an array.
 
 Furthermore, you can one line this solution.
 ```javascript
@@ -162,7 +162,7 @@ Cool, so how else might we do this?
 ## Remove duplicates using `Array.filter()`
 We can upgrade our original "optimized" solution, replacing our `for` loop, with `filter`. The filter function takes a callback and returns a new array comprised only of elements that pass our test.
 ```javascript
-function dedup_filter_inline(a) {
+function dedupUsingFilter(a) {
   const map = {};
   return a.filter(element => {
     if (map[element]) {
@@ -178,17 +178,16 @@ const a = [1,1,2,3,3,4,4,5,5];
 const b = [2,3,3,1,2,7,5,5,4,9,4,14];
 const c = [5,2,3,2,5,5,1,7,2,1,5,8];
 
-console.log();
-console.log(dedup_filter_inline(a)) //[1,2,3,4,5]
-console.log(dedup_filter_inline(b)) //[2,3,1,7,5,4,9,14]
-console.log(dedup_filter_inline(c)) //[5,2,3,1,7,8]
+dedupUsingFilter(a) //[1,2,3,4,5]
+dedupUsingFilter(b) //[2,3,1,7,5,4,9,14]
+dedupUsingFilter(c) //[5,2,3,1,7,8]
 ```
 
 ### Remove duplicates using `Array.filter()` and `Array.indexOf()`
 Building on the previous example, we can leverage `indexOf` in our callback to filter out elements that appear more than once.
 
 ```javascript
-function dedupWithFilterAndIndexOf(a) {
+function dedupUsingFilterAndIndexOf(a) {
   return a.filter((element, index) => a.indexOf(element) === index);
 }
 
@@ -196,12 +195,12 @@ const a = [1,1,2,3,3,4,4,5,5];
 const b = [2,3,3,1,2,7,5,5,4,9,4,14];
 const c = [5,2,3,2,5,5,1,7,2,1,5,8];
 
-console.log(dedupWithFilterAndIndexOf(a)) //[1,2,3,4,5]
-console.log(dedupWithFilterAndIndexOf(b)) //[2,3,1,7,5,4,9,14]
-console.log(dedupWithFilterAndIndexOf(c)) //[5,2,3,1,7,8]
+dedupUsingFilterAndIndexOf(a) //[1,2,3,4,5]
+dedupUsingFilterAndIndexOf(b) //[2,3,1,7,5,4,9,14]
+dedupUsingFilterAndIndexOf(c) //[5,2,3,1,7,8]
 ```
 
-For each element in the array, we check to see if it's index matches the current index. This works because `indexOf` returns the _first_ index at which a given element can be found and -1 if it does not exist. So, if we have an array with duplicate elements, the indeces of each will be different, but call to indexOf will return the first index. So in our check of ` a.indexOf(element) === index` if these indeces are different, then this element is _not_ the first element with this value and should not be added to our resulting array.
+For each element in the array, we check to see if it's index with the array matches the current index. This works because `indexOf` returns the _first_ index at which a given element can be found and -1 if it does not exist. So, if we have an array with duplicate elements, the indexes of each will be different, but a call to indexOf will return the first index. So in our check of `a.indexOf(element) === index` if these indexes are different, then this element is _not_ the first element with this value and should not be added to our resulting array.
 
 Let's look at the scenario when we have an array `[1,2,2]`
 
@@ -211,9 +210,7 @@ Let's look at the scenario when we have an array `[1,2,2]`
 2 | 2 | 2 | [1,2] | the element's index and the first index of this element match, so we add it to the result
 
 ## Conclusion
-There are numerous ways to remove duplicate from an Array and as we prepare for programming interviews! What other ways have you found to remove duplicates? Solving programming problems in preparation for my interview loops has been invaluable. It is worth learning these different techniques, widening our understanding of JavaScript, and leveraging our Big O understanding to build optimized solutions that will help us not only in our interviews, but on the job and beyond!
-
-There are numerous ways to remove duplicates from an Array and as we prepare for programming interviews! What other ways have you found to remove duplicates? Solving programming problems in preparation for my interview loops has been invaluable. It is worth learning these different techniques to widen our JavaScript skillset and leverage our Big O understanding to build optimized solutions that will help us not only in our interviews, but on the next job and beyond!
+There are numerous ways to remove duplicates from an Array and we explored many key solutions within this post. It is worth learning these different techniques to widen our JavaScript skillset and leverage our Big O understanding as we build optimized solutions that will help us not only in our interviews, but on the next job and beyond!
 
 Check out the additional resources below and happy coding!
 
@@ -223,5 +220,6 @@ Check out the additional resources below and happy coding!
 - [Array.prototype.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 - [Spread syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
 - [Programming Interviews Exposed](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364)
+- [Three Techniques to remove Array Duplicates in ES6](https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c)
 - [Leetcode: Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [Big O notation](https://www.interviewcake.com/article/java/big-o-notation-time-and-space-complexity)
