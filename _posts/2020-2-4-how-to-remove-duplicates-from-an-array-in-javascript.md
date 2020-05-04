@@ -7,7 +7,7 @@ tags: javascript, js, array, duplicate, algorithms, interview, interview questio
 header:
   image: /assets/images/remove-duplicates-header.jpg
 ---
-As I prepare to interview for a wide array (_heh_) of engineering leadership and management positions, I have practiced numerous programming problems and system design questions. A standard interview question that I have encountered multiple times in this journey is the classic "remove duplicates from an array" problem. This may be asked in a phone screen, online, or during an on-site. While many tech companies may _not_ ask this specific question, it is a great practice interview problem that can help grow [our time complexity understanding](https://www.interviewcake.com/article/java/big-o-notation-time-and-space-complexity) and further enhance our programming proficiency.
+A standard interview question that I have encountered multiple times in my engineering journey is the classic "remove duplicates from an array" problem. This may be asked in a phone screen, online, or during an on-site. While many tech companies may _not_ ask this specific question, it is a great practice interview problem that can help grow [our time complexity understanding](https://www.interviewcake.com/article/java/big-o-notation-time-and-space-complexity) and further enhance our programming proficiency.
 
 ## Table of Contents
 - The Remove Duplicates Problem
