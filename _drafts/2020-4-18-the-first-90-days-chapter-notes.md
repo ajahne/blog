@@ -29,10 +29,10 @@ The first 90 days
 - TODO: Add notes
 
 ## Chapter 2: Accelerate Your Learning
-- “Stop doing and start listening”
+- "Stop doing and start listening"
 - Learn about culture and politics
 - Planning to learn: figuring out in advance what the important questions are and how you can best answer them
-- Understand the history, a baseline question is “how did we get to this point?”
+- Understand the history, a baseline question is "how did we get to this point?"
 - Effective leaders strike a balance between doing (making things happen) and being (observing and reflecting)
 - Display a genuine desire to learn
 - Don’t rush to take action, most of the impulse to take action comes from internal sources
@@ -67,7 +67,7 @@ The first 90 days
 - What are three things that are important to you?
 - Planning for 5 conversations (page 93)
 - Under promise and over deliver
-- “What exactly do I need from my boss?"
+- "What exactly do I need from my boss?"
 - Determine your boss’s working style (page 104)
 - Scope out the decision making box (104)
 - After 90 days, discuss how I am doing
@@ -158,12 +158,12 @@ The first 90 days
 - Assess both the positions and the players
 - Get historical data on past performance (performance reviews, etc)
 - Meet 1-1 to assess team performance. Essentially I should meet and learn everyone, getting to know them personally, then understand how they work and their questions / abilities from an execution standpoint - great questions on page 176
-- Test their judgment? (Not sure if I agree with the way this one is framed. I believe this could be confrontational and maybe feel like a “gotcha” for the employee)
+- Test their judgment? (Not sure if I agree with the way this one is framed. I believe this could be confrontational and maybe feel like a "gotcha" for the employee)
 - Assess the team as a whole
     - Study the data: reports of team meetings, Jira, previous release targets, morale surveys
     - Systematically ask questions: assess responses to the questions and see how they align or don’t align
     - Probe group dynamics: how do people interact? Alliances? Attitudes?
-- Evolve the team, after 30 days should be able to assign people to the following categories: note. I think 30 days is very aggressive. Half of your first few days of onboarding, will not even be able meet with team members. So the question is “when does the clock tick on 90 days”
+- Evolve the team, after 30 days should be able to assign people to the following categories: note. I think 30 days is very aggressive. Half of your first few days of onboarding, will not even be able meet with team members. So the question is "when does the clock tick on 90 days"
 - Categories
     - Keep in place
     - Keep and develop
@@ -176,7 +176,7 @@ The first 90 days
   - NTS: I am better at pull than I am at push. Push helps execution, need to work on this
 - Define quantifiable goals and metrics
 - Incentive equation (a bit early I think to get into this, but worth revisiting p184)
-- Articulate your vision. It should: tap into a source of inspiration, make people part of “the story”, contains evocative language (e.g. provide in graphic detail the vision, e.g. putting a man on the moon and landing them safely vs launching 10 rockets into space - this is vision vs goal respectively)
+- Articulate your vision. It should: tap into a source of inspiration, make people part of "the story", contains evocative language (e.g. provide in graphic detail the vision, e.g. putting a man on the moon and landing them safely vs launching 10 rockets into space - this is vision vs goal respectively)
 - It is critical to live in the vision you create! You must walk the walk
 - For team building, refer to the offsite planning check list
 - Leading your team
@@ -184,7 +184,7 @@ The first 90 days
 - Assess existing processes: participants roles, team meetings, decision making, leadership style
 - Have a framework for deciding how decisions get made. Not all decisions should be made the same way (good insight for me)
   - E.g. We may need to alter team meetings. Make meetings smaller and more focused
-- Two key decision making approaches “consult and decide” and “build consensus”. Separating information gathering from evaluating and reaching closure, is consult and decide. When you seek both information and seek buy-in from everyone, then it’s build concesndus.
+- Two key decision making approaches "consult and decide" and "build consensus". Separating information gathering from evaluating and reaching closure, is consult and decide. When you seek both information and seek buy-in from everyone, then it’s build concesndus.
   - NTS: I think I typically lean towards consult and decide, but this might be a blind spot
 - Rules of thumb:
   - Decisions that bias winners and losers, highly decisive, sharing losses and pain, are best made by the leader
@@ -223,9 +223,9 @@ The first 90 days
 - Plan to plan: at the end of each day, spend 10 minutes evaluating how well you met your goals, and then plan for the next day
 - Don’t let urgent crowd out the important
 - Carve out time to focus, focus, focus
-- Defer commitment: say “let me think about it and get back to you”;
+- Defer commitment: say "let me think about it and get back to you";
   - NTS: I think I over commit sometimes
-  - begin with “no”, if pressed, easier to say yes later.
+  - begin with "no", if pressed, easier to say yes later.
 - Find time to check-in with yourself. Maybe daily or weekly? How are you doing? How are you feeling?
 - Recognize when to quit
 - Build your advice and counsel network
