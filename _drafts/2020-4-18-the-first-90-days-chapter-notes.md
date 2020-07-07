@@ -15,7 +15,7 @@ The first 90 days
 ## Table of Contents:
 - [Chapter 1: Prepare Yourself](#chapter-1-prepare-yourself)
 - [Chapter 2: Accelerate Your Learning](#chapter-2-accelerate-your-learning)
-- [Chapter 3: Match Strategy With Situation](#chapter-3-match-strategy-with-situation)
+- [Chapter 3: Match Strategy to Situation](#chapter-3-match-strategy-to-situation)
 - [Chapter 4: Negotiate Success](#chapter-4-negotiate-success)
 - [Chapter 5: Secure Early Wins](#chapter-5-secure-early-wins)
 - [Chapter 6: Achieve Alignment](#chapter-6-achieve-alignment)
@@ -45,7 +45,7 @@ The first 90 days
 - A good approach to start learning is to have 1-1s with direct reports. Page 59 has some good questions
 - Good questions on page 60 (assimilating new leaders)
 
-## Chapter 3: Match Strategy With Situation
+## Chapter 3: Match Strategy to Situation
 - Ask: what kind of change am I being called upon to lead? And...what kind of leader am I?
 - Use the STARS model, page 71, table on page 72
   - NTS: current job is both startup and sustaining success
