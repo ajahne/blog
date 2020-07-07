@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  'The First 90 Days: Chapter Notes'
+title:  'The First 90 Days - Chapter Notes'
 date:   2020-4-18 5:00:00 -0400
 categories: leadership, books
 tags: books, leadership, management, new leader, 90 days, ninety days, transition
