@@ -13,16 +13,16 @@ header:
 The first 90 days
 
 ## Table of Contents:
-- [Chapter 1: From communist to venture capitalist](#chapter-1-from-communist-to-venture-capitalist)
-- [Chapter 2: Accelerate your learning](#chapter-2-accelerate-your-learning)
-- [Chapter 3: match strategy with situation](#chapter-3-match-strategy-with-situation)
-- [Chapter 4: negotiate success](#chapter-4-negotiate-success)
-- [Chapter 5: secure early wins](#chapter-5-secure-early-wins)
+- [Chapter 1: Prepare Yourself](#chapter-1-prepare-yourself)
+- [Chapter 2: Accelerate Your Learning](#chapter-2-accelerate-your-learning)
+- [Chapter 3: Match Strategy With Situation](#chapter-3-match-strategy-with-situation)
+- [Chapter 4: Negotiate Success](#chapter-4-negotiate-success)
+- [Chapter 5: Secure Early Wins](#chapter-5-secure-early-wins)
 - [Chapter 6: Achieve Alignment](#chapter-6-achieve-alignment)
-- [Chapter 7: build your team](#chapter-7-build-your-team)
-- [Chapter 8: create alliances](#chapter-8-create-alliances)
-- [Chapter 9: manage yourself](#chapter-9-manage-yourself)
-- [Chapter 10: Accelerate everyone](#chapter-10-accelerate-everyone)
+- [Chapter 7: Build Your Team](#chapter-7-build-your-team)
+- [Chapter 8: Create Alliances](#chapter-8-create-alliances)
+- [Chapter 9: Manage Yourself](#chapter-9-manage-yourself)
+- [Chapter 10: Accelerate Everyone](#chapter-10-accelerate-everyone)
 
 
 ## Chapter 2: Accelerate your learning
