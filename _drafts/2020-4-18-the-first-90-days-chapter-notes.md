@@ -25,6 +25,9 @@ The first 90 days
 - [Chapter 10: Accelerate Everyone](#chapter-10-accelerate-everyone)
 
 
+## Chapter 1: Prepare Yourself
+- TODO: Add notes
+
 ## Chapter 2: Accelerate your learning
 - “Stop doing and start listening”
 - Learn about culture and politics
