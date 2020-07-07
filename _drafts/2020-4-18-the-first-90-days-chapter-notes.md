@@ -35,7 +35,7 @@ The first 90 days
 - Understand the history, a baseline question is "how did we get to this point?"
 - Effective leaders strike a balance between doing (making things happen) and being (observing and reflecting)
 - Display a genuine desire to learn
-- Don’t rush to take action, most of the impulse to take action comes from internal sources
+- Don't rush to take action, most of the impulse to take action comes from internal sources
 - Focus on learning and adapting to the new culture
 - Actionable insight: knowledge that helps you make better decisions earlier and helps you quickly reach the break even point
 - Effective learning: figure out what you need to learn so you can focus your efforts
@@ -60,15 +60,15 @@ The first 90 days
 - Clearly communicate a 90 day plan
 - Proactively engage with your new boss to shape the game so that you have a fighting chance of achieving desired goals
 - Establish realistic expectations
-- Establishing a relationship with your boss dos an don’ts, page 90-93
-- Don’t run down your checklist with your boss, have at most 3 things
+- Establishing a relationship with your boss dos an don'ts, page 90-93
+- Don't run down your checklist with your boss, have at most 3 things
 - Do clarify expectations early and often
 - Figure out what your boss cares about most?
 - What are three things that are important to you?
 - Planning for 5 conversations (page 93)
 - Under promise and over deliver
 - "What exactly do I need from my boss?"
-- Determine your boss’s working style (page 104)
+- Determine your boss's working style (page 104)
 - Scope out the decision making box (104)
 - After 90 days, discuss how I am doing
 - 90 day plan creation guide on page 109
@@ -111,11 +111,12 @@ The first 90 days
 
 ## Chapter 6: Achieve Alignment
 - Understand the organizations hierarchy, structure, and systems
-- Don’t make change for change’s sake
+- Don't make change for change's sake
 - Adjust for the STARS situation
 - Four elements of organizational architecture:
   - strategic direction
   - structure
+  - core processes
   - core processes
   - skill bases
 - Goal for the first 90 days: identify potential misalignments and design a plan for correcting them
@@ -161,7 +162,7 @@ The first 90 days
 - Test their judgment? (Not sure if I agree with the way this one is framed. I believe this could be confrontational and maybe feel like a "gotcha" for the employee)
 - Assess the team as a whole
     - Study the data: reports of team meetings, Jira, previous release targets, morale surveys
-    - Systematically ask questions: assess responses to the questions and see how they align or don’t align
+    - Systematically ask questions: assess responses to the questions and see how they align or don't align
     - Probe group dynamics: how do people interact? Alliances? Attitudes?
 - Evolve the team, after 30 days should be able to assign people to the following categories: note. I think 30 days is very aggressive. Half of your first few days of onboarding, will not even be able meet with team members. So the question is "when does the clock tick on 90 days"
 - Categories
@@ -184,7 +185,7 @@ The first 90 days
 - Assess existing processes: participants roles, team meetings, decision making, leadership style
 - Have a framework for deciding how decisions get made. Not all decisions should be made the same way (good insight for me)
   - E.g. We may need to alter team meetings. Make meetings smaller and more focused
-- Two key decision making approaches "consult and decide" and "build consensus". Separating information gathering from evaluating and reaching closure, is consult and decide. When you seek both information and seek buy-in from everyone, then it’s build concesndus.
+- Two key decision making approaches "consult and decide" and "build consensus". Separating information gathering from evaluating and reaching closure, is consult and decide. When you seek both information and seek buy-in from everyone, then it's build consensus.
   - NTS: I think I typically lean towards consult and decide, but this might be a blind spot
 - Rules of thumb:
   - Decisions that bias winners and losers, highly decisive, sharing losses and pain, are best made by the leader
@@ -210,22 +211,22 @@ The first 90 days
 - When you identify support, solidify and nurture it
 - Take time to think about the forces acting on the people you want to influence
 - Analyze the influencer network
-- Assess people’s intrinsic motivations (the need for recognition, for control, for power, personal growth, etc)
+- Assess people's intrinsic motivations (the need for recognition, for control, for power, personal growth, etc)
 - There is a lot of research that suggests we overestimate personality and underestimate the impact of situational pressures in reaching conclusions about the reasons people act the way they do
 - Table for argument framing on page 215
 
 ## Chapter 9: Manage Yourself
 - Take stock of yourself and note the many things that might be in transition (new job, move to a new city, new apt, baby on the way, etc)
 - Go through the guidelines for structured reflection (page 223)
-- It’s ok to have an emotional roller coaster; it’s common for leaders to go into the valley 3-6 months after starting
+- It's ok to have an emotional roller coaster; it's common for leaders to go into the valley 3-6 months after starting
 - NTS: be clear to establish boundaries: what can you and what can you not do? Reflect on this. Work avoidance?
 - 3 pillars: adopt a 90 day plan; develop personal disciplines; build your support systems
 - Plan to plan: at the end of each day, spend 10 minutes evaluating how well you met your goals, and then plan for the next day
-- Don’t let urgent crowd out the important
+- Don't let urgent crowd out the important
 - Carve out time to focus, focus, focus
 - Defer commitment: say "let me think about it and get back to you";
   - NTS: I think I over commit sometimes
-  - begin with "no", if pressed, easier to say yes later.
+  - begin with "no", if pressed, easier to say "yes" later.
 - Find time to check-in with yourself. Maybe daily or weekly? How are you doing? How are you feeling?
 - Recognize when to quit
 - Build your advice and counsel network
@@ -233,7 +234,7 @@ The first 90 days
 ## Chapter 10: Accelerate Everyone
 - make a 90 day plan for the entire team
 - Identify the transitions happening on your company, team, etc.
-- don’t stay in your comfort zone, don’t try to do too much to fast
+- don't stay in your comfort zone, don't try to do too much to fast
 - Great chart that highlights some reasons for transition failure on page 245
 - Setup time with leaders to put action oriented / coaching meetings on the calendar to carve out time for them to make their 90 plans, engage in reflection, etc.
 - NTS: work to define what successful execution looks like?
