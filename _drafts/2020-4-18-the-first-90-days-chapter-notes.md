@@ -28,7 +28,7 @@ The first 90 days
 ## Chapter 1: Prepare Yourself
 - TODO: Add notes
 
-## Chapter 2: Accelerate your learning
+## Chapter 2: Accelerate Your Learning
 - “Stop doing and start listening”
 - Learn about culture and politics
 - Planning to learn: figuring out in advance what the important questions are and how you can best answer them
@@ -45,7 +45,7 @@ The first 90 days
 - A good approach to start learning is to have 1-1s with direct reports. Page 59 has some good questions
 - Good questions on page 60 (assimilating new leaders)
 
-## Chapter 3: match strategy with situation
+## Chapter 3: Match Strategy With Situation
 - Ask: what kind of change am I being called upon to lead? And...what kind of leader am I?
 - Use the STARS model, page 71, table on page 72
   - NTS: current job is both startup and sustaining success
@@ -56,8 +56,7 @@ The first 90 days
 - Leadership is a team sport
 - For sustaining success, focus on learning, reflection, and influence
 
-
-## Chapter 4: negotiate success
+## Chapter 4: Negotiate Success
 - Clearly communicate a 90 day plan
 - Proactively engage with your new boss to shape the game so that you have a fighting chance of achieving desired goals
 - Establish realistic expectations
@@ -74,7 +73,7 @@ The first 90 days
 - After 90 days, discuss how I am doing
 - 90 day plan creation guide on page 109
 
-## Chapter 5: secure early wins
+## Chapter 5: Secure Early Wins
 - keep your ends clearly in mind when you devise your plan to secure early wins
 - Build waves of change that consist of: learning, designing the changes, building support, implementing the changes, observing results
 - First wave of change is to secure early wins
@@ -141,7 +140,7 @@ The first 90 days
 - Treat processes like a portfolio, focus on a few at a time. Take care to factor in your organizations, capacity for change
 - Key takeaway from this chapter: it is critical to identify the mission, strategy, and core processes of your team (group, unit, etc)
 
-## Chapter 7: build your team
+## Chapter 7: Build Your Team
 - Assess existing team members; Align and motivate them; establish new processes to promote team work
 - Avoid common traps:
     - do not criticize people who led before you arrived, nothing to gain from this, evaluate the impact, concentrate on assessing current behavior;
@@ -194,7 +193,7 @@ The first 90 days
   - If need to establish authority, consult and decide
   - However, take the STARS matrix into account. Startups may need more consult and decide. Realignment and sustaining success, leaders deal with strong intact teams, and confront cultural and political issues - typically better addressed with building consensus  
 
-## Chapter 8: create alliances
+## Chapter 8: Create Alliances
 - Build up relationships with people you have no direct control over
 - Recognize when your new role presents you with different influence challenges from those you experienced in the past
 - Need to influence in different ways: through persuasion and alliance building
@@ -215,7 +214,7 @@ The first 90 days
 - There is a lot of research that suggests we overestimate personality and underestimate the impact of situational pressures in reaching conclusions about the reasons people act the way they do
 - Table for argument framing on page 215
 
-## Chapter 9: manage yourself
+## Chapter 9: Manage Yourself
 - Take stock of yourself and note the many things that might be in transition (new job, move to a new city, new apt, baby on the way, etc)
 - Go through the guidelines for structured reflection (page 223)
 - It’s ok to have an emotional roller coaster; it’s common for leaders to go into the valley 3-6 months after starting
@@ -231,7 +230,7 @@ The first 90 days
 - Recognize when to quit
 - Build your advice and counsel network
 
-## Chapter 10: Accelerate everyone
+## Chapter 10: Accelerate Everyone
 - make a 90 day plan for the entire team
 - Identify the transitions happening on your company, team, etc.
 - don’t stay in your comfort zone, don’t try to do too much to fast
