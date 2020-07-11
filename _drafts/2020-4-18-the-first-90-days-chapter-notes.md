@@ -28,7 +28,7 @@ header:
 ## Chapter 2: Accelerate Your Learning
 - "Stop doing and start listening"
 - Learn about culture and politics
-- Planning to learn: figuring out in advance what the important questions are and how you can best answer them
+- Planning to learn: figure out in advance what the important questions are and how you can best answer them
 - Understand the history, a baseline question is "how did we get to this point?"
 - Effective leaders strike a balance between doing (making things happen) and being (observing and reflecting)
 - Display a genuine desire to learn
@@ -45,11 +45,13 @@ header:
 ## Chapter 3: Match Strategy to Situation
 - Ask: what kind of change am I being called upon to lead? And...what kind of leader am I?
 - Use the STARS model, page 71, table on page 72
-  - NTS: current job is both startup and sustaining success
 - To understand the company, put on your historian hat
-- To adapt your personal leadership style you must: enhance self awareness, exercise personal discipline, build complementary teams
+- To adapt your personal leadership style you must:
+  - enhance self awareness
+  - exercise personal discipline
+  - build complementary teams
 - Note: heroes can struggle in Realignment and sustaining success
-- Make hard assessment of which skills will serve you well and which are likely to get you in trouble
+- Make a hard assessment of which skills will serve you well and which are likely to get you in trouble
 - Leadership is a team sport
 - For sustaining success, focus on learning, reflection, and influence
 
@@ -71,7 +73,7 @@ header:
 - 90 day plan creation guide on page 109
 
 ## Chapter 5: Secure Early Wins
-- keep your ends clearly in mind when you devise your plan to secure early wins
+- Keep your ends clearly in mind when you devise your plan to secure early wins
 - Build waves of change that consist of: learning, designing the changes, building support, implementing the changes, observing results
 - First wave of change is to secure early wins
 - Start with the goal in mind, that is your anchor
@@ -100,8 +102,8 @@ header:
 - Launch early win projects, manage these initiatives as projects targeted at chosen focal points
 - Use FOGLAMP when planning for
 - Identify the most important problems and issues to address
-- When changing, need to decide if better to plan or conduct collective learning (ie experiment and see how it goes)
-- NTS: create better, clearer benchmarks for success (outcome over output, but what is the desired outcome
+- When changing, need to decide if better to plan or conduct collective learning (i.e. experiment and see how it goes)
+- NTS: create better, clearer benchmarks for success (outcome over output, but what is the desired outcome)
 - Ask questions to identify where potential problems may be lurking, set of questions on page 137
 - NTS: the internal processes are a key area to start looking in
 - Goal: creating a virtuous cycle that reinforces wanted behaviors and contributes to helping you achieve your agreed to goals for the organization
@@ -114,10 +116,9 @@ header:
   - strategic direction
   - structure
   - core processes
-  - core processes
   - skill bases
 - Goal for the first 90 days: identify potential misalignments and design a plan for correcting them
--   Page 146 and 147 have details on how to get started
+- Page 146 and 147 have details on how to get started
 - Strategic direction encompasses mission, vision, and strategy
   - Mission: what is achieved
   - vision: why people should feel motivation to perform at a high level
