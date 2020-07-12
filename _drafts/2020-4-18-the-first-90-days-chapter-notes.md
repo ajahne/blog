@@ -121,7 +121,7 @@ header:
 - Page 146 and 147 have details on how to get started
 - Strategic direction encompasses mission, vision, and strategy
   - Mission: what is achieved
-  - vision: why people should feel motivation to perform at a high level
+  - Vision: why people should feel motivation to perform at a high level
   - Strategy is how you get there
 - Review page 148
 - Assess the alignment
@@ -142,8 +142,8 @@ header:
 ## Chapter 7: Build Your Team
 - Assess existing team members; Align and motivate them; establish new processes to promote team work
 - Avoid common traps:
-    - do not criticize people who led before you arrived, nothing to gain from this, evaluate the impact, concentrate on assessing current behavior;
-    - keeping the existing team too long, establish deadlines and conclusions about the team in first 90 days
+    - Do not criticize people who led before you arrived, nothing to gain from this, evaluate the impact, concentrate on assessing current behavior;
+    - Keeping the existing team too long, establish deadlines and conclusions about the team in first 90 days
     - Not balancing stability and change: find the right balance
     - Not working on organizational alignment and team development in parallel, be sure to understand the destination, route, and ship, captain 👨‍✈️.  
     - Not holding on to the good people
