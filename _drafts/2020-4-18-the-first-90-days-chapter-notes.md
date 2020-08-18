@@ -11,6 +11,7 @@ header:
 [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-readers-are-leaders-but-all-leaders-are-readers) and with that in mind, I push myself to read as often as I can.  Recently I read ["The First 90 Days"](https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612) and took notes throughout.  Below are my notes, gut reactions, and raw thoughts from each chapter.
 
 ## Table of Contents:
+- [Introduction](#introduction)
 - [Chapter 1: Prepare Yourself](#chapter-1-prepare-yourself)
 - [Chapter 2: Accelerate Your Learning](#chapter-2-accelerate-your-learning)
 - [Chapter 3: Match Strategy to Situation](#chapter-3-match-strategy-to-situation)
@@ -21,6 +22,9 @@ header:
 - [Chapter 8: Create Alliances](#chapter-8-create-alliances)
 - [Chapter 9: Manage Yourself](#chapter-9-manage-yourself)
 - [Chapter 10: Accelerate Everyone](#chapter-10-accelerate-everyone)
+
+## Introduction
+- TODO: Add notes
 
 ## Chapter 1: Prepare Yourself
 - TODO: Add notes
