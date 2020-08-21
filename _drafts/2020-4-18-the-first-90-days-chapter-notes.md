@@ -8,7 +8,7 @@ header:
   image: /assets/images/the-first-90-days-chapter-notes.jpeg
 ---
 
-[Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-readers-are-leaders-but-all-leaders-are-readers) and with that in mind, I push myself to read as often as I can.  Recently I read ["The First 90 Days"](https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612) and took notes throughout.  Below are my notes, gut reactions, and raw thoughts from each chapter.
+[Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-readers-are-leaders-but-all-leaders-are-readers) and with that in mind, I push myself to read as often as I can.  Recently, in preparation for my new leadership role, I read ["The First 90 Days"](https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612) and took notes throughout.  Below are my notes, gut reactions, and raw thoughts from each chapter.
 
 ## Table of Contents:
 - [Introduction](#introduction)
