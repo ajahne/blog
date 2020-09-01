@@ -28,9 +28,9 @@ header:
 - Success or failure during the first few months is a strong predictor of overall success or failure in the job
 - Leaders average a major transition every 1.3 years
 - Each year about a quarter of managers in a Fortune 500 company change jobs
-- Note: implication of all this is that change is constant. It will be explicit or implicit
+  - Note: implication of all this is that change is constant. It will be explicit or implicit
 - You goal is to reach the break-even point as rapidly as possible - the point in which you have contributed as much value to the new organization as you have consumed from it
-- Average time is 6.2 months (page 4). Can reduce it by following this book (sounds like a hustle, lol, like an infomercial)
+  - Average time is 6.2 months (page 4). Can reduce it by following this book (sounds like a hustle, lol, like an infomercial)
 - Transition Traps:
   - Sticking with what you know
   - Falling prey to the "action imperative" - feeling like you must take action
@@ -47,7 +47,7 @@ header:
 - Spend time learning about the organization.
   - 90 day mark can start as soon as you learn you’re being considered for a new role
 - Start planning what you want to accomplish and by when
-  - Plan the first day, week, month, months, 90
+  - Plan the first day, week, month, months, 90 days
 - Identify the transition risks you face, e.g.: moving to a new company, taking on a cross-functional leadership position for the first time, moving to a new industry or profession, etc.
 - Key transition milestones
 - Every new leader needs to quickly:
