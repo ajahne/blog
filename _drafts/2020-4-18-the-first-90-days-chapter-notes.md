@@ -74,7 +74,24 @@ header:
   - Exhibit the right presence (what does a leader look/act like at this level)
 - Onboarding into a New Company
   - Leaders are often hired (lateral move) to do things that they have been successful at doing elsewhere (_here's looking at you kid_)
-
+  - In promotion cases, leaders understand a lot about the company...in this case, they do not and need to learn (fast)!
+  - challenges: different political and cultural structures
+  - surveys show that coming in from the outside is "much harder" than being promoted from within
+  - high failure rate of leaders coming from outside (e.g. leaders not familiar with internal network of new company, not familiar with corporate structures, unknown to the organization, etc.)
+  - Four pillars of effective onboarding
+    - Business orientation (learn about the company as a whole, not just your specific parts)
+    - Stakeholder connection (vertical as well as - importantly - horizontal); find historations, cultural interpreters
+    - Expectations alignment (check and recheck expectations)
+    - Cultural adaptation (determine the norms, shared language, values, etc.) - this is the most daunting of the pillars
+      - Identify cultural norms. Key check list includes: influence; Meetings; Execution; Conflict; Recognition; Ends versus means.
+  - Key ways to prepare yourself:
+    - When transitioning, take time to make a clear break from the old and the new (e.g. take a weekend or a day to focus on what you need to be successful in the new role)
+    - Assess your vulnerabilities (i.e. don't be "all chest no legs", gotta work out _all_ the muscles. Which ones need improvement or do you try to avoid?)
+    - Watch out for your strengths: The expression I always say to myself is "your strength is your weakness"
+    - Relearn how to learn (and learn how to "unlearn") - some things that worked previously, will not work now; Embrace the need to learn
+    - Rework your network
+    - Watch out for people who want to hold you back
+    - Get some help
 
 ## Chapter 2: Accelerate Your Learning
 - "Stop doing and start listening"
