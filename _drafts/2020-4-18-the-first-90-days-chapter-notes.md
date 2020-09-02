@@ -51,14 +51,30 @@ header:
   - Plan the first day, week, month, months, 90 days
 - Identify the transition risks you face, e.g.: moving to a new company, taking on a cross-functional leadership position for the first time, moving to a new industry or profession, etc.
 - Key transition milestones
-  - ADD IMAGE 
+  - ADD IMAGE
 - Every new leader needs to quickly:
   - Become familiar with the new organization
   - Secure early wins
   - Build supportive coalitions
 
 ## Chapter 1: Prepare Yourself
-- TODO: Add notes
+- It is a mistake to believe that you will be successful in your new job by continuing to do what you did in your previous job, only more so
+> What got you here won't get you there
+
+- Prepare yourself for the new position: let go of the past, embrace the imperatives of the new situation  
+- Understand the types of transitions, two key ones are:
+  - Being promoted
+  - Onboarding into a new company
+- Getting Promoted presents core challenges (and opportunities) to be overcome
+  - Balance breadth and depth
+  - Rethink what you delegate
+  - Influence differently
+    - _(Decision making becomes more political the higher you go); important to build and sustain alliances_
+  - Communicate more formally
+  - Exhibit the right presence (what does a leader look/act like at this level)
+- Onboarding into a New Company
+  - Leaders are often hired (lateral move) to do things that they have been successful at doing elsewhere (_here's looking at you kid_)
+
 
 ## Chapter 2: Accelerate Your Learning
 - "Stop doing and start listening"
