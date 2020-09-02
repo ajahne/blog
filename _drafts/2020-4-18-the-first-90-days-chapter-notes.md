@@ -27,22 +27,22 @@ header:
 - Transitions into new roles are the most challenging times in the professional lives of leaders
 - Success or failure during the first few months is a strong predictor of overall success or failure in the job
 - Leaders average a major transition every 1.3 years
-- Each year about a quarter of managers in a Fortune 500 company change jobs
-- Note: implication of all this is that change is constant. It will be explicit or implicit
-- You goal is to reach the break-even point as rapidly as possible - the point in which you have contributed as much value to the new organization as you have consumed from it
-  - Average time is 6.2 months (page 4). Can reduce it by following this book (sounds like a hustle, lol, like an infomercial)
+  - Each year about a quarter of managers in a Fortune 500 company change jobs
+- You goal is to reach the break-even point as rapidly as possible
+  - "Break-even point": the point in which you have contributed as much value to the new organization as you have consumed from it
+  - Average time is 6.2 months. Can reduce it by following this book (sounds like a hustle, lol, like an infomercial)
 - Transition Traps:
   - Sticking with what you know
   - Falling prey to the "action imperative" - feeling like you must take action
   - Setting unrealistic expectations
   - Attempting to do too much
-  - Coming in the "the" answer
+  - Coming in with "the" answer
   - Engaging in the wrong type of learning - e.g. learning about the technical aspects of the business, but not the culture and the people
   - Neglecting horizontal relationships
 - Make sure to create virtuous cycles
 - Transition failures happen because new leaders either misunderstand the essential demands of the situation or lack the skill and flexibility to adapt to them.
   - The key, then, is to match your strategy to the situation.
-- There are 10 key tasks: outlined in each chapter. The chapter titles are the key tasks
+- There are 10 key tasks (e.g. each chapter)
 - The first step is to diagnose the type of transitions you are going through - most leaders experience multiple transitions in parallel
   - For example, I am currently starting a new job, living through a pandemic, and preparing to be a father as my wife is pregnant
 - Spend time learning about the organization.
@@ -50,8 +50,6 @@ header:
 - Start planning what you want to accomplish and by when
   - Plan the first day, week, month, months, 90 days
 - Identify the transition risks you face, e.g.: moving to a new company, taking on a cross-functional leadership position for the first time, moving to a new industry or profession, etc.
-- Key transition milestones
-  - ADD IMAGE
 - Every new leader needs to quickly:
   - Become familiar with the new organization
   - Secure early wins
@@ -75,26 +73,26 @@ header:
 - Onboarding into a New Company
   - Leaders are often hired (lateral move) to do things that they have been successful at doing elsewhere (_here's looking at you kid_)
   - In promotion cases, leaders understand a lot about the company...in this case, they do not and need to learn (fast)!
-  - challenges: different political and cultural structures
   - surveys show that coming in from the outside is "much harder" than being promoted from within
   - high failure rate of leaders coming from outside (e.g. leaders not familiar with internal network of new company, not familiar with corporate structures, unknown to the organization, etc.)
   - Four pillars of effective onboarding
     - Business orientation (learn about the company as a whole, not just your specific parts)
-    - Stakeholder connection (vertical as well as - importantly - horizontal); find historations, cultural interpreters
-    - Expectations alignment (check and recheck expectations)
+    - Stakeholder connection (vertical as well as - importantly - horizontal); find historians, cultural interpreters
+    - Expectations alignment
     - Cultural adaptation (determine the norms, shared language, values, etc.) - this is the most daunting of the pillars
-      - Identify cultural norms. Key check list includes: influence; Meetings; Execution; Conflict; Recognition; Ends versus means.
+      - Key check list includes: influence; Meetings; Execution; Conflict; Recognition; Ends versus means.
   - Key ways to prepare yourself:
     - When transitioning, take time to make a clear break from the old and the new (e.g. take a weekend or a day to focus on what you need to be successful in the new role)
-    - Assess your vulnerabilities (i.e. don't be "all chest no legs", gotta work out _all_ the muscles. Which ones need improvement or do you try to avoid?)
-    - Watch out for your strengths: The expression I always say to myself is "your strength is your weakness"
-    - Relearn how to learn (and learn how to "unlearn") - some things that worked previously, will not work now; Embrace the need to learn
+    - Assess your vulnerabilities
+    - Watch out for your strengths
+    - Relearn how to learn (and learn how to "unlearn")
     - Rework your network
     - Watch out for people who want to hold you back
     - Get some help
 
 ## Chapter 2: Accelerate Your Learning
-- "Stop doing and start listening"
+> Stop doing and start listening
+
 - Learn about culture and politics
 - Planning to learn: figure out in advance what the important questions are and how you can best answer them
 - Understand the history, a baseline question is "how did we get to this point?"
@@ -105,7 +103,6 @@ header:
 - Actionable insight: knowledge that helps you make better decisions earlier and helps you quickly reach the break even point
 - Effective learning: figure out what you need to learn so you can focus your efforts
 - Define your learning agenda
-- NTS: write up all questions in the book
 - Different people inside and outside of the organization can give you insight into the business, e.g. historians, suppliers, integrators, etc. See page 55.
 - A good approach to start learning is to have 1-1s with direct reports. Page 59 has some good questions
 - Good questions on page 60 (assimilating new leaders)
@@ -118,7 +115,6 @@ header:
   - enhance self awareness
   - exercise personal discipline
   - build complementary teams
-- Note: heroes can struggle in Realignment and sustaining success
 - Make a hard assessment of which skills will serve you well and which are likely to get you in trouble
 - Leadership is a team sport
 - For sustaining success, focus on learning, reflection, and influence
@@ -128,10 +124,10 @@ header:
 - Proactively engage with your new boss to shape the game so that you have a fighting chance of achieving desired goals
 - Establish realistic expectations
 - Establishing a relationship with your boss dos an don'ts, page 90-93
-- Don't run down your checklist with your boss, have at most 3 things
-- Do clarify expectations early and often
-- Figure out what your boss cares about most?
-- What are three things that are important to you?
+  - Don't run down your checklist with your boss, have at most 3 things
+  - Do clarify expectations early and often
+  - Figure out what your boss cares about most?
+    - E.g. "What are three things that are important to you?""
 - Planning for 5 conversations (page 93)
 - Under promise and over deliver
 - "What exactly do I need from my boss?"
@@ -145,8 +141,8 @@ header:
 - Build waves of change that consist of: learning, designing the changes, building support, implementing the changes, observing results
 - First wave of change is to secure early wins
 - Start with the goal in mind, that is your anchor
-    - Define your goals
-    - Identify and support behavioral changes
+  - Define your goals
+  - Identify and support behavioral changes
 - Page 120 had problematic behavior patterns (revisit this in 30 days)
 - Principles of wins
   - Focus on a few promising opportunities
@@ -173,7 +169,6 @@ header:
 - When changing, need to decide if better to plan or conduct collective learning (i.e. experiment and see how it goes)
 - NTS: create better, clearer benchmarks for success (outcome over output, but what is the desired outcome)
 - Ask questions to identify where potential problems may be lurking, set of questions on page 137
-- NTS: the internal processes are a key area to start looking in
 - Goal: creating a virtuous cycle that reinforces wanted behaviors and contributes to helping you achieve your agreed to goals for the organization
 
 ## Chapter 6: Achieve Alignment
@@ -198,7 +193,7 @@ header:
   - Ask probing questions, prove the history of how the strategic direction got defined
   - Assess implementation: have the mission vision and strategy been pursued energetically
 - Does the structure support the strategy?
-- NTS: Revisit page 154 and write out these areas
+  - NTS: Revisit page 154 and write out these areas
 - Every org structure has trade offs
   - Make the right trade offs? E.g. Innovation or flawless execution?
 - What are our core processes? Review page 159
@@ -210,14 +205,14 @@ header:
 ## Chapter 7: Build Your Team
 - Assess existing team members; Align and motivate them; establish new processes to promote team work
 - Avoid common traps:
-    - Do not criticize people who led before you arrived, nothing to gain from this, evaluate the impact, concentrate on assessing current behavior;
-    - Keeping the existing team too long, establish deadlines and conclusions about the team in first 90 days
-    - Not balancing stability and change: find the right balance
-    - Not working on organizational alignment and team development in parallel, be sure to understand the destination, route, and ship, captain 👨‍✈️.  
-    - Not holding on to the good people
-    - Undertaking team building before the core is in place; avoid explicit team-building activities until the team you want is largely in place
-    - Making implementation decisions to early
-    - Trying to do it all yourself
+  - Do not criticize people who led before you arrived, nothing to gain from this, evaluate the impact, concentrate on assessing current behavior;
+  - Keeping the existing team too long, establish deadlines and conclusions about the team in first 90 days
+  - Not balancing stability and change: find the right balance
+  - Not working on organizational alignment and team development in parallel, be sure to understand the destination, route, and ship, captain 👨‍✈️.  
+  - Not holding on to the good people
+  - Undertaking team building before the core is in place; avoid explicit team-building activities until the team you want is largely in place
+  - Making implementation decisions to early
+  - Trying to do it all yourself
 - Page 170 has a chart on how to synchronize architectural alignment and team restructuring
 - Between day 30 and 60, sort out who is who, what roles people have played, and how the group has worked in the past
 - Establish your evaluative criteria: competence, judgement, energy, focus, relationships, trust (refer to page 171)
@@ -232,12 +227,12 @@ header:
     - Probe group dynamics: how do people interact? Alliances? Attitudes?
 - Evolve the team, after 30 days should be able to assign people to the following categories: note. I think 30 days is very aggressive. Half of your first few days of onboarding, will not even be able meet with team members. So the question is "when does the clock tick on 90 days"
 - Categories
-    - Keep in place
-    - Keep and develop
-    - Move to another position
-    - Replace (low priority)
-    - Replace (high priority)
-    - Observe for a while
+  - Keep in place
+  - Keep and develop
+  - Move to another position
+  - Replace (low priority)
+  - Replace (high priority)
+  - Observe for a while
 - Aligning your team
 - Ensure a combination of push (goals, performance measurement, incentives) and pull (compelling vision, inspiring people)
   - NTS: I am better at pull than I am at push. Push helps execution, need to work on this
@@ -266,9 +261,9 @@ header:
 - Need to influence in different ways: through persuasion and alliance building
 - Identify who you need to influence, who is likely to support (or resist) your key initiatives is an integral part of 90 day plan
 - Define your include objectives
-    - First step: be clear about why you need the support of others, think about the alliances you need to secure early wins
-    - Consider creating an alliance-building plan for each early win project
-    - Try to identify who or what might stand in your way of getting support for your direction?
+  - First step: be clear about why you need the support of others, think about the alliances you need to secure early wins
+  - Consider creating an alliance-building plan for each early win project
+  - Try to identify who or what might stand in your way of getting support for your direction?
 - Understand the influence landscape: who are the key decision makers? What do you need them to do and when do you need them to do it?
 - Determine decision makers for your early wins
 - Who are the winning alliances? Who are the blocking alliances
