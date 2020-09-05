@@ -8,7 +8,7 @@ header:
   image: /assets/images/the-first-90-days-chapter-notes.jpeg
 ---
 
-[Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-readers-are-leaders-but-all-leaders-are-readers) and with that in mind, I push myself to read as often as I can.  Recently, in preparation for my new leadership role, I read ["The First 90 Days"](https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612) and took notes throughout.  Below are my notes, takeaways, and raw thoughts from each chapter.
+[Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-readers-are-leaders-but-all-leaders-are-readers) and with that in mind, I push myself to read as often as I can. Recently, in preparation for my new leadership role at Dropbox, I read ["The First 90 Days"](https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612) and took notes throughout. Below are my notes, takeaways, and raw thoughts from each chapter.
 
 ## Table of Contents:
 - [Introduction](#introduction)
@@ -42,14 +42,13 @@ header:
 - Make sure to create virtuous cycles
 - Transition failures happen because new leaders either misunderstand the essential demands of the situation or lack the skill and flexibility to adapt to them.
   - The key, then, is to match your strategy to the situation.
-- There are 10 key tasks (e.g. each chapter)
 - The first step is to diagnose the type of transitions you are going through - most leaders experience multiple transitions in parallel
   - For example, I am currently starting a new job, living through a pandemic, and preparing to be a father as my wife is pregnant
 - Spend time learning about the organization.
   - 90 day mark can start as soon as you learn you’re being considered for a new role
-- Start planning what you want to accomplish and by when
+- **Start planning what you want to accomplish and by when**
   - Plan the first day, week, month, months, 90 days
-- Identify the transition risks you face, e.g.: moving to a new company, taking on a cross-functional leadership position for the first time, moving to a new industry or profession, etc.
+- **Identify the transition risks you face**, e.g.: moving to a new company, taking on a cross-functional leadership position for the first time, moving to a new industry or profession, etc.
 - Every new leader needs to quickly:
   - Become familiar with the new organization
   - Secure early wins
@@ -73,15 +72,15 @@ header:
 - Onboarding into a New Company
   - Leaders are often hired (lateral move) to do things that they have been successful at doing elsewhere (_here's looking at you kid_)
   - In promotion cases, leaders understand a lot about the company...in this case, they do not and need to learn (fast)!
-  - surveys show that coming in from the outside is "much harder" than being promoted from within
-  - high failure rate of leaders coming from outside (e.g. leaders not familiar with internal network of new company, not familiar with corporate structures, unknown to the organization, etc.)
+  - Surveys show that coming in from the outside is "much harder" than being promoted from within
+  - High failure rate of leaders coming from outside (e.g. leaders not familiar with internal network of new company, not familiar with corporate structures, unknown to the organization, etc.)
   - Four pillars of effective onboarding
     - Business orientation (learn about the company as a whole, not just your specific parts)
     - Stakeholder connection (vertical as well as - importantly - horizontal); find historians, cultural interpreters
     - Expectations alignment
-    - Cultural adaptation (determine the norms, shared language, values, etc.) - this is the most daunting of the pillars
-      - Key check list includes: influence; Meetings; Execution; Conflict; Recognition; Ends versus means.
-  - Key ways to prepare yourself:
+    - **Cultural adaptation (determine the norms, shared language, values, etc.) - this is the most daunting of the pillars**
+      - Key check list includes: Influence; Meetings; Execution; Conflict; Recognition; Ends versus means.
+  - **Key ways to prepare yourself:**
     - When transitioning, take time to make a clear break from the old and the new (e.g. take a weekend or a day to focus on what you need to be successful in the new role)
     - Assess your vulnerabilities
     - Watch out for your strengths
@@ -95,27 +94,27 @@ header:
 
 - Learn about culture and politics
 - Planning to learn: figure out in advance what the important questions are and how you can best answer them
-- Understand the history, a baseline question is "how did we get to this point?"
+- **Understand the history, a baseline question is "how did we get to this point?"**
 - Effective leaders strike a balance between doing (making things happen) and being (observing and reflecting)
 - Display a genuine desire to learn
-- Don't rush to take action, most of the impulse to take action comes from internal sources
+- **Don't rush to take action, most of the impulse to take action comes from internal sources**
 - Focus on learning and adapting to the new culture
 - Actionable insight: knowledge that helps you make better decisions earlier and helps you quickly reach the break even point
 - Effective learning: figure out what you need to learn so you can focus your efforts
 - Define your learning agenda
-- Different people inside and outside of the organization can give you insight into the business, e.g. historians, suppliers, integrators, etc. See page 55.
-- A good approach to start learning is to have 1-1s with direct reports. Page 59 has some good questions
-- Good questions on page 60 (assimilating new leaders)
+  - Different people inside and outside of the organization can give you insight into the business, e.g. historians, suppliers, integrators, etc. See page 55.
+  - A good approach to start learning is to have 1-1s with direct reports. Page 59 has some good questions
+  - Good questions on page 60 (assimilating new leaders)
 
 ## Chapter 3: Match Strategy to Situation
-- Ask: what kind of change am I being called upon to lead? And...what kind of leader am I?
+- **Ask: what kind of change am I being called upon to lead? And...what kind of leader am I?**
 - Use the STARS model, page 71, table on page 72
 - To understand the company, put on your historian hat
 - To adapt your personal leadership style you must:
   - enhance self awareness
   - exercise personal discipline
   - build complementary teams
-- Make a hard assessment of which skills will serve you well and which are likely to get you in trouble
+- **Make a hard assessment of which skills will serve you well and which are likely to get you in trouble**
 - Leadership is a team sport
 - For sustaining success, focus on learning, reflection, and influence
 
