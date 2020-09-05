@@ -304,5 +304,6 @@ header:
 
 ---
 ## More "Chapter Notes"
+- [Refactoring (2nd Edition)]({{ site.baseurl }}{% post_url 2019-3-29-refactoring-by-martin-fowler-chapter-notes %})
 - [Accelerate]({{ site.baseurl }}{% post_url 2018-07-21-accelerate-notes %})
 - [The Hard Thing About Hard Things]({{ site.baseurl }}{% post_url 2018-6-29-the-hard-thing-about-hard-things-notes %})
