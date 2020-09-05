@@ -136,3 +136,9 @@ On to the ~~cliff~~ Ajahne notes!
 - Will often work on a test suite as much as we work on the main code
 - When you get a bug report, start by writing tests that expose the bug
 - How confident are you in the code that some tests will fail when a defect is entered into the code
+
+---
+## More "Chapter Notes"
+- [The First 90 Days]({{ site.baseurl }}{% post_url 2020-4-14-the-first-90-days-chapter-notes %})
+- [Accelerate]({{ site.baseurl }}{% post_url 2018-07-21-accelerate-notes %})
+- [The Hard Thing About Hard Things]({{ site.baseurl }}{% post_url 2018-6-29-the-hard-thing-about-hard-things-notes %})
