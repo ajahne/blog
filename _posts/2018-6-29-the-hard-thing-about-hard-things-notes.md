@@ -145,3 +145,9 @@ header:
 - Hard things are hard because there are no easy answers or recipes (page 274)
 - Life is a struggle, embrace the struggle
 - Embrace your background, your weirdness, your uniqueness
+
+---
+## More "Chapter Notes"
+- [The First 90 Days]({{ site.baseurl }}{% post_url 2020-4-14-the-first-90-days-chapter-notes %})
+- [Refactoring (2nd Edition)]({{ site.baseurl }}{% post_url 2019-3-29-refactoring-by-martin-fowler-chapter-notes %})
+- [Accelerate]({{ site.baseurl }}{% post_url 2018-07-21-accelerate-notes %})
