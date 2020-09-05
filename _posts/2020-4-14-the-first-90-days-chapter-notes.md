@@ -301,3 +301,8 @@ header:
 - NTS: work to define what successful execution looks like
 - NTS: spend time, assessing the business and the new role, create / update the strategy to build momentum, create a strategy for managing myself, develop an action plan
 - Fill out the development grid on page 256
+
+---
+## More "Chapter Notes"
+- [Accelerate]({{ site.baseurl }}{% post_url 2018-07-21-accelerate-notes %})
+- [The Hard Thing About Hard Things]({{ site.baseurl }}{% post_url 2018-6-29-the-hard-thing-about-hard-things-notes %})
