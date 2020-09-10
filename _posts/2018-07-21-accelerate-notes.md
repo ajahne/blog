@@ -199,3 +199,9 @@ With the intent to answer these questions and implement a "plan of attack" for m
 - Enable cross-functional collaboration: build trust with counterparts in other teams, encourage people to move between departments, actively seek and reward work that facilitates collaboration
 - Create a climate of learning: budget for books and conferences, make it safe to fail, lunch and learn, share with demo days
 - Make effective use of tools: teams should choose their tools, make monitoring a priority
+
+---
+## More "Chapter Notes"
+- [The First 90 Days]({{ site.baseurl }}{% post_url 2020-4-14-the-first-90-days-chapter-notes %})
+- [Refactoring (2nd Edition)]({{ site.baseurl }}{% post_url 2019-3-29-refactoring-by-martin-fowler-chapter-notes %})
+- [The Hard Thing About Hard Things]({{ site.baseurl }}{% post_url 2018-6-29-the-hard-thing-about-hard-things-notes %})
