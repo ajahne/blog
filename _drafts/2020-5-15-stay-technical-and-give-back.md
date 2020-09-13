@@ -39,13 +39,13 @@ So yes, I remember that day in Computational Theory vividly.
 
 I was in Halligan 101. Sitting on the right side of the class room, in the front and listening to Professor Laing break down state machines. It was a sunny spring afternoon in Medford, Massachussetts. I sat in the front, in a plastic chair with metal legs, right "desk-arm" wrapping around and holding my notebook sturdily as I scribbled down key points from the lecture.
 
-While I do not remember my outfit. That was the baggy jean days days. The long Tee days. Tight corn-rows under the doo-rag days. And I was always dressed that way, not knowing how to let go of my hood, to let go of me. Still finding me.  Still looking for me.
+While I do not remember my outfit. That was the baggy jean days days. The long Tee days. Tight corn-rows under the doo-rag days. And I was always dressed that way, not knowing how to let go of my hood, to let go of me. Still finding me. Still looking for me. Wanting to hold onto every thing that defined who I was, yet still looking for who I would become.
 
-The sun was peaking through the window on the right side of the classroom. My vision drifted from the whiteboard to the window and through that transparent glass I gazed. I stared through it, over the grass, beyond the parking lot, and through the field. My focus was not on what was outside of the window. I saw something else that day. I felt something.
+The sun was peaking through the window on the right side of the classroom. My vision drifted from the whiteboard to the window and through that transparent glass I gazed. I stared through it, over the grass, beyond the parking lot, and through the field. My focus was not on what was outside of the window. It was what was inside the classroom. I saw something else that day. I felt something.
 
-For the first time in my entire college tenure. I felt that I could do it. That I could be a computer scientist. That I could be a software engineer.That I could excel.  That I could be...me. All of me.
+For the first time in my entire college tenure. I felt that I could do it. That I could be a computer scientist. That I could be a software engineer. That I could excel. That I could be...me. All of me.
 
-I saw myself in this professor who was the first Black professor that I had ever had. He commanded the lecture hall. He was light of frame with a crisp white button down tucked neatly into khaki slacks. And while we did not dress the same or look the same. I felt he was me.
+I saw myself in this professor who was the first Black professor that I had ever had. He commanded the lecture hall. He was light of frame with a crisp white button down tucked neatly into khaki slacks. Writing confidently on the chalkboard and - And while we did not dress the same or look the same. I felt he was me.
 
 A computer science professor that had my hair, that had my skin tone, that had my features. Up until that point, I had not quite believed that I could do this.
 
@@ -57,17 +57,17 @@ Never getting my code to compile made me questions.
 
 Having the dean call me into her office made me question.
 
-Students saying that the only reason we (Black students) were at the university was because of affirmative action turned those questions into an ocean of doubts. Everytime I struggled, every time I did not do well in class, everytime I failed a quiz or couldn't get my code to compile. Was that because it was me? Or because maybe I should not be here. Maybe I am here to fill a quota.
+Students saying that the only reason we (Black students) were at the university was because of affirmative action turned those questions into an ocean of doubts. Drowing me. Suffocating me. Everytime I struggled, every time I did not do well in class, everytime I failed a quiz or couldn't get my code to compile. Was that because it was me? Or because maybe I should not be here. Maybe I am here to fill a quota.
 
 Maybe I am not cut out for this.
 
-The hesitation grew. For every question in my mind, my confidence faltered just a little bit more. For every compile error. For every emacs shortcut I couln't remember. For every program that did not pass all the tests. I doubted every more.
+The hesitation grew. For every question in my mind, my confidence faltered just a little bit more. For every compile error. For every emacs shortcut I couln't remember. For every program that did not pass all the tests. I doubted myself further.
 
-I felt alone. I felt lost. I felt that I wasn;t wanted. That I was not supported.
+I felt alone. I felt lost. I felt that I wasn't wanted. That I was not supported.
 
-Professores not making eye contact.  Students in my classes avoiding studying with me. A peer telling me they were not going to study for the upcoming midterm test, then I saw them in a large group, at the library, studying. They would'nt meet my eyes.
+Professores not making eye contact.  Students in my classes avoiding studying with me. A peer telling me they were not going to study for the upcoming midterm test, then seeiing them in a study group at the library, studying. Them not meeting my eyes.
 
-The secretarty at the front office who ask me "do you go to school here" when I asked for a form to join the IEEE club. She didn't hand me the form. I never joined IEE.
+The secretarty at the front office who ask me "do you go to school here" when I asked for a form to join the IEEE club. I had been at the school over two years. She didn't hand me the form. I never joined IEE.
 
 The professor who called me out in the middle of class and embarrassed me in front of everyone.
 
@@ -85,7 +85,9 @@ Feeling like I had to be great, not just for me, but for an entire group of peop
 
 See it got to the point where I was the only one left. The only Black person in my year studying computer science in the school of engineering. If I drop out...then none of us make it.
 
-And in that day, in Halligan Hall, with the sun shining in across college ave, through the window of Halligan 101, while I listened to Professor Laing teach us about state machines, I believed for the first time, that I could be a software engineer. I believed for the first time that I could do it. I could make it.
+And in that day, in Halligan Hall, with the sun shining in across college ave, through the window of Halligan 101, while I listened to Professor Laing teach us about state machines, I believed for the first time, that I could be a software engineer. I believed for the first time that I could do it. That I could make it.
+
+A nah, this ain't some rah rah, kumbaya. I worked my ass off.
 
 That semester I made Dean's list. And the next. And once I graduated, I went and got my Masters degree in computer science. I
 
@@ -93,4 +95,4 @@ And, in one of my proudest moments, the kid who got a D- in intro to Comptuer Sc
 
 That kid was proud.
 
-Wearing a doo-rag, in his long T.
+Wearing his baggy jeans, long Tee, and braids under the a doo-rag - I taught them students the hell out of some operators!
