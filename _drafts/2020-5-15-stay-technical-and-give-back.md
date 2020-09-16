@@ -15,21 +15,21 @@ This was important to me. In the tech industry there are not many people that lo
 
 So what was it like? Well my interviews started right when COVID hit. This impact? Everything was
 
-One of the most challenges aspects of being a manager is staying technical. Frankly one of the challenges in our industry is staying technical. Frameworks, languages, APIs, libraries, and more are always evolvging.  When you are in your day to day, how do you stay up to speed?
+One of the most challenges aspects of being a manager is staying technical. Frankly one of the challenges in our industry is staying technical. Frameworks, languages, APIs, libraries, and more are always evolving.  When you are in your day to day, how do you stay up to speed?
 
 Recently I was deep in the interview process for a new leadership opportunity. I wanted a change and a new challenge.
 
 Interviews were conducted virtually, using Google Hangouts and code was written over repl.
 
-I was just wrapping up my rounds of interviews with FAANGs, top tier tech companies, brand name industry leaders, and high-growth startups. I felt with the knowldge that I had just brushed up on and improved, I could offer some things.
+I was just wrapping up my rounds of interviews with FAANGs, top tier tech companies, brand name industry leaders, and high-growth startups. I felt with the knowledge that I had just brushed up on and improved, I could offer some things.
 
-It was important to me to volunteer and give back. I interviewed a wide array of engineers. All driven and passaionate canaidates who were driven to push themselves. Many of the people I interviewed were women and under represented minorities. Our industry not only lacks diversity, but lacks support for diverse engineers once they are in the industry.
+It was important to me to volunteer and give back. I interviewed a wide array of engineers. All driven and passionate candidates who were driven to push themselves. Many of the people I interviewed were women and under represented minorities. Our industry not only lacks diversity, but lacks support for diverse engineers once they are in the industry.
 
 This is something near and dear to me.
 
 When I was in college, I was often the only Black person in my computer science classes.
 
-I was one of two African American Students out of 100 to graduate within the school of engineering in the fields of Comptuer Science, Computer Engineering, and Electrical Engineering.
+I was one of two African American Students out of 100 to graduate within the school of engineering in the fields of Computer Science, Computer Engineering, and Electrical Engineering.
 
 There was many times when I felt it just wasn't for me.
 
@@ -37,7 +37,7 @@ I was a junior in college before I ever had my first Black professor. My first b
 
 So yes, I remember that day in Computational Theory vividly.
 
-I was in Halligan 101. Sitting on the right side of the class room, in the front and listening to Professor Laing break down state machines. It was a sunny spring afternoon in Medford, Massachussetts. I sat in the front, in a plastic chair with metal legs, right "desk-arm" wrapping around and holding my notebook sturdily as I scribbled down key points from the lecture.
+I was in Halligan 101. Sitting on the right side of the class room, in the front and listening to Professor Laing break down state machines. It was a sunny spring afternoon in Medford, Massachusetts. I sat in the front, in a plastic chair with metal legs, right "desk-arm" wrapping around and holding my notebook sturdily as I scribbled down key points from the lecture.
 
 While I do not remember my outfit. That was the baggy jean days days. The long Tee days. Tight corn-rows under the doo-rag days. And I was always dressed that way, not knowing how to let go of my hood, to let go of me. Still finding me. Still looking for me. Wanting to hold onto every thing that defined who I was, yet still looking for who I would become.
 
@@ -57,17 +57,17 @@ Never getting my code to compile made me questions.
 
 Having the dean call me into her office made me question.
 
-Students saying that the [only reason we (Black students) were at the university was because of affirmative action](https://www.insidehighered.com/news/2006/12/12/not-so-merry-christmas) turned those questions into an ocean of doubts. Drowing me. Suffocating me. Everytime I struggled, every time I did not do well in class, everytime I failed a quiz or couldn't get my code to compile. Was that because it was me? Or because maybe I should not be here. Maybe I am here to fill a quota.
+Students saying that the [only reason we (Black students) were at the university was because of affirmative action](https://www.insidehighered.com/news/2006/12/12/not-so-merry-christmas) turned those questions into an ocean of doubts. Drowning me. Suffocating me. Every time I struggled, every time I did not do well in class, every time I failed a quiz or couldn't get my code to compile. Was that because it was me? Or because maybe I should not be here. Maybe I am here to fill a quota.
 
 Maybe I am not cut out for this.
 
-The hesitation grew. For every question in my mind, my confidence faltered just a little bit more. For every compile error. For every emacs shortcut I couln't remember. For every program that did not pass all the tests. I doubted myself further.
+The hesitation grew. For every question in my mind, my confidence faltered just a little bit more. For every compile error. For every emacs shortcut I couldn't remember. For every program that did not pass all the tests. I doubted myself further.
 
 I felt alone. I felt lost. I felt that I wasn't wanted. That I was not supported.
 
-Professores not making eye contact.  Students in my classes avoiding studying with me. A peer telling me they were not going to study for the upcoming midterm test, then seeiing them in a study group at the library, studying. Them not meeting my eyes.
+Professors not making eye contact.  Students in my classes avoiding studying with me. A peer telling me they were not going to study for the upcoming midterm test, then seeing them in a study group at the library, studying. Them not meeting my eyes.
 
-The secretarty at the front office who ask me "do you go to school here" when I asked for a form to join the IEEE club. I had been at the school over two years. She didn't hand me the form. I never joined IEE.
+The secretary at the front office who ask me "do you go to school here" when I asked for a form to join the IEEE club. I had been at the school over two years. She didn't hand me the form. I never joined IEE.
 
 The professor who called me out in the middle of class and embarrassed me in front of everyone.
 
@@ -91,7 +91,7 @@ A nah, this ain't some rah rah, kumbaya. I worked my ass off.
 
 That semester I made Dean's list. And the next. And once I graduated, I went and got my Masters degree in computer science. I
 
-And, in one of my proudest moments, the kid who got a D- in intro to Comptuer Science, became the head TA for that very same class. When the professor was out, that kid taught the class.
+And, in one of my proudest moments, the kid who got a D- in intro to Computer Science, became the head TA for that very same class. When the professor was out, that kid taught the class.
 
 That kid was proud.
 
