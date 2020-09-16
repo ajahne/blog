@@ -57,7 +57,7 @@ Never getting my code to compile made me questions.
 
 Having the dean call me into her office made me question.
 
-Students saying that the only reason we (Black students) were at the university was because of affirmative action turned those questions into an ocean of doubts. Drowing me. Suffocating me. Everytime I struggled, every time I did not do well in class, everytime I failed a quiz or couldn't get my code to compile. Was that because it was me? Or because maybe I should not be here. Maybe I am here to fill a quota.
+Students saying that the [only reason we (Black students) were at the university was because of affirmative action](https://www.insidehighered.com/news/2006/12/12/not-so-merry-christmas) turned those questions into an ocean of doubts. Drowing me. Suffocating me. Everytime I struggled, every time I did not do well in class, everytime I failed a quiz or couldn't get my code to compile. Was that because it was me? Or because maybe I should not be here. Maybe I am here to fill a quota.
 
 Maybe I am not cut out for this.
 
