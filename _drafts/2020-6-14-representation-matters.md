@@ -1,25 +1,14 @@
 ---
 layout: single
 title:  'Representation Matters'
-date:   2020-6-15 5:00:00 -0400
+date:   2020-6-14 5:00:00 -0400
 categories: leadership
 tags:
 header:
   image:
 ---
-Earlier this year I spent time volunteering.
-
-Every other Wednesday for two months, I conducted two hour long interviews with candidates.
-
-This was important to me. In the tech industry there are not many people that look like me.
-
-So what was it like? Well my interviews started right when COVID hit. This impact? Everything was
-
-One of the most challenges aspects of being a manager is staying technical. Frankly one of the challenges in our industry is staying technical. Frameworks, languages, APIs, libraries, and more are always evolving.  When you are in your day to day, how do you stay up to speed?
 
 Recently I was deep in the interview process for a new leadership opportunity. I wanted a change and a new challenge.
-
-Interviews were conducted virtually, using Google Hangouts and code was written over repl.
 
 I was just wrapping up my rounds of interviews with FAANGs, top tier tech companies, brand name industry leaders, and high-growth startups. I felt with the knowledge that I had just brushed up on and improved, I could offer some things.
 
