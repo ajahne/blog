@@ -8,9 +8,9 @@ header:
   image:
 ---
 
-*When I was in college at Tufts University, I was often the only Black person in my computer science and engineering classes.*
+*When I was in college at Tufts University, I was often the only Black person in my Computer Science and engineering classes.*
 
-*I was the only Black person to graduate with a computer science degree from the school of engineering in my year.*
+*I was the only Black person to graduate with a Computer Science degree from the School of Engineering in my year.*
 
 *I was one of two Black students out of more than 100 to graduate within the school of engineering in the fields of Computer Science, Computer Engineering, and Electrical Engineering.*
 
@@ -54,27 +54,27 @@ It was a lonely road.
 
 Feeling like I had to be great, not just for me, but for an entire group of people.
 
-See it got to the point where I was the only one left. The only (*last*) Black person in my year studying computer science in the school of engineering. If I drop out...then none of us make it.
+See it got to the point where I was the only one left. The only (*last*) Black person in my year studying Computer Science in the School of Engineering. If I drop out...then none of us make it.
 
 So yes, I remember that day in Comp 170 vividly.
 
-I was in Halligan 101. Sitting on the right side of the class room, in the front and listening to Professor Kofi Laing break down state machines. It was a sunny spring afternoon in Medford, Massachusetts. I sat in the front, in a plastic chair with metal legs, right "desk-arm" wrapping around and holding my notebook sturdily as I scribbled down key points from the lecture.
+It was a sunny spring afternoon in Medford, Massachusetts. I was in Halligan 101, on the right side of the class room, listening to Professor Kofi Laing break down state machines. I sat in the front, in a plastic chair with metal legs, right "desk-arm" wrapping around and holding my notebook sturdily as I scribbled down key points from the lecture.
 
-While I do not remember my outfit. That was the baggy jean days days. The long Tee days. Tight corn-rows under the doo-rag days. And I was always dressed that way, not knowing how to let go of my hood, to let go of me. Still finding me. Still looking for me. Wanting to hold onto every thing that defined who I was, yet still looking for who I would become.
+While I do not remember my outfit. That was the baggy jean days days. The long Tee days. Tight corn-rows under the doo-rag days. And I was always dressed that way, not knowing how to let go of my hood, scared to let parts of me go. Still finding me. Still looking for me. Yet always proud. Wanting to hold onto every thing that defined who I was, while still looking for who I would become.
 
-The sun was peaking through the window on the right side of the classroom. My vision drifted from the whiteboard to the window and through that transparent glass I gazed. I stared through it, over the grass, beyond the parking lot, and through the field. Drifting. My focus was not on what was outside of the window. It was what was inside the classroom. I saw something else that day. I felt something.
+The sun was peaking through the window on the right side of the classroom. My vision drifted from the whiteboard to the window and through that transparent glass. I stared through it, over the grass, beyond the parking lot, and through the field. Drifting. My focus was not on what was outside of the window. It was what was inside the classroom. I saw something else that day. I felt something.
 
 For the first time in my entire college tenure. I felt that I could do it. That I could be a computer scientist. That I could be a software engineer. That I could excel. That I could be...me. All of me.
 
 I saw myself in this professor who was the first Black professor that I had ever had. He commanded the lecture hall. He was light of frame with a crisp white button down tucked neatly into khaki slacks. Writing confidently on the chalkboard and - and while we did not dress the same or look the same - we were the same. I felt he was me.
 
-A computer science professor that had my hair, that had my skin tone, that had my features. Up until that point, I had not quite believed that I could do this.
+A Computer Science professor that had my hair, that had my skin tone, that had my features. Up until that point, I had not quite believed that I could do this.
 
 And in that day, in Halligan Hall, with the sun shining in across college ave, through the window of Halligan 101, while I listened to Professor Laing teach us about state machines during a Thursday lecture in Computational Theory, I believed - for the first time - that I could be a software engineer. I believed for the first time that I could do it. That I could make it.
 
 A nah, this ain't some rah rah, kumbaya ish. I worked my ass off.
 
-That semester I made Dean's list. And the next. And once I graduated, I went and got my Masters degree in computer science, getting straight As in almost every semester.
+That semester I made Dean's list. And the next. And once I graduated, I went and got my Masters degree in Computer Science, getting straight As in almost every semester.
 
 And, in one of my proudest moments, the kid who got a D- in intro to Computer Science, became the head TA for that very same class. When the professor was out, that kid taught the class.
 
