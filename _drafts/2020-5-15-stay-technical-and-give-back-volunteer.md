@@ -15,6 +15,25 @@ header:
 - What I did to prepare
 - How the interview process went
 
+
+Earlier this year I spent time volunteering.
+
+Every other Wednesday for two months, I conducted two hour long interviews with candidates.
+
+This was important to me. In the tech industry there are not many people that look like me.
+
+So what was it like? Well my interviews started right when COVID hit. This impact? Everything was
+
+One of the most challenges aspects of being a manager is staying technical. Frankly one of the challenges in our industry is staying technical. Frameworks, languages, APIs, libraries, and more are always evolving.  When you are in your day to day, how do you stay up to speed?
+
+Recently I was deep in the interview process for a new leadership opportunity. I wanted a change and a new challenge.
+
+Interviews were conducted virtually, using Google Hangouts and code was written over repl.
+
+I was just wrapping up my rounds of interviews with FAANGs, top tier tech companies, brand name industry leaders, and high-growth startups. I felt with the knowledge that I had just brushed up on and improved, I could offer some things.
+
+It was important to me to volunteer and give back. I interviewed a wide array of engineers. All driven and passionate candidates who were driven to push themselves. Many of the people I interviewed were women and under represented minorities. Our industry not only lacks diversity, but lacks support for diverse engineers once they are in the industry.
+
 1:
 - our industry changes so rapidly, learn or die. Nor physically, but career. Career progression will stagnant.
 - What you do at work will not necessarily align  with the current trends and ways if the industry. Many moons ago I worked on adobe flash when it was dying. Recently was deep into Angular when React was eating the world. Even in my most recent interviews with JavaScript as my strongest language I needed to take time to brush up on data ya structures and algorithms.
