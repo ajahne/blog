@@ -26,9 +26,9 @@ Being the only Black person in all of my classes made me question.
 
 Never getting my code to compile made me question.
 
-Having the dean call me into her office (multiple times) made me question.
+Having the Dean call me into her office (multiple times) made me question.
 
-Tufts student publications saying that the [only reason we (Black students) were at the university was because of affirmative action](https://www.insidehighered.com/news/2006/12/12/not-so-merry-christmas) turned those questions into oceans of doubt. Drowning me. Suffocating me. Every time I struggled, every time I did not do well in class, every time I failed a quiz or couldn't get my code to compile. Was that because it was me? Or because maybe I should not be here? Maybe I am here to fill a quota.
+Tufts student publications stating on [multiple occasions](https://tuftsdaily.com/archives/2001/09/01/affirmative-action-is-everyones-concern/) that the [only reason we (Black students) were at the university was because of affirmative action](https://www.insidehighered.com/news/2006/12/12/not-so-merry-christmas) turned those questions into oceans of doubt. Drowning me. Suffocating me. Every time I struggled, every time I did not do well in class, every time I failed a quiz or couldn't get my code to compile. Was that because it was me? Or because maybe I should not be here? Maybe I am here to fill a quota.
 
 Maybe I am not cut out for this.
 
