@@ -72,7 +72,7 @@ A Computer Science professor that had my hair, that had my skin tone, that had m
 
 And in that day, in Halligan Hall, with the sun shining in across college ave, through the window of Halligan 101, while I listened to Professor Laing teach us about state machines during a Thursday lecture in Computational Theory, I believed - for the first time - that I could be a software engineer. I believed for the first time that I could do it. That I could make it.
 
-A nah, this ain't some rah rah, kumbaya ish. I worked my ass off.
+A nah, this ain't some rah rah, Kumbaya ish. I worked my ass off.
 
 That semester I made Dean's list. And the next. And once I graduated, I went and got my Masters degree in Computer Science, getting straight As in almost every semester.
 
