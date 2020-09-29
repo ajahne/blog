@@ -20,7 +20,7 @@ header:
 
 ---
 
-I was a junior in college before I ever had my first Black professor. My first Black teacher of any kind. Through kindegarten, grammar school, middle, high school, and now college, I had never had a teacher that looked like me. I was always told that I could be anything, do anything I could dream of. But its hard to believe in dreams when no one in them looks like you.
+I was a junior in college before I ever had my first Black professor. My first Black teacher of any kind. Through kindergarten, grammar school, middle, high school, and now college, I had never had a teacher that looked like me. I was always told that I could be anything, do anything I could dream of. But, its hard to believe in dreams when no one in them looks like you.
 
 Being the only Black person in all of my classes made me question.
 
@@ -36,9 +36,9 @@ The hesitation grew. For every question in my mind, my confidence faltered just 
 
 I felt alone. I felt lost. I felt that I wasn't wanted. That I was not supported.
 
-Professors not making eye contact. Students in my classes avoiding studying with me. A peer telling me they were not going to study for the upcoming midterm, then seeing them in a study group at the library, studying. Them not meeting my eyes.
+Professors not making eye contact. Students in my classes avoiding studying with me. A peer telling me they were not going to study for the midterm, then seeing them in a study group at the library, studying. Them not meeting my eyes.
 
-The secretary at the front office of Haligan Hall who asked me "do you go to school here" when I requested a form to join the IEEE club. I had been at the school for more than two years. She didn't hand me the form. I never joined IEEE.
+The secretary at the front office of Halligan Hall who asked me "do you go to school here" when I requested a form to join the IEEE club. I had been at the school for more than two years. She didn't hand me the form. I never joined IEEE.
 
 The professor who called me out in the middle of class and embarrassed me in front of everyone.
 
@@ -60,17 +60,17 @@ So yes, I remember that day in Comp 170 vividly.
 
 It was a sunny spring afternoon in Medford, Massachusetts. I was in Halligan 101, on the right side of the class room, listening to Professor Kofi Laing break down state machines. I sat in the front, in a plastic chair with metal legs, right "desk-arm" wrapping around and holding my notebook sturdily as I scribbled down key points from the lecture.
 
-While I do not remember my outfit. That was the baggy jean days days. The long Tee days. Tight corn-rows under the doo-rag days. And I was always dressed that way, not knowing how to let go of my hood, scared to let parts of me go. Still finding me. Still looking for me. Yet always proud. Wanting to hold onto every thing that defined who I was, while still looking for who I would become.
+While I do not remember my outfit. That was the baggy jean days days. The long Tee days. Tight corn-rows [under the doo-rag days](https://www.cs.tufts.edu/comp/11-2003f/staff.php). And I was always dressed that way, not knowing how to let go of my hood, scared to let parts of me go. Still finding me. Still looking for me. Yet always proud. Wanting to hold onto every thing that defined who I was, while still looking for who I would become.
 
-The sun was peaking through the window on the right side of the classroom. My vision drifted from the whiteboard to the window and through that transparent glass. I stared through it, over the grass, beyond the parking lot, and through the field. Drifting. My focus was not on what was outside of the window. It was what was inside the classroom. I saw something else that day. I felt something.
+The sun was peaking through the window on the right side of the classroom. My vision drifted from the whiteboard to the window and through the large transparent glass. I stared through it, over the grass, towards the parking lot, through the field, and beyond. Mind floating. My focus was not on what was outside of the window. It was what was inside the classroom. I saw something else that day. I felt something.
 
-For the first time in my entire college tenure. I felt that I could do it. That I could be a computer scientist. That I could be a software engineer. That I could excel. That I could be...me. All of me.
+For the first time in my entire college tenure, I felt that I could do it. That I could be a computer scientist. That I could be a software engineer. That I could excel. That I could be...me. All of me.
 
-I saw myself in this professor who was the first Black professor that I had ever had. He commanded the lecture hall. He was light of frame with a crisp white button down tucked neatly into khaki slacks. Writing confidently on the chalkboard and - and while we did not dress the same or look the same - we were the same. I felt he was me.
+I saw myself in this professor who was the first Black professor that I had ever had. He commanded the lecture hall. He was light of frame with a crisp white button down tucked neatly into khaki slacks. Writing confidently on the chalkboard and - and while we did not dress _exactly_ the same or look _exactly_ the same - we were the same. I felt he was me.
 
 A Computer Science professor that had my hair, that had my skin tone, that had my features. Up until that point, I had not quite believed that I could do this.
 
-And in that day, in Halligan Hall, with the sun shining in across college ave, through the window of Halligan 101, while I listened to Professor Laing teach us about state machines during a Thursday lecture in Computational Theory, I believed - for the first time - that I could be a software engineer. I believed for the first time that I could do it. That I could make it.
+And in that day, in Halligan Hall, with the sun shining in through the window, while I listened to Professor Laing teach us about state machines during a Thursday lecture in Computational Theory, I believed - for the first time - that I could be a software engineer. I believed for the first time that I could do it. That I could make it.
 
 A nah, this ain't some rah rah, Kumbaya ish. I worked my ass off.
 
