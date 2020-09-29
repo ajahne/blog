@@ -8,7 +8,7 @@ header:
   image:
 ---
 
-*When I was in college at Tufts University, I was often the only Black person in my Computer Science and engineering classes.*
+*When I was student at Tufts University, I was often the only Black person in my Computer Science and engineering classes.*
 
 *I was the only Black person to graduate with a Computer Science degree from the School of Engineering in my year.*
 
@@ -20,7 +20,7 @@ header:
 
 ---
 
-I was a junior in college before I ever had my first Black professor. My first Black teacher of any kind. Through kindergarten, grammar school, middle, high school, and now college, I had never had a teacher that looked like me. I was always told that I could be anything, do anything I could dream of. But, its hard to believe in dreams when no one in them looks like you.
+I was a junior in college before I ever had my first Black professor. My first Black teacher of any kind. Through kindergarten, grammar school, middle, high school, and now college, I never had a teacher that looked like me. I was always told that I could be anything, do anything I could dream of. But, its hard to believe in dreams when no one in them looks like you.
 
 Being the only Black person in all of my classes made me question.
 
@@ -62,11 +62,11 @@ It was a sunny spring afternoon in Medford, Massachusetts. I was in Halligan 101
 
 While I do not remember my outfit. That was the baggy jean days days. The long Tee days. Tight corn-rows [under the doo-rag days](https://www.cs.tufts.edu/comp/11-2003f/staff.php). And I was always dressed that way, not knowing how to let go of my hood, scared to let parts of me go. Still finding me. Still looking for me. Yet always proud. Wanting to hold onto every thing that defined who I was, while still looking for who I would become.
 
-The sun was peaking through the window on the right side of the classroom. My vision drifted from the whiteboard to the window and through the large transparent glass. I stared through it, over the grass, towards the parking lot, through the field, and beyond. Mind floating. My focus was not on what was outside of the window. It was what was inside the classroom. I saw something else that day. I felt something.
+The sun was peeking through the window on the right side of the classroom. My vision drifted from the whiteboard to the window and I stared through it. Over the grass, towards the parking lot, through the field, and beyond. Mind floating. My focus was not on what was outside of the window. It was what was inside the classroom. I saw something else that day. I felt something.
 
 For the first time in my entire college tenure, I felt that I could do it. That I could be a computer scientist. That I could be a software engineer. That I could excel. That I could be...me. All of me.
 
-I saw myself in this professor who was the first Black professor that I had ever had. He commanded the lecture hall. He was light of frame with a crisp white button down tucked neatly into khaki slacks. Writing confidently on the chalkboard and - and while we did not dress _exactly_ the same or look _exactly_ the same - we were the same. I felt he was me.
+I saw myself in this professor who was the first Black professor that I ever had. He commanded the lecture hall. He was light of frame with a crisp white button down tucked neatly into khaki slacks. Writing confidently on the chalkboard and - and while we did not _dress_ exactly the same or _look_ exactly the same - we _were_ the same. I felt he was me.
 
 A Computer Science professor that had my hair, that had my skin tone, that had my features. Up until that point, I had not quite believed that I could do this.
 
@@ -85,7 +85,7 @@ Wearing his baggy jeans, long Tee, and braids under the a doo-rag - I taught the
 And all of my code compiled.
 
 ---
-Before I graduated I stopped by Professor Laing's office and told him about that day in Comp 170. He listened intently - never displaying his inner thoughts - while I told my story and how he inspired me.  How after seeing him in class I felt that I could make it in this field.
+Before I graduated I stopped by Professor Laing's office and told him about that day in Comp 170. He listened intently - never displaying his inner thoughts - while I told my story about how he inspired me.  How after seeing him teach our class, I felt that I could make it in this field.
 
 His response?
 
@@ -93,4 +93,4 @@ Of course you can.
 
 We all need someone like this. A professor, a colleague, a coach.
 
-This in part drives me to mentor, to be a [board member at Tufts](https://engineering.tufts.edu/cs/community/externaladvisoryboard), to volunteer, and give back in whatever way I can. Humbled if I can inspire, hoping that I do nothing less.
+This in part drives me to mentor, to be a [board member at Tufts](https://engineering.tufts.edu/cs/community/externaladvisoryboard), to volunteer, and give back in whatever way I am able. Humbled if I can inspire, hoping that I do nothing less.
