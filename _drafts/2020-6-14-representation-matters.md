@@ -83,3 +83,14 @@ That kid was proud.
 Wearing his baggy jeans, long Tee, and braids under the a doo-rag - I taught them students the hell out of some operators, variables, and data types!
 
 And all of my code compiled.
+
+---
+Before I graduated I stopped by Professor Laing's office and told him about that day in Comp 170. He listened intently - never displaying his inner thoughts - while I told my story and how he inspired me.  How after seeing him in class I felt that I could make it in this field.
+
+His response?
+
+Of course you can.
+
+We all need someone like this. A professor, a colleague, a coach.
+
+This in part drives me to mentor, to be a [board member at Tufts](https://engineering.tufts.edu/cs/community/externaladvisoryboard), to volunteer, and give back in whatever way I can. Humbled if I can inspire, hoping that I do nothing less.
