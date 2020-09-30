@@ -66,3 +66,8 @@ It was important to me to volunteer and give back. I interviewed a wide array of
 
 5:
 - TBD
+- Each week I was set up with 2 candidates to interview. Each one was an hour each. We spent a few minutes
+- We used Google Hangouts and Repl.
+- I interviewed the candidates, asking a technical question and we used Repl as our "white board". I offered hints where appropriate and took notes on how they approach the problem, asked clarigying questions, and ultimately if they were able to solve the problem. There were guidlines provided by Pursuit on how to provide hints and what to look for, so I was all set there 😀.
+- At the end of each interview I submitted my notes into a form and checked in with the volunteer lead.
+- What I enjoyed most about the interview process was meeting the fellows. Each one had a story, a reason for pursuing their passions. It was insightful to see how they approached each problem. As I was actively interviewing myself I could give pointers (after the interview was completed) and also reflect on where I could improve when I was in similar interview situations in the future. 
