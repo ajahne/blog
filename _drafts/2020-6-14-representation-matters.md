@@ -5,7 +5,7 @@ date:   2020-6-14 5:00:00 -0400
 categories: leadership
 tags:
 header:
-  image:
+  image: /assets/images/header-representation-matters.jpeg
 ---
 
 *When I was student at Tufts University, I was often the only Black person in my Computer Science and engineering classes.*
@@ -60,9 +60,9 @@ So yes, I remember that day in Comp 170 vividly.
 
 It was a sunny spring afternoon in Medford, Massachusetts. I was in Halligan 101, on the right side of the class room, listening to Professor Kofi Laing break down state machines. I sat in the front, in a plastic chair with metal legs, right "desk-arm" wrapping around and holding my notebook sturdily as I scribbled down key points from the lecture.
 
-While I do not remember my outfit. That was the baggy jean days days. The long Tee days. Tight corn-rows [under the doo-rag days](https://www.cs.tufts.edu/comp/11-2003f/staff.php). And I was always dressed that way, not knowing how to let go of my hood, scared to let parts of me go. Still finding me. Still looking for me. Yet always proud. Wanting to hold onto every thing that defined who I was, while still looking for who I would become.
+While I do not remember my outfit. That was the baggy jean days days. The long Tee days. Tight corn-rows [under the doo-rag days](https://www.cs.tufts.edu/comp/11-2003f/staff.php). And I was always dressed that way, not knowing how to let go of my 'hood, scared to let parts of me go. Still finding me. Still looking for me. Yet always proud. Wanting to hold onto every thing that defined who I was, while still looking for who I would become.
 
-The sun was peeking through the window on the right side of the classroom. My vision drifted from the whiteboard to the window and I stared through it. Over the grass, towards the parking lot, through the field, and beyond. Mind floating. My focus was not on what was outside of the window. It was what was inside the classroom. I saw something else that day. I felt something.
+The sun was peeking through the window on the right side of the classroom. My vision drifted from the whiteboard to the window and I stared through it. Over the grass, towards the parking lot, through the field, and beyond. Mind floating. My focus was not on what was outside of the window. It was on what was inside the classroom. I saw something else that day. I felt something.
 
 For the first time in my entire college tenure, I felt that I could do it. That I could be a computer scientist. That I could be a software engineer. That I could excel. That I could be...me. All of me.
 
