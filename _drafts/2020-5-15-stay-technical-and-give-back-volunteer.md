@@ -5,7 +5,7 @@ date:   2020-5-15 3:00:00 -0400
 categories: leadership
 tags:
 header:
-  image:
+  image: assets/images/header-stay-technical-and-give-back-volunteer.jpeg
 ---
 
 ## Outline for post
