@@ -44,7 +44,7 @@ header:
 
 ---
 
-## Feedback & Recognition
+## Feedback & Recognition:
 - How do you like to be praised, in public or in private?
 - What is your preferred method of communication for serious feedback? Do you prefer to get such feedback in writing so you have time to digest it, or are you comfortable with less formal verbal feedback?
 
