@@ -65,7 +65,8 @@ header:
 
 ---
 
-## 📝Additional thoughts / notes
+## 📝Additional thoughts / notes:
 - This is a conversation, not a checklist. These questions are meant to open up discussion.
 - To the above point, the ultimate goal is to understand each other better as teammates and how I can best support you as a manager
+- For each of these questions, be sure to say it in your own words. Make sure it rolls off your tongue in a natural way that works for you.
 - This list is heavily inspired by [Lara Hogan](https://larahogan.me/blog/first-one-on-one-questions/), [Camille Fournier](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897), and [my own experience](https://ajahne.github.io/blog/leadership/2019/07/24/essential-meetings-to-have-with-your-people-as-a-manager.html)
