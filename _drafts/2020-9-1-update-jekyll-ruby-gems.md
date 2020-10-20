@@ -13,7 +13,7 @@ So yeah, I always forget how to update my gems when I need to. I am not familiar
 
 The challenge? I _never_ remember how to do it. So...to stop that I recently took a few notes 📝 while I fixed a GitHub security issue related to my blog. Below are some command line tools that I ran while debugging and fixing. I plan to update this post over time.
 
-This is meant to be notes and helpful information, not the gospel. Use discretion when using 😀.
+This is meant to be notes and helpful information, not the gospel. Use discretion if/when using 😀.
 
 
 **TL;DR**
@@ -22,6 +22,7 @@ This is meant to be notes and helpful information, not the gospel. Use discretio
 - Update specific gems with `bundler` (e.g. `bundle update <GEMNAME>`)
 - If you need to update dependencies first, e.g. Ruby then run (`rvm ruby --latest`)
 - Make sure dependencies align with the [GitHub pages dependency list](https://pages.github.com/versions/)
+- All these notes are for macOS
 
 # Jekyll
 
@@ -48,18 +49,18 @@ ___
 ---
 
 # Ruby
-check my version of ruby?
+Check my version of Ruby
 ```sh
 ruby -v
 ```
 
-Install versions of ruby
-Use rvm install the latest version of ruby
+
+Install the latest version of Ruby (using RVM)
 ```sh
 rvm install ruby --latest
 ```
 
-to install a specific version
+To install a specific version of Ruby (using RVM)
 ```sh
 rvm install ruby-2.5.0
 ```
@@ -113,9 +114,10 @@ To [update](https://guides.rubygems.org/command-reference/#gem-update) a specifi
 gem update <GEMNAME>
 ```
 
-## Resources
-- https://jekyllrb.com/docs/installation/macos/
-- https://docs.brew.sh/FAQ
+## Additional Resources
+- [Install Jekyll on macOS](https://jekyllrb.com/docs/installation/macos/)
+- [Bundler](https://bundler.io/v2.1/man/bundle-update.1.html)
 - [Ruby Gems](https://guides.rubygems.org/rubygems-basics/)
-- https://bundler.io/v2.1/man/bundle-update.1.html
-- https://medium.com/@IanRahman/how-to-upgrade-ruby-on-a-mac-a592c6085c63
+- [Homebrew](https://docs.brew.sh/FAQ)
+- [RVM](https://rvm.io/rvm/upgrading)
+- [How to update Ruby on a Mac](https://medium.com/@IanRahman/how-to-upgrade-ruby-on-a-mac-a592c6085c63)
