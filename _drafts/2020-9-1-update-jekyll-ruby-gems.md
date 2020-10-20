@@ -11,7 +11,7 @@ So yeah, I always forget how to update my gems when I need to. I am not familiar
 1. Gems get out of date and I just want to update to stay current and/or
 2. I get security alerts from GitHub and need to (have to) update to stay secure
 
-The challenge? I _always_ forget how to do it. So...to stop that I recently took a few notes 📝 while I fixed a GitHub security issue related to my blog. Below are some command line tools that I ran while debugging and fixing. I plan to update this post over time.
+The challenge? I _never_ remember how to do it. So...to stop that I recently took a few notes 📝 while I fixed a GitHub security issue related to my blog. Below are some command line tools that I ran while debugging and fixing. I plan to update this post over time.
 
 This is meant to be notes and helpful information, not the gospel. Use discretion when using 😀.
 
@@ -80,10 +80,7 @@ After updating Ruby you may need to update the bundler. To update:
 bundle update --bundler
 ```
 
-Not to self: Previously when Jekyll did not not work (it was actually not found), to address this, I ran the command above
-```sh
-bundle update --bundler
-```
+_Note to self: Previously when Jekyll did not not work (it was actually not found), I ran the command above to address this_
 
 To update all gems (Note: probably better to `install` as that uses the `Gemfile.lock`)
 ```sh
