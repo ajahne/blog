@@ -5,7 +5,7 @@ date:   2020-8-31 5:00:00 -0400
 categories: tools
 tags: jekyll, ruby, gems, bundle, homebrew, macOS
 header:
-  image:
+  image: assets/images/update-jekyll-ruby-header.jpeg
 ---
 So yeah, I always forget how to update my gems when I need to. I am not familiar with Ruby and only use it to power my blog.  Two issues often occur:
 1. Gems get out of date and I just want to update to stay current and/or
@@ -101,7 +101,7 @@ bundle update nokogiri
 ```
 
 ---
-# Other tools, Notes, and Miscellaneous:
+# Other Tools, Notes, and Miscellaneous:
 
 ## Homebrew
 First update the formulae and Homebrew
