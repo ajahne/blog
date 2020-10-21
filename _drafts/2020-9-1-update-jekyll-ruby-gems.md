@@ -3,7 +3,7 @@ layout: single
 title:  'Notes on Updating Jekyll and Ruby on macOS'
 date:   2020-8-31 5:00:00 -0400
 categories: tools
-tags:
+tags: jekyll, ruby, gems, bundle, homebrew, macOS
 header:
   image:
 ---
