@@ -65,6 +65,23 @@ Install a specific version of Ruby (using RVM)
 rvm install ruby-2.5.0
 ```
 
+To see which version of Ruby is being used
+```sh
+which ruby
+```
+
+To view all rubies installed by RVM
+```sh
+rvm list rubies
+```
+
+To set the default version of Ruby
+```sh
+rvm --default use 2.5.0
+```
+
+_Don't forget to change 2.5.0 with the version number of the latest Ruby._
+
 ## Ruby [Bundler](https://bundler.io)
 Install the bundler
 ```sh
