@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  'Notes on Updating Jekyll and Ruby on macOS'
+title:  'Update Jekyll and Ruby on macOS'
 date:   2020-8-31 5:00:00 -0400
 categories: tools
 tags: jekyll, ruby, gems, bundle, homebrew, macOS
@@ -20,7 +20,7 @@ Similar to my write up on [updating Git for macOS]({{ site.baseurl }}{% post_url
 - `bundle install` installs what is currently in the `Gemlock.file`
   - If any errors happen when starting Jekyll, run the above command above **first**
 - Update specific gems with `bundler` (e.g. `bundle update <GEMNAME>`)
-- If you need to update Ruby run `rvm ruby --latest`
+- If you need to update Ruby run `rvm install ruby --latest`
 - Make sure dependencies align with the [GitHub pages dependency list](https://pages.github.com/versions/)
 
 # Jekyll
