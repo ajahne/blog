@@ -88,7 +88,7 @@ bundle install
 
 ![jekyll serve before bundle install]({{site.baseurl}}/assets/images/update-jekyll-ruby-error.png){:height="100%" width="100%"}
 
-_Note: Previously when Jekyll did not not work (see image above), I ran the `bundle install` to address this_
+_Note: Previously when Jekyll did not not work (see image above), I ran the `bundle install` command to address this._
 
 To update all gems _(Note: probably better to run `bundle install` as that uses the `Gemfile.lock`)_
 ```sh
