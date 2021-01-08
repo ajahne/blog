@@ -8,7 +8,7 @@ header:
   image: assets/images/header-stay-technical-and-give-back-volunteer.jpeg
 ---
 
-Earlier this year, on every other Wednesday for two months, I volunteered at Pursuit to conduct technical interviews for engineering fellows.
+Earlier this year, on every other Wednesday for two months, I volunteered at [Pursuit](https://www.pursuit.org) to conduct technical interviews for engineering fellows.
 
 This was important to me for many reasons. In the tech industry there are not many people that look like me and I feel it is important to give back.
 
