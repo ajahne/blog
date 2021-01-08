@@ -15,17 +15,15 @@ header:
 - What I did to prepare
 - How the interview process went
 
-Earlier this year I spent time volunteering.
+Earlier this year, on every other Wednesday for two months, I volunteered to conduct two hour-long technical interviews for engineering fellows.
 
-Every other Wednesday for two months, I conducted two hour long interviews with candidates.
+This was important to me for multiple reasons. In the tech industry there are not many people that look like me and I feel it is important to give back.
 
-This was important to me. In the tech industry there are not many people that look like me and I feel it is important to give back.
-
-Furthermore, one of the most challenging aspects of being a manager is staying technical. Frankly one of the challenges in our industry in general is staying technical. Frameworks, languages, APIs, libraries, and more are always evolving.  When you are in your day to day, how do you stay up to speed?
+Furthermore, one of the most challenging aspects of being a manager is staying technical.  Frameworks, languages, APIs, libraries, and more are always evolving.  When you are in your day to day, how do you stay up to speed?
 
 Recently I was deep in the interview process for a new leadership opportunity. I wanted a change and a new challenge.
 
-I was just wrapping up my rounds of interviews with FAANGs, top tier tech companies, brand name industry leaders, and high-growth startups. I felt with the knowledge that I had just brushed up on and improved, I could offer some things.
+I was just wrapping up my rounds of interviews with FAANGs, top tier tech companies, and high-growth startups. I felt with the knowledge that I had just brushed up on and improved, I could offer some things.
 
 It was important to me to volunteer and give back. I interviewed a wide array of engineers. All driven and passionate candidates who were driven to push themselves. Many of the people I interviewed were women and under represented minorities. Our industry not only lacks diversity, but lacks support for diverse engineers once they are in the industry.
 
@@ -63,12 +61,13 @@ As I was studying for interviews during this time I was already familiar with th
 We were given a GitHub and I checked the solutions against that. I then checked the questions that would be asked and made sure I was comfortable with each way to tackle it.
 
 ## 5: How the interview process went
-- TBD
-- Each week I was set up with 2 candidates to interview over Google Hangout. Each one was an hour each. We spent a few minutes saying hello and then jumped right into it.
-- We used Google Hangouts and Repl.
-- I interviewed the candidates, asking a technical question and we used Repl as our "white board". I offered hints where appropriate and took notes on how they approach the problem, asked clarigying questions, and ultimately if they were able to solve the problem. There were guidlines provided by Pursuit on how to provide hints and what to look for, so I was all set there 😀.
-- At the end of each interview I submitted my notes into a form and checked in with the volunteer lead.
-- What I enjoyed most about the interview process was meeting the fellows. Each one had a story, a reason for pursuing their passions. It was insightful to see how they approached each problem. As I was actively interviewing myself I could give pointers (after the interview was completed) and also reflect on where I could improve when I was in similar interview situations in the future.
+Each week I was set up with 2 candidates to interview over Google Hangout. Each one was an hour each. We spent a few minutes saying hello and then jumped right into it.
+
+I interviewed the candidates, asking a technical question and we used Repl as our "white board". I offered hints where appropriate and took notes on how they approached the problem, asked clarifying questions, and ultimately if they were able to solve the problem. There were guidelines provided by Pursuit on how to provide hints and what to look for, so I was all set there 😀.
+
+At the end of each interview I submitted my notes into a form and checked in with the volunteer lead.
+
+**What I enjoyed most about the interview process was meeting the fellows. Each one had a story, a reason for pursuing their passions**. It was insightful to see how they approached each problem. As I was actively interviewing myself I could give pointers (after the interview was completed) and also reflect on where I could improve when I was in similar interview situations in the future.
 
 ## Conclusion
 - Do this! Its awesome! I highly encourage you to volutneer.  You will both be able to stay technical, provide support, and most importantly give back! Check out this site, reach out to me / Alexis to get started!  
