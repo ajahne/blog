@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  'Update Jekyll and Ruby on macOS'
-date:   2020-8-31 5:00:00 -0400
+date:   2020-10-22 5:00:00 -0400
 categories: tools
 tags: jekyll, ruby, gems, bundle, homebrew, macOS, gemfile
 header:
