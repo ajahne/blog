@@ -7,6 +7,11 @@ tags: one on one, one-on-one, 1-1, 1:1
 header:
   image:
 ---
+# Outline
+- Why I am doing this / purpose
+- give a high-level order of how to conduct this
+- add a "table of contents"
+
 
 ## General:
 - How are you doing?
