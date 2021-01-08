@@ -11,7 +11,7 @@ So yeah, I always forget how to update my gems when I need to. I am not familiar
 1. Gems get out of date and I just want to update to stay current and/or
 2. I get security alerts from GitHub and need to (have to) update to stay secure
 
-The challenge? I _never_ remember how to do it. So...to stop that I recently took a few notes 📝 while I fixed a GitHub security issue related to my blog. Below are some command line tools that I ran while debugging and fixing. I plan to update this post over time as needed.
+The challenge? I _never_ remember how to do it. So...to stop that I recently took a few notes 📝 while I fixed a GitHub security issue related to my blog. Below are some steps that I did while debugging and fixing issues. I plan to update this post over time as needed.
 
 Similar to my write up on [updating Git for macOS]({{ site.baseurl }}{% post_url 2018-6-11-how-to-upgrade-git-mac %}), this is meant to be notes and helpful information, not the gospel. Use discretion if/when using 😀.
 
