@@ -53,7 +53,7 @@ The great part is that the fellows take programs in either JavaScript or Swift. 
 As I was studying for interviews during this time I was already familiar with this process. However as we were using Repl instead of white boards I wanted to make sure all of my code ran and compiled. No time to write unit tests, but I did think about how I would test my solutions.
 
 ## 5: How the interview process went
-Each week I was set up with two candidates to interview over Google Hangout. Given the pandeemic, each one hour interview was conducted remotely. We spent a few minutes saying hello and then jumped right into it.
+Each week I was set up with two candidates to interview over Google Hangout. Given the pandemic, each one hour interview was conducted remotely. We spent a few minutes saying hello and then jumped right into it.
 
 I presented the question to the candidate and we used Repl as our "white board". I offered hints where appropriate, took notes on how they approached the problem, asked clarifying questions, and ultimately determined if they were able to solve the problem. There were guidelines provided by Pursuit on how to provide hints and what to look for, so I was all set there 😀.
 
@@ -62,4 +62,6 @@ At the end of each interview I submitted my notes into a form and checked in wit
 **What I enjoyed most about the interview process was meeting the fellows. Each one had a story, a reason for pursuing their passions**. It was insightful to see how they approached each problem. As I was actively interviewing myself I could give pointers _(after the interview was completed)_ and also reflect on where I could improve when I was in similar interview situations in the future.
 
 ## Conclusion
-TL;DR: Do this! Its awesome! I highly encourage you to volunteer. You will both be able to stay technical, provide support, and most importantly give back! Check out this site, reach out to me / Alexis to get started!  
+I found volunteering a highly rewarding experience.  Not only did it allow me to give back in a way that aligned with my values, but it also helped me continue to stay technical while I was interviewing and embarking on a career change!
+
+So yeah, if you have the time, I highly encourage you to volunteer. You will both be able to stay technical, provide support, and most importantly give back! Check out [Pursuit](https://www.pursuit.org) and don't hesitate to reach out to me if you want chat more!
