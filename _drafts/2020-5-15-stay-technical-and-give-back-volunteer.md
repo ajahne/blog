@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  'Want to stay technical and give back? Volunteer'
+title:  'Want to stay technical and give back? Volunteer!'
 date:   2020-5-15 3:00:00 -0400
 categories: leadership
 tags: volunteer, volunteering, technical, javascript, swift, programming
