@@ -14,7 +14,6 @@ This was important to me for many reasons. In the tech industry there are not ma
 
 Furthermore, one of the most challenging aspects of being a manager is staying technical.  Frameworks, languages, APIs, libraries, and more are always evolving.  When you are in your day to day, how do you stay up to speed?
 
-
 Well let's talk a bit about staying technical while also giving back:
 - Why it’s important to stay technical
 - Why it’s important to give back
@@ -22,7 +21,6 @@ Well let's talk a bit about staying technical while also giving back:
 - What I did to prepare
 - How the interview process went
 - Conclusion
-
 
 ## 1: Why it’s important to stay technical
 Our industry changes so rapidly, learn or die. Not physically, but career-wise. If you do not evolve, your career progression will stagnant.
@@ -64,5 +62,5 @@ At the end of each interview I submitted my notes into a form and checked in wit
 **What I enjoyed most about the interview process was meeting the fellows. Each one had a story, a reason for pursuing their passions**. It was insightful to see how they approached each problem. As I was actively interviewing myself I could give pointers _(after the interview was completed)_ and also reflect on where I could improve when I was in similar interview situations in the future.
 
 ## Conclusion
-- Do this! Its awesome! I highly encourage you to volutneer.  You will both be able to stay technical, provide support, and most importantly give back! Check out this site, reach out to me / Alexis to get started!  
+- Do this! Its awesome! I highly encourage you to volunteer.  You will both be able to stay technical, provide support, and most importantly give back! Check out this site, reach out to me / Alexis to get started!  
 - It was important to me to volunteer and give back. I interviewed a wide array of engineers. All driven and passionate candidates who were driven to push themselves. Many of the people I interviewed were women and under represented minorities. Our industry not only lacks diversity, but lacks support for diverse engineers once they are in the industry.
