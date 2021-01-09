@@ -36,7 +36,7 @@ To get to where I am I have stood on the shoulders of giants, had the support of
 
 And let's keep it real, representation maters. Seeing [Pursuit's mission](https://www.pursuit.org/mission-vision) and passion to provide opportunities to the talent with the most need and potential to get their first jobs in tech and advance in their career, strongly resonated with me.
 
-Throughout the interviews I met engineering fellows who were technically proficient, driven, hard working, and passionate about growing as software engineers. If by seeing someone in this industry who looks like them, that I was able to inspire even in the smallest degree, then I would have done even more than I could have hoped for.  Humbled I would be.
+Throughout the interviews I met engineering fellows who were technically proficient, driven, hard working, and passionate about growing as software engineers. If by seeing someone in this industry who looks like them, I was able to inspire even in the smallest degree, then I would have done even more than I could have hoped for. Humbled I would be.
 
 ## 3: How I got involved as a volunteer for Pursuit
 I met [Alexis Medina](https://www.linkedin.com/in/alexismmedina/), the manager of volunteering, at a networking event for engineering leaders in NYC. A pursuit fellow gave an engaging presentation on their work, what they learned, and the impact it had. I was hooked.
@@ -48,9 +48,9 @@ For preparation, Pursuit provides the volunteers with an overview and a walkthro
 
 To make sure I was on point, I wrote up answers to each of the questions, following the same interview process as the fellows. Furthermore, I made sure I was familiar with the different ways to answer each question as well as the time and space complexity of optimal solutions.
 
-The great part is that the fellows take programs in either JavaScript or Swift. So some of the candidates presented their answers in Swift which I am not familiar with. I took this as an opportunity to brush up on Swift fundamentals. While I am no Swift expert, I can definitely knock out a "Hello World" or two and answer low level programming interview questions :).
+The great part is that the fellows take programs in either JavaScript or Swift. So some of the candidates presented their answers in Swift, which I am not familiar with. I took this as an opportunity to brush up on Swift fundamentals. While I am no Swift expert, I can definitely knock out a "Hello World" or two and answer low level programming interview questions :).
 
-As I was studying for interviews during this time I was already familiar with this process. However as we were using Repl instead of white boards I wanted to make sure all of my code ran and compiled. No time to write unit tests, but I did think about how I would test my solutions.
+As I was studying for interviews during this time I was already familiar with this process. However, as we were using Repl instead of white boards I wanted to make sure all of my code ran and compiled. No time to write unit tests, but I did think about how I would test my solutions.
 
 ## 5: How the interview process went
 Each week I was set up with two candidates to interview over Google Hangout. Given the pandemic, each one hour interview was conducted remotely. We spent a few minutes saying hello and then jumped right into it.
