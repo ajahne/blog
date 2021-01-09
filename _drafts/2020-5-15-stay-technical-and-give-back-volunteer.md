@@ -15,14 +15,14 @@ This was important to me for many reasons. In the tech industry there are not ma
 Furthermore, one of the most challenging aspects of being a manager is staying technical.  Frameworks, languages, APIs, libraries, and more are always evolving.  When you are in your day to day, how do you stay up to speed?
 
 Well let's talk a bit about staying technical while also giving back:
-- Why it’s important to stay technical
-- Why it’s important to give back
-- How I got involved
-- What I did to prepare
-- How the interview process went
-- Conclusion
+- [Why it’s important to stay technical](#why-its-important-to-stay-technical)
+- [Why it’s important to give back](#why-its-important-to-give-back)
+- [How I got involved](#how-i-got-involved-as-a-volunteer-for-pursuit)
+- [What I did to prepare](#what-i-did-to-prepare)
+- [How the interview process went](#how-the-interview-process-went)
+- [Conclusion](#conclusion)
 
-## 1: Why it’s important to stay technical
+## Why it’s important to stay technical
 Our industry changes so rapidly, learn or die. Not physically, but career-wise. If you do not evolve, your career progression will stagnate.
 
 What you do at work will not necessarily align with the current trends and ways of the industry. Many moons ago I worked on Adobe Flash when it was dying. Recently, I was deep into Angular when React was eating the world. Even in my most recent interviews with JavaScript as my strongest language I needed to take time to brush up on data structures and algorithms.
@@ -31,19 +31,19 @@ So staying technical is critical. As a manager? Even more so as our days are not
 
 For 6+ months, I was deep in the interview process with FAANGs, top tier tech companies, and high-growth startups. Through volunteering, I saw an opportunity to keep the learning going while also giving back!
 
-## 2: Why it’s important to give back
+## Why it’s important to give back
 To get to where I am I have stood on the shoulders of giants, had the support of family, armies of friends, professors, loved ones, coworkers and mentors of all flavors. I would not be here without the support of others. I feel indebted and try as I can to pay it forward (as well as back) as often as I can.
 
 And let's keep it real, representation maters. Seeing [Pursuit's mission](https://www.pursuit.org/mission-vision) and passion to provide opportunities to the talent with the most need and potential to get their first jobs in tech and advance in their career, strongly resonated with me.
 
 Throughout the interviews I met engineering fellows who were technically proficient, driven, hard working, and passionate about growing as software engineers. If by seeing someone in this industry who looks like them, I was able to inspire even in the smallest degree, then I would have done even more than I could have hoped for. Humbled I would be.
 
-## 3: How I got involved as a volunteer for Pursuit
+## How I got involved as a volunteer for Pursuit
 I met [Alexis Medina](https://www.linkedin.com/in/alexismmedina/), the manager of volunteering, at a networking event for engineering leaders in NYC. A pursuit fellow gave an engaging presentation on their work, what they learned, and the impact it had. I was hooked.
 
 I signed my name up as a volunteer and started from there. A few months later we figured out a time and what volunteer opportunities would best align with my skills. I decided to support them in their technical interview process. Looking to volunteer, [reach out](https://www.pursuit.org/volunteer).
 
-## 4: What I did to prepare
+## What I did to prepare
 For preparation, Pursuit provides the volunteers with an overview and a walkthrough of the interview process. There was a list of technical questions prepared by the Pursuit team for us to choose from. Questions like this one and this one _(nah, these ain’t the real questions, I ain’t giving you those. I have been sworn to secrecy)_.
 
 To make sure I was on point, I wrote up answers to each of the questions, following the same interview process as the fellows. Furthermore, I made sure I was familiar with the different ways to answer each question as well as the time and space complexity of optimal solutions.
@@ -52,7 +52,7 @@ The great part is that the fellows take programs in either JavaScript or Swift. 
 
 As I was studying for interviews during this time I was already familiar with this process. However, as we were using Repl instead of white boards I wanted to make sure all of my code ran and compiled. No time to write unit tests, but I did think about how I would test my solutions.
 
-## 5: How the interview process went
+## How the interview process went
 Each week I was set up with two candidates to interview over Google Hangout. Given the pandemic, each one hour interview was conducted remotely. We spent a few minutes saying hello and then jumped right into it.
 
 I presented the question to the candidate and we used Repl as our "white board". I offered hints where appropriate, took notes on how they approached the problem, asked clarifying questions, and ultimately determined if they were able to solve the problem. There were guidelines provided by Pursuit on how to provide hints and what to look for, so I was all set there 😀.
