@@ -25,7 +25,7 @@ Well let's talk a bit about staying technical while also giving back:
 ## Why it’s important to stay technical
 Our industry changes so rapidly, learn or die. Not physically, but career-wise. If you do not evolve, your career progression will stagnate.
 
-What you do at work will not necessarily align with the current trends and ways of the industry. Many moons ago I worked on Adobe Flash when it was dying. In a past life, I was deep into Angular when React was eating the world. To prepare for interviews in 2019 and early 2020, with JavaScript as my strongest language, I needed to take time to brush up on data structures and algorithms.
+What you do at work will not necessarily align with the current trends and ways of the industry. Many moons ago I worked on Adobe Flash when it was dying. In a past life, I was deep into Angular when React was eating the world. To prepare for interviews in 2019 and early 2020, with JavaScript as my strongest language, I still needed to take time to brush up on data structures and algorithms.
 
 So staying technical is critical. As a manager? Even more so as our days are not spent coding or designing or architecting. But rather coaching, executing, building teams, and setting direction.
 
@@ -64,4 +64,4 @@ At the end of each interview I submitted my notes into a form and checked in wit
 ## Conclusion
 I found volunteering a highly rewarding experience.  Not only did it allow me to give back in a way that aligned with my values, but it also helped me continue to stay technical while I was interviewing and embarking on a career change!
 
-So yeah, if you have the time, I highly encourage you to volunteer. You will both be able to stay technical, provide support, and most importantly give back! Check out [Pursuit](https://www.pursuit.org) and don't hesitate to reach out to me if you want chat more!
+If you have the time, I highly encourage you to volunteer. You will both be able to stay technical, provide support, and most importantly give back! Check out [Pursuit](https://www.pursuit.org) and don't hesitate to reach out to me if you want chat more!
