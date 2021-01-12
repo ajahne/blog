@@ -8,7 +8,7 @@ header:
   image: assets/images/header-stay-technical-and-give-back-volunteer.jpeg
 ---
 
-Earlier this year, on every other Wednesday for two months, I volunteered at [Pursuit](https://www.pursuit.org) to conduct technical interviews for engineering fellows.
+Last spring, on every other Wednesday for two months, I volunteered at [Pursuit](https://www.pursuit.org) to conduct technical interviews for engineering fellows.
 
 This was important to me for many reasons. In the tech industry there are not many people that look like me and I feel it is important to give back.
 
@@ -25,11 +25,11 @@ Well let's talk a bit about staying technical while also giving back:
 ## Why it’s important to stay technical
 Our industry changes so rapidly, learn or die. Not physically, but career-wise. If you do not evolve, your career progression will stagnate.
 
-What you do at work will not necessarily align with the current trends and ways of the industry. Many moons ago I worked on Adobe Flash when it was dying. Recently, I was deep into Angular when React was eating the world. Even in my most recent interviews with JavaScript as my strongest language I needed to take time to brush up on data structures and algorithms.
+What you do at work will not necessarily align with the current trends and ways of the industry. Many moons ago I worked on Adobe Flash when it was dying. In a past life, I was deep into Angular when React was eating the world. To prepare for interviews in 2019 and early 2020, with JavaScript as my strongest language, I needed to take time to brush up on data structures and algorithms.
 
 So staying technical is critical. As a manager? Even more so as our days are not spent coding or designing or architecting. But rather coaching, executing, building teams, and setting direction.
 
-For 6+ months, I was deep in the interview process with FAANGs, top tier tech companies, and high-growth startups. Through volunteering, I saw an opportunity to keep the learning going while also giving back!
+For 6+ months, prior to volunteering, I was deep in the interview process with FAANGs, top tier tech companies, and high-growth startups. In working with Pursuit, I saw an opportunity to keep the learning going while also giving back!
 
 ## Why it’s important to give back
 To get to where I am I have stood on the shoulders of giants, had the support of family, armies of friends, professors, loved ones, coworkers and mentors of all flavors. I would not be here without the support of others. I feel indebted and try as I can to pay it forward (as well as back) as often as I can.
