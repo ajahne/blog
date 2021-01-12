@@ -44,7 +44,7 @@ I met [Alexis Medina](https://www.linkedin.com/in/alexismmedina/), the manager o
 I signed my name up as a volunteer and started from there. A few months later we figured out a time and what volunteer opportunities would best align with my skills. I decided to support them in their technical interview process. Looking to volunteer, [reach out](https://www.pursuit.org/volunteer).
 
 ## What I did to prepare
-For preparation, Pursuit provides the volunteers with an overview and a walkthrough of the interview process. There was a list of technical questions prepared by the Pursuit team for us to choose from. Questions like this one and this one _(nah, these ain’t the real questions, I ain’t giving you those. I have been sworn to secrecy)_.
+For preparation, Pursuit provides the volunteers with an overview and a walkthrough of the interview process. There was a list of technical questions prepared by the Pursuit team for us to choose from. Questions like [this one]({{ site.baseurl }}{% post_url 2020-2-4-how-to-remove-duplicates-from-an-array-in-javascript %}) and [this one](https://leetcode.com/problems/longest-common-prefix/) _(nah, these ain’t the real questions, I ain’t giving you those. I have been sworn to secrecy)_.
 
 To make sure I was on point, I wrote up answers to each of the questions, following the same interview process as the fellows. Furthermore, I made sure I was familiar with the different ways to answer each question as well as the time and space complexity of optimal solutions.
 
