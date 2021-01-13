@@ -3,7 +3,7 @@ layout: single
 title:  'Want to stay technical and give back? Volunteer!'
 date:   2021-1-11 3:00:00 -0400
 categories: leadership
-tags: volunteer, volunteering, technical, javascript, swift, programming
+tags: volunteer, volunteering, technical, javascript, swift, programming, interview
 header:
   image: assets/images/header-stay-technical-and-give-back-volunteer.jpeg
 ---
