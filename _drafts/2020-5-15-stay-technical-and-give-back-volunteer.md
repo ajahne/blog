@@ -12,7 +12,7 @@ Last spring, on every other Wednesday for two months, I volunteered at [Pursuit]
 
 This was important to me for many reasons. In the tech industry there are not many people that look like me and I feel it is important to give back.
 
-Furthermore, one of the most challenging aspects of being a manager is staying technical.  Frameworks, languages, APIs, libraries, and more are always evolving.  When you are in your day to day, how do you stay up to speed?
+Furthermore, one of the most challenging aspects of being a manager is staying technical.  Frameworks, languages, APIs, libraries, and more are always evolving. When you are in your day to day, how do you stay up to speed?
 
 Well let's talk a bit about staying technical while also giving back:
 - [Why it’s important to stay technical](#why-its-important-to-stay-technical)
@@ -32,7 +32,7 @@ So staying technical is critical. As a manager? Even more so as our days are not
 For 6+ months, prior to volunteering, I was deep in the interview process with FAANGs, top tier tech companies, and high-growth startups. In working with Pursuit, I saw an opportunity to keep the learning going while also giving back!
 
 ## Why it’s important to give back
-To get to where I am I have stood on the shoulders of giants, had the support of family, armies of friends, professors, loved ones, coworkers and mentors of all flavors. I would not be here without the support of others. I feel indebted and try as I can to pay it forward (as well as back) as often as I can.
+To get to where I am I have stood on the shoulders of giants, had the support of family, armies of friends, professors, loved ones, coworkers, and mentors of all flavors. I would not be here without the support of others. I feel indebted and try as I can to pay it forward (and back) as often as I can.
 
 And let's keep it real, representation maters. Seeing [Pursuit's mission](https://www.pursuit.org/mission-vision) and passion to provide opportunities to the talent with the most need and potential to get their first jobs in tech and advance in their career, strongly resonated with me.
 
