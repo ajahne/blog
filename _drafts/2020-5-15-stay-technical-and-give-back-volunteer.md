@@ -27,7 +27,7 @@ Our industry changes so rapidly, learn or die. Not physically, but career-wise. 
 
 What you do at work will not necessarily align with the current trends and ways of the industry. Many moons ago I worked on Adobe Flash when it was dying. In a past life, I was deep into Angular when React was eating the world. To prepare for interviews in 2019 and early 2020, with JavaScript as my strongest language, I still needed to take time to brush up on data structures and algorithms.
 
-So staying technical is critical. As a manager? Even more so as our days are not spent coding or designing or architecting. But rather coaching, executing, building teams, and setting direction.
+So staying technical is critical. As a manager? Even more so as our days are not spent coding or designing or architecting. But rather coaching, mentoring, executing, building teams, and setting direction.
 
 For 6+ months, prior to volunteering, I was deep in the interview process with FAANGs, top tier tech companies, and high-growth startups. In working with Pursuit, I saw an opportunity to keep the learning going while also giving back!
 
