@@ -2,7 +2,7 @@
 layout: single
 title:  'Questions for our first one on one'
 date:   2020-5-15 3:00:00 -0400
-categories: leadership
+categories: leadership management
 tags: one on one, one-on-one, 1-1, 1:1, questions, management, leadership
 header:
   image:
