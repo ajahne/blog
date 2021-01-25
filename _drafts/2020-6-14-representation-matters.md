@@ -3,7 +3,7 @@ layout: single
 title:  'Representation Matters'
 date:   2020-6-14 5:00:00 -0400
 categories: leadership
-tags:
+tags: leadership, diversity, management, college, Black, Black people, computer science, inclusion, equity, DEI
 header:
   image: /assets/images/header-representation-matters.jpeg
 ---
