@@ -64,7 +64,7 @@ header:
 
 ---
 
-## Most important:
+## Most Important:
 - What is your favorite way to treat yourself?
 - What's the your current favorite tv show/album/artist/sports team/videogame/other?
 - What is your favorite emoji?
