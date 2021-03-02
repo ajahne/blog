@@ -11,7 +11,7 @@ header:
 # Radical Candor - Chapter notes
 
 Introduction
-- told all your life “if you don’t have something nice to say, don’t say anything at all”, have a lifetime of training to undo
+- told all your life "if you don’t have something nice to say, don’t say anything at all", have a lifetime of training to undo
 - Management is hard
 - When people make mistakes over and over (and you do not give feedback or do anything to change it) You stop just thinking the work is bad, you start thinking the person is bad
 - As a boss, you sometimes just misread signals
@@ -25,31 +25,31 @@ Part 1
 - Bosses guide a team to achieve results
 - Three areas of responsibility: guidance (feedback/coaching, praise and criticism), team-building(hiring, firing, promoting, motivation), results (getting things done)
 - Relationships, not power, drive you forward
-- “Your ability to build trusting, human connections with the people who report directly to you will determine the quality of everything that follows” (p8)
+- "Your ability to build trusting, human connections with the people who report directly to you will determine the quality of everything that follows" (p8)
 - Two dimensions to move in a positive direction: give a damn, challenge directly
 - Be your whole self, show that you care personally
-- “It’s not just business; it is personal, and deeply personal”
+- "It’s not just business; it is personal, and deeply personal"
 - Telling people when work isn’t good enough, delivering hard feedback, holding a high bar for results
 - Radical Candor = Care Personally + Challenge Directly
 - Bring your whole self to work (how?)
 - Being a boss is a job, not a value judgment
 - Finding out what makes us get out of bed and what makes us wanna stay there
 - They may never repay you, but they are likely to pay it forward.
-- “Challenging others and encouraging them to challenge you helps build trusting relationships”. You care enough to point out when things aren’t going well and admit you are wrong and committed to fixing mistakes (pg14)
+- "Challenging others and encouraging them to challenge you helps build trusting relationships". You care enough to point out when things aren’t going well and admit you are wrong and committed to fixing mistakes (pg14)
 - Good rule of thumb: leave three unimportant things unsaid each day
 - Radical Candor is not front-stabbing, not an open invite to be a jerk, not schmoozing - remember you have to care about people
 - Radical Candor is sensitive to context. Not what is said, it’s what is heard. It’s measured at the listeners ear. Only works if person understand that you care personally
-- Communication and how to give feedback and share perspectives differs by company, country, and culture - be aware of this and still push for Radical Candor (e.g. from experiences in Tokyo at Google the author encouraged “polite persistence”)
+- Communication and how to give feedback and share perspectives differs by company, country, and culture - be aware of this and still push for Radical Candor (e.g. from experiences in Tokyo at Google the author encouraged "polite persistence")
 
 2: get, give, and encourage guidance
-- “Um” note to self: check to see if you are seeing up, if so stop! Work to improve. Maybe speech coach?
+- "Um" note to self: check to see if you are seeing up, if so stop! Work to improve. Maybe speech coach?
 - Give operational feedback (what can be done to help fix, in example the authors boss offers to provide a speech coach)
-- Do not personalize feedback, the boss said “makes you sound stupid”, not “makes you stupid” or “you are stupid”
-- “It’s not mean, it’s clear”
+- Do not personalize feedback, the boss said "makes you sound stupid", not "makes you stupid" or "you are stupid"
+- "It’s not mean, it’s clear"
 - Contextualize comments, be personal and specific with your praise
-- “I admire that about you”
-- “To keep winning, criticize the wins”
-- Most people prefer a “challenging jerk” as a boss over the boss whose “niceness” gets in the way in Candor  
+- "I admire that about you"
+- "To keep winning, criticize the wins"
+- Most people prefer a "challenging jerk" as a boss over the boss whose "niceness" gets in the way in Candor  
 - Do not just criticize, show that you care
 - It’s about the behavior, not the person. Do not personalize feedback. About what you did, not who you are
 - Avoid belittling comments
@@ -67,8 +67,8 @@ Part 1
 - praise in public, criticize in private
 - Don’t personalize; the problem is not due to some unfixable character flaw
 - Be more concerned with getting to the right answer than with being right
-- Use “your fly is down” or “you have spinach in your teeth” as examples on how to tell someone something that may be uncomfortable.  Better to tell them then to let them walk around with it.
-- Simple advice about criticism: “just say it”
+- Use "your fly is down" or "you have spinach in your teeth" as examples on how to tell someone something that may be uncomfortable.  Better to tell them then to let them walk around with it.
+- Simple advice about criticism: "just say it"
 - Give a damn!
 
 3: understand what motivates each person on your team
@@ -91,7 +91,7 @@ Part 1
 - When you find super stars, keep them challenged (nts: develop a plan specifically for that person); make sure they are constantly learning
 - Steep trajectory is like a shooting star, lucky to have in orbit for a while, trying to hold on is futile
 - Don’t squash or block them, might be working for them one day!
-- Google has people nominate themselves for positions: can this work in a smaller team? Need a committee to review “promotion packet” - manager is not on the committee; avoids promotions based on loyalty
+- Google has people nominate themselves for positions: can this work in a smaller team? Need a committee to review "promotion packet" - manager is not on the committee; avoids promotions based on loyalty
 - Allow for free transfers between teams (how to even do this)
 - NTS: how can we crowdsource more ideas?
 - Do not conflate management and growth
@@ -102,7 +102,7 @@ Part 1
 - Set and uphold the quality bar
 - Do not get sucked into Ruinous Empathy when managing people who are doing OK, but not great.
 - Accepting mediocrity isn’t good for anyone.  
-- Author had a policy of having people who had not been performing well for two years take the lead on a major initiative - if they shine here, great, if not, it’s not a fit. If after 2 years someone not doing well, let them go (seems like up or out to me. So while not everyone is a superstar, everyone must be a “star”)
+- Author had a policy of having people who had not been performing well for two years take the lead on a major initiative - if they shine here, great, if not, it’s not a fit. If after 2 years someone not doing well, let them go (seems like up or out to me. So while not everyone is a superstar, everyone must be a "star")
 - Poor performance/ negative growth trajectory: part ways
 - When someone is not performing well, it is best for that person, you, and the team, to let them go
 - Consider: have you given radically candid guidance, do you understand the person’s performance on the team, have you sought advice from others?
@@ -122,9 +122,9 @@ Part 1
 - Insist that people tell you you’re wrong
 - Have people challenge you.
 - Get it right is more important than to be right
-- “Get stuff Done” (refer to graphic)
+- "Get stuff Done" (refer to graphic)
 - Listen
-- “Give the quiet ones a voice” - managers job
+- "Give the quiet ones a voice" - managers job
 - Create a culture where the burden of listening doesn’t just fall on you.
 - Different ways to listen: quiet and loud
 - Quiet: allow for long pauses, do not respond, but let people know what you think sometimes
@@ -158,7 +158,7 @@ Part 1
 - Must bring people on board to the decision making process
 - Decider must have credibility
 - Understand (and address) the emotion of the people who are listening to you
-- Credibility: know your subject matter, say “we”, instead of “I”; demonstrate expertise and humility
+- Credibility: know your subject matter, say "we", instead of "I"; demonstrate expertise and humility
 - Logic: show your work;share how you got to it
 - Execute
 - Minimize collaboration tax
@@ -183,21 +183,21 @@ Part 2: tools and techniques
 - Master the art of socializing at work
 - Sometime the greatest gift you can give your team is to let them go home!
 - Respect boundaries; Respect and openness
-- NTS: work to say “you all” instead of “you guys”
+- NTS: work to say "you all" instead of "you guys"
 - Recognize your emotions and master your reactions to others emotions
-- Acknowledge emotions: “I can see you’re mad/frustrated/elated/etc.”
+- Acknowledge emotions: "I can see you’re mad/frustrated/elated/etc."
 - When someone is upset ask questions until you understand what the real issue is
 - Do not add your guilt to people’s emotions, it may have nothing to do with you. Focus on them, not yourself
-- Telling people how to feel will backfire: do not say “don’t be mad, don’t be sad” or “no offense, but”
+- Telling people how to feel will backfire: do not say "don’t be mad, don’t be sad" or "no offense, but"
 - Some tips: keep tissue a short walk from your desk, excuse yourself to get the person water, keep water by your desk, go for a walk
 - Building relationships takes time and real energy, these relationships can give your work real meaning
 
 6: guidance - ideas for getting/giving/encouraging praise and criticism
-- guidance is the “atomic building block” of management
+- guidance is the "atomic building block" of management
 - Important to build a culture where people feel comfortable providing criticism. As the boss, encourage and welcome it.
-- As the boss, the “feedback in private” rule does not apply to you (I do not completely agree with this, at least not in all cases)
+- As the boss, the "feedback in private" rule does not apply to you (I do not completely agree with this, at least not in all cases)
 - Ask people to give you feedback in public, find someone who is comfortable challenging you and have them do it in a public setting
-- Have a go to question to get feedback: “is there anything I could do or stop doing that would make it easier to work with me?”
+- Have a go to question to get feedback: "is there anything I could do or stop doing that would make it easier to work with me?"
 - Tips: count to 6; ask the question again; watch body language
 - Your first job is to listen with intent to the criticism, not defend (or debate it!) - hard to do, learn how to master your response and emotions
 - Reward Criticism to get more of it (ie make a change as soon as possible, if change will take time do a small step towards it)
@@ -211,14 +211,14 @@ Part 2: tools and techniques
 - Technique: situation, behavior, impact. Describe what you saw, what the person did (good or bad), and the impact you observed
 - Left hand column: what you were thinking vs what was said?
 - Do not confuse objective reality with our subjective experience
-- Explicitly state what is good or bad: not “she is smart”, say “she just gave the clearest explanation I’ve ever heard of why users don’t like that feature”
+- Explicitly state what is good or bad: not "she is smart", say "she just gave the clearest explanation I’ve ever heard of why users don’t like that feature"
 - Find help for people
 - Give feedback immediately; guidance has a short half-life
 - Don’t let scheduled meetings (performance reviews, 1-1s) be an excuse to not get impromptu in-person feedback
 - Praise in public, criticize in private
-- Group learning: most people will say they do not want to be praised in public, so say something like: “Not because I want to embarrass Jane, but to make sure everyone learns from what she accomplished and how she did it”
-- Don’t personalize, avoid saying “you are”
-- Say “that’s wrong” not “you’re wrong”
+- Group learning: most people will say they do not want to be praised in public, so say something like: "Not because I want to embarrass Jane, but to make sure everyone learns from what she accomplished and how she did it"
+- Don’t personalize, avoid saying "you are"
+- Say "that’s wrong" not "you’re wrong"
 - Track your guidance towards radical Candor
 - You can’t fix yourself once and for all, you have to manage yourself daily
 - Figure out how others experience your guidance
@@ -228,15 +228,15 @@ Part 2: tools and techniques
 - Ask the women who report to you: do you see any gender biases in our organization? In my management? In leadership? In women in tech...what can we do to hire more?
 - Avoid abrasive
 - Go back to page 158
-- Don’t use gendered language “abrasive”, “bossy”, “pushy”, “shrill”, “screechy”
-- Never just say “be more likable”
+- Don’t use gendered language "abrasive", "bossy", "pushy", "shrill", "screechy"
+- Never just say "be more likable"
 - Men: don’t pull punches, women: demand criticism
 - Performance reviews
 - Don’t rely on unilateral judgment
 - Things I’ve learned/noticed that she mentioned: don’t schedule back to back, give yourself enough time to conduct them, write it down, potentially separate review from compensation, schedule regular checkins to ensure feedback is being addressed
 - Peer guidance
 - Get people to solve problems together, not just talk to you as the boss
-- “whoops the monkey” is like celebratevtje wins
+- "whoops the monkey" is like celebratevtje wins
 - Skip level meetings
 - Goals: to help each of them become better bosses, make sure people on their team feel comfortable giving feedback directly
 - Share everything with their boss, not not who said it
@@ -253,7 +253,7 @@ Part 2: tools and techniques
 - Can email Russ directly
 - Growth plan: 3-5 bullets per person
 - Hiring
-- Define team “fit” as well as “skills” in job description
+- Define team "fit" as well as "skills" in job description
 - Define company culture in three words
 - Should we add pre-screen questions?
 - Give people the opportunity to show the work without looking at who the person is
