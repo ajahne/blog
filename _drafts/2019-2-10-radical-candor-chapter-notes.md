@@ -5,7 +5,7 @@ date:  2019-2-10 6:00:00 -0400
 categories: leadership books
 tags: leadership books
 header:
-  image: /assets/images/leadership-early-career-tips.jpg
+  image: /assets/images/radical-candor-chapter-notes-header.jpeg
 ---
 
 # Radical Candor - Chapter notes
