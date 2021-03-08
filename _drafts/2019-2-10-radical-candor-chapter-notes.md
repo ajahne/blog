@@ -10,7 +10,7 @@ header:
 
 # Radical Candor - Chapter notes
 
-Introduction
+## Introduction
 - told all your life "if you don’t have something nice to say, don’t say anything at all", have a lifetime of training to undo
 - Management is hard
 - When people make mistakes over and over (and you do not give feedback or do anything to change it) You stop just thinking the work is bad, you start thinking the person is bad
@@ -19,7 +19,7 @@ Introduction
 - Relationships may not scale, but cultures do
 - At the heart of being a good boss, is a good relationship
 
-Part 1  
+## Part 1  
 1: building radically candid relationships
 - leadership and management are like forehand and backhand, you need both to win
 - Bosses guide a team to achieve results
@@ -41,7 +41,7 @@ Part 1
 - Radical Candor is sensitive to context. Not what is said, it’s what is heard. It’s measured at the listeners ear. Only works if person understand that you care personally
 - Communication and how to give feedback and share perspectives differs by company, country, and culture - be aware of this and still push for Radical Candor (e.g. from experiences in Tokyo at Google the author encouraged "polite persistence")
 
-2: get, give, and encourage guidance
+## 2: get, give, and encourage guidance
 - "Um" note to self: check to see if you are seeing up, if so stop! Work to improve. Maybe speech coach?
 - Give operational feedback (what can be done to help fix, in example the authors boss offers to provide a speech coach)
 - Do not personalize feedback, the boss said "makes you sound stupid", not "makes you stupid" or "you are stupid"
@@ -71,7 +71,7 @@ Part 1
 - Simple advice about criticism: "just say it"
 - Give a damn!
 
-3: understand what motivates each person on your team
+## 3: understand what motivates each person on your team
 - What motivates this person?
 - rock stars and superstars
 - Rockstars are consistent, like rock of Gibraltar, superstars always looking for the next
@@ -115,7 +115,7 @@ Part 1
 - Avoid permanent markers and labels
 - Peoples performance changes over time
 
-4: drive results collaboratively
+## 4: drive results collaboratively
 - better results if (when) you lay down your power and work more collaboratively
 - Get buy-in from the team in decisions
 - Help people understand the why
@@ -176,7 +176,7 @@ Part 1
 
 Part 2: tools and techniques
 
-5: relationships
+## 5: relationships
 - start with yourself, stay centered and take care of yourself
 - When everyone is able to bring the best of themselves to work, they are more fulfilled, they work better with one another, and the team gets better results
 - Lay down unilateral authority
@@ -192,7 +192,7 @@ Part 2: tools and techniques
 - Some tips: keep tissue a short walk from your desk, excuse yourself to get the person water, keep water by your desk, go for a walk
 - Building relationships takes time and real energy, these relationships can give your work real meaning
 
-6: guidance - ideas for getting/giving/encouraging praise and criticism
+## 6: guidance - ideas for getting/giving/encouraging praise and criticism
 - guidance is the "atomic building block" of management
 - Important to build a culture where people feel comfortable providing criticism. As the boss, encourage and welcome it.
 - As the boss, the "feedback in private" rule does not apply to you (I do not completely agree with this, at least not in all cases)
@@ -243,7 +243,7 @@ Part 2: tools and techniques
 - Take notes (I do, lol) and share them (I don’t) should we share?
 - Goal to make things better, perfectos unrealistic
 
-7: Team
+## 7: Team
 - career conversations
 - Balance growth and stability
 - Three 45 minute conversations
@@ -273,7 +273,7 @@ Part 2: tools and techniques
 - Reward rock stars, not everything is about promotions
 - Avoid micromanagement and absentee management
 
-8: Results
+## 8: Results
 - 1:1 meetings
 - Employees set the agenda, you listen and help them clarify
 - Purpose: to understand what direction each person working for you wants to head in and what is blocking them
@@ -296,7 +296,7 @@ Part 2: tools and techniques
 - Culture: you know you’ve succeeded when it’s no longer about you
 - Culture is self-replicating
 
-Getting started (227 till end has steps)
+## Getting started (227 till end has steps)
 - explain radical Candor
 - Share stories with the team, personal stories explain better than theory
 - Prove you can take it before you dish it out
