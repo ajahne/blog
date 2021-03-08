@@ -19,8 +19,8 @@ header:
 - Relationships may not scale, but cultures do
 - At the heart of being a good boss, is a good relationship
 
-## Part 1  
-1: building radically candid relationships
+# Part 1  
+## 1: building radically candid relationships
 - leadership and management are like forehand and backhand, you need both to win
 - Bosses guide a team to achieve results
 - Three areas of responsibility: guidance (feedback/coaching, praise and criticism), team-building(hiring, firing, promoting, motivation), results (getting things done)
@@ -174,7 +174,7 @@ header:
 - As a manger, take care of yourself
 - (Return to listen, it’s a loop)
 
-Part 2: tools and techniques
+# Part 2: tools and techniques
 
 ## 5: relationships
 - start with yourself, stay centered and take care of yourself
