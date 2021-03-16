@@ -150,7 +150,7 @@ header:
 - NTS: decide less, debate more
 - Challenge I see is that often people do not want to make the decision, they want to be told what to do? That is giving them the easy way out. They can be less vested and also complain and nitpick the decision. If you want buy in, help them facilitate making the
 - As a boss, do not decide for yourself, create a clear decision-making process to empower people closets to the facts to make as many decisions as possible
-- When appropriate,you can go low level(I.e. spelunking)
+- When appropriate, you can go low level(I.e. spelunking)
 - Get to the facts
 - Sometimes go directly to the source
 - Persuade
@@ -236,7 +236,7 @@ header:
 - Things I’ve learned/noticed that she mentioned: don’t schedule back to back, give yourself enough time to conduct them, write it down, potentially separate review from compensation, schedule regular checkins to ensure feedback is being addressed
 - Peer guidance
 - Get people to solve problems together, not just talk to you as the boss
-- "whoops the monkey" is like celebratevtje wins
+- "whoops the monkey" is like celebrate the wins
 - Skip level meetings
 - Goals: to help each of them become better bosses, make sure people on their team feel comfortable giving feedback directly
 - Share everything with their boss, not not who said it
