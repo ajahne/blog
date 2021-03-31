@@ -11,3 +11,7 @@ header:
 Had the one month check up.
 Been at the job 5 months
 Been fighting COVID for 6 months
+
+The Pandemic is still going...
+I've been a Dropbox for 1 year.
+My Daughter is 8 months.
