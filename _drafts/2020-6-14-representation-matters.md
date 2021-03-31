@@ -74,9 +74,9 @@ And in that day, in Halligan Hall, with the sun shining in through the window, w
 
 A nah, this ain't some rah rah, Kumbaya ish. I worked my ass off.
 
-That semester I made Dean's list. And the next. And once I graduated, I went and got my Master's Degree in Computer Science, getting straight As in almost every semester.
+That semester I made Dean's list. And the next. And once I graduated, I went and got my Master's Degree in Computer Science, getting straight A's in almost every semester.
 
-And, in one of my proudest moments, the kid who got a D- in intro to Computer Science, became the head TA for that very same class. When the professor was out, that kid taught the class.
+And, in one of my proudest moments, the kid who got a D- in Intro to Computer Science, became the head TA for that very same class. When the professor was out, that kid taught the class.
 
 That kid was proud.
 
