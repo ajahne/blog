@@ -8,11 +8,11 @@ header:
   image: /assets/images/header-representation-matters.jpeg
 ---
 
-*When I was student at Tufts University, I was often the only Black person in my Computer Science and engineering classes.*
+*When I was student at Tufts University, I was often the only Black person in my Computer Science and Engineering classes.*
 
 *I was the only Black person to graduate with a Computer Science degree from the School of Engineering in my year.*
 
-*I was one of two Black students out of more than 100 to graduate within the school of engineering in the fields of Computer Science, Computer Engineering, and Electrical Engineering.*
+*I was one of two Black students out of more than 100 to graduate within the School of Engineering in the fields of Computer Science, Computer Engineering, and Electrical Engineering.*
 
 *I say this not to give stats. Not to break down the data.*
 
