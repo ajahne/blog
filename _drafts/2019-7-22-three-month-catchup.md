@@ -7,9 +7,8 @@ tags: meetings, 1-1, one-on-one, management
 header:
   image:
 ---
-[Three month catch up](#three-month-catch-up)
+_Note: This post builds on the [Essential Meetings to Have With Your People as a Manager](https://ajahne.github.io/blog/leadership/2019/07/24/essential-meetings-to-have-with-your-people-as-a-manager.html)_
 
-## Three month catch up
 **Purpose:** To conduct an informal "mini-review" of the employee's first three months at the organization to better understand strengths, areas of improvement, and what this person has liked/disliked over the first few months.
 
 **Overview:**  
@@ -26,7 +25,7 @@ One to two weeks before the meeting, I conduct a quick 10-15 minute overview dis
 
 **Frequency:** One time, three months after start date with new hire.
 
-**Meeting Length:** 45-60 minutes.
+**Meeting Length:** 30-45 minutes.
 
 **Additional Resources:**
 - [Meeting Template](https://github.com/ajahne/essential-manager-meetings/blob/master/templates/three-month-catch-up.md)
