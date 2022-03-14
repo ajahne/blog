@@ -1,7 +1,7 @@
 ---
 layout: single
-title:  "Three Month Catch Up"
-date:  2019-7-22 14:10:00 -0400
+title:  "Essential Meetings: Three Month Catch Up"
+date:  2021-9-22 14:10:00 -0400
 categories: leadership
 tags: meetings, 1-1, one-on-one, management
 header:
