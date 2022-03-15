@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Essential Meetings: Three Month Catch Up"
+title:  "Essential Manager Meetings: Three Month Catch Up"
 date:  2021-9-22 14:10:00 -0400
 categories: leadership
 tags: meetings, 1-1, one-on-one, management
