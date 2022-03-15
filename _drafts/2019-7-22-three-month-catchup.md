@@ -5,7 +5,7 @@ date:  2021-9-22 14:10:00 -0400
 categories: leadership
 tags: meetings, 1-1, one-on-one, management
 header:
-  image:
+  image: /assets/images/management-meeting-three-month-catch-up.jpeg
 ---
 _Note: This post builds on the [Essential Meetings to Have With Your People as a Manager](https://ajahne.github.io/blog/leadership/2019/07/24/essential-meetings-to-have-with-your-people-as-a-manager.html)_
 
