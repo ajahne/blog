@@ -8,7 +8,7 @@ header:
   image: /assets/images/management-meeting-three-month-catch-up.jpeg
 ---
 
-One of the key meetings that I have conducted throughout my career with new hires or folks new to their role, is the "Three Month Catch Up".  This allows me to have an informal checkin with my direct report on how things have been going, allowing me to learn and potentially course correct, while continuing to build empathy and trust. Of note, this post builds on the [Essential Meetings to Have With Your People as a Manager](https://ajahne.github.io/blog/leadership/2019/07/24/essential-meetings-to-have-with-your-people-as-a-manager.html).
+One of the key meetings that I have conducted throughout my career with new hires or folks new to their role, is the "Three Month Catch Up".  This meeting provides an opportunity to have an informal checkin with your direct report on how things have been going, allowing you to learn and potentially course correct, while continuing to build empathy and trust. Please note, this post builds on the [Essential Meetings to Have With Your People as a Manager](https://ajahne.github.io/blog/leadership/2019/07/24/essential-meetings-to-have-with-your-people-as-a-manager.html).
 
 ## Three Month Catch Up
 
@@ -19,7 +19,7 @@ For new hires, engineers new to their role (e.g. recent promotion), and especial
 
 When things are going well this meeting helps to promote continued flow. When things are not going well it is an opportunity to provide constructive feedback in a more formal manner. At times I have utilized this meeting as a "mini [performance review](https://ajahne.github.io/blog/leadership/2019/07/24/essential-meetings-to-have-with-your-people-as-a-manager.html#performance-reviews)". If you are conducting frequent [one-on-ones](https://github.com/ajahne/one-on-ones) (as I know you are!) then this meetings will be pretty straight forward with no surprises. However, I find it important to carve out time specifically for the employee to voice their thoughts on the new job/role in a more concentrated way.
 
-One to two weeks before the meeting, I conduct a quick 10-15 minute overview discussion of the meeting, where we go over the agenda and topics. This is an opportunity for your direct report to discuss in more detail than a standard 1-1 how the first three months of their job have been.  
+One to two weeks before the meeting, I conduct a quick 10-15 minute overview discussion of the meeting, where we go over the agenda and topics. The catch up, when conducted, is an opportunity for your direct report to discuss in more detail than a standard 1-1 how the first three months of their job have been.  
 
 **Agenda and topics:**
 - Understand what your direct report has enjoyed and not enjoyed working on in the first three months.
