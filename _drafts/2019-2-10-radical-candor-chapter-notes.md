@@ -7,6 +7,22 @@ tags: leadership books
 header:
   image: /assets/images/radical-candor-chapter-notes-header.jpeg
 ---
+While [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-readers-are-leaders-but-all-leaders-are-readers), I definitely have not read as much during quaratine 😩. Been trying to get back into that as well as blogging more. So with that in mind, I was dusting off some old blog entries from my drafts and stumbled upon my chapter notes for Radical Candor. While I do not agree with everything in this book, I do believe it has some insight to offer, particularly around "giving a damn" as a manager/leader. Please keep in mind that these notes are based on the first edition of the book (i.e. 2017) and I believe some things have changed in the newest version. 
+
+
+## Table of Contents:
+- [Introduction](#introduction)
+- [Chapter 1: Building Radically Candid Relationships](#1-building-radically-candid-relationships)
+- [Chapter 2: Accelerate Your Learning](#chapter-2-accelerate-your-learning)
+- [Chapter 3: Match Strategy to Situation](#chapter-3-match-strategy-to-situation)
+- [Chapter 4: Negotiate Success](#chapter-4-negotiate-success)
+- [Chapter 5: Secure Early Wins](#chapter-5-secure-early-wins)
+- [Chapter 6: Achieve Alignment](#chapter-6-achieve-alignment)
+- [Chapter 7: Build Your Team](#chapter-7-build-your-team)
+- [Chapter 8: Create Alliances](#chapter-8-create-alliances)
+- [Chapter 9: Manage Yourself](#chapter-9-manage-yourself)
+- [Chapter 10: Accelerate Everyone](#chapter-10-accelerate-everyone)
+
 
 ## Introduction
 - told all your life "if you don’t have something nice to say, don’t say anything at all", have a lifetime of training to undo
