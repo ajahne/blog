@@ -8,12 +8,10 @@ header:
   image: /assets/images/radical-candor-chapter-notes-header.jpeg
 ---
 
-# Radical Candor - Chapter notes
-
 ## Introduction
 - told all your life "if you don’t have something nice to say, don’t say anything at all", have a lifetime of training to undo
 - Management is hard
-- When people make mistakes over and over (and you do not give feedback or do anything to change it) You stop just thinking the work is bad, you start thinking the person is bad
+- When people make mistakes over and over (and you do not give feedback or do anything to change it) you stop just thinking the work is bad, you start thinking the person is bad
 - As a boss, you sometimes just misread signals
 - Relationships are the core of your job
 - Relationships may not scale, but cultures do
@@ -25,27 +23,29 @@ header:
 - Bosses guide a team to achieve results
 - Three areas of responsibility: guidance (feedback/coaching, praise and criticism), team-building(hiring, firing, promoting, motivation), results (getting things done)
 - Relationships, not power, drive you forward
-- "Your ability to build trusting, human connections with the people who report directly to you will determine the quality of everything that follows" (p8)
+> "Your ability to build trusting, human connections with the people who report directly to you will determine the quality of everything that follows" (p8)
+
 - Two dimensions to move in a positive direction: give a damn, challenge directly
 - Be your whole self, show that you care personally
-- "It’s not just business; it is personal, and deeply personal"
+> "It’s not just business; it is personal, and deeply personal"
+
 - Telling people when work isn’t good enough, delivering hard feedback, holding a high bar for results
-- Radical Candor = Care Personally + Challenge Directly
+- **Radical Candor = Care Personally + Challenge Directly**
 - Bring your whole self to work (how?)
 - Being a boss is a job, not a value judgment
 - Finding out what makes us get out of bed and what makes us wanna stay there
 - They may never repay you, but they are likely to pay it forward.
-- "Challenging others and encouraging them to challenge you helps build trusting relationships". You care enough to point out when things aren’t going well and admit you are wrong and committed to fixing mistakes (pg14)
-- Good rule of thumb: leave three unimportant things unsaid each day
-- Radical Candor is not front-stabbing, not an open invite to be a jerk, not schmoozing - remember you have to care about people
+> "Challenging others and encouraging them to challenge you helps build trusting relationships". You care enough to point out when things aren’t going well and admit you are wrong and committed to fixing mistakes (pg14)
+
+- **Good rule of thumb: leave three unimportant things unsaid each day**
+- Radical Candor is not front-stabbing, not an open invite to be a jerk, not schmoozing - remember **you have to care about people**
 - Radical Candor is sensitive to context. Not what is said, it’s what is heard. It’s measured at the listeners ear. Only works if person understand that you care personally
 - Communication and how to give feedback and share perspectives differs by company, country, and culture - be aware of this and still push for Radical Candor (e.g. from experiences in Tokyo at Google the author encouraged "polite persistence")
 
 ## 2: get, give, and encourage guidance
-- "Um" note to self: check to see if you are seeing up, if so stop! Work to improve. Maybe speech coach?
+- "Um" note to self: check to see if you are saying "ummmm" a lot, if so stop! Work to improve. Maybe speech coach?
 - Give operational feedback (what can be done to help fix, in example the authors boss offers to provide a speech coach)
-- Do not personalize feedback, the boss said "makes you sound stupid", not "makes you stupid" or "you are stupid"
-- "It’s not mean, it’s clear"
+- Do not personalize feedback, the boss said "makes you sound stupid", not "makes you stupid" or "you are stupid" -> "It’s not mean, it’s clear"
 - Contextualize comments, be personal and specific with your praise
 - "I admire that about you"
 - "To keep winning, criticize the wins"
@@ -56,15 +56,15 @@ header:
 - Not everyone is a jerk all the time or nice all the time
 - Leadership is sometimes about being willing to piss people off
 - Do not be insecure, not about being liked or praised, about being honest, direct, and caring
-- When giving praise investigate until you really understand who did what and why it was so great. Be specific and thorough with praise as with criticism. Go deep into the details
+- When giving praise investigate until you really understand who did what and why it was so great. **Be specific and thorough with praise as with criticism. Go deep into the details**
 - On the path to creating a culture of radical Candor: start by getting feedback, not giving it
 - Note to self: get clear on the difference between radical candor and obnoxious aggression
 - Worry more about praise, less about criticism - but above all be sincere
 - To criticize without discouraging, focus on the relationship
-- Ask for criticism before giving it.
-- Be humble
-- Offer guidance in person (and immediately)
-- praise in public, criticize in private
+  - Ask for criticism before giving it.
+  - Be humble
+  - Offer guidance in person (and immediately)
+  - Praise in public, criticize in private
 - Don’t personalize; the problem is not due to some unfixable character flaw
 - Be more concerned with getting to the right answer than with being right
 - Use "your fly is down" or "you have spinach in your teeth" as examples on how to tell someone something that may be uncomfortable.  Better to tell them then to let them walk around with it.
@@ -73,12 +73,12 @@ header:
 
 ## 3: understand what motivates each person on your team
 - What motivates this person?
-- rock stars and superstars
+- Rock stars and superstars
 - Rockstars are consistent, like rock of Gibraltar, superstars always looking for the next
-- Analyze when you have been each one? Self reflect first
-- Break down direct reports and see where they fall. Be honest. Avoid assumptions
-- Focus on growth
-- Job is not to provide purpose, but to know team well enough to understand how each drives meaning from their work
+  - Analyze when you have been each one? Self reflect first
+  - Break down direct reports and see where they fall. Be honest. Avoid assumptions
+  - Focus on growth
+  - Job is not to provide purpose, but to know team well enough to understand how each drives meaning from their work
 - Ask how each person derived meaning from their work (since I cannot guess, just ask)
 - How do I determine rock stars and superstars?
 - Excellent performance
@@ -90,33 +90,33 @@ header:
 - Excellent performance/steep growth trajectory  
 - When you find super stars, keep them challenged (nts: develop a plan specifically for that person); make sure they are constantly learning
 - Steep trajectory is like a shooting star, lucky to have in orbit for a while, trying to hold on is futile
-- Don’t squash or block them, might be working for them one day!
+  - Don’t squash or block them, might be working for them one day!
 - Google has people nominate themselves for positions: can this work in a smaller team? Need a committee to review "promotion packet" - manager is not on the committee; avoids promotions based on loyalty
 - Allow for free transfers between teams (how to even do this)
 - NTS: how can we crowdsource more ideas?
-- Do not conflate management and growth
-- Need a trajectory not just for managers or people who want to manage, but for individual contributors as well! (This is why the career ladder matters so much)
-- When management is the only path to higher compensation, everyone losses. People become bosses not because they want the role, but more about higher compensation. Can be miserable for all involved
+- **Do not conflate management and growth**
+  - Need a trajectory not just for managers or people who want to manage, but for individual contributors as well! (This is why the career ladder matters so much)
+  - When management is the only path to higher compensation, everyone losses. People become bosses not because they want the role, but more about higher compensation. Can be miserable for all involved
 - Managing the middle
-- No such thing as B-player and mediocre human being. Everyone can be excellent at something
-- Set and uphold the quality bar
-- Do not get sucked into Ruinous Empathy when managing people who are doing OK, but not great.
-- Accepting mediocrity isn’t good for anyone.  
-- Author had a policy of having people who had not been performing well for two years take the lead on a major initiative - if they shine here, great, if not, it’s not a fit. If after 2 years someone not doing well, let them go (seems like up or out to me. So while not everyone is a superstar, everyone must be a "star")
+  - No such thing as B-player and mediocre human being. Everyone can be excellent at something
+  - Set and uphold the quality bar
+  - Do not get sucked into Ruinous Empathy when managing people who are doing OK, but not great.
+  - Accepting mediocrity isn’t good for anyone.  
+  - Author had a policy of having people who had not been performing well for two years take the lead on a major initiative - if they shine here, great, if not, it’s not a fit. If after 2 years someone not doing well, let them go (seems like up or out to me. So while not everyone is a superstar, everyone must be a "star")
 - Poor performance/ negative growth trajectory: part ways
-- When someone is not performing well, it is best for that person, you, and the team, to let them go
+  - When someone is not performing well, it is best for that person, you, and the team, to let them go
 - Consider: have you given radically candid guidance, do you understand the person’s performance on the team, have you sought advice from others?
 - Better to have a hole than an asshole
 - Retaining people who are doing poor work, penalizes people doing excellent work
 - Low performance/steep growth trajectory; manager, look at yourself in the mirror
-- If you put someone in the wrong role, it’s your fault
-- Reasons it may not work: wrong role, new to role; too much too fast; personal problems; poor fit
-- NTS: examine team and identify these (if they exist)
-- Avoid permanent markers and labels
+  - If you put someone in the wrong role, it’s your fault
+  - Reasons it may not work: wrong role, new to role; too much too fast; personal problems; poor fit
+  - NTS: examine team and identify these (if they exist)
+  - Avoid permanent markers and labels
 - Peoples performance changes over time
 
 ## 4: drive results collaboratively
-- better results if (when) you lay down your power and work more collaboratively
+- Better results if (when) you lay down your power and work more collaboratively
 - Get buy-in from the team in decisions
 - Help people understand the why
 - Insist that people tell you you’re wrong
@@ -124,60 +124,61 @@ header:
 - Get it right is more important than to be right
 - "Get stuff Done" (refer to graphic)
 - Listen
-- "Give the quiet ones a voice" - managers job
-- Create a culture where the burden of listening doesn’t just fall on you.
-- Different ways to listen: quiet and loud
-- Quiet: allow for long pauses, do not respond, but let people know what you think sometimes
-- Loud listener: share opinions that you want to be challenged and get feedback on; state a point of view strongly and debate flaws
-- Create a culture of listening (check out hbr link)
-- NTS: create an idea box or a way for people to get their ideas out there. Once a week I (and maybe a committee) will review ideas submitted.
+>  "Give the quiet ones a voice" - managers job
+
+  - Create a culture where the burden of listening doesn’t just fall on you.
+  - Different ways to listen: quiet and loud
+  - Quiet: allow for long pauses, do not respond, but let people know what you think sometimes
+  - Loud listener: share opinions that you want to be challenged and get feedback on; state a point of view strongly and debate flaws
+  - Create a culture of listening (check out hbr link)
+  - NTS: create an idea box or a way for people to get their ideas out there. Once a week I (and maybe a committee) will review ideas submitted.
 - Clarify
-- As the boss, you are the editor, not the author
-- Help people think through ideas before they have to debate them
-- Ok to bring problems, as well as, solutions
-- NTS: schedule another hack-a-thon
+  - As the boss, you are the editor, not the author
+  - Help people think through ideas before they have to debate them
+  - Ok to bring problems, as well as, solutions
+  - NTS: schedule another hack-a-thon
 - Brainstorming sessions
-- The essence of making an idea clear requires a deep understanding not only of the idea, but also the person to whom one is explaining the idea (pg. 93)
+  - The essence of making an idea clear requires a deep understanding not only of the idea, but also the person to whom one is explaining the idea (pg. 93)
 - Debate
-- Create a culture of debate on the team
-- Debate is the rock tumblr, it polishes the stones (I.e. the ideas)
-- Duty to dissent
-- Pause for exhaustion/emotion
-- Have separate debate and decide meetings
-- Have a deadline to decide
+  - Create a culture of debate on the team
+  - Debate is the rock tumblr, it polishes the stones (I.e. the ideas)
+  - Duty to dissent
+  - Pause for exhaustion/emotion
+  - Have separate debate and decide meetings
+  - Have a deadline to decide
 - Decide
-- Do not make all the decisions as the boss, be sure to listen.
-- NTS: decide less, debate more
-- Challenge I see is that often people do not want to make the decision, they want to be told what to do? That is giving them the easy way out. They can be less vested and also complain and nitpick the decision. If you want buy in, help them facilitate making the
-- As a boss, do not decide for yourself, create a clear decision-making process to empower people closets to the facts to make as many decisions as possible
+  - Do not make all the decisions as the boss, be sure to listen.
+  - NTS: decide less, debate more
+  - Challenge I see is that often people do not want to make the decision, they want to be told what to do? That is giving them the easy way out. They can be less vested and also complain and nitpick the decision. If you want buy in, help them facilitate making the
+  - As a boss, do not decide for yourself, create a clear decision-making process to empower people closets to the facts to make as many decisions as possible
 - When appropriate, you can go low level(I.e. spelunking)
-- Get to the facts
-- Sometimes go directly to the source
+  - Get to the facts
+  - Sometimes go directly to the source
 - Persuade
-- Emotion, credibility, logic
-- Must bring people on board to the decision making process
-- Decider must have credibility
-- Understand (and address) the emotion of the people who are listening to you
-- Credibility: know your subject matter, say "we", instead of "I"; demonstrate expertise and humility
-- Logic: show your work;share how you got to it
+  - Emotion, credibility, logic
+  - Must bring people on board to the decision making process
+  - Decider must have credibility
+  - Understand (and address) the emotion of the people who are listening to you
+  - Credibility: know your subject matter, say "we", instead of "I"; demonstrate expertise and humility
+  - Logic: show your work;share how you got to it
 - Execute
-- Minimize collaboration tax
-- NTS: explicitly have people bring problems to you in your next 1-1, make announcement during engineering meeting
-- As a boss make sure you are clearing a path for your people
-- Continue to balance between leading and executing personally; integrate the two; don’t get too far away from the work your team is doing
-- Block time to execute
+  - Minimize collaboration tax
+  - NTS: explicitly have people bring problems to you in your next 1-1, make announcement during engineering meeting
+  - As a boss make sure you are clearing a path for your people
+  - Continue to balance between leading and executing personally; integrate the two; don’t get too far away from the work your team is doing
+  - Block time to execute
 - Learn
-- Consistency is the hobgoblin of little minds (ouch! Lol)! - Ralph Waldo Emerson
-- Be willing to try things, admit they didn’t work, and try something new
-- Learn and admit to your personal mistakes
-- When the facts change, change your mind
+  - Consistency is the hobgoblin of little minds (ouch! Lol)! - Ralph Waldo Emerson
+  - Be willing to try things, admit they didn’t work, and try something new
+  - Learn and admit to your personal mistakes
+  - **When the facts change, change your mind**
 - As a manger, take care of yourself
-- (Return to listen, it’s a loop)
+  - (Return to listen, it’s a loop)
 
 # Part 2: tools and techniques
 
 ## 5: relationships
-- start with yourself, stay centered and take care of yourself
+- Start with yourself, stay centered and take care of yourself
 - When everyone is able to bring the best of themselves to work, they are more fulfilled, they work better with one another, and the team gets better results
 - Lay down unilateral authority
 - Master the art of socializing at work
