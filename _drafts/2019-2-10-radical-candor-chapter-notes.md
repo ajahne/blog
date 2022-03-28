@@ -187,7 +187,7 @@ header:
 - NTS: work to say "you all" instead of "you guys"
 - Recognize your emotions and master your reactions to others emotions
 - Acknowledge emotions: "I can see you’re mad/frustrated/elated/etc."
-- When someone is upset ask questions until you understand what the real issue is
+- **When someone is upset ask questions until you understand what the real issue is**
 - Do not add your guilt to people’s emotions, it may have nothing to do with you. Focus on them, not yourself
 - Telling people how to feel will backfire: do not say "don’t be mad, don’t be sad" or "no offense, but"
 - Some tips: keep tissue a short walk from your desk, excuse yourself to get the person water, keep water by your desk, go for a walk
@@ -198,7 +198,7 @@ header:
 - Important to build a culture where people feel comfortable providing criticism. As the boss, encourage and welcome it.
 - As the boss, the "feedback in private" rule does not apply to you (I do not completely agree with this, at least not in all cases)
 - Ask people to give you feedback in public, find someone who is comfortable challenging you and have them do it in a public setting
-- Have a go to question to get feedback: "is there anything I could do or stop doing that would make it easier to work with me?"
+- ** Have a go to question to get feedback: "is there anything I could do or stop doing that would make it easier to work with me?"**
 - Tips: count to 6; ask the question again; watch body language
 - Your first job is to listen with intent to the criticism, not defend (or debate it!) - hard to do, learn how to master your response and emotions
 - Reward Criticism to get more of it (ie make a change as soon as possible, if change will take time do a small step towards it)
@@ -217,9 +217,9 @@ header:
 - Give feedback immediately; guidance has a short half-life
 - Don’t let scheduled meetings (performance reviews, 1-1s) be an excuse to not get impromptu in-person feedback
 - Praise in public, criticize in private
-- Group learning: most people will say they do not want to be praised in public, so say something like: "Not because I want to embarrass Jane, but to make sure everyone learns from what she accomplished and how she did it"
+  - Group learning: most people will say they do not want to be praised in public, so say something like: "Not because I want to embarrass Jane, but to make sure everyone learns from what she accomplished and how she did it"
 - Don’t personalize, avoid saying "you are"
-- Say "that’s wrong" not "you’re wrong"
+  - Say "that’s wrong" not "you’re wrong"
 - Track your guidance towards radical Candor
 - You can’t fix yourself once and for all, you have to manage yourself daily
 - Figure out how others experience your guidance
@@ -228,90 +228,85 @@ header:
 - Gender biases impact both men and women
 - Ask the women who report to you: do you see any gender biases in our organization? In my management? In leadership? In women in tech...what can we do to hire more?
 - Avoid abrasive
-- Go back to page 158
-- Don’t use gendered language "abrasive", "bossy", "pushy", "shrill", "screechy"
-- Never just say "be more likable"
-- Men: don’t pull punches, women: demand criticism
-- Performance reviews
-- Don’t rely on unilateral judgment
+  - Go back to page 158
+  - Don’t use gendered language "abrasive", "bossy", "pushy", "shrill", "screechy"
+  - Never just say "be more likable"
+  - Men: don’t pull punches, women: demand criticism
+  - Performance reviews
+  - Don’t rely on unilateral judgment
 - Things I’ve learned/noticed that she mentioned: don’t schedule back to back, give yourself enough time to conduct them, write it down, potentially separate review from compensation, schedule regular checkins to ensure feedback is being addressed
 - Peer guidance
-- Get people to solve problems together, not just talk to you as the boss
-- "whoops the monkey" is like celebrate the wins
+  - Get people to solve problems together, not just talk to you as the boss
+  - "whoops the monkey" is like celebrate the wins
 - Skip level meetings
-- Goals: to help each of them become better bosses, make sure people on their team feel comfortable giving feedback directly
-- Share everything with their boss, not not who said it
-- Take notes (I do, lol) and share them (I don’t) should we share?
+  - Goals: to help each of them become better bosses, make sure people on their team feel comfortable giving feedback directly
+  - Share everything with their boss, not not who said it
+  - Take notes (I do, lol) and share them (I don’t) should we share?
 - Goal to make things better, perfectos unrealistic
 
 ## 7: Team
-- career conversations
-- Balance growth and stability
-- Three 45 minute conversations
-- Life story, dreams, 18 month plan
-- Build trust with the people who report to you: figure out best role for each person is suited for so team can achieve best results
-- Once a year, put together a growth management plan for each member of your team
-- Can email Russ directly
-- Growth plan: 3-5 bullets per person
+- Career conversations
+  - Balance growth and stability
+  - Three 45 minute conversations
+  - Life story, dreams, 18 month plan
+  - Build trust with the people who report to you: figure out best role for each person is suited for so team can achieve best results
+  - Once a year, put together a growth management plan for each member of your team
+  - Can email Russ directly
+  - Growth plan: 3-5 bullets per person
 - Hiring
-- Define team "fit" as well as "skills" in job description
-- Define company culture in three words
-- Should we add pre-screen questions?
-- Give people the opportunity to show the work without looking at who the person is
-- Use the same interview committee for multiple candidates
-- Casual interviews reveal more about team fit: walk person to the car, schedule over lunch, etc (may not be feasible in all situations, but an interesting idea)
-- Write down interview notes after meeting/speaking with the person
-- Debrief with team in person
-- If not sky high on person, do not hire
+  - Define team "fit" as well as "skills" in job description
+  - Define company culture in three words
+  - Should we add pre-screen questions?
+  - Give people the opportunity to show the work without looking at who the person is
+  - Use the same interview committee for multiple candidates
+  - Casual interviews reveal more about team fit: walk person to the car, schedule over lunch, etc (may not be feasible in all situations, but an interesting idea)
+  - Write down interview notes after meeting/speaking with the person
+  - Debrief with team in person
+  - If not sky high on person, do not hire
 - Firing
-- Don’t want too long
-- Don’t make decisions unilaterally
-- Give a damn
-- Follow up
+  - Don’t want too long
+  - Don’t make decisions unilaterally
+  - Give a damn
+  - Follow up
 - Promotions
-- Be fair
-- Refer back to page 194 for the details
-- Reward rock stars, not everything is about promotions
+  - Be fair
+  - Refer back to page 194 for the details
+  - Reward rock stars, not everything is about promotions
 - Avoid micromanagement and absentee management
 
 ## 8: Results
 - 1:1 meetings
-- Employees set the agenda, you listen and help them clarify
-- Purpose: to understand what direction each person working for you wants to head in and what is blocking them
-- Pretty clear on a lot of the points raised as I am familiar with 1:1s
-- What could I do or stop doing to make it easier to work with me?
-- This is your tint, but you don’t seem to come with much to talk about, can you tell me why
+  - Employees set the agenda, you listen and help them clarify
+  - Purpose: to understand what direction each person working for you wants to head in and what is blocking them
+  - NTS: Pretty clear on a lot of the points raised as I am familiar with 1:1s
+  - Feedback: *What could I do or stop doing to make it easier to work with me?*
+  - This is your time, but you don’t seem to come with much to talk about, can you tell me why
 - Staff meetings:
-- Learn, listen, clarify
-- Learn: review key metrics
-- Listen: put updates in a shared document
-- Clarify: what are the one or two most important decisions and the single most important debate the team needs to take in this week?
+  - Learn, listen, clarify
+  - Learn: review key metrics
+  - Listen: put updates in a shared document
+  - Clarify: what are the one or two most important decisions and the single most important debate the team needs to take in this week?
 - Think time
-- Block out time to think
-- Put time in your calendar and hold it sacred
+  - Block out time to think
+  - Put time in your calendar and hold it sacred
 - Big debate meetings
-- When having a debate, clarify it’s a debate meeting, not a decision meeting
-- These meetings help encourage a culture of debate
-- Walk around: get a sense of how things are going by just walking around the office
-- How and what you communicate as a boss matters, it impacts culture. You are under the microscope as the boss
+  - When having a debate, clarify it’s a debate meeting, not a decision meeting
+  - These meetings help encourage a culture of debate
+  - Walk around: get a sense of how things are going by just walking around the office
+  - How and what you communicate as a boss matters, it impacts culture. You are under the microscope as the boss
 - Culture: you know you’ve succeeded when it’s no longer about you
-- Culture is self-replicating
+  - Culture is self-replicating
 
 ## Getting started (227 till end has steps)
-- explain radical Candor
+- Explain radical Candor
 - Share stories with the team, personal stories explain better than theory
 - Prove you can take it before you dish it out
-- Ask people to criticize you
+- **Ask people to criticize you**
 - Have career conversations, these are once a year (as defined here)
 - Take time to assess
 - After 1:1s, career conversations, and you’re getting guidance, assess and then (only then) start to add on to it
 - Staff meetings: reviewing key metrics, share updates, identify big decisions and debates
 - Encouraging guidance between members of your team
-- Fight meeting proliferation
+- **Fight meeting proliferation**
 - Plan for the future of your team: do growth management plans
 - Walk around, do skip-level meetings
-
-
-10 hours for direct reports
-15 hours to execute independently in your area of expertise
-15 hours to handle the unpredictable
