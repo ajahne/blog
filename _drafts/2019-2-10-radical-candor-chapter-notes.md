@@ -15,7 +15,7 @@ While [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-reade
 - [Chapter 1: Building Radically Candid Relationships](#1-building-radically-candid-relationships)
 - [Chapter 2: Get, Give, and Encourage guidance](#2-get-give-and-encourage-guidance)
 - [Chapter 3: Understand What Motivates Everyone on your Team](#3-understand-what-motivates-each-person-on-your-team)
-- [Chapter 4: Drive Results Collaborativelys](#4-drive-results-collaboratively)
+- [Chapter 4: Drive Results Collaboratively](#4-drive-results-collaboratively)
 - [Chapter 5: Relationships](#5-relationships)
 - [Chapter 6: Guidance](#6-guidance-ideas-for-getting-giving-encouraging-praise-and-criticism)
 - [Chapter 7: Team](#7-team)
@@ -208,7 +208,7 @@ While [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-reade
 - Some tips: keep tissue a short walk from your desk, excuse yourself to get the person water, keep water by your desk, go for a walk
 - Building relationships takes time and real energy, these relationships can give your work real meaning
 
-## 6: Guidance - Ideas for getting/giving/encouraging praise and criticism
+## 6: Guidance: Ideas for getting, giving, encouraging praise and criticism
 - guidance is the "atomic building block" of management
 - Important to build a culture where people feel comfortable providing criticism. As the boss, encourage and welcome it.
 - As the boss, the "feedback in private" rule does not apply to you (I do not completely agree with this, at least not in all cases)
