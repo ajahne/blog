@@ -7,21 +7,20 @@ tags: leadership books
 header:
   image: /assets/images/radical-candor-chapter-notes-header.jpeg
 ---
-While [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-readers-are-leaders-but-all-leaders-are-readers), I definitely have not read as much during quaratine 😩. Been trying to get back into that as well as blogging more. So with that in mind, I was dusting off some old blog entries from my drafts and stumbled upon my chapter notes for Radical Candor. While I do not agree with everything in this book, I do believe it has some insight to offer, particularly around "giving a damn" as a manager/leader. Please keep in mind that these notes are based on the first edition of the book (i.e. 2017) and I believe some things have changed in the newest version. 
+While [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-readers-are-leaders-but-all-leaders-are-readers), I definitely have not read as much during quaratine 😩. Been trying to get back into that as well as blogging more. So with that in mind, I was dusting off some old blog entries from my drafts and stumbled upon my chapter notes for Radical Candor from 2019. While I do not agree with everything in this book, I do believe it has some insight to offer, particularly around "giving a damn" as a manager/leader and bringing your whole self to work. Please keep in mind that these notes are based on the first edition of the book (i.e. 2017) and I believe some things have changed in the newest version.
 
 
 ## Table of Contents:
 - [Introduction](#introduction)
 - [Chapter 1: Building Radically Candid Relationships](#1-building-radically-candid-relationships)
-- [Chapter 2: Accelerate Your Learning](#chapter-2-accelerate-your-learning)
-- [Chapter 3: Match Strategy to Situation](#chapter-3-match-strategy-to-situation)
-- [Chapter 4: Negotiate Success](#chapter-4-negotiate-success)
-- [Chapter 5: Secure Early Wins](#chapter-5-secure-early-wins)
-- [Chapter 6: Achieve Alignment](#chapter-6-achieve-alignment)
-- [Chapter 7: Build Your Team](#chapter-7-build-your-team)
-- [Chapter 8: Create Alliances](#chapter-8-create-alliances)
-- [Chapter 9: Manage Yourself](#chapter-9-manage-yourself)
-- [Chapter 10: Accelerate Everyone](#chapter-10-accelerate-everyone)
+- [Chapter 2: Get, Give, and Encourage guidance](#2-get-give-and-encourage-guidance)
+- [Chapter 3: Understand What Motivates Everyone on your Team](#3-understand-what-motivates-each-person-on-your-team)
+- [Chapter 4: Drive Results Collaborativelys](#4-drive-results-collaboratively)
+- [Chapter 5: Relationships](#5-relationships)
+- [Chapter 6: Guidance](#6-guidance-ideas-for-getting-giving-encouraging-praise-and-criticism)
+- [Chapter 7: Team](#7-team)
+- [Chapter 8: Results](#8-results)
+- [Getting started](#-getting-started)
 
 
 ## Introduction
@@ -58,7 +57,7 @@ While [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-reade
 - Radical Candor is sensitive to context. Not what is said, it’s what is heard. It’s measured at the listeners ear. Only works if person understand that you care personally
 - Communication and how to give feedback and share perspectives differs by company, country, and culture - be aware of this and still push for Radical Candor (e.g. from experiences in Tokyo at Google the author encouraged "polite persistence")
 
-## 2: get, give, and encourage guidance
+## 2: Get, Give, and Encourage Guidance
 - "Um" note to self: check to see if you are saying "ummmm" a lot, if so stop! Work to improve. Maybe speech coach?
 - Give operational feedback (what can be done to help fix, in example the authors boss offers to provide a speech coach)
 - Do not personalize feedback, the boss said "makes you sound stupid", not "makes you stupid" or "you are stupid" -> "It’s not mean, it’s clear"
@@ -87,7 +86,7 @@ While [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-reade
 - Simple advice about criticism: "just say it"
 - Give a damn!
 
-## 3: understand what motivates each person on your team
+## 3: Understand What Motivates Each Person on your Team
 - What motivates this person?
 - Rock stars and superstars
 - Rockstars are consistent, like rock of Gibraltar, superstars always looking for the next
@@ -131,7 +130,7 @@ While [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-reade
   - Avoid permanent markers and labels
 - Peoples performance changes over time
 
-## 4: drive results collaboratively
+## 4: Drive Results Collaboratively
 - Better results if (when) you lay down your power and work more collaboratively
 - Get buy-in from the team in decisions
 - Help people understand the why
@@ -191,9 +190,9 @@ While [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-reade
 - As a manger, take care of yourself
   - (Return to listen, it’s a loop)
 
-# Part 2: tools and techniques
+# Part 2: Tools and Techniques
 
-## 5: relationships
+## 5: Relationships
 - Start with yourself, stay centered and take care of yourself
 - When everyone is able to bring the best of themselves to work, they are more fulfilled, they work better with one another, and the team gets better results
 - Lay down unilateral authority
@@ -209,7 +208,7 @@ While [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-reade
 - Some tips: keep tissue a short walk from your desk, excuse yourself to get the person water, keep water by your desk, go for a walk
 - Building relationships takes time and real energy, these relationships can give your work real meaning
 
-## 6: guidance - ideas for getting/giving/encouraging praise and criticism
+## 6: Guidance - Ideas for getting/giving/encouraging praise and criticism
 - guidance is the "atomic building block" of management
 - Important to build a culture where people feel comfortable providing criticism. As the boss, encourage and welcome it.
 - As the boss, the "feedback in private" rule does not apply to you (I do not completely agree with this, at least not in all cases)
@@ -240,17 +239,14 @@ While [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-reade
 - You can’t fix yourself once and for all, you have to manage yourself daily
 - Figure out how others experience your guidance
 - Listen challenge commit
-- The coddling of the American mind from the Atlantic
 - Gender biases impact both men and women
-- Ask the women who report to you: do you see any gender biases in our organization? In my management? In leadership? In women in tech...what can we do to hire more?
-- Avoid abrasive
+  - Ask the women who report to you: do you see any gender biases in our organization? In my management? In leadership? In women in tech...what can we do to hire more?
   - Go back to page 158
   - Don’t use gendered language "abrasive", "bossy", "pushy", "shrill", "screechy"
   - Never just say "be more likable"
-  - Men: don’t pull punches, women: demand criticism
-  - Performance reviews
+- Performance reviews
   - Don’t rely on unilateral judgment
-- Things I’ve learned/noticed that she mentioned: don’t schedule back to back, give yourself enough time to conduct them, write it down, potentially separate review from compensation, schedule regular checkins to ensure feedback is being addressed
+  - Things I’ve learned/noticed that she mentioned: don’t schedule back to back, give yourself enough time to conduct them, write it down, potentially separate review from compensation, schedule regular checkins to ensure feedback is being addressed
 - Peer guidance
   - Get people to solve problems together, not just talk to you as the boss
   - "whoops the monkey" is like celebrate the wins
@@ -313,7 +309,7 @@ While [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-reade
 - Culture: you know you’ve succeeded when it’s no longer about you
   - Culture is self-replicating
 
-## Getting started (227 till end has steps)
+## Getting started
 - Explain radical Candor
 - Share stories with the team, personal stories explain better than theory
 - Prove you can take it before you dish it out
