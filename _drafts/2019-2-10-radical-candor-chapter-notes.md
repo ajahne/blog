@@ -20,7 +20,7 @@ While [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-reade
 - [Chapter 6: Guidance](#6-guidance-ideas-for-getting-giving-encouraging-praise-and-criticism)
 - [Chapter 7: Team](#7-team)
 - [Chapter 8: Results](#8-results)
-- [Getting started](#-getting-started)
+- [Getting started](#getting-started)
 
 
 ## Introduction
@@ -33,7 +33,7 @@ While [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-reade
 - At the heart of being a good boss, is a good relationship
 
 # Part 1  
-## 1: building radically candid relationships
+## 1: Building Radically Candid Relationships
 - leadership and management are like forehand and backhand, you need both to win
 - Bosses guide a team to achieve results
 - Three areas of responsibility: guidance (feedback/coaching, praise and criticism), team-building(hiring, firing, promoting, motivation), results (getting things done)
