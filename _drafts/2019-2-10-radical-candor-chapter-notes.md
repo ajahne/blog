@@ -7,7 +7,7 @@ tags: leadership books
 header:
   image: /assets/images/radical-candor-chapter-notes-header.jpeg
 ---
-While [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-readers-are-leaders-but-all-leaders-are-readers), I definitely have not read as much during quaratine 😩. Been trying to get back into that as well as blogging more. So with that in mind, I was dusting off some old blog entries from my drafts and stumbled upon my chapter notes for Radical Candor from 2019. While I do not agree with everything in this book, I do believe it has some insight to offer, particularly around "giving a damn" as a manager/leader and bringing your whole self to work. Please keep in mind that these notes are based on the first edition of the book (i.e. 2017) and I believe some things have changed in the newest version.
+While [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-readers-are-leaders-but-all-leaders-are-readers), I definitely have not read as much during quarantine 😩. I've been trying to get back into that as well as blogging more. So with that in mind, I was dusting off some old blog entries from my drafts and stumbled upon my chapter notes for Radical Candor from 2019. While I do not agree with everything in this book, I do believe it has some insight to offer, particularly around "giving a damn" as a manager/leader and bringing your whole self to work. Please keep in mind that these notes are based on the first edition of the book (i.e. 2017) and I believe some things have changed in the newest version.
 
 
 ## Table of Contents:
@@ -24,7 +24,7 @@ While [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-reade
 
 
 ## Introduction
-- told all your life "if you don’t have something nice to say, don’t say anything at all", have a lifetime of training to undo
+- You are told all of your life "if you don’t have something nice to say, don’t say anything at all", have a lifetime of training to undo
 - Management is hard
 - When people make mistakes over and over (and you do not give feedback or do anything to change it) you stop just thinking the work is bad, you start thinking the person is bad
 - As a boss, you sometimes just misread signals
@@ -58,8 +58,8 @@ While [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-reade
 - Communication and how to give feedback and share perspectives differs by company, country, and culture - be aware of this and still push for Radical Candor (e.g. from experiences in Tokyo at Google the author encouraged "polite persistence")
 
 ## 2: Get, Give, and Encourage Guidance
-- "Um" note to self: check to see if you are saying "ummmm" a lot, if so stop! Work to improve. Maybe speech coach?
-- Give operational feedback (what can be done to help fix, in example the authors boss offers to provide a speech coach)
+- _"Um" note to self: check to see if you are saying "ummmm" a lot, if so stop! Work to improve. Maybe speech coach?_
+- Give operational feedback (what can be done to help fix, in example the author's boss offers to provide a speech coach)
 - Do not personalize feedback, the boss said "makes you sound stupid", not "makes you stupid" or "you are stupid" -> "It’s not mean, it’s clear"
 - Contextualize comments, be personal and specific with your praise
 - "I admire that about you"
@@ -73,15 +73,14 @@ While [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-reade
 - Do not be insecure, not about being liked or praised, about being honest, direct, and caring
 - When giving praise investigate until you really understand who did what and why it was so great. **Be specific and thorough with praise as with criticism. Go deep into the details**
 - On the path to creating a culture of radical Candor: start by getting feedback, not giving it
-- Note to self: get clear on the difference between radical candor and obnoxious aggression
 - Worry more about praise, less about criticism - but above all be sincere
 - To criticize without discouraging, focus on the relationship
-  - Ask for criticism before giving it.
+  - Ask for criticism before giving it
   - Be humble
   - Offer guidance in person (and immediately)
   - Praise in public, criticize in private
 - Don’t personalize; the problem is not due to some unfixable character flaw
-- Be more concerned with getting to the right answer than with being right
+- **Be more concerned with getting to the right answer than with being right**
 - Use "your fly is down" or "you have spinach in your teeth" as examples on how to tell someone something that may be uncomfortable.  Better to tell them then to let them walk around with it.
 - Simple advice about criticism: "just say it"
 - Give a damn!
@@ -107,7 +106,6 @@ While [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-reade
 - Steep trajectory is like a shooting star, lucky to have in orbit for a while, trying to hold on is futile
   - Don’t squash or block them, might be working for them one day!
 - Google has people nominate themselves for positions: can this work in a smaller team? Need a committee to review "promotion packet" - manager is not on the committee; avoids promotions based on loyalty
-- Allow for free transfers between teams (how to even do this)
 - NTS: how can we crowdsource more ideas?
 - **Do not conflate management and growth**
   - Need a trajectory not just for managers or people who want to manage, but for individual contributors as well! (This is why the career ladder matters so much)
@@ -164,7 +162,7 @@ While [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-reade
 - Decide
   - Do not make all the decisions as the boss, be sure to listen.
   - NTS: decide less, debate more
-  - Challenge I see is that often people do not want to make the decision, they want to be told what to do? That is giving them the easy way out. They can be less vested and also complain and nitpick the decision. If you want buy in, help them facilitate making the
+  - Challenge I see is that often people do not want to make the decision, they want to be told what to do? That is giving them the easy way out. They can be less vested and also complain and nitpick the decision. If you want buy in, help them facilitate making the decision
   - As a boss, do not decide for yourself, create a clear decision-making process to empower people closets to the facts to make as many decisions as possible
 - When appropriate, you can go low level(I.e. spelunking)
   - Get to the facts
@@ -213,8 +211,8 @@ While [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-reade
 - Important to build a culture where people feel comfortable providing criticism. As the boss, encourage and welcome it.
 - As the boss, the "feedback in private" rule does not apply to you (I do not completely agree with this, at least not in all cases)
 - Ask people to give you feedback in public, find someone who is comfortable challenging you and have them do it in a public setting
-- ** Have a go to question to get feedback: "is there anything I could do or stop doing that would make it easier to work with me?"**
-- Tips: count to 6; ask the question again; watch body language
+- **Have a go to question to get feedback: "is there anything I could do or stop doing that would make it easier to work with me?"**
+  - Tips: count to 6; ask the question again; watch body language
 - Your first job is to listen with intent to the criticism, not defend (or debate it!) - hard to do, learn how to master your response and emotions
 - Reward Criticism to get more of it (ie make a change as soon as possible, if change will take time do a small step towards it)
 - Hear the criticism and take action
@@ -253,8 +251,7 @@ While [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-reade
 - Skip level meetings
   - Goals: to help each of them become better bosses, make sure people on their team feel comfortable giving feedback directly
   - Share everything with their boss, not not who said it
-  - Take notes (I do, lol) and share them (I don’t) should we share?
-- Goal to make things better, perfectos unrealistic
+- Goal to make things better, perfect is unrealistic
 
 ## 7: Team
 - Career conversations
@@ -274,7 +271,7 @@ While [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-reade
   - Casual interviews reveal more about team fit: walk person to the car, schedule over lunch, etc (may not be feasible in all situations, but an interesting idea)
   - Write down interview notes after meeting/speaking with the person
   - Debrief with team in person
-  - If not sky high on person, do not hire
+  - **If not sky high on person, do not hire**
 - Firing
   - Don’t want too long
   - Don’t make decisions unilaterally
