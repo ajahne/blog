@@ -5,7 +5,7 @@ date:   2022-3-31 5:00:00 -0400
 categories: leadership
 tags:
 header:
-  image:
+  image: /assets/images/header-recharging-as-a-manager.jpg
 ---
 
 # Outline
