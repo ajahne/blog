@@ -31,11 +31,11 @@ Lastly, I have found that nothing is more important in reducing stress, anxiety,
 
 ## Ways to recharge
 Do something you love...just for you
-- I love Fantasy and Sci-fi books. 
+- I love Fantasy and Sci-fi books.
 
 Go for a walk
 - Meditate
 - Exercise
 - Recharge (e.g. DBX 6 week thing)
-- PTO / Vacation
+- PTO / Vacation (assuming this covers take a day off or something different?)
 - Volunteer
