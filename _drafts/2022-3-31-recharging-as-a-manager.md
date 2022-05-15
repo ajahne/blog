@@ -3,7 +3,7 @@ layout: single
 title:  'Recharging as a Manager'
 date:   2022-3-31 5:00:00 -0400
 categories: leadership
-tags:
+tags: manager, leadership, recharge, recharging, charge, re-charge
 header:
   image: /assets/images/header-recharging-as-a-manager.jpg
 ---
