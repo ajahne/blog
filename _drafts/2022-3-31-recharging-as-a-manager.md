@@ -30,12 +30,27 @@ After a first months, things got much better (also sleep training is a life-chan
 Lastly, I have found that nothing is more important in reducing stress, anxiety, and improving health, like consistently getting a good night sleep.
 
 ## Ways to recharge
-Do something you love...just for you
-- I love Fantasy and Sci-fi books.
+### Do something you love...just for you
+I love Fantasy and Sci-fi books. Recently I have made it a habit of reading for 20-30 minutes a day, something that is pure pleasure. I find this to be a moment of bliss and something that I look forward to each day.  What is something you can do each day that brings you joy?
 
-Go for a walk
-- Meditate
-- Exercise
+
+### Go for a walk
+Back before COVID, when I commutted to the the office each day, I would carve out time in the afternoons to go for a walk. My office used to be located in midtown east. I had an amazing walk route that would take me across the FDR and along the east river. I would take this walk sometimes before a big presentation, or after a difficult converastion, or just to clear my head. This was a mid-day recharge.
+
+While I no longer communite into the office every day, I have taken up a morning walk. I can feel the difference emotional and physically between The days where I start my morning with a walk vs the days that I do not get a walk in. Walks are a way that wher I find both a chance to clear my head and also get in a few steps.   
+
+### Meditate
+A previous manager I had swore by meditaion. They used an app daily to reduce stress and center themselves. I have recently tried this out intermittendely to great results.
+
+Balance App
+
+Do I have more here? If not...maybe remove
+
+### Exercise
+Execersing is my personal super-charge. When I go days without exercising I get grumpy, I am slugging, and I feel less confidence in myself.
+
+
+
 - Recharge (e.g. DBX 6 week thing)
 - PTO / Vacation (assuming this covers take a day off or something different?)
 - Volunteer
