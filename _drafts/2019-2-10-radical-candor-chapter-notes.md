@@ -238,7 +238,7 @@ While [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-reade
 - Figure out how others experience your guidance
 - Listen challenge commit
 - Gender biases impact both men and women
-  - Ask the women who report to you: do you see any gender biases in our organization? In my management? In leadership? In women in tech...what can we do to hire more?
+  - Ask the women who report to you: do you see any gender biases in our organization? In my management? In leadership? In women in tech...what can we do to hire more? (NTS: I think the _everyone_ in the organization should be focused on this)
   - Go back to page 158
   - Don’t use gendered language "abrasive", "bossy", "pushy", "shrill", "screechy"
   - Never just say "be more likable"
