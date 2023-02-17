@@ -72,7 +72,7 @@ A Computer Science professor that had my hair, that had my skin tone, that had m
 
 And in that day, in Halligan Hall, with the sun shining in through the window, while I listened to Professor Laing teach us about state machines during a Thursday lecture in Computational Theory, I believed - for the first time - that I could be a software engineer. I believed for the first time that I could do it. That I could make it.
 
-A nah, this ain't some rah rah, Kumbaya ish. I worked my ass off.
+And nah, this ain't some rah rah, Kumbaya ish. I worked my ass off.
 
 That semester I made Dean's list. And the next. And once I graduated, I went and got my Master's Degree in Computer Science, getting straight A's in almost every semester.
 
@@ -80,7 +80,7 @@ And, in one of my proudest moments, the kid who got a D- in Intro to Computer Sc
 
 That kid was proud.
 
-Wearing his baggy jeans, long Tee, and braids under the a doo-rag - I taught them students the hell out of some operators, variables, and data types!
+Wearing his baggy jeans, long Tee, and braids under the doo-rag - I taught them students the hell out of some operators, variables, and data types!
 
 And all of my code compiled.
 
@@ -93,4 +93,4 @@ Of course you can.
 
 We all need someone like this. A professor, a colleague, a coach.
 
-This in part drives me to mentor, to be a [board member at Tufts](https://engineering.tufts.edu/cs/communitydiversity/external-advisory-board), to [volunteer]({{ site.baseurl }}{% post_url 2021-1-21-stay-technical-and-give-back-volunteer %}), and give back in whatever way I am able. Humbled if I can inspire, hoping that I do nothing less.
+This in part drives me to [mentor](https://www.edlyft.com/blog/edlyft-partnership-with-dropbox), to be a [board member at Tufts](https://engineering.tufts.edu/cs/communitydiversity/external-advisory-board/external-advisory-board-alumni), to [volunteer]({{ site.baseurl }}{% post_url 2021-1-21-stay-technical-and-give-back-volunteer %}), and give back in whatever way I am able. Humbled if I can inspire, hoping that I do nothing less.
