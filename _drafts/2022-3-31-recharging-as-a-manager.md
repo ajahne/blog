@@ -42,15 +42,21 @@ While I no longer communite into the office every day, I have taken up a morning
 ### Meditate
 A previous manager I had swore by meditaion. They used an app daily to reduce stress and center themselves. I have recently tried this out intermittendely to great results.
 
-Balance App
+Recently, I've used the Calm app and have begun to find benefit here to help me sleep or just give me a quick mental break in the middle of the day.
 
-Do I have more here? If not...maybe remove
+Don't want to do the app thing? No worries. Have 10 minutes and a quiet room to be still in? That works as well. Sometimes, in the middle of the day after a wall of meetings and whirlwind of work, I step away from the laptop, lay down with a warm compress over my eyes, liten to [green noise](https://www.youtube.com/watch?v=y9yhdPuP8QE), and take a few minutes for myself. These are defnitenly some benefits of Virtual First.  
 
 ### Exercise
-Execersing is my personal super-charge. When I go days without exercising I get grumpy, I am slugging, and I feel less confidence in myself.
+Execersing is my personal super-charger. When I go days without exercising I get grumpy, I am slogging, and I feel less confidence in myself. Carving out time to exercise can be tough when you have a busy job, family, and all those general adult responsibilities. What I have found works for me is to wake up just a little bit earlier (whcih is so hard for me as a night owl) and get in a quick bit of exercise of, sometimes 10-20 minutes (max 30). For me I have tried used fitnessblender and 12 minute athlete.  
 
+### Volunteer
+Wait, so on my "days off" you want me to do more work, Ajahne? Whoa, not saying that, but rather, spending time doing something completely different or tangential from your main career can be energizing. Previously, I have volunteered to do mock interviews or mentor aspiring engineers from non-traditional tech backgrounds.
 
+### Take time off (recharge)
+Finally, the vacation?
 
-- Recharge (e.g. DBX 6 week thing)
-- PTO / Vacation (assuming this covers take a day off or something different?)
-- Volunteer
+Wait, why did it take you so long to get here, Ajahne?
+
+I figured I could _start_ off this post with vacations and time off, but in my experience, taking a vacation, while good in the moment, I almost always feel overwhelmed the first week I am back. If there is not a consistent method and support system to recharge your battery, you will quickly run out of gas. So yes, we all need time way, and I love vacations! It's also important to have a sunstainable injection of charge so your battery is not constantly running on 3% - waiting for the big jolt of a vaction.
+
+One thing to do is look into what perks your company has that can help you revitalize. For example,  [Dropbox has](https://jobs.dropbox.com/Benefits#:~:text=Our%20essential%20U.S.%20benefits%20include,options%20offered%20through%20Modern%20Health.) a recharge program, monthly company wide PTO days (I'm writing this post of one of them, lol), and flexible PTO. Use your company benefits, you have earned them!
