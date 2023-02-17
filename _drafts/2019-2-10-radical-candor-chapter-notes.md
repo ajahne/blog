@@ -7,7 +7,7 @@ tags: books, leadership, management,radical, candor, notes, summary
 header:
   image: /assets/images/radical-candor-chapter-notes-header.jpeg
 ---
-While [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-readers-are-leaders-but-all-leaders-are-readers), I definitely have not read as much during quarantine 😩. I've been trying to get back into that as well as blogging more. So with that in mind, I was dusting off some old blog entries from my drafts and stumbled upon my chapter notes for Radical Candor from 2019. While I do not agree with everything in this book, I do believe it has some insight to offer, particularly around "giving a damn" as a manager/leader and bringing your whole self to work. Please keep in mind that these notes are based on the first edition of the book (i.e. 2017) and I believe some things have changed in the newest version.
+While [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-readers-are-leaders-but-all-leaders-are-readers), I definitely have not read as much during quarantine 😩. I've been trying to get back into that as well as blogging more (🤞🏾). So with that in mind, I was dusting off some old blog entries from my drafts and stumbled upon my chapter notes for Radical Candor from 2019. While I do not agree with everything in this book, I do believe it has some insight to offer, particularly around "giving a damn" as a manager/leader and bringing your whole self to work. Please keep in mind that these notes are based on the first edition of the book (i.e. 2017) and I believe some things have changed in the newest version.
 
 
 ## Table of Contents:
@@ -60,10 +60,10 @@ While [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-reade
 ## 2: Get, Give, and Encourage Guidance
 - _"Um" note to self: check to see if you are saying "ummmm" a lot, if so stop! Work to improve. Maybe speech coach?_
 - Give operational feedback (what can be done to help fix, in example the author's boss offers to provide a speech coach)
-- Do not personalize feedback, the boss said "makes you sound stupid", not "makes you stupid" or "you are stupid" -> "It’s not mean, it’s clear"
+- Do not personalize feedback, the boss said "makes you sound stupid", not "makes you stupid" or "you are stupid" ➡️ "It’s not mean, it’s clear"
 - Contextualize comments, be personal and specific with your praise
-- "I admire that about you"
-- "To keep winning, criticize the wins"
+  - "I admire that about you"
+  - "To keep winning, criticize the wins"
 - Most people prefer a "challenging jerk" as a boss over the boss whose "niceness" gets in the way in Candor  
 - Do not just criticize, show that you care
 - It’s about the behavior, not the person. Do not personalize feedback. About what you did, not who you are
@@ -102,7 +102,7 @@ While [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-reade
 - Avoid Peter Principle (it’s hard to): people getting promoted beyond their level of competence
 - Sometimes you promote people who are skilled and can do it, but do not want to do it at this time. Avoid this
 - Excellent performance/steep growth trajectory  
-- When you find super stars, keep them challenged (nts: develop a plan specifically for that person); make sure they are constantly learning
+  - When you find super stars, keep them challenged (nts: develop a plan specifically for that person); make sure they are constantly learning
 - Steep trajectory is like a shooting star, lucky to have in orbit for a while, trying to hold on is futile
   - Don’t squash or block them, might be working for them one day!
 - Google has people nominate themselves for positions: can this work in a smaller team? Need a committee to review "promotion packet" - manager is not on the committee; avoids promotions based on loyalty
@@ -115,7 +115,7 @@ While [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-reade
   - Set and uphold the quality bar
   - Do not get sucked into Ruinous Empathy when managing people who are doing OK, but not great.
   - Accepting mediocrity isn’t good for anyone.  
-  - Author had a policy of having people who had not been performing well for two years take the lead on a major initiative - if they shine here, great, if not, it’s not a fit. If after 2 years someone not doing well, let them go (seems like up or out to me. So while not everyone is a superstar, everyone must be a "star")
+  - Author had a policy of having people who had not been performing well for two years take the lead on a major initiative - if they shine here, great, if not, it’s not a fit. If after 2 years someone not doing well, let them go
 - Poor performance/ negative growth trajectory: part ways
   - When someone is not performing well, it is best for that person, you, and the team, to let them go
 - Consider: have you given radically candid guidance, do you understand the person’s performance on the team, have you sought advice from others?
@@ -207,7 +207,7 @@ While [Leaders are readers](https://www.goodreads.com/quotes/95682-not-all-reade
 - Building relationships takes time and real energy, these relationships can give your work real meaning
 
 ## 6: Guidance: Ideas for getting, giving, encouraging praise and criticism
-- guidance is the "atomic building block" of management
+- Guidance is the "atomic building block" of management
 - Important to build a culture where people feel comfortable providing criticism. As the boss, encourage and welcome it.
 - As the boss, the "feedback in private" rule does not apply to you (I do not completely agree with this, at least not in all cases)
 - Ask people to give you feedback in public, find someone who is comfortable challenging you and have them do it in a public setting
