@@ -93,4 +93,4 @@ Of course you can.
 
 We all need someone like this. A professor, a colleague, a coach.
 
-This in part drives me to [mentor](https://www.edlyft.com/blog/edlyft-partnership-with-dropbox), to be a [board member at Tufts](https://engineering.tufts.edu/cs/communitydiversity/external-advisory-board/external-advisory-board-alumni), to [volunteer]({{ site.baseurl }}{% post_url 2021-1-21-stay-technical-and-give-back-volunteer %}), and give back in whatever way I am able. Humbled if I can inspire, hoping that I do nothing less.
+Ultimately, its more than just representation. It's paying it forward. This in part drives me to [mentor](https://www.edlyft.com/blog/edlyft-partnership-with-dropbox), to be a [board member at Tufts](https://engineering.tufts.edu/cs/communitydiversity/external-advisory-board/external-advisory-board-alumni), to [volunteer]({{ site.baseurl }}{% post_url 2021-1-21-stay-technical-and-give-back-volunteer %}), and give back in whatever way I am able. Humbled if I can inspire, hoping that I do nothing less.
