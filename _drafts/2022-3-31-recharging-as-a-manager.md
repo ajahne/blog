@@ -41,7 +41,7 @@ Recently, I've used the [Calm](https://www.calm.com/) app and have begun to find
 Don't want to do (i.e. pay for) the app thing? No worries. Have 10 minutes and a quiet room to be still in? That works as well. Sometimes, in the middle of the day after a wall of meetings and a whirlwind of work, I step away from the laptop, lay down with a warm compress over my eyes, listen to [green noise](https://www.youtube.com/watch?v=y9yhdPuP8QE), and take a few minutes for myself.
 
 ## 🏃🏽‍♂️ Exercise
-Exercising is my personal super-charger. When I go days without exercising I get grumpy, I get depressed, and I lose confidence in myself. Carving out time to exercise can be tough when you have a busy job, family, and all those general adult responsibilities.
+Exercising is my personal super-charger. When I go days without exercising I get grumpy, I get depressed, and I lose confidence in myself. Carving out time to exercise can be tough when you have a busy job, family, and all those general adult responsibilities. I am also inspired by my wife who practices Brazilian Jiu Jitsu 🥋 to get up and get active!
 
 What I have found works for me is to wake up just a little bit earlier (which is so hard for me as a night owl) and get in a quick bit of exercise of, sometimes 10-20 minutes (30 if I'm lucky). I have used [fitness blender](https://www.fitnessblender.com/videos), [12 minute athlete](https://www.12minuteathlete.com/app/), and nothing wakes me up quite like a good run!  
 
@@ -49,6 +49,9 @@ What I have found works for me is to wake up just a little bit earlier (which is
 Wait, so on my "days off" you want me to do more work, Ajahne?
 
 Whoa, not saying that, but rather, spending time doing something completely different or tangential from your main career can be energizing. Previously, I have [volunteered to do mock interviews]({{ site.baseurl }}{% post_url 2021-1-21-stay-technical-and-give-back-volunteer %}) or mentor aspiring engineers from non-traditional tech backgrounds. I've thought about gardening or helping out in my local community center.  What might you do to turn your "work brain" off?
+
+## 📺 Relax
+
 
 ## ✈️ Take time off
 Finally, the vacation!
