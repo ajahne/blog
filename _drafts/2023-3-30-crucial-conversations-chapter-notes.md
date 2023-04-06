@@ -25,7 +25,7 @@ Stop and ask yourself some questions
 - what I really want for myself/others/the relationship
 - How would I behave if I really wanted this
 
-## Chapter 4 - learn to look
+## Chapter 4 - Learn to look
 - reactions when crucial conversations are happening: silence and violence (when the conversation is not safe)
 - Monitor yourself and your stress; how are your reacting? (Style under stress)
 - Look at content and conditions, watch for safety problems
