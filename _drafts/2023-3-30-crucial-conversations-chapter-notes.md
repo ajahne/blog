@@ -5,9 +5,9 @@ date:   2022-3-31 5:00:00 -0400
 categories: books
 tags: management leadership books chapter notes
 header:
-  image: 
+  image:
 ---
-Crucial conversations
+Crucial Conversations
 
 Not about the process, it’s about people holding each other accountable to the process
 
@@ -25,12 +25,12 @@ Stop and ask yourself some questions
 - what I really want for myself/others/the relationship
 - How would I behave if I really wanted this
 
-Chapter 4 - learn to look
+## Chapter 4 - learn to look
 - reactions when crucial conversations are happening: silence and violence (when the conversation is not safe)
 - Monitor yourself and your stress; how are your reacting? (Style under stress)
 - Look at content and conditions, watch for safety problems
 
-Chapter 5 - make it safe
+## Chapter 5 - make it safe
 - build up trust and mutual purpose
 - Others perceive you are working toward and common outcome and goals
 - Find a shared goal and you have a good reason and climate to chat
@@ -60,7 +60,7 @@ Summary
 - Invent
 - Brainstorm
 
-Chapter 6
+## Chapter 6
 - take charge of your feelings
 - You and only you create your emotions
 - Find a way to master them or fall hostage to them
@@ -78,7 +78,7 @@ Chapter 6
 - Turn victims to actors, villains to humans , helpless to the able -> what would I do right now to get the best results, what do I really want
 - Summary: find your self moving away from dialogue, stop and notice what you are doing / feeling (ie am I silent or violent); analyze conslucions and stories; get back to the facts; watch for clever stories and tell the full story; what do I want and what would I do now to get there
 
-Chapter 7
+## Chapter 7
 - hearts need to be in the right place and are well prepared
 - Express opinion - now what?
 - Totally frank and completely respectful
@@ -95,7 +95,7 @@ Chapter 7
 - Passion can be your own enemy
 - Stare your path; share facts l, tell your story, ask for others path, talk tentatively, encourage testing
 
-Chapter 8
+## Chapter 8
 - Safety at risk - step out and restore it
 - If made a mistake - apologize
 - If unclear - use contrast statements
@@ -114,7 +114,7 @@ Chapter 8
 - Build; Absolutely and in addition to
 -  Compare when you differ
 
-Chapter 9
+## Chapter 9
 - Making decisions: dialogue is not decision making
 - Decide how to decide
 - When line of authority is clear (eg there is a VP or manager, it’s clearer)
@@ -125,7 +125,7 @@ Chapter 9
 - Who does what by when and how will you follow up?
 - Goals without deadlines aren’t goals, they are merely directions
 
-Chapter 10 - examples
+## Chapter 10 - examples
 - trust: deal with trust around the issue, not the person
 - Work on “me” first - make things safe; separate intent from outcome; exercise patience
 - Make it safe and state your path
@@ -134,12 +134,12 @@ Chapter 10 - examples
 - Ok to suggest you need time alone and then hold a conversation at another time
 - Do not suggest someone else take time, that can come across as patronizing
 
-Chapter 11
+## Chapter 11
 - To get started: pick one skill to start or stay on principles
 - Learn to look: “are we in or out of dialogue”; are we playing games or are we in dialogue.
 - Don’t have to be perfect to make progress
 
-Chapter 12 - afterword
+## Chapter 12 - afterword
 - not just the big moments, small moments matter as well
 - Learn / know yourself
 - You don’t have to solve the crucial conversation, sometimes you just have to  bring it up in a safe way
