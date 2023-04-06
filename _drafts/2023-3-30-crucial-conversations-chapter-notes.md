@@ -7,7 +7,7 @@ tags: management leadership books chapter notes summary
 header:
   image:
 ---
-Crucial Conversations
+Crucial Conversations - Chapter Notes
 
 Not about the process, it’s about people holding each other accountable to the process
 
