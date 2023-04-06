@@ -23,7 +23,6 @@ Lastly, I have found that nothing is more important in reducing stress, anxiety,
 🔌 So with that, here are some techniques that help me to recharge:
 
 
-
 ## ❤️ Do something you love...just for you
 I love Fantasy and Sci-fi books. Recently I have made it a habit of reading for 15-20 minutes a day, something that is pure pleasure. I find this to be a moment of bliss and something that I look forward to each day.  What is something you can do each day that brings you joy?
 
@@ -50,7 +49,8 @@ Wait, so on my "days off" you want me to do more work, Ajahne?
 
 Whoa, not saying that, but rather, spending time doing something completely different or tangential from your main career can be energizing. Previously, I have [volunteered to do mock interviews]({{ site.baseurl }}{% post_url 2021-1-21-stay-technical-and-give-back-volunteer %}) or mentor aspiring engineers from non-traditional tech backgrounds. I've thought about gardening or helping out in my local community center.  What might you do to turn your "work brain" off?
 
-## 📺 Relax
+## 🛀🏽 Relax
+Sometimes there is nothing better than doing nothing! Hit the couch, slump in your favorite chair or just stare out the window for a spell. My wife and I have definitely recharged our batteries on a Netflix binge or three 📺. One of my favorite ways to get a quick recharge is to watch some basketball (☘️), laugh at a sitcom (Abbot Elementary these days) or play a quick 15-20 minutes of video games (Elden Ring these days). I find just allowing my mind to not think about work to be a great way to reduce my stress levels.
 
 
 ## ✈️ Take time off
@@ -63,7 +63,7 @@ Well, I figured I could _start_ off this post with vacations and time off, but i
 One thing to do is look into what perks your company has that can help you revitalize. For example, [Dropbox has](https://jobs.dropbox.com/Benefits#:~:text=Our%20essential%20U.S.%20benefits%20include,options%20offered%20through%20Modern%20Health.) a recharge program, monthly company wide PTO days (I'm writing this post of one of them, lol), and flexible PTO. Use your company benefits, you have earned them!
 
 # ✌🏾 Parting words
-I find it critical to find and do things that recharge me in a sustainable way so I can bring my best self in both my professional and personal life! Ultimately, make sure to invest in yourself. You cannot fully invest in others, if you are not investing in yourself first!
+I find it critical to find and do things that recharge me in a sustainable way so I can bring my best self in both my professional and personal life! While I outline some ways to recharge, this post could also be called reducing stress as a manager ⏬. Ultimately, make sure to invest in yourself. You cannot fully invest in others, if you are not investing in yourself first!
 
 
 So...what can you bake into your day or week that will help give you the boost you need? 🔋
