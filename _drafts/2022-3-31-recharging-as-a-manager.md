@@ -11,7 +11,7 @@ Recently I had a 1:1 with colleague I mentor, who was just promoted to managemen
 
 📝 A note before we jump in: if things are really bad at work (e.g poor fit, toxic culture, etc.), then it may be time for a change. Recharging will only be a temporary fix and not address the root cause. If you find that you have done some recharging and still feel the same way instantly upon returning to work/the day, then maybe a bigger change (career, job, role, getting a coach, etc.) is needed.
 
-## First before we (re)charge, have we first charged?
+## Before we (re)charge, have we first charged?
 > Is the sleep good? Getting that 8 hours? Eating good? Are things outside of work in a steady place?
 
 When my daughter was first born, I wasn't getting any sleep. I recall going into a 1:1 with a direct report and the first thing she said to me was "you look tired" (ouch).  I had tried to muster all the typical energy and excitement that I normally bring to 1:1s, but my report saw right through it. I really appreciated her candor. I was holding on by a thread. I realized I needed to focus on me and my family first. I changed some things up, modified my calendar (started days earlier as I was already up, but ended much earlier as well), worked to get a nanny, and luckily my wife and I got help from family.
@@ -23,12 +23,14 @@ Lastly, I have found that nothing is more important in reducing stress, anxiety,
 🔌 So with that, here are some techniques that help me to recharge:
 
 
+> While I outline some ways to recharge, this post could easily be called "managing stress as a manager"
+
 ## ❤️ Do something you love...just for you
 I love Fantasy and Sci-fi books. Recently I have made it a habit of reading for 15-20 minutes a day, something that is pure pleasure. I find this to be a moment of bliss and something that I look forward to each day.  What is something you can do each day that brings you joy?
 
 
 ## 🚶🏾‍♀️Go for a walk
-Back before COVID, when I commuted to the office each day, I would carve out time in the afternoons to go for a walk. My office used to be located in Manhattan, Midtown East. I had an amazing walk route that would take me across the FDR and along the east river. I would take this walk sometimes before a big presentation, after a difficult conversation, or just to clear my head. This was a mid-day recharge.
+Back before COVID, when I commuted to the office each day, I would carve out time in the afternoons to go for a walk. My office used to be located in Manhattan. I had an amazing walk route that would take me across the FDR and along the east river. I would take this walk sometimes before a big presentation, after a difficult conversation, or just to clear my head. This was a mid-day recharge.
 
 While I no longer commute into the office every day, I have taken up morning walks. I can feel the difference emotionally and physically between the days where I start my morning with a walk vs the days that I do not get a walk in. Walks are a way where I find both a chance to clear my head and also get in a few steps.   
 
@@ -50,7 +52,7 @@ Wait, so on my "days off" you want me to do more work, Ajahne?
 Whoa, not saying that, but rather, spending time doing something completely different or tangential from your main career can be energizing. Previously, I have [volunteered to do mock interviews]({{ site.baseurl }}{% post_url 2021-1-21-stay-technical-and-give-back-volunteer %}) or mentor aspiring engineers from non-traditional tech backgrounds. I've thought about gardening or helping out in my local community center.  What might you do to turn your "work brain" off?
 
 ## 🛀🏽 Relax
-Sometimes there is nothing better than doing nothing! Hit the couch, slump in your favorite chair or just stare out the window for a spell. My wife and I have definitely recharged our batteries on a Netflix binge or three 📺. One of my favorite ways to get a quick recharge is to watch some basketball (☘️), laugh at a sitcom (Abbot Elementary these days) or play a quick 15-20 minutes of video games (Elden Ring these days). I find just allowing my mind to not think about work to be a great way to reduce my stress levels.
+Sometimes there is *nothing* better than doing nothing! Hit the couch, slump in your favorite chair or just stare out the window for a spell. My wife and I have definitely recharged our batteries on a Netflix binge or three 📺. One of my favorite ways to get a quick recharge is to watch some basketball (☘️), laugh at a sitcom (Abbot Elementary these days) or play a quick 15-20 minutes of video games (Elden Ring these days). I find just allowing my mind to not think about work to be a great way to reduce my stress levels.
 
 
 ## ✈️ Take time off
@@ -63,7 +65,7 @@ Well, I figured I could _start_ off this post with vacations and time off, but i
 One thing to do is look into what perks your company has that can help you revitalize. For example, [Dropbox has](https://jobs.dropbox.com/Benefits#:~:text=Our%20essential%20U.S.%20benefits%20include,options%20offered%20through%20Modern%20Health.) a recharge program, monthly company wide PTO days (I'm writing this post of one of them, lol), and flexible PTO. Use your company benefits, you have earned them!
 
 # ✌🏾 Parting words
-I find it critical to find and do things that recharge me in a sustainable way so I can bring my best self in both my professional and personal life! While I outline some ways to recharge, this post could also be called reducing stress as a manager ⏬. Ultimately, make sure to invest in yourself. You cannot fully invest in others, if you are not investing in yourself first!
+I find it critical to find and do things that recharge me in a sustainable way so I can bring my best self in both my professional and personal life! While I outline some ways to recharge, this post could easily be called "managing stress as a manager" ⏬. Ultimately, make sure to invest in yourself. You cannot fully invest in others, if you are not investing in yourself first!
 
 
 So...what can you bake into your day or week that will help give you the boost you need? 🔋
