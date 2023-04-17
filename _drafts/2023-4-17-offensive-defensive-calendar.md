@@ -72,13 +72,11 @@ One thing that I tried early on in my career was to block out days based on them
 - Can lead to frustration and planning challenges when you expect to architect the new redesign on Thursday, but you need to meet with cross-functional partners and teammates
 - As the number of meetings grows it can start to eat into the dedicated technical days
 
-
 ## Dynamic Planning
 Another technique I have tried is to plan out my calendar based on the needs of the week. For example, each week on Sunday or Monday after Monday planning meetings (e.g. sprint planning) I would have sense of the outcomes for the week and update my calendar accordingly with blocked out time for heads down time and
 
 ### Pros
 - A more "agile" approach that allows me to plan the week based on what I need (sometimes more meetings, sometimes more heads down time)
-
 
 ### Cons
 - requires a bit more time to plan each week
@@ -89,6 +87,10 @@ When I was head of engineering at at startup a few years back, I worked with an 
 
 After a few weeks, they were still struggling to get sufficient heads down time. One observation  I noticed is they were holding 1-1s and meeting during "programming" blocks.  My feedback was, respect your time, do not let people book over it. A one off is ok, but do not let it become regular
 
+
+## What I do now
+
+I actually use a hybrid of these two approaches.  I currently schedule recurring 1-1s; syncs with my EMs, and a few team meetings. In between these types I find opportunities to put heads down (i.e. "busy") blocks om my calendar. This allows me to have contstand meetings and plan around those to reduce thrash for myself and folks that I work with as well as providing me sufficient blocks of time to focus.  
 
 ---
 
