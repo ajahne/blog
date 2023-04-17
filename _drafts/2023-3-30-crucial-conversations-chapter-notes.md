@@ -26,7 +26,7 @@ Stop and ask yourself some questions
 - How would I behave if I really wanted this
 
 ## Chapter 4 - Learn to Look
-- reactions when crucial conversations are happening: silence and violence (when the conversation is not safe)
+- Reactions when crucial conversations are happening: silence and violence (when the conversation is not safe)
 - Monitor yourself and your stress; how are your reacting? (Style under stress)
 - Look at content and conditions, watch for safety problems
 
@@ -61,7 +61,7 @@ Summary
 - Brainstorm
 
 ## Chapter 6
-- take charge of your feelings
+- Take charge of your feelings
 - You and only you create your emotions
 - Find a way to master them or fall hostage to them
 - Worst at dialogue - let emotions over take them; good at dialogue suppress emotions and keep conversation going, but eventually snap and react with silence or violence; best: act ON emotions, choose emotions to act upon and choose behaviors that create better results
@@ -79,7 +79,7 @@ Summary
 - Summary: find your self moving away from dialogue, stop and notice what you are doing / feeling (ie am I silent or violent); analyze conslucions and stories; get back to the facts; watch for clever stories and tell the full story; what do I want and what would I do now to get there
 
 ## Chapter 7
-- hearts need to be in the right place and are well prepared
+- Hearts need to be in the right place and are well prepared
 - Express opinion - now what?
 - Totally frank and completely respectful
 - Maintain safety - confidence, humility, and skill
@@ -125,8 +125,8 @@ Summary
 - Who does what by when and how will you follow up?
 - Goals without deadlines aren’t goals, they are merely directions
 
-## Chapter 10 - examples
-- trust: deal with trust around the issue, not the person
+## Chapter 10 - Examples
+- Trust: deal with trust around the issue, not the person
 - Work on "me" first - make things safe; separate intent from outcome; exercise patience
 - Make it safe and state your path
 - If you want someone to take more initiative; give examples and raise the bar; talk your expectations out
@@ -135,12 +135,12 @@ Summary
 - Do not suggest someone else take time, that can come across as patronizing
 
 ## Chapter 11
-- To get started: pick one skill to start or stay on principles
+- To get started: **pick one skill to start or stay on principles**
 - Learn to look: "are we in or out of dialogue"; are we playing games or are we in dialogue.
 - Don’t have to be perfect to make progress
 
-## Chapter 12 - afterword
-- not just the big moments, small moments matter as well
+## Chapter 12 - Afterword
+- Not just the big moments, small moments matter as well
 - Learn / know yourself
 - You don’t have to solve the crucial conversation, sometimes you just have to  bring it up in a safe way
 - How true emotions can feel, but how false they can be
