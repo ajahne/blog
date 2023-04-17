@@ -119,6 +119,29 @@ Additionally, if I do not do this, I an get back to back meetings with no break 
 Here is an example calendar
 [IMG of example calendar]
 
-
+---
 # Heads Down Time
-- 
+
+As I was scaling and growing as a manager, my lead at the time gave me advice that I cherish to this days
+
+> Have a least one hour a day of heads down time
+
+
+My lead at the time pushed me to do this. She urged me to rearrange my calendar and revisit my priorities.  
+
+While I am a night person, I typically feel most productive with deep work in the morning of my days. So what I did was carve out 1 hour at the start of each day. To do this, I had to move a few 1-1s to later in the day or later in the week.
+
+So what is heads down time? For me, this is thinking time, reading time, plan time, deep work time. I have heads down time 5 days a week to start my day.
+
+It was tough to get this time, so what did I have to do
+
+How do I spend my heads down times
+- Monday is planning for the week
+I look at my TODOs for the week, I also review my todos from last week.
+
+I had to cut certain meetings out of my calendar
+- large reccuring meetings, I had to revisit and determine whether I was needed in these meetings or not. If I was needed, I also took it as an opportunity to review and see if this was a meeting that I could use as a growth opportunity for the TL of my team or another engineer.
+
+- Where appropriate, I also merged 1-1s into group meetings. For example, instead of having two 30 minutes 1:1s each with my product partner and my design partner, I merged these meetings into one hour long meeting. This also help to reduced silos and ensure clear communication.  
+
+-
