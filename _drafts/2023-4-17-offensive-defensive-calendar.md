@@ -85,7 +85,11 @@ Another technique I have tried is to plan out my calendar based on the needs of 
 - Possibly too disurptive to teamates if you are dynamically changing whens standing meetings (e.g. 1-1s) occur
 
 
-When I was head of engineering at at startup a few years back, I worked with an engineer who took on the role of Tech Lead (and eventually manager).
+When I was head of engineering at at startup a few years back, I worked with an engineer who took on the role of Tech Lead (and eventually manager). They struggled with balancing meetings with heads down work. I worked with them to put busy blocks on their calendar.
+
+After a few weeks, they were still struggling to get sufficient heads down time. One observation  I noticed is they were holding 1-1s and meeting during "programming" blocks.  My feedback was, respect your time, do not let people book over it. A one off is ok, but do not let it become regular
+
+
 
 ---
 
@@ -96,6 +100,15 @@ what is it?
 
 anti-pattern
 - this does not mean schedule it at 9am your time, which is 6am someone else's time.
+- Scheduling a time that is inconvient for someone else - calendar etiqutte is still important
 
 how this has helped me?
 - I have family time block on my calendar each time. Sometimes when I ask someone to put a 1-1 onn my calendar, there have been times when it has gone pretty close to dinner time on the EST. So Instead, I typically take the lead
+
+
+## Defensive
+What is it?
+- Put blocks on your calendar when you need heads down time, are unaivable to meet, or need to focus.
+
+anti-pattern
+- having to many busy blocs on your calendar so noone can find time to meet with you. 
