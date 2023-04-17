@@ -9,17 +9,17 @@ header:
 ---
 Crucial Conversations - Chapter Notes
 
+## General notes and thoughts Chapter 1-4
+
 Not about the process, it’s about people holding each other accountable to the process
+- Start with heart
+- Start with yourself
 
-Start with heart
-Start with yourself
-
-Goals quickly change to “winning”. Avoid winning.
+> Goals quickly change to "winning. Avoid winning.
 
 Focus on what you really want
-Pause, take a deep breath
-
-Name the game and stop playing it
+- Pause, take a deep breath
+- Name the game and stop playing it
 
 Stop and ask yourself some questions
 - what I really want for myself/others/the relationship
@@ -31,7 +31,7 @@ Stop and ask yourself some questions
 - Look at content and conditions, watch for safety problems
 
 ## Chapter 5 - make it safe
-- build up trust and mutual purpose
+- Build up trust and mutual purpose
 - Others perceive you are working toward and common outcome and goals
 - Find a shared goal and you have a good reason and climate to chat
 - At risk? 2 questions
