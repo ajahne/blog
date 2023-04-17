@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  'Calendar - offense and defense'
-date:   2022-3-31 5:00:00 -0400
+date:   2023-4-17 5:00:00 -0400
 categories: books
 tags: management leadership books chapter notes summary
 header:
@@ -111,4 +111,4 @@ What is it?
 - Put blocks on your calendar when you need heads down time, are unaivable to meet, or need to focus.
 
 anti-pattern
-- having to many busy blocs on your calendar so noone can find time to meet with you. 
+- having to many busy blocs on your calendar so noone can find time to meet with you.
