@@ -90,7 +90,6 @@ When I was head of engineering at at startup a few years back, I worked with an 
 After a few weeks, they were still struggling to get sufficient heads down time. One observation  I noticed is they were holding 1-1s and meeting during "programming" blocks.  My feedback was, respect your time, do not let people book over it. A one off is ok, but do not let it become regular
 
 
-
 ---
 
 #
@@ -112,3 +111,14 @@ What is it?
 
 anti-pattern
 - having to many busy blocs on your calendar so noone can find time to meet with you.
+
+To start each of my days I put a "heads down block". I also look ahead during the current week and into the next 2-3 weeks. I have a sense of the goals / outcomes I would like to accomplish. This allows me to ensure I have sufficient focus time on my calendar. I found that if I do not do this, I do not have extended periods of focus time.
+
+Additionally, if I do not do this, I an get back to back meetings with no break or opportunity to have lunch!
+
+Here is an example calendar
+[IMG of example calendar]
+
+
+# Heads Down Time
+- 
