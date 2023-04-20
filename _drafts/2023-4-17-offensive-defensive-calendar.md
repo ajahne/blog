@@ -136,6 +136,9 @@ While I am a night person, I typically feel most productive with deep work in th
 So what is heads down time? For me, this is thinking time, reading time, plan time, deep work time. I have heads down time 5 days a week to start my day.
 
 It was tough to get this time, so what did I have to do
+- I moved around 1-1s, instead of going all 1-1s across one (or two days) I spread them out across the week. This allowed me to have more time in the morning of each day to prepare for the day, read, or have thinking times
+- I also blocked this time out on my calendar and named it "heads down time", definetely a little pithy, but I wanted to be transparent with how I would spend my time. 
+
 
 How do I spend my heads down times
 - Monday is planning for the week
