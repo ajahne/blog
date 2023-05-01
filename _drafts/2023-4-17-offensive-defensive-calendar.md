@@ -2,8 +2,8 @@
 layout: single
 title:  'Calendar - offense and defense'
 date:   2023-4-17 5:00:00 -0400
-categories: books
-tags: management leadership books chapter notes summary
+categories: leadership
+tags: management leadership calendar time management delegate delegation planning
 header:
   image:
 ---
