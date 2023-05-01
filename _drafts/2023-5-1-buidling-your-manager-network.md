@@ -20,7 +20,7 @@ header:
 You need to form your crew! Building your network is one of my critical things to do to help you advance and grow in your career. Often times when making the transition from IC to manager, you may not have a strong network of managers to connect with. To build with, vent, chat, and learn from.
 
 How did this help me?
-When I was head of engineering at my previous company, I got to the point, where I did not have peers that I could chat with.  One I was the highest eng leader at the company, I could only chat with the CEO and COO. While this definitely helped me from a general coaching, mentorship, and strategic planning standpoint. there were times when I needed to discuss, problem solve, and learn more about engineering challenges.  
+When I was head of engineering at my previous company, I got to the point, where I did not have peers that I could chat with.  Once I was the highest engineering leader at the company, I could only chat with the CEO and COO. While this definitely helped me from a general coaching, mentorship, and strategic planning standpoint. there were times when I needed to discuss, problem solve, and learn more about engineering challenges.  
 
 Questions such as:
 - How do we move faster from execution standpoint?
@@ -67,23 +67,23 @@ After 3 years being at Dropbox, these two managers are still folks that I connec
 This helped with me calibrating engineering ICs, working through performance or behavioral issue, roadmapping, or just venting
 
 ## Ask your manager
-When I have worked with managers who are just starting out in the role or have recently been proomted to management, I have coached them to buildd their network. I have worked to pair them up with peers and mentors.
+When I have worked with managers who are just starting out in the role or have recently been promoted to management, I have coached them to build their network. I have worked to pair them up with peers and mentors.
 
 Leverage your manager's network to find peers that you can connect with
 
-## Check out news letters, pedocats, etc.
+## Check out news letters, podcasts, etc.
 
-Here are a few podcasts, newsletter, and the liek that I have personaly found value in.  On each of these, once you sign up, there are ways you can sign up and get part of a group. This is almost like a "Vritual" meetup.  Allowing you to conenct, learn, and share with others.
+Here are a few podcasts, newsletter, and the like that I have personally found value in.  On each of these, once you sign up, there are ways you can sign up and get part of a group. This is almost like a "Virtual" meetup.  Allowing you to connect, learn, and share with others.
 
 
 ## Attend conferences
 Similar to finding a meetup, a great
- way to network and build your Voltron is to meet people at conferences.  You can connect with EMs that are attending, you can meet with the speaker, yyou can...
+ way to network and build your Voltron is to meet people at conferences.  You can connect with EMs that are attending, you can meet with the speaker, you can...
 
 ## Sign up for leadership trainings
 At Dropbox, I am blessed to have the opportunity to join different leadership trainings.  I am actually on a plane now on my way to an engineering manager summit!
 
-One of the benefits of attending leaership trainings are meeting other maanagers and leaders both in and our of your org.  I attended a training on high-performing managerment and during one of the breakout rooms was paired with senior managher who worked in a completedly differernt area the company. After our breakout, we set up monhtly meetings.  From this I was able to have someone to chat about re-orgs channges, managerment, challenges, improvement to Diversity in our DEI and more.
+One of the benefits of attending leadership trainings are meeting other manager and leaders both in and our of your org.  I attended a training on high-performing management and during one of the breakout rooms was paired with senior manager who worked in a completely different area the company. After our breakout, we set up monthly meetings.  From this I was able to have someone to chat about re-orgs changes, management, challenges, improvement to Diversity in our DEI and more.
 
 ## Be proactive - set up time with your peers to me
 ask your peers to meet.
@@ -92,6 +92,6 @@ Ask folks if they want to meet up?
 
 
 ## A few tips
-- Cadence: I would recommend a cadence of bi-weekly or monthly as a Cadence.  Anything less frequent than this has the potential to lose momentum, anything more frequent may become too overwhelemding, or come at the cost of other meetings you may need to atteend, or potentially has less on the agenda.
+- Cadence: I would recommend a cadence of bi-weekly or monthly as a Cadence.  Anything less frequent than this has the potential to lose momentum, anything more frequent may become too overwhelming, or come at the cost of other meetings you may need to attend, or potentially has less on the agenda.
 - Voltron side: 2-4 folks.
-- 1-1s or group meetings? I would encoourage a combination of both.  When it was most successufl for me is having both 1-1s with certain folks and joining broader management meetings. For example, I previously meet with a senior engineering manager peer bi-weekly and I also joined a monthly "NYC managers meeting". 
+- 1-1s or group meetings? I would encourage a combination of both.  When it was most successful for me is having both 1-1s with certain folks and joining broader management meetings. For example, I previously meet with a senior engineering manager peer bi-weekly and I also joined a monthly "NYC managers meeting".
