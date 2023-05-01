@@ -67,4 +67,31 @@ After 3 years being at Dropbox, these two managers are still folks that I connec
 This helped with me calibrating engineering ICs, working through performance or behavioral issue, roadmapping, or just venting
 
 ## Ask your manager
-When I have worked with managers who are just starting out in the role or have recently been proomted to management, I have coached them to buildd their network. I have worked to pair them up with peers and mentors. 
+When I have worked with managers who are just starting out in the role or have recently been proomted to management, I have coached them to buildd their network. I have worked to pair them up with peers and mentors.
+
+Leverage your manager's network to find peers that you can connect with
+
+## Check out news letters, pedocats, etc.
+
+Here are a few podcasts, newsletter, and the liek that I have personaly found value in.  On each of these, once you sign up, there are ways you can sign up and get part of a group. This is almost like a "Vritual" meetup.  Allowing you to conenct, learn, and share with others.
+
+
+## Attend conferences
+Similar to finding a meetup, a great
+ way to network and build your Voltron is to meet people at conferences.  You can connect with EMs that are attending, you can meet with the speaker, yyou can...
+
+## Sign up for leadership trainings
+At Dropbox, I am blessed to have the opportunity to join different leadership trainings.  I am actually on a plane now on my way to an engineering manager summit!
+
+One of the benefits of attending leaership trainings are meeting other maanagers and leaders both in and our of your org.  I attended a training on high-performing managerment and during one of the breakout rooms was paired with senior managher who worked in a completedly differernt area the company. After our breakout, we set up monhtly meetings.  From this I was able to have someone to chat about re-orgs channges, managerment, challenges, improvement to Diversity in our DEI and more.
+
+## Be proactive - set up time with your peers to me
+ask your peers to meet.
+
+Ask folks if they want to meet up?
+
+
+## A few tips
+- Cadence: I would recommend a cadence of bi-weekly or monthly as a Cadence.  Anything less frequent than this has the potential to lose momentum, anything more frequent may become too overwhelemding, or come at the cost of other meetings you may need to atteend, or potentially has less on the agenda.
+- Voltron side: 2-4 folks.
+- 1-1s or group meetings? I would encoourage a combination of both.  When it was most successufl for me is having both 1-1s with certain folks and joining broader management meetings. For example, I previously meet with a senior engineering manager peer bi-weekly and I also joined a monthly "NYC managers meeting". 
