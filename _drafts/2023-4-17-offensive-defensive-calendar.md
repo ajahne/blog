@@ -33,7 +33,7 @@ As you gain more experience you begin to have more meetings and need to balance 
 
 A typical TL with have some, all, or more than the following responsibilities:
 - Architecture and technical design build and review time
-- hands on programming for critical projects or ongoijng work streams
+- hands on programming for critical projects or ongoing work streams
 - Code and system design review
 - Rubber ducking with teammates
 - 1:1s with engineers on the team as a mentor and to up-level teammates
@@ -137,7 +137,7 @@ So what is heads down time? For me, this is thinking time, reading time, plan ti
 
 It was tough to get this time, so what did I have to do
 - I moved around 1-1s, instead of going all 1-1s across one (or two days) I spread them out across the week. This allowed me to have more time in the morning of each day to prepare for the day, read, or have thinking times
-- I also blocked this time out on my calendar and named it "heads down time", definetely a little pithy, but I wanted to be transparent with how I would spend my time. 
+- I also blocked this time out on my calendar and named it "heads down time", definitely a little pithy, but I wanted to be transparent with how I would spend my time.
 
 
 How do I spend my heads down times
