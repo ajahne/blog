@@ -51,7 +51,7 @@ The biggest advice I have for folks starting on this path is to learn how to say
 Sometimes saying no, maybe ultimately be a "yes and". For example, "Yes I can review the technical by Wednesday and I will need to take on less story points for the first half of this sprint". I'll write more on this in a future post, however, I think its an important skill to learn how to say no and say "yes and".
 
 ## Block out your calendar
-As more of your time is required in more areas, its critcal to begin blocking out your time (and respecting it).
+As more of your time is required in more areas, its critical to begin blocking out your time (and respecting it).
 
 One skill that is noq required in this role is (improved) calendar management. At a high level, now is the time to begin blocking out your calendar for deep work time to minimize the interruptions.
 
@@ -65,7 +65,7 @@ One thing that I tried early on in my career was to block out days based on them
 
 ### Pros
 - mentally clear on what my focus is on each day
-- teammates are clear on my avaiability and focus
+- teammates are clear on my availability and focus
 
 ### Cons
 - Pretty rigid: What if I have critical meetings on Tuesday?
@@ -90,18 +90,18 @@ After a few weeks, they were still struggling to get sufficient heads down time.
 
 ## What I do now
 
-I actually use a hybrid of these two approaches.  I currently schedule recurring 1-1s; syncs with my EMs, and a few team meetings. In between these types I find opportunities to put heads down (i.e. "busy") blocks om my calendar. This allows me to have contstand meetings and plan around those to reduce thrash for myself and folks that I work with as well as providing me sufficient blocks of time to focus.  
+I actually use a hybrid of these two approaches.  I currently schedule recurring 1-1s; syncs with my EMs, and a few team meetings. In between these types I find opportunities to put heads down (i.e. "busy") blocks on my calendar. This allows me to have standing meetings and plan around those to reduce thrash for myself and folks that I work with as well as providing me sufficient blocks of time to focus.  
 
 ---
 
 #
 ## Offense
 what is it?
-- have a meeting with other people, schedule the meeting first for a time that is more convenive for your scheudle
+- have a meeting with other people, schedule the meeting first for a time that is more convenient for your schedule
 
 anti-pattern
 - this does not mean schedule it at 9am your time, which is 6am someone else's time.
-- Scheduling a time that is inconvient for someone else - calendar etiqutte is still important
+- Scheduling a time that is inconvenient for someone else - calendar etiquette is still important
 
 how this has helped me?
 - I have family time block on my calendar each time. Sometimes when I ask someone to put a 1-1 onn my calendar, there have been times when it has gone pretty close to dinner time on the EST. So Instead, I typically take the lead
@@ -109,14 +109,14 @@ how this has helped me?
 
 ## Defensive
 What is it?
-- Put blocks on your calendar when you need heads down time, are unaivable to meet, or need to focus.
+- Put blocks on your calendar when you need heads down time, are unavailable to meet, or need to focus.
 
 anti-pattern
 - having to many busy blocs on your calendar so noone can find time to meet with you.
 
 To start each of my days I put a "heads down block". I also look ahead during the current week and into the next 2-3 weeks. I have a sense of the goals / outcomes I would like to accomplish. This allows me to ensure I have sufficient focus time on my calendar. I found that if I do not do this, I do not have extended periods of focus time.
 
-Additionally, if I do not do this, I an get back to back meetings with no break or opportunity to have lunch!
+Additionally, if I do not do this, I can get back to back meetings with no break or opportunity to have lunch!
 
 Here is an example calendar
 [IMG of example calendar]
@@ -145,7 +145,7 @@ How do I spend my heads down times
 I look at my TODOs for the week, I also review my todos from last week.
 
 I had to cut certain meetings out of my calendar
-- large reccuring meetings, I had to revisit and determine whether I was needed in these meetings or not. If I was needed, I also took it as an opportunity to review and see if this was a meeting that I could use as a growth opportunity for the TL of my team or another engineer.
+- large recurring meetings, I had to revisit and determine whether I was needed in these meetings or not. If I was needed, I also took it as an opportunity to review and see if this was a meeting that I could use as a growth opportunity for the TL of my team or another engineer.
 
 - Where appropriate, I also merged 1-1s into group meetings. For example, instead of having two 30 minutes 1:1s each with my product partner and my design partner, I merged these meetings into one hour long meeting. This also help to reduced silos and ensure clear communication.  
 
