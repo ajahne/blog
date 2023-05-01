@@ -45,7 +45,26 @@ This also helped me gain confidence, because I realized in this circle, I have k
 
 Ways to build your Voltron?
 - Find a meet up
-- Check out a few newsletter, podcasts, and join their networks
 - Ask your manager for recommendations
+- Check out a few newsletter, podcasts, and join their networks
 - Attend conferences
 - Sign up for leadership trainings
+- Ask your peers to meet
+
+## Find a meet up
+Are meets ups still a thing during COVID times? I need to look this up :D
+
+While we are out of lock down, I leave it up to the reader to decide about attending meet ups.  As I mentioned above: I found great benefits in attending a meet up.
+
+## Ask your peers to meet
+
+So when I first started at Dropbox, I was in an Area with two other managers.  Our lead scheduled daily standups that allowed us to connect each day. Additionally, one of these managers was my onboarding buddy and helped me onboarded during my first 90 days at Dropbox.
+
+We started a small book club, which fizzled out.  But the fact that we were able to set up connections that latest beyond manager changes, re-orgs, and re-locations.
+
+After 3 years being at Dropbox, these two managers are still folks that I connect with at least once a month.  
+
+This helped with me calibrating engineering ICs, working through performance or behavioral issue, roadmapping, or just venting
+
+## Ask your manager
+When I have worked with managers who are just starting out in the role or have recently been proomted to management, I have coached them to buildd their network. I have worked to pair them up with peers and mentors. 
