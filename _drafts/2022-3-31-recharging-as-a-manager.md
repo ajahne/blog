@@ -7,7 +7,7 @@ tags: manager, leadership, recharge, recharging, charge, re-charge
 header:
   image: /assets/images/header-recharging-as-a-manager.jpg
 ---
-Recently I had a 1:1 with colleague I mentor, who was just promoted to management and was exhausted in their new role. Part of this exhaustion stemmed from building a new muscle, part of this was understanding how to delegate more, and part of this was learning how (when) to step away and not working until you burn out. The conversation made me think of how I've recharged throughout my career when I have felt worn out and I was inspired to put the proverbial pen (keyboard) to paper (blog post).
+Recently I had a 1:1 with colleague I mentor, who was just promoted to management and was exhausted in their new role. Part of this exhaustion stemmed from building a new muscle, part of this was understanding how to delegate more, and part of this was learning how (when) to step away and not work until you burn out. The conversation made me think of how I've recharged throughout my career when I have felt worn out and I was inspired to put the proverbial pen (keyboard) to paper (blog post).
 
 📝 A note before we jump in: if things are really bad at work (e.g poor fit, toxic culture, etc.), then it may be time for a change. Recharging will only be a temporary fix and not address the root cause. If you find that you have done some recharging and still feel the same way instantly upon returning to work/the day, then maybe a bigger change (career, job, role, getting a coach, etc.) is needed.
 
