@@ -17,7 +17,7 @@ Calendar posts
 ## Outline
 - why am I writing this?
 - challenges I have experienced
-- offensive calender booking
+- offensive calendar booking
 - defensive calendar booking
 - Busy blocks and defending your times
   - could it be heads down time blocks
