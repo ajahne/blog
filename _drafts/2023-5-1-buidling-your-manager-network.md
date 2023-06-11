@@ -3,7 +3,7 @@ layout: single
 title:  'Building your Voltron'
 date:   2023-4-17 5:00:00 -0400
 categories: leadership management
-tags: management leadership network manager leader
+tags: management leadership network manager leader delegate
 header:
   image:
 ---
@@ -15,7 +15,7 @@ header:
 - why is this important
 - changing from IC to Manager
 - examples of how I built my network
-- how to go about building your net work
+- how to go about building your network
 
 You need to form your crew! Building your network is one of my critical things to do to help you advance and grow in your career. Often times when making the transition from IC to manager, you may not have a strong network of managers to connect with. To build with, vent, chat, and learn from.
 
