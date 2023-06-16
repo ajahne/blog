@@ -34,7 +34,7 @@ Stop and ask yourself some questions
 - Build up trust and mutual purpose
 - Others perceive you are working toward and common outcome and goals
 - Find a shared goal and you have a good reason and climate to chat
-- Is the converastion at risk? Ask two questions
+- Is the conversation at risk? Ask two questions
   - Do they believe I care about their goals
   - Do they trust my motives
 - Goal has to be truly mutual
@@ -76,7 +76,7 @@ Summary
 - Clever stories are incomplete
 - Fill in the missing details
 - Turn victims to actors, villains to humans , helpless to the able -> what would I do right now to get the best results, what do I really want
-- Summary: find your self moving away from dialogue, stop and notice what you are doing / feeling (ie am I silent or violent); analyze conslucions and stories; get back to the facts; watch for clever stories and tell the full story; what do I want and what would I do now to get there
+- Summary: find your self moving away from dialogue, stop and notice what you are doing / feeling (ie am I silent or violent); analyze conclusions and stories; get back to the facts; watch for clever stories and tell the full story; what do I want and what would I do now to get there
 
 ## Chapter 7
 - Hearts need to be in the right place and are well prepared
@@ -84,7 +84,7 @@ Summary
 - Totally frank and completely respectful
 - Maintain safety - confidence, humility, and skill
 - Start with the facts
-- Not trying to win the dialogue gathering facts is the homework required for crucicial conversations
+- Not trying to win the dialogue gathering facts is the homework required for crucial conversations
 - "I’m not sure you’re intending to send this message, but it comes across like…"
 - Rebuild safe try with contrasting; goal of contrasting is to be confident in what you want to express, not to apologize
 - After you share…invite others to do the same
