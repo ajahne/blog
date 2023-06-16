@@ -9,6 +9,21 @@ header:
 ---
 Crucial Conversations - Chapter Notes
 
+## Table of Contents:
+- [Chapter 1](#tbd-name-of-chapter)
+- [Chapter 2](#)
+- [Chapter 3](#)
+- [Chapter 4](#)
+- [Chapter 5](#)
+- [Chapter 6](#)
+- [Chapter 7](#)
+- [Chapter 8](#)
+- [Chapter 9](#)
+- [Chapter 10](#)
+- [Chapter 11](#)
+- [Chapter 12](#)
+
+
 ## General notes and thoughts Chapter 1-4
 
 Not about the process, it’s about people holding each other accountable to the process
@@ -22,13 +37,13 @@ Focus on what you really want
 - Name the game and stop playing it
 
 Stop and ask yourself some questions
-- what I really want for myself/others/the relationship
+- What do I really want for myself/others/the relationship
 - How would I behave if I really wanted this
 
 ## Chapter 4 - Learn to Look
 - Reactions when crucial conversations are happening: silence and violence (when the conversation is not safe)
 - Monitor yourself and your stress; how are your reacting? (Style under stress)
-- Look at content and conditions, watch for safety problems
+- Look at content and conditions, watch for safety problems (e.g. is someone in the conversation getting quiet or reacting with sarcasm)
 
 ## Chapter 5 - Make it Safe
 - Build up trust and mutual purpose
