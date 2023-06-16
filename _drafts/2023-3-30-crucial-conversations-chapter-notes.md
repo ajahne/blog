@@ -3,7 +3,7 @@ layout: single
 title:  'Crucial Conversations: Chapter Notes'
 date:   2022-3-31 5:00:00 -0400
 categories: books
-tags: management leadership books chapter notes summary
+tags: management leadership books chapter notes summary crucial conversation
 header:
   image:
 ---
