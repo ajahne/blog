@@ -1,13 +1,13 @@
 ---
 layout: single
-title:  'Crucial Conversations: Chapter Notes'
-date:   2022-3-31 5:00:00 -0400
+title: 'Crucial Conversations: Chapter Notes'
+date: 2022-3-31 5:00:00 -0400
 categories: books
 tags: management leadership books chapter notes summary crucial conversation
 header:
   image:
 ---
-Crucial Conversations - Chapter Notes
+# Crucial Conversations - Chapter Notes
 
 ## Table of Contents:
 - [Chapter 1](#tbd-name-of-chapter)
@@ -24,7 +24,22 @@ Crucial Conversations - Chapter Notes
 - [Chapter 12](#)
 
 
-## General notes and thoughts Chapter 1-4
+## Chapter 1 - What's a Crucial Conversations
+- What makes a conversation crucial?
+  - Opinions Vary
+  - Stakes are high
+  - Emotions run strong
+- Crucial vs Annoying / frustrating Conversations? Crucial Conversations can have impact on your daily life.
+- Three options on crucial conversations: Can avoid; handle poorly; handle well
+- When it matters most...we handle it worst
+- When things get crucial - fight or flight kicks in
+
+
+## Chapter 2 - Mastering Crucial Conversations
+- 
+
+
+## General notes and thoughts Chapter 1-3
 
 Not about the process, it’s about people holding each other accountable to the process
 - Start with heart
@@ -76,7 +91,7 @@ Summary
   - Invent
   - Brainstorm
 
-## Chapter 6
+## Chapter 6 - Master My Stories
 - Take charge of your feelings
 - You and only you create your emotions
 - Find a way to master them or fall hostage to them
@@ -96,7 +111,7 @@ Summary
 - Turn victims to actors, villains to humans, helpless to the able -> what would I do right now to get the best results, what do I really want
 - Summary: find your self moving away from dialogue, stop and notice what you are doing / feeling (i.e. am I silent or violent); analyze conclusions and stories; get back to the facts; watch for clever stories and tell the full story; what do I want and what would I do now to get there
 
-## Chapter 7
+## Chapter 7 - State My Path
 - Hearts need to be in the right place and are well prepared
 - Express opinion - now what?
 - Totally frank and completely respectful
@@ -113,7 +128,7 @@ Summary
 - Passion can be your own enemy
 - Stare your path; share facts l, tell your story, ask for others path, talk tentatively, encourage testing
 
-## Chapter 8
+## Chapter 8 - Explore Other's Paths
 - Safety at risk - step out and restore it
 - If made a mistake - apologize
 - If unclear - use contrast statements
@@ -132,7 +147,7 @@ Summary
   - Build: Absolutely and in addition to
   - Compare: when you differ
 
-## Chapter 9
+## Chapter 9 - Move to Action
 - Making decisions: dialogue is not decision making
 - Decide how to decide
 - When line of authority is clear (e.g. there is a VP or manager, it’s clearer)
@@ -147,7 +162,7 @@ Summary
 - Who does what by when and how will you follow up?
 - **Goals without deadlines aren’t goals, they are merely directions**
 
-## Chapter 10 - Examples
+## Chapter 10 - "Yeah, But..."
 - Trust: deal with trust around the issue, not the person
 - Work on "me" first - make things safe; separate intent from outcome; exercise patience
 - Make it safe and state your path
@@ -156,7 +171,7 @@ Summary
 - Ok to suggest you need time alone and then hold a conversation at another time
 - Do not suggest someone else take time, that can come across as patronizing
 
-## Chapter 11
+## Chapter 11 - Putting It All Together
 - To get started: **pick one skill to start or stay on principles**
 - Learn to look: "are we in or out of dialogue"; are we playing games or are we in dialogue.
 - Don’t have to be perfect to make progress
