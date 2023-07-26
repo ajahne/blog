@@ -10,10 +10,10 @@ header:
 # Crucial Conversations - Chapter Notes
 
 ## Table of Contents:
-- [Chapter 1](#tbd-name-of-chapter)
-- [Chapter 2](#)
-- [Chapter 3](#)
-- [Chapter 4](#)
+- [Chapter 1](#chapter-1-what-s-a-crucial-conversations)
+- [Chapter 2](#chapter-2-mastering-crucial-conversations)
+- [Chapter 3](#chapter-3-start-with-heart)
+- [Chapter 4](#chapter-4-learn-to-look)
 - [Chapter 5](#)
 - [Chapter 6](#)
 - [Chapter 7](#)
@@ -36,7 +36,15 @@ header:
 
 
 ## Chapter 2 - Mastering Crucial Conversations
-- 
+- avoid the fool's choice (avoid thinking that you only have two bad options to choose from)
+  - i.e. tell the truth or keep a friend
+  - Fool's choice: candor vs kindness
+> Dialogue: the free flow of meaning between two or more people
+
+- Shared pool of meaning; work to add to the pool of meaning and help others in the group add to the pool of meaning. Do not need to agree with everything, but want to have all perspectives shared / heard.
+- Greater shared meaning = better the choice + stronger the unity.
+
+## Chapter 3 - Start with Heart
 
 
 ## General notes and thoughts Chapter 1-3
