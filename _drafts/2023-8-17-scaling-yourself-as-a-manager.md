@@ -7,3 +7,10 @@ tags: management leadership network manager leader delegate
 header:
   image:
 ---
+
+## Scaling
+- Delegate
+- Coach / Grow your people
+- Document
+- Up-level yourself / team
+- quick tips? (iterate on your calendar to free up time, move from 1-1 to 1->N)
