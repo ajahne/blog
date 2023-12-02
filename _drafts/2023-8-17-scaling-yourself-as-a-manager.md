@@ -58,3 +58,5 @@ In a recent 1-1 with a manager that reports to me, I had be
 My response? You need to scale yourself
 
 Wait...did I just to what was done to me previously?
+
+Provide empty management slogans without providing the actual info?
