@@ -35,3 +35,26 @@ Scale
 - a multiplier for your team, cross-functional partners, and
 - able to move from 1->1 impact to 1->N Impact
 - Feel like I am missing something here...
+
+
+## Why am I writing this?
+I had a manager tell me, you need to scale yourself. It came across as if it was the sagest gem of leadership. As if it was wisdom dripped from the mountaintops into one droplet, from the monks, who had thought about the ultimate management The manager
+
+The manager was pleased, they had bestowed the ultimate nugget of knowledge.
+
+The meeting ended.
+
+I was confused.
+
+I need to do what exactly?
+
+
+## But what did I do?
+A previous manager who reported to me was looking to get to the next level. I observed that they seemed overwhelmed: responding to messages at 11pm, tasks getting dropped, what else?
+
+^^^^^ How do I do this w/o having this person sounds like they need different coaching then "scale yourself"
+In a recent 1-1 with a manager that reports to me, I had be
+
+My response? You need to scale yourself
+
+Wait...did I just to what was done to me previously?
