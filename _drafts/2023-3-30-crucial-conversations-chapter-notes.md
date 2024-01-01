@@ -10,21 +10,21 @@ header:
 # Crucial Conversations - Chapter Notes
 
 ## Table of Contents:
-- [Chapter 1](#chapter-1-what-s-a-crucial-conversations)
-- [Chapter 2](#chapter-2-mastering-crucial-conversations)
-- [Chapter 3](#chapter-3-start-with-heart)
+- [Chapter 1](#chapter-1--what-s-a-crucial-conversations)
+- [Chapter 2](#chapter-2--mastering-crucial-conversations)
+- [Chapter 3](#chapter-3--start-with-heart)
 - [Chapter 4](#chapter-4-learn-to-look)
-- [Chapter 5](#)
-- [Chapter 6](#)
-- [Chapter 7](#)
-- [Chapter 8](#)
-- [Chapter 9](#)
-- [Chapter 10](#)
-- [Chapter 11](#)
-- [Chapter 12](#)
+- [Chapter 5](#chapter-5-make-it-safe)
+- [Chapter 6](#chapter-6-master-my-stories)
+- [Chapter 7](#chapter-7-state-my-path)
+- [Chapter 8](#chapter-8-explore-other-s-Paths)
+- [Chapter 9](#chapter-9-move-to-action)
+- [Chapter 10](#Chapter-10--yeah--but)
+- [Chapter 11](#chapter-11-putting-it-all-together)
+- [Chapter 12](#chapter-12-afterword)
 
 
-## Chapter 1 - What's a Crucial Conversations
+## Chapter 1: What's a Crucial Conversations
 - What makes a conversation crucial?
   - Opinions Vary
   - Stakes are high
@@ -35,7 +35,7 @@ header:
 - When things get crucial - fight or flight kicks in
 
 
-## Chapter 2 - Mastering Crucial Conversations
+## Chapter 2: Mastering Crucial Conversations
 - avoid the fool's choice (avoid thinking that you only have two bad options to choose from)
   - i.e. tell the truth or keep a friend
   - Fool's choice: candor vs kindness
@@ -44,7 +44,7 @@ header:
 - Shared pool of meaning; work to add to the pool of meaning and help others in the group add to the pool of meaning. Do not need to agree with everything, but want to have all perspectives shared / heard.
 - Greater shared meaning = better the choice + stronger the unity.
 
-## Chapter 3 - Start with Heart
+## Chapter 3: Start with Heart
 
 
 ## General notes and thoughts Chapter 1-3
@@ -63,12 +63,12 @@ Stop and ask yourself some questions
 - What do I really want for myself/others/the relationship?
 - How would I behave if I really wanted this?
 
-## Chapter 4 - Learn to Look
+## Chapter 4: Learn to Look
 - Reactions when crucial conversations are happening: silence and violence (signals when the conversation is not safe)
 - Monitor yourself and your stress; how are your reacting? (Style under stress)
 - Look at content and conditions, watch for safety problems (e.g. is someone in the conversation getting quiet or reacting with sarcasm)
 
-## Chapter 5 - Make it Safe
+## Chapter 5: Make it Safe
 - Build up trust and mutual purpose
 - Others perceive you are working toward a common outcome and goals
 - Find a shared goal and you have a good reason and climate to chat
@@ -99,7 +99,7 @@ Summary
   - Invent
   - Brainstorm
 
-## Chapter 6 - Master My Stories
+## Chapter 6: Master My Stories
 - Take charge of your feelings
 - You and only you create your emotions
 - Find a way to master them or fall hostage to them
@@ -119,7 +119,7 @@ Summary
 - Turn victims to actors, villains to humans, helpless to the able -> what would I do right now to get the best results, what do I really want
 - Summary: find your self moving away from dialogue, stop and notice what you are doing / feeling (i.e. am I silent or violent); analyze conclusions and stories; get back to the facts; watch for clever stories and tell the full story; what do I want and what would I do now to get there
 
-## Chapter 7 - State My Path
+## Chapter 7: State My Path
 - Hearts need to be in the right place and are well prepared
 - Express opinion - now what?
 - Totally frank and completely respectful
@@ -136,7 +136,7 @@ Summary
 - Passion can be your own enemy
 - Stare your path; share facts l, tell your story, ask for others path, talk tentatively, encourage testing
 
-## Chapter 8 - Explore Other's Paths
+## Chapter 8: Explore Other's Paths
 - Safety at risk - step out and restore it
 - If made a mistake - apologize
 - If unclear - use contrast statements
@@ -155,7 +155,7 @@ Summary
   - Build: Absolutely and in addition to
   - Compare: when you differ
 
-## Chapter 9 - Move to Action
+## Chapter 9: Move to Action
 - Making decisions: dialogue is not decision making
 - Decide how to decide
 - When line of authority is clear (e.g. there is a VP or manager, it’s clearer)
@@ -170,7 +170,7 @@ Summary
 - Who does what by when and how will you follow up?
 - **Goals without deadlines aren’t goals, they are merely directions**
 
-## Chapter 10 - "Yeah, But..."
+## Chapter 10: "Yeah, But..."
 - Trust: deal with trust around the issue, not the person
 - Work on "me" first - make things safe; separate intent from outcome; exercise patience
 - Make it safe and state your path
@@ -179,12 +179,12 @@ Summary
 - Ok to suggest you need time alone and then hold a conversation at another time
 - Do not suggest someone else take time, that can come across as patronizing
 
-## Chapter 11 - Putting It All Together
+## Chapter 11: Putting It All Together
 - To get started: **pick one skill to start or stay on principles**
 - Learn to look: "are we in or out of dialogue"; are we playing games or are we in dialogue.
 - Don’t have to be perfect to make progress
 
-## Chapter 12 - Afterword
+## Chapter 12: Afterword
 - Not just the big moments, small moments matter as well
 - Learn / know yourself
 - You don’t have to solve the crucial conversation, sometimes you just have to  bring it up in a safe way
