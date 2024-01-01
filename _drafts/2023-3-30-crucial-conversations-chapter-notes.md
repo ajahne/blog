@@ -1,13 +1,17 @@
 ---
 layout: single
 title: 'Crucial Conversations: Chapter Notes'
-date: 2022-3-31 5:00:00 -0400
+date: 2023-3-15 5:00:00 -0400
 categories: books
 tags: management leadership books chapter notes summary crucial conversation
 header:
-  image:
+  image: /assets/images/header-crucial-conversations.jpg
 ---
-# Crucial Conversations - Chapter Notes
+Earlier this year I finally finished Crucial Conversations. I had a coworker who was heavily into audio books, so I put in my headphones and gave it a shot!  So, on mornings when taking the little one to school, I would listen to the audio book of Crucial Conversations.
+
+ Of all the books I have "read" on leadership and management, this one has had the biggest impact on both my professional and personal life. It has made me notice my own patterns in dialogue, helped me become a better listener, improved my own behaviors, and equipped me with additional skills to have challenging conversations with direct reports, family, and peers that have resulted in better outcomes for all involved.
+
+Given its impact on me, I had to take some notes! I revisit these often and hope you find some benefit in them as well. If you have not already done so, I highly recommend you read (or listen to) this book!
 
 ## Table of Contents:
 - [Chapter 1](#chapter-1-what-s-a-crucial-conversations)
