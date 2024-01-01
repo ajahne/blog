@@ -32,21 +32,21 @@ what are symptoms you are not scaling yourself
 
 
 Scale
-- a multiplier for your team, cross-functional partners, and
-- able to move from 1->1 impact to 1->N Impact
+- a multiplier for your team, cross-functional partners, and the organization
+- able to move from 1->1 impact to 1->N impact
 - Feel like I am missing something here...
 
 
 ## Why am I writing this?
-I had a manager tell me, you need to scale yourself. It came across as if it was the sagest gem of leadership. As if it was wisdom dripped from the mountaintops into one droplet, from the monks, who had thought about the ultimate management The manager
+I had a manager tell me: "you need to scale yourself". It came across as if it was the sagest gem of leadership. Like wisdom dripped down from the mountaintops distilled into one droplet, from the management monks, who had thought about the ultimate management proverbs.
 
-The manager was pleased, they had bestowed the ultimate nugget of knowledge.
+The manager was pleased, they had bestowed the purest nugget of knowledge.
 
 The meeting ended.
 
 I was confused.
 
-I need to do what exactly?
+Wait, I need to do what exactly?
 
 
 ## But what did I do?
@@ -60,3 +60,5 @@ My response? You need to scale yourself
 Wait...did I just to what was done to me previously?
 
 Provide empty management slogans without providing the actual info?
+
+## My steps
