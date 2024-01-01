@@ -10,9 +10,9 @@ header:
 # Crucial Conversations - Chapter Notes
 
 ## Table of Contents:
-- [Chapter 1](#chapter-1--what-s-a-crucial-conversations)
-- [Chapter 2](#chapter-2--mastering-crucial-conversations)
-- [Chapter 3](#chapter-3--start-with-heart)
+- [Chapter 1](#chapter-1-what-s-a-crucial-conversations)
+- [Chapter 2](#chapter-2-mastering-crucial-conversations)
+- [Chapter 3](#chapter-3-start-with-heart)
 - [Chapter 4](#chapter-4-learn-to-look)
 - [Chapter 5](#chapter-5-make-it-safe)
 - [Chapter 6](#chapter-6-master-my-stories)
@@ -45,13 +45,13 @@ header:
 - Greater shared meaning = better the choice + stronger the unity.
 
 ## Chapter 3: Start with Heart
+- First principle - start with heart, start with yourself
+> work on me first, us second
 
-
-## General notes and thoughts Chapter 1-3
-
-Not about the process, it’s about people holding each other accountable to the process
-- Start with heart
-- Start with yourself
+- Motives degenerate, fix the problem of believing that others are what ails us
+- To work on us...work on me
+- Most talented, not least talented, that are constantly working to get better at dialogue
+- "Winning" is a dialogue killer
 
 > Goals quickly change to "winning". Avoid winning.
 
@@ -61,6 +61,7 @@ Focus on what you really want
 
 Stop and ask yourself some questions
 - What do I really want for myself/others/the relationship?
+  - Also clarify what you don't want
 - How would I behave if I really wanted this?
 
 ## Chapter 4: Learn to Look
