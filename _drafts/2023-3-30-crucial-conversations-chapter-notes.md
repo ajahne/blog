@@ -14,18 +14,18 @@ Earlier this year I finally finished Crucial Conversations. I had a coworker who
 Given its impact on me, I had to take some notes! I revisit these often and hope you find some benefit in them as well. If you have not already done so, I highly recommend you read (or listen to) this book!
 
 ## Table of Contents:
-- [Chapter 1](#chapter-1-what-s-a-crucial-conversations)
-- [Chapter 2](#chapter-2-mastering-crucial-conversations)
-- [Chapter 3](#chapter-3-start-with-heart)
-- [Chapter 4](#chapter-4-learn-to-look)
-- [Chapter 5](#chapter-5-make-it-safe)
-- [Chapter 6](#chapter-6-master-my-stories)
-- [Chapter 7](#chapter-7-state-my-path)
-- [Chapter 8](#chapter-8-explore-other-s-Paths)
-- [Chapter 9](#chapter-9-move-to-action)
-- [Chapter 10](#Chapter-10--yeah--but)
-- [Chapter 11](#chapter-11-putting-it-all-together)
-- [Chapter 12](#chapter-12-afterword)
+- [Chapter 1: What's a Crucial Conversations](#chapter-1-what-s-a-crucial-conversations)
+- [Chapter 2: Mastering Crucial Conversations](#chapter-2-mastering-crucial-conversations)
+- [Chapter 3: Start with Heart](#chapter-3-start-with-heart)
+- [Chapter 4: Learn to Look](#chapter-4-learn-to-look)
+- [Chapter 5: Make it Safe](#chapter-5-make-it-safe)
+- [Chapter 6: Master My Stories](#chapter-6-master-my-stories)
+- [Chapter 7: State My Path](#chapter-7-state-my-path)
+- [Chapter 8: Explore Other's Paths](#chapter-8-explore-other-s-Paths)
+- [Chapter 9: Move to Action](#chapter-9-move-to-action)
+- [Chapter 10: Yeah, but...](#Chapter-10--yeah--but)
+- [Chapter 11: Putting it All Together](#chapter-11-putting-it-all-together)
+- [Chapter 12: Afterword](#chapter-12-afterword)
 
 
 ## Chapter 1: What's a Crucial Conversations
