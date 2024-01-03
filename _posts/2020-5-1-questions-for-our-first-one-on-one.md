@@ -16,12 +16,11 @@ So...prioritize this meeting! But, how to run it?
 ## How do I run this?
 First, this is a conversation, not a checklist. These questions are meant to open up dialogue and not about speeding through to the finish line. For example, if you ask someone what motivates them and they talk about it, which leads to an example of a project that they are proud of...ask what made them proud...ask about the project!
 
-To the above point, the ultimate goal is to understand your teammate better!
-There are a lot of questions here and if you are following the above points, it might take 1 or 2 one-on-one sessions. That is FINE and I would encourage that! However, if you see that it takes 3 or more sessions or _weeks_ to finish, then wrap it up, its important to be timely and focused!
+The ultimate goal is to understand your teammate better! There are a lot of questions here and it might take 1 or 2 one-on-one sessions. That is FINE and I would encourage that! However, if you see that it takes 3 or more sessions or _weeks_ to finish, then wrap it up, its important to be timely and focused!
 
 And yes, definitely **ask these questions in your own words**...for example, I may not ask "what makes your grumpy" word for word, instead I may say "So, how do I know when you are in a bad mood?", then talk about that and transition to "OK, so what are some things that may put you in a bad mood or make your grumpy".
 
-This list is *heavily* inspired by [Lara Hogan](https://larahogan.me/blog/first-one-on-one-questions/), [Camille Fournier](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897), and [my own experience](https://ajahne.github.io/blog/leadership/2019/07/24/essential-meetings-to-have-with-your-people-as-a-manager.html). [Here is a handy day template]((https://github.com/ajahne/essential-manager-meetings/blob/master/templates/initial-one-on-one-meeting.md))! Please let me know what works and doesn't!
+This list is *heavily* inspired by [Lara Hogan](https://larahogan.me/blog/first-one-on-one-questions/), [Camille Fournier](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897), and [my own experience](https://ajahne.github.io/blog/leadership/2019/07/24/essential-meetings-to-have-with-your-people-as-a-manager.html). Also, [here is a handy day template]((https://github.com/ajahne/essential-manager-meetings/blob/master/templates/initial-one-on-one-meeting.md))! Please let me know what works and doesn't!
 
 Let's get it!
 
@@ -38,7 +37,7 @@ Let's get it!
   - What are you most excited about?
   - Any surprises since you have joined, good or bad, which I should know about?
 
-These are good questions to ask when someone has just joined the team or company, a good staring point/ice-breaker-ish to help you get into the flow. Plus it helps you learn if there are any surprises, I once had someone mention they had not yet received their work laptop!
+These are good questions to ask when someone has just joined the team or company, a good starting point/ice-breaker-ish to help you get into the flow. Plus it helps you learn if there are any surprises, I once had someone mention they had not yet received their work laptop!
 
 
 ---
