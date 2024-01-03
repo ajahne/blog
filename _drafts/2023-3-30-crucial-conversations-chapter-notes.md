@@ -201,3 +201,12 @@ Summary
 - Don’t be driven by a need to be right
 - Ask yourself "what do I really want".
 - Use skills to develop habits, lives, and loves
+
+---
+
+## More "Chapter Notes"
+- [Radical Candor]({{ site.baseurl }}{% post_url 2019-2-10-radical-candor-chapter-notes %})
+- [The First 90 Days]({{ site.baseurl }}{% post_url 2020-4-14-the-first-90-days-chapter-notes %})
+- [Refactoring (2nd Edition)]({{ site.baseurl }}{% post_url 2019-3-29-refactoring-by-martin-fowler-chapter-notes %})
+- [Accelerate]({{ site.baseurl }}{% post_url 2018-07-21-accelerate-notes %})
+- [The Hard Thing About Hard Things]({{ site.baseurl }}{% post_url 2018-6-29-the-hard-thing-about-hard-things-notes %})
