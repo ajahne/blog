@@ -1,15 +1,15 @@
 ---
 layout: single
 title: 'Crucial Conversations: Chapter Notes'
-date: 2023-4-15 5:00:00 -0400
+date: 2023-5-15 5:00:00 -0400
 categories: books
 tags: management leadership books chapter notes summary crucial conversation
 header:
   image: /assets/images/header-crucial-conversations.jpg
 ---
-Earlier this year I finally finished Crucial Conversations. I had a coworker who was heavily into audio books, so I put in my headphones and gave it a shot!  So, on mornings when taking the little one to school, I would listen to the audio book of Crucial Conversations.
+Earlier this year I finally finished [Crucial Conversations](https://www.amazon.com/Crucial-Conversations-Tools-Talking-Stakes/dp/B09BK342ZW/). I had a coworker who was heavily into audio books, so I put in my headphones and gave it a shot!  So, on mornings when taking the little one to school, I would listen to the audio book of Crucial Conversations.
 
- Of all the books I have "read" on leadership and management, this one has had the biggest impact on both my professional and personal life. It has made me notice my own patterns in dialogue, helped me become a better listener, improved my own behaviors, and equipped me with additional skills to have challenging conversations with direct reports, family, and peers that have resulted in better outcomes for all involved.
+Of all the books I have "read" on leadership and management, this one has had the biggest impact on both my professional and personal life. It has made me notice my own patterns in dialogue, helped me become a better listener, improved my own behaviors, and equipped me with additional skills to have challenging conversations with direct reports, family members, and peers that have resulted in better outcomes for all involved.
 
 Given its impact on me, I had to take some notes! I revisit these often and hope you find some benefit in them as well. If you have not already done so, I highly recommend you read (or listen to) this book!
 
@@ -33,44 +33,46 @@ Given its impact on me, I had to take some notes! I revisit these often and hope
   - Opinions Vary
   - Stakes are high
   - Emotions run strong
-- Crucial vs Annoying / frustrating Conversations? Crucial Conversations can have impact on your daily life.
+- Crucial vs annoying / frustrating conversations? Crucial conversations can have an impact on your daily life.
 - Three options on crucial conversations: Can avoid; handle poorly; handle well
 - When it matters most...we handle it worst
 - When things get crucial - fight or flight kicks in
 
 
 ## Chapter 2: Mastering Crucial Conversations
-- avoid the fool's choice (avoid thinking that you only have two bad options to choose from)
+- Avoid the fool's choice (avoid thinking that you only have two bad options to choose from)
   - i.e. tell the truth or keep a friend
   - Fool's choice: candor vs kindness
-> Dialogue: the free flow of meaning between two or more people
+
+  > Dialogue: the free flow of meaning between two or more people
 
 - Shared pool of meaning; work to add to the pool of meaning and help others in the group add to the pool of meaning. Do not need to agree with everything, but want to have all perspectives shared / heard.
 - Greater shared meaning = better the choice + stronger the unity.
 
 ## Chapter 3: Start with Heart
-- First principle - start with heart, start with yourself
-> work on me first, us second
+- First principle - **start with heart, start with yourself**
+
+  > work on me first, us second
 
 - Motives degenerate, fix the problem of believing that others are what ails us
 - To work on us...work on me
 - Most talented, not least talented, that are constantly working to get better at dialogue
 - "Winning" is a dialogue killer
 
-> Goals quickly change to "winning". Avoid winning.
+  > Goals quickly change to "winning". Avoid winning.
 
-Focus on what you really want
-- Pause, take a deep breath
-- Name the game and stop playing it
+- Focus on what you really want
+  - **Pause, take a deep breath**
+  - Name the game and stop playing it
 
-Stop and ask yourself some questions
-- What do I really want for myself/others/the relationship?
-  - Also clarify what you don't want
-- How would I behave if I really wanted this?
+- Stop and ask yourself some questions
+  - What do I really want for myself/others/the relationship?
+    - Also clarify what you don't want
+  - How would I behave if I really wanted this?
 
 ## Chapter 4: Learn to Look
 - Reactions when crucial conversations are happening: silence and violence (signals when the conversation is not safe)
-- Monitor yourself and your stress; how are your reacting? (Style under stress)
+- **Monitor yourself and your stress; how are your reacting?** (Style under stress)
 - Look at content and conditions, watch for safety problems (e.g. is someone in the conversation getting quiet or reacting with sarcasm)
 
 ## Chapter 5: Make it Safe
@@ -86,13 +88,14 @@ Stop and ask yourself some questions
 - Maintain mutual respect
 - 3 things: apologize, contrast, find a mutual purpose
 - Step out of the discussion and build safely
-- Contrast: don’t and do; what I didn’t want tot do: clarify real purpose - explain what you didn’t intend then explain what you did intend
+- Contrast: don’t and do; what I didn’t want to do: clarify real purpose - explain what you didn’t intend then explain what you did intend
 - Contrast is not apologizing
 
 Four skills (crib)
 - Commit to seek mutual purpose; start with heart - suspend beliefs that our solution is best and only one
 - "It seems like we are both trying to win, I am committed to stay in this conversation until we find a mutual solution"
-- Step out of context and find the ultimate goal food wants
+- Step out of context and find the ultimate goal you both want
+
 Summary
 - step out to make it safe
 - Apologize when appropriate
@@ -130,7 +133,7 @@ Summary
 - Totally frank and completely respectful
 - Maintain safety - confidence, humility, and skill
 - Start with the facts
-- Not trying to win the dialogue, gathering facts is the homework required for crucial conversations
+- **Not trying to win the dialogue, gathering facts is the homework required for crucial conversations**
 - "I’m not sure you’re intending to send this message, but it comes across like…"
 - Rebuild safety try with contrasting; goal of contrasting is to be confident in what you want to express, not to apologize
 - After you share...invite others to do the same
@@ -139,7 +142,7 @@ Summary
 - Invite the opposition...what am I missing here?
 - Learn to look when people start to resist (look at yourself and see what you are doing as well); more you care about something, the worst your behavior may be
 - Passion can be your own enemy
-- Stare your path; share facts l, tell your story, ask for others path, talk tentatively, encourage testing
+- State your path; share facts l, tell your story, ask for others path, talk tentatively, encourage testing
 
 ## Chapter 8: Explore Other's Paths
 - Safety at risk - step out and restore it
@@ -151,7 +154,7 @@ Summary
 - Try to retrace the other person's path to action
 - Ask, mirror, paraphrase, prime = power listening tools
 - Ask: what do you mean? I’d like to hear your opinions, don’t worry about my feelings, I’d like to know how you feel, what am I missing?
-- Mirror:  suggest that while you are saying one thing, your tone or body posture suggest something else; manage your tone of voice and delivery, be calm; you seem angry at me, you see nervous about confronting him, are you sure you’re ok doing it?
+- Mirror:  suggest that while you are saying one thing, your tone or body posture suggest something else; manage your tone of voice and delivery, be calm; you seem angry at me, you seem nervous about confronting him, are you sure you’re ok doing it?
 - Paraphrase: put message in your own words: from what I’ve gathered...what I’m hearing is...do I have that right?
 - Prime: pour meaning into the pool first: "are you thinking the reason we are doing this because…."; act of good faith and not the first thing to do
 - "What do I really want"
