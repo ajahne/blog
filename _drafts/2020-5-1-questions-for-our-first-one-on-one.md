@@ -1,11 +1,11 @@
 ---
 layout: single
-title:  'Questions for our first one on one'
-date:   2020-5-15 3:00:00 -0400
+title:  'Questions For Our First One on One'
+date:   2023-9-22 3:00:00 -0400
 categories: leadership management
 tags: one on one, one-on-one, one, 1, on, 1-1, 1:1, questions, management, leadership
 header:
-  image:
+  image: assets/images/header-our-first-1-1-questions.jpeg
 ---
 I believe that 1-1s with my direct reports are one of the most important things that I do as a manager and leader. At the top of that list is the "intro" 1-1, where I spend time connecting and learning about who they are, their likes, dislikes, motivations, aspirations, and favorite emojis 🙌!
 
@@ -14,8 +14,6 @@ In my time as a manager, no meeting has been more important in building a strong
 So...prioritize this meeting! But, how to run it?
 
 ## How do I run this?
-Typically I aim to knock out this "intro" meeting in one or two sessions. Either one 45-60 minute 1-1 two 30 minute 1-1s. Sometimes I even share the questions ahead of time or do some of it async.
-
 Importantly, this is a conversation, not a checklist. These questions are meant to open up dialogue and not about speeding through to the finish line. For example, if you ask someone what motivates them and they talk about it, which leads to an example of a project that they are proud of...ask what made them proud...ask about the project!
 
 To the above point, the ultimate goal is to understand your teammate better!
@@ -23,7 +21,7 @@ There are a lot of questions here and if you are following the above points, it 
 
 And yes, definitely **ask these questions in your own words**...for example, I may not ask "what makes your grumpy" word for word, instead I may say "So, how do I know when you are in a bad mood?", then talk about that and transition to "OK, so what are some things that may put you in a bad mood or make your grumpy".
 
-And lastly, this list is heavily inspired by [Lara Hogan](https://larahogan.me/blog/first-one-on-one-questions/), [Camille Fournier](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897), and [my own experience](https://ajahne.github.io/blog/leadership/2019/).
+Lastly, this list is heavily inspired by [Lara Hogan](https://larahogan.me/blog/first-one-on-one-questions/), [Camille Fournier](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897), and [my own experience](https://ajahne.github.io/blog/leadership/2019/).
 
 [Here is a handy day template]((https://github.com/ajahne/essential-manager-meetings/blob/master/templates/initial-one-on-one-meeting.md))! Please let me know what works and doesn't!
 
@@ -70,7 +68,7 @@ I find these questions are helpful to get answers to as it keeps me honest as a 
 - What are your goals for this year? And for the next 3 months?
 - Do you have any clear career goals that I should know about so I can help you achieve them?
 
-These questions will definitely lead to follow ups.Once in my first meeting, someone told me they wanted to be a staff engineer in the next 6 months another said they wanted to be a manager one day. These help set the initial lighthouses to steer towards, helping me clarify and understand each person better. I find this is a solid foundation that sets up future [career conversations](https://github.com/ajahne/essential-manager-meetings/blob/master/templates/career-conversations.md).
+These questions will definitely lead to follow ups.Once in my first meeting, someone told me they wanted to be a staff engineer in the next 6 months while another said they wanted to be a manager one day. These help set the initial lighthouses to steer towards, helping me clarify and understand each person better. I find this is a solid foundation that sets up future [career conversations](https://github.com/ajahne/essential-manager-meetings/blob/master/templates/career-conversations.md).
 
 ---
 
@@ -79,7 +77,7 @@ These questions will definitely lead to follow ups.Once in my first meeting, som
 - Do you have a preference on when you would like to have 1-1 meetings?
 - How do I know when you are in the "zone"? (e.g. headphones on, slack messages on away")
 
-I try not to interrupt folks as best I can - especiually when folks are in their "maker mode". I also try to schedule 1-1 meetings at days/times that work best for my direct report.
+I try not to interrupt folks as best I can - especially when folks are in their "maker mode". I also try to schedule 1-1 meetings at days/times that work best for my direct report.
 
 ---
 
@@ -87,7 +85,7 @@ I try not to interrupt folks as best I can - especiually when folks are in their
 - How do you like to be praised, in public or in private?
 - What is your preferred method of communication for serious feedback? Do you prefer to get such feedback in writing so you have time to digest it, or are you comfortable with less formal verbal feedback?
 
-These set of questions are critical. It is better to know ahead of time before you are having a crucial conversation or providing praise. When it comes to praise I want to provide it in ways that people can enjoy it and not feel uncomfortable. Regarding feedback, I want to make sure we are having open dialogue and I provide feedback in a way that someone will be most able to hear it. This is of the utmost importance to me.
+These set of questions are critical. It is better to know ahead of time before you are having a [crucial conversation]({{ site.baseurl }}{% post_url 2023-3-30-crucial-conversations-chapter-notes %}) or providing praise. When it comes to praise I want to provide it in ways that people can enjoy it and not feel uncomfortable. Regarding feedback, I want to make sure we are having open dialogue and I provide feedback in a way that someone will be most able to hear it. This is of the utmost importance to me.
 
 ---
 
