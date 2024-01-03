@@ -15,6 +15,21 @@ header:
 - Up-level yourself / team
 - quick tips? (iterate on your calendar to free up time, move from 1-1 to 1->N)
 
+Documentation
+Coaching / training
+Delegation
+
+Documentation
+- document the things you do and how to do them
+- Create templates
+- Create standard ways of doing things
+- Examples: career ladder - how did this help? - clarity on levels and expectations, I was. O longer the only won who could recommend a level, promotion, clear expectations for all engineers - not just in my head
+- Example: documenting hiring process - did I actually do this?
+- Document my manager processes - key meetings to have as a manager - this was done around the time I was leaving previously company and needed to document a lot of processes for. Got experience and new manages on the team
+- Expectations: AMPED - wanted to align folks on a clear strategy and set of goals for the team, instead of having n conversations with nnteam members, you can scale with a 1->N presentation and documentation both inspiring and setting vision
+- Expectations: velocity doc I made for Shop 
+
+
 Purpose
 > to share some of my learning as a manager and how I have been able to successfully scale myself over time
 
