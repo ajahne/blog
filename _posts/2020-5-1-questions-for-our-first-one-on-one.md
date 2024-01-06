@@ -9,9 +9,9 @@ header:
 ---
 I believe that 1-1s with my direct reports are one of the most important things that I do as a manager and leader. At the top of that list is the "intro" 1-1, where I spend time connecting and learning about who they are, their likes, dislikes, motivations, aspirations, and favorite emojis 🙌!
 
-In my time as a manager, no meeting has been more important in building a strong foundation and this is definitely an [essential meeting to have with your people](https://ajahne.github.io/blog/leadership/2019/07/24/essential-meetings-to-have-with-your-people-as-a-manager.html). On the flip side, on rare occasions when I have not carved out time to make this meeting happen or this meeting has taken weeks or months to get through all the questions, it has either led to a lack of trust, a strained relationship, poor performance, or things flatly not working out. Don't let this happen!
+In my time as a manager, no meeting has been more critical in building a strong foundation and I refer back to these answers often when providing feedback to people, looping back on growth opportunities, or finding helpful ways to support them! It is definitely an [essential meeting to have with your people](https://ajahne.github.io/blog/leadership/2019/07/24/essential-meetings-to-have-with-your-people-as-a-manager.html). 
 
-So...prioritize this meeting! But, how to run it?
+So...prioritize this discussion! But, how to run it?
 
 ## How do I run this?
 First, this is a conversation, not a checklist. These questions are meant to open up dialogue and not about speeding through to the finish line. For example, if you ask someone what motivates them and they talk about it, which leads to an example of a project that they are proud of...ask what made them proud...ask about the project!
@@ -21,6 +21,8 @@ The ultimate goal is to understand your teammate better! There are a lot of ques
 And yes, definitely **ask these questions in your own words**...for example, I may not ask "what makes your grumpy" word for word, instead I may say "So, how do I know when you are in a bad mood?", then talk about that and transition to "OK, so what are some things that may put you in a bad mood or make your grumpy".
 
 This list is *heavily* inspired by [Lara Hogan](https://larahogan.me/blog/first-one-on-one-questions/), [Camille Fournier](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897), and [my own experience](https://ajahne.github.io/blog/leadership/2019/07/24/essential-meetings-to-have-with-your-people-as-a-manager.html). Also, [here is a handy dandy template]((https://github.com/ajahne/essential-manager-meetings/blob/master/templates/initial-one-on-one-meeting.md))! Please let me know what works and doesn't!
+
+Lastly, it is never too late to have this conversation, even if you missed the "intro", no worries. Carve out time and make it happen!
 
 Let's get it!
 
