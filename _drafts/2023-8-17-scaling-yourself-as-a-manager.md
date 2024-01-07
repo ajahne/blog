@@ -23,11 +23,11 @@ Documentation
 - document the things you do and how to do them
 - Create templates
 - Create standard ways of doing things
-- Examples: career ladder - how did this help? - clarity on levels and expectations, I was. O longer the only won who could recommend a level, promotion, clear expectations for all engineers - not just in my head
+- Examples: career ladder - how did this help? - clarity on levels and expectations, I was no longer the only won who could recommend a level, or advocate for a promotion. Additionally, this set clear expectations for all engineers, importantly getting this out and not just stuck in my head.
 - Example: documenting hiring process - did I actually do this?
 - Document my manager processes - key meetings to have as a manager - this was done around the time I was leaving previously company and needed to document a lot of processes for. Got experience and new manages on the team
-- Expectations: AMPED - wanted to align folks on a clear strategy and set of goals for the team, instead of having n conversations with nnteam members, you can scale with a 1->N presentation and documentation both inspiring and setting vision
-- Expectations: velocity doc I made for Shop 
+- Expectations: AMPED - wanted to align folks on a clear strategy and set of goals for the team, instead of having n conversations with n team members, you can scale with a 1->N presentation and documentation both inspiring and setting vision
+- Expectations: velocity doc I made for Shop
 
 
 Purpose
@@ -53,7 +53,7 @@ Scale
 
 
 ## Why am I writing this?
-I had a manager tell me: "you need to scale yourself". It came across as if it was the sagest gem of leadership. Like wisdom dripped down from the mountaintops distilled into one droplet, from the management monks, who had thought about the ultimate management proverbs.
+I had a manager tell me once: "you need to scale yourself". That was all they said. It came across as if it was the sagest gem of leadership ever spoken. Like wisdom dripped down from the mountaintops distilled into one crystalline droplet, from the management monks, who had meditated on the ultimate management proverbs while sitting high above in the cloudy peaks. 
 
 The manager was pleased, they had bestowed the purest nugget of knowledge.
 
