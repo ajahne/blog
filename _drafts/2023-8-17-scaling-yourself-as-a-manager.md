@@ -53,7 +53,7 @@ Scale
 
 
 ## Why am I writing this?
-I had a manager tell me once: "you need to scale yourself". That was all they said. It came across as if it was the sagest gem of leadership ever spoken. Like wisdom dripped down from the mountaintops distilled into one crystalline droplet, from the management monks, who had meditated on the ultimate management proverbs while sitting high above in the cloudy peaks. 
+I had a manager tell me once: "you need to scale yourself". That was all they said. It came across as if it was the sagest gem of leadership ever spoken. Like wisdom dripped down from the mountaintops distilled into one crystalline droplet, from the management monks, who had meditated on the ultimate management proverbs while sitting high above in the cloudy peaks.
 
 The manager was pleased, they had bestowed the purest nugget of knowledge.
 
@@ -76,4 +76,33 @@ Wait...did I just to what was done to me previously?
 
 Provide empty management slogans without providing the actual info?
 
-## My steps
+## My steps aka How did I scale myself
+
+### Shadow and Reverse Shadowing
+There are times when the best way to scale yourself is to have others watch what you do, learn, and evolve upon it. At a previous startup we were hiring and growing, but I was the only one doing the technical interviews. I was quickly being becoming the bottleneck
+
+At the time, I did not even know the terms "shadow" and "reverse-shadow", but that is exactly what I was doing. I started to have other managers and senior ICs join the interviews I would conduct and just listening in.  This started with initial phone screens where I would join via conference call and have my teammate listen in. It quickly evolved
+
+At the same time, I did training for my team on the questions, I was asking and why I was asking them, in short, what signal was I trying to gain with each question. This had two benefits: 1) ramping up my fellow engineers and 2) improving the questions we asked. I quickly noticed that folks were bringing.
+
+This helped us scale significantly and we were able to rapidly doubled our frontend engineering team (within 4 months)- much quicker than if I were the only one doing interviews.
+
+## Documentation
+what have I documented that helped?
+Created a career ladder
+Promotions and performance reviews - documented these processes as managers in my org became to be appointed, I was no longer the only one who could suggest promotions, have career conversations, etc.
+
+added benefit -
+
+### Delegation
+I recall writing code and being on the critical path. This broke down as it both slowed the project down and removed growth opportunities for engineers reporting to me. I thought I was being helpful - taking on key responsibilities, allowing us to take more on each sprint, but I quickly realized I was the bottleneck.
+
+I had to delegate. I took myself off the critical path and our velocity increased by 40%. 
+
+### Coaching
+Up-leveled engineer to TLM to full manager of the team in less than 9 months
+provided me the bandwidth to direct a separate team, scale it, and drive impact for out business
+
+Added benefit, the TL was closer to the code and processes at the time and was able to provide more hands-on coaching to junior ICs and interns than I was given my responsibilities.  
+
+The takeaway here is that scaling can a wider benefit to the whole team, not only enabling you to take on more responsibilities, grow your career, and drive more impact for the business - but also help level up teammates and ensure they get additional coaching, mentorship, or support.
