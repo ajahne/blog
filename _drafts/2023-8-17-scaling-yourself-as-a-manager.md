@@ -99,6 +99,11 @@ I recall writing code and being on the critical path. This broke down as it both
 
 I had to delegate. I took myself off the critical path and our velocity increased by 40%. 
 
+Delegation is a large topic and worth its own post, a few quick hits
+- Not everything can be delegated (e.g. performance reviews, crucial conversations, etc.)
+- Where possible, best align people's passions with what you are delegation
+- Be clear on your expectations - what does success / failure look like
+
 ### Coaching
 Up-leveled engineer to TLM to full manager of the team in less than 9 months
 provided me the bandwidth to direct a separate team, scale it, and drive impact for out business
