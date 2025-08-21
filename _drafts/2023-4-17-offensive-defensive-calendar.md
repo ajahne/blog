@@ -27,21 +27,20 @@ Calendar posts
 # Interrupt Driven Work
 # Block out time and respect it
 
-One time management challenge that I have personally struggled with and seen others struggled with it as well - is how to balance you time the more senior you get in your career. In my experience, The first time this starts to impact engineers is when they first become a Tech Lead (link to TL)
+One time management challenge that I have personally struggled with and seen others struggled with it as well - is how to balance your time as you become more senior in your career. In my experience, The first time this starts to impact engineers is when they first become a Tech Lead (link to TL)
 
 As you gain more experience you begin to have more meetings and need to balance heads down (i.e. deep work) time with meetings.
 
 A typical TL with have some, all, or more than the following responsibilities:
 - Architecture and technical design build and review time
-- hands on programming for critical projects or ongoing work streams
+- Hands on programming for critical projects or ongoing work streams
 - Code and system design review
 - Rubber ducking with teammates
 - 1:1s with engineers on the team as a mentor and to up-level teammates
-- Meetings with TLs are partners teams
+- Meetings with TLs and engineers on partners teams
 - A myriad of slacks, messages, emails
 
-
-This is the first time many engineers in their career have to deal with interrupt driven work.
+Often, this is the first time many engineers in their career have to deal with interrupt driven work.
 
 In this scenario you may find yourself working extra hours or missing deadlines or stressed.
 
@@ -53,7 +52,7 @@ Sometimes saying no, maybe ultimately be a "yes and". For example, "Yes I can re
 ## Block out your calendar
 As more of your time is required in more areas, its critical to begin blocking out your time (and respecting it).
 
-One skill that is noq required in this role is (improved) calendar management. At a high level, now is the time to begin blocking out your calendar for deep work time to minimize the interruptions.
+One skill that is now required in this role is (improved) calendar management. At a high level, now is the time to begin blocking out your calendar for deep work time to minimize the interruptions.
 
 ## A few techniques I have tried
 
