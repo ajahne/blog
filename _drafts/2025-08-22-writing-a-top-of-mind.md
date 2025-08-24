@@ -1,0 +1,13 @@
+Outline
+- What is a top of mind?
+  - a communication to your team and peers on a frequent cadence to give udates on what you have been working on, what are the top priorities, etc. 
+- Why write it?
+  - communication (share top down information)
+  - help align top level strategy with "on the ground" work
+  - help group / people understand you and your role (e.g. what does an engineering group lead actually do?)
+  - connect on a human level - one thing I love to do is share a personal bit about me, helps humanimze me as a leader, manager, etc.
+  - scale yourself - no matter how mnay 1-1s conversations you have, you will be unable to meet with everyone in a timely manner to get message across 
+- Topics to cover
+- Different ways to do it
+  - Montlhy (deeper dives, critical topics, look back)
+  - Weekly (shorter topics, look forward, give updates on progress, what you have done/haven't donw)
