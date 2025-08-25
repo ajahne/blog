@@ -8,6 +8,14 @@ Outline
   - connect on a human level - one thing I love to do is share a personal bit about me, helps humanimze me as a leader, manager, etc.
   - scale yourself - no matter how mnay 1-1s conversations you have, you will be unable to meet with everyone in a timely manner to get message across 
 - Topics to cover
+  - picking your audience (did it for direct team weekly plus leadership, did it for a wider audience monthly)
+  - speak (write) in your own voice
+  - prepare / take notes throughout the week/month (i.e. do not wait until the last minute to write everything)
+  - get a few eyes on it (if its wide spread)
+  - align your messaging with company messaging (i.e. from all hands, vp of eng, etc.)
+  - Be consistent
+  - Start small and grow
+  - Have fun 
 - Different ways to do it
   - Montlhy (deeper dives, critical topics, look back)
   - Weekly (shorter topics, look forward, give updates on progress, what you have done/haven't donw)
